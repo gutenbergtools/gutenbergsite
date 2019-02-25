@@ -7,7 +7,8 @@ memory continues to inspire the creation of eBooks and related technologies toda
 
 Project Gutenberg Mission Statement
 -----------------------------------
-> To encourage the creation and distribution of eBooks.
+
+    To encourage the creation and distribution of eBooks.
 
 More about Project Gutenberg
 ----------------------------
