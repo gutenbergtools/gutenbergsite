@@ -8,11 +8,11 @@ memory continues to inspire the creation of eBooks and related technologies toda
 Project Gutenberg Mission Statement
 -----------------------------------
 
- To encourage the creation and distribution of eBooks.
+  To encourage the creation and distribution of eBooks.
 
 More about Project Gutenberg
 ----------------------------
-  To read more about the Project Gutenberg organization, choose one of these topics:
+   To read more about the Project Gutenberg organization, choose one of these topics:
 
 ### Essays by Michael Hart
    Michael Hart was the founder of Project Gutenberg.
