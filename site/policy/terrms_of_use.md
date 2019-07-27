@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Terms of Use
+permalink: /policy/terms_of_use.html
 ---
 
 Terms of Use
