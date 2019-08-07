@@ -1,8 +1,9 @@
 ---
 layout: page
-title: About
+title: About - Project Gutenberg
 permalink: /about/
 ---
+{% include header.html %}
 
 About Project Gutenberg
 =======================
@@ -41,3 +42,5 @@ See Also
 --------
 - [About Fundraising](https://www.gutenberg.org/wiki/Category:Fundraising), with more about the Project Gutenberg Literary Archive Foundation
 - [About Volunteering](https://www.gutenberg.org/wiki/Category:Volunteering), how you can help to create the next new Project Gutenberg eBook.
+
+{% include footer.html %}
