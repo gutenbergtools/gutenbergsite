@@ -17,34 +17,36 @@ title: Project Gutenberg
 email: webmaster2019@gutenberg.org
 description: >- # this means to ignore newlines until "baseurl:"
   Project Gutenberg provides free eBooks.
-baseurl: "jekyll" # the subpath of your site, e.g. /blog
-url: "https://dev.gutenberg.org/jekyll" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dev.gutenberg.org/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gutenberg_org
 github_username:  gbnewby
 
 # Build settings
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+### gbn: this is the default
+### theme: minima
+# plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+   - Gemfile
+   - Gemfile.lock
+   - node_modules
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+   - BACKUP
+   - LICENSE
+   - README.md
 
-destination: /public/vhost/g/gutenberg/dev/html/jekyll
+destination: /public/vhost/g/gutenberg/dev/html/
 timezone: America/New_York
 encoding: utf-8 # default
-incremental: BOOL # doesn't seem to work... all files are being built
-keep_files: [.htaccess,css,pics]
+incremental: TRUE # doesn't seem to work... all files are being built
+keep_files: [.htaccess,cache,ftp,robots.txt,google3c00b5891470e2e3.html,catalog]
 
-plugins:
-- jekyll-optional-front-matter # Automally uses 'Page' layout for .md

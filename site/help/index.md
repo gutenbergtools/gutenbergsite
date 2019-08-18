@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Help and How-To
+layout: default
+title: Help and How-To | Project Gutenberg
 permalink: /help/
 ---
 
