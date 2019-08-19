@@ -2,7 +2,7 @@
 <html class="client-nojs" lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
 <head>
 <meta charset="UTF-8"/>
-<title>Project Gutenberg</title>
+<title>Find an eBook - Project Gutenberg</title>
 <link rel="stylesheet" href="/gutenberg/style.css?1.1">
 <link rel="stylesheet" href="/gutenberg/collapsible.css?1.1">
 <link rel="stylesheet" href="/gutenberg/nav.css?v=1.1">
@@ -13,16 +13,16 @@
 <meta name="google-site-verification" content="wucOEvSnj5kP3Ts_36OfP64laakK-1mVTg-ptrGC9io"/>
 <meta name="alexaVerifyID" content="4WNaCljsE-A82vP_ih2H_UqXZvM"/>
 <link rel="copyright" href="http://www.gnu.org/copyleft/fdl.html"/>
-<link rel="shortcut icon" href="/gutenberg/fav1/favicon.ico?v=1.1"/>
+<link rel="shortcut icon" href="/gutenberg/favicon.ico?v=1.1"/>
 
 <meta property="og:title"        content="Project Gutenberg" />
 <meta property="og:type"         content="website" />
-<meta property="og:url"          content="http://www.gutenberg.org/" />
-<meta property="og:description"  content="Project Gutenberg offers free ebooks to download." />
+<meta property="og:url"          content="https://www.gutenberg.org/" />
+<meta property="og:description"  content="Project Gutenberg is a library of free eBooks." />
 <meta property="fb:admins"       content="615269807" />
 <meta property="fb:app_id"       content="115319388529183" />
 <meta property="og:site_name"    content="Project Gutenberg" />
-<meta property="og:image"        content="http://www.gutenberg.org/pics/logo-144x144.png" />
+<meta property="og:image"        content="https://www.gutenberg.org/gutenberg/pg-logo-144x144.png" />
 
 
 </head>
@@ -31,14 +31,14 @@
   <div class="container">
     <nav role="navigation">
       <a href="/index.html" class="no-hover">
-        <img class="logo" src="/gutenberg/new-pg-logo.png" alt="Project Gutenberg" draggable="false">
+        <img class="logo" src="/gutenberg/pg-logo-129x80.png" alt="Project Gutenberg" draggable="false">
       </a>
       <label for="show-menu" class="show-menu"><img src="/gutenberg/menu-icon.png" class="menu"></label>
       <input type="checkbox" id="show-menu" role="button">
       <!--<a href="#" class="show-menu"></a>-->
 
       <ul id="menu">
-       <li><a href="/ebooks/index.php">Find a Book</a></li>
+       <li><a href="/ebooks/index.php">Find an eBook</a></li>
         <li><a href="#">How to Help</a></li>
         <li><a href="#">Help</a>
           <ul class="hidden">
@@ -415,7 +415,7 @@ Avoid punctuation except as indicated below:</p>
   <div class="collapsible-content">
     <div class="content-inner">
       <form method="get" action="https//search.yahoo.com/search">
-      <img src="/pics/yahoologo.png" style="vertical-align:middle;" alt="Yahoo! logo">
+      <img src="/gutenberg/yahoologo.png" style="vertical-align:middle;" alt="Yahoo! logo">
       <input type="hidden" name="fr" value="cap-PG">
       <input type="hidden" name="vs" id="ysvs1" value="gutenberg.org">
       <input type="text"   name="p" size="29" placeholder="Search Yahoo!">
@@ -545,3 +545,6 @@ Avoid punctuation except as indicated below:</p>
 
   </div> <!-- footer ending-->
 </div>
+
+</body>
+</html>
