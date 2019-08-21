@@ -4,9 +4,6 @@ title: Free eBooks - Project Gutenberg
 permalink: /
 ---
 
-Latest Books
-============
-
 {% include latestbooks.html %}
 
 
