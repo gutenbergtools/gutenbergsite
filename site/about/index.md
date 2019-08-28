@@ -23,10 +23,10 @@ More about Project Gutenberg
 ### Essays by Michael Hart
    Michael Hart was the founder of Project Gutenberg.
 - [The History and Philosophy of Project Gutenberg](https://www.gutenberg.org/wiki/Gutenberg:The_History_and_Philosophy_of_Project_Gutenberg_by_Michael_Hart), an essay from 1992 that still rings true today
-- [The Project Gutenberg Mission Statement](https://www.gutenberg.org/wiki/Gutenberg:Project_Gutenberg_Mission_Statement_by_Michael_Hart). This is Michael Hart's FAQ #0.
-- [Administrivia](https://www.gutenberg.org/wiki/Gutenberg:Administrivia_by_Michael_Hart), about the Project Gutenberg belief in minimalist organizations and in separation of powers. This is Michael Hart's FAQ #1.
+- [The Project Gutenberg Mission Statement](/about/mission_statement.html). This is Michael Hart's FAQ #0.
+- [Administrivia](/about/administrivia.html), about the Project Gutenberg belief in minimalist organizations and in separation of powers. This is Michael Hart's FAQ #1.
 - There is no FAQ #2.
-- [Principle of Minimal Regulation / Administration](https://www.gutenberg.org/wiki/Gutenberg:Project_Gutenberg_Principle_of_Minimal_Regulation_/_Administration_by_Michael_Hart_and_Greg_Newby). This is FAQ #3 written by Project Gutenberg's Founder, Michael Hart, and PGLAF's Director & CEO, Dr. Gregory B. Newby.
+- [Principle of Minimal Regulation / Administration](/about/minimal_regulation.html). This is FAQ #3 written by Project Gutenberg's Founder, Michael Hart, and PGLAF's Director & CEO, Dr. Gregory B. Newby.
 
 ### Other items about Project Gutenberg
 - eBook: [Project Gutenberg (1971-2008)](https://www.gutenberg.org/ebooks/27045) by Marie Lebert, covering the history of Project Gutenberg. Other titles by Marie Lebert cover other aspects of eBooks, in English, French and Spanish. Two of these are translations. A third is an album celebrating Project Gutenberg's 40th anniversary:

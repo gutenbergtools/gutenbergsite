@@ -22,7 +22,7 @@ Find Free eBooks
 ================
 
 - [Book Search](/ebooks).
-- [Recently added eBooks](/ebooks/search?sort_order=release_date).
+- [Recently added eBooks](/ebooks/search/?query=&submit_search=Search&sort_order=release_date).
 - [Most Frequently Downloaded eBooks](/ebooks/search/?sort_order=downloads) and [Top 100 eBooks this month](/browse/scores/top).
 - [Bookshelves of related eBooks](:Category:Bookshelf).
 - [New eBooks Feeds](Gutenberg:Feeds).
