@@ -1,0 +1,3 @@
+** This is a temporary location, due to use of gutenberg2.ibiblio.org:8000 for CherryPy to provide search functionality.
+
+Please put shared assets under /gutenberg, not /css
