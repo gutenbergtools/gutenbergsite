@@ -34,8 +34,8 @@ Find Free eBooks
 Help and Information
 ====================
 
-- [Mobile Reader Devices How-To](Gutenberg:MobileReader_Devices_How-To): Using Kindle, Nook, cell phone, and other mobile devices and readers.
-- [How-To and FAQs](Category:How-To): In depth information about many topics.
+- [Mobile Reader Devices How-To](/help/mobile.html): Using Kindle, Nook, cell phone, and other mobile devices and readers.
+- [How-To and FAQs](/how_to/): In depth information about many topics.
 
 
 How to Help

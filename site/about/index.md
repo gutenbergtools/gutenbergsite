@@ -22,7 +22,7 @@ More about Project Gutenberg
 
 ### Essays by Michael Hart
    Michael Hart was the founder of Project Gutenberg.
-- [The History and Philosophy of Project Gutenberg](https://www.gutenberg.org/wiki/Gutenberg:The_History_and_Philosophy_of_Project_Gutenberg_by_Michael_Hart), an essay from 1992 that still rings true today
+- [The History and Philosophy of Project Gutenberg](/about/history.html), an essay from 1992 that still rings true today
 - [The Project Gutenberg Mission Statement](/about/mission_statement.html). This is Michael Hart's FAQ #0.
 - [Administrivia](/about/administrivia.html), about the Project Gutenberg belief in minimalist organizations and in separation of powers. This is Michael Hart's FAQ #1.
 - There is no FAQ #2.

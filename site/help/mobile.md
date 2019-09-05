@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Free eBooks - Project Gutenberg
+title: PG- Mobile Devices
 permalink: /help/mobile.html
 ---
 # MobileReader Devices How-To
