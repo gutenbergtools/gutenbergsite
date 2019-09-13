@@ -42,7 +42,7 @@ How to Help
 ===========
 
 - Join [Distributed Proofreaders](https://www.pgdp.net), the main source of new Project Gutenberg eBooks. Getting started is easy, and just a page a day will help!
-- [Report errors, bugs, typos](Gutenberg:Contact_Information), or, see [detailed information about errata reporting](Gutenberg:Readers%27_FAQ#R.26._I.27ve_found_some_obvious_typos_in_a_Project_Gutenberg_text._How_should_I_report_them.3F)
+- [Report errors, bugs, typos](/about/contact_information.html), or, see [detailed information about errata reporting](Gutenberg:Readers%27_FAQ#R.26._I.27ve_found_some_obvious_typos_in_a_Project_Gutenberg_text._How_should_I_report_them.3F)
 - [LibriVox](https://librivox.org).  Help record audio books.
 - [Help to promote Project Gutenberg](Gutenberg:Promote Project Gutenberg).
 
@@ -50,25 +50,27 @@ How to Help
 Special Areas
 =============
 
-- [About Project Gutenberg](about/).
-- What does [free eBook](No Cost or Freedom?) mean?
+- [About Project Gutenberg](/about/).
+- What does [free eBook](/information/free_ebook.html) (No Cost or Freedom?) mean?
 - [Permissions, copyright, licensing, and trademark information](Gutenberg:Permission How-To).
 - [Linking to Project Gutenberg]([Gutenberg:Gutenberg:Information_About_Linking_to_our_Pages) and [roboting or crawling](Gutenberg:Information_About_Robot_Access_to_our_Pages) the site.
-- [Donating to Project Gutenberg](donate/).
+- [Donating to Project Gutenberg](/donate/).
 - [Partners, Affiliates and Resources](Partners, Affiliates and Resources).
 
 
 Terms of Use
 ============
+<div class="box_shadow">
+Our eBooks may be freely used in the United States because most are not protected by U.S. copyright law, usually because their copyrights have expired. They may not be free of copyright in other countries. Readers outside of the United States must check the copyright terms of their countries before downloading or redistributing our eBooks. We also have a number of copyrighted titles, for which the copyright holder has given permission for unlimited non-commercial worldwide use.
 
-> Our eBooks may be freely used in the United States because most are not protected by U.S. copyright law, usually because their copyrights have expired. They may not be free of copyright in other countries. Readers outside of the United States must check the copyright terms of their countries before downloading or redistributing our eBooks. We also have a number of copyrighted titles, for which the copyright holder has given permission for unlimited non-commercial worldwide use.
-
-> The Project Gutenberg website is for human users only. Any real or perceived use of automated tools to access our site will result in a block of your IP address. This site utilizes cookies, captchas and related technologies to help assure the site is maximally available for human users only.
-
+</div>
+<div class="box_shadow">
+The Project Gutenberg website is for human users only. Any real or perceived use of automated tools to access our site will result in a block of your IP address. This site utilizes cookies, captchas and related technologies to help assure the site is maximally available for human users only.
+</div>
 
 Contact Info
 ============
 
-- [Contact Information](https://www.gutenberg.org/wiki/Gutenberg:Contact_Information): How to get in touch.
+- [Contact Information](/about/contact_information.html): How to get in touch.
 - [Mailing lists](https://www.gutenberg.org/wiki/Gutenberg:Subscribe_How-To): Join our email lists.
 

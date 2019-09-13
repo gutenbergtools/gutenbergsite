@@ -590,6 +590,19 @@ only screen and (max-device-width: 1200px) {
 .page_content a:visited {
 	color: #3E444D;
 }
+table {
+border-collapse: collapse;
+}
+table, th, td{
+background-color: #f8f9fa;
+color: #222;
+margin: 1em 0;
+border: 1px solid #a2a9b1;
+}
+/*table > * > tr > th{
+border: 1px solid #a2a9b1;
+text-align:center;
+}*/
 .search_category li{
 display:inline-block;
 }
