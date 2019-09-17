@@ -26,9 +26,9 @@ Being a Solo Producer
 If you might be interested in producing an eBook yourself, here is some guidance.
 
 These steps are for eBooks that are in the public domain in the US, usually because the source
-printed book was published, and then the term of copyright protection expired. ==Project Gutenberg
+printed book was published, and then the term of copyright protection expired. **Project Gutenberg
 does not accept contemporary or copyrighted works. See our How-To on submitting your own work,
-for information about our self-publishing portal.==
+for information about our self-publishing portal.**
 
 Note also that Project Gutenberg does not have a corps of volunteers who can take
 your partially-completed work and turn it into a completed eBook. Instead, join Distributed
@@ -95,8 +95,11 @@ In Project Gutenberg HTML eBooks, you can see the HTML code in many
 different tools, including Notepad, NoteTab or word
 processors. The headings and footers of all our eBooks are
 very similar. The body of the file has text with various
-HTML tags such as ```<p>....</p>, <pre>....</pre>,
-<h2>....</h2>``` to make the html display give the text
+HTML tags such as 
+<!--
+<p>....</p>, <pre>....</pre>, <h2>....</h2>
+-->
+to make the html display give the text
 enclosed between these html tags apppear differently.
 
 If you start with plain text, there are two very helpful programs that producers utilize: "guiguts"
