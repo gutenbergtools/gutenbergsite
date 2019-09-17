@@ -16,7 +16,7 @@ From Project Gutenberg, the first producer of free eBooks.
 2. [Do Not Link Directly to the eBook Files](#do-not-link-directly-to-the-ebook-files)
 3. [Canonical URLs to Books and Authors](#canonical-urls-to-books-and-authors)
 4. [Image Inlining](#image-inlining)
-5. [Independent Project Gutenberg Search Sites](#independent-project-gutenberg-serach-sites)
+5. [Independent Project Gutenberg Search Sites](#independent-project-gutenberg-search-sites)
 		
 />
 
@@ -38,7 +38,7 @@ Direct links to files will be redirected to the appropriate catalog page. Direct
 - a file represents just one available format, the user following your link will not know that there are other formats to choose from,
 - the user will not realize the wealth of related material to be found in our archive.
 
-But if you run an independent search site for our books read the [independent search site section](#independent-project-gutenberg-serach-sites) below.
+But if you run an independent search site for our books read the [independent search site section](#independent-project-gutenberg-search-sites) below.
 
 ## Canonical URLs to Books and Authors
 If you want to link to one of our books or authors please use only the URL formats described here.
