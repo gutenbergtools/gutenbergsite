@@ -3,13 +3,16 @@ layout: default
 title: PG- How-To
 permalink: /how_to/volunteers_faq.html
 ---
-# Volunteers FAQ
+Volunteers FAQ
+==============
 
 Project Gutenberg welcomes contributions of eBooks from people with the interest, time, 
 and skillset needed to meet our submission standards. Details of the process and the standards
 are at our copyright clearance site (https://copy.pglaf.org) and upload site (https://upload.pglaf.org).
 
-## Join Distributed Proofreaders, Instead
+Join Distributed Proofreaders, Instead
+--------------------------------------
+
 For most people interested in producing eBooks, we recommend starting with Distributed Proofreaders (https://www.pgdp.net).
 With Distributed Proofreaders, you can get involved with different portions of the production pipeline
 described below. This is a much easier way to get started, and results in very high quality eBooks.
@@ -17,14 +20,15 @@ described below. This is a much easier way to get started, and results in very h
 If you simply want to suggest a book for digitization, DP has online forums for this, or you can
 simply send an email (contact information is on the site).
 
-## Being a Solo Producer
+Being a Solo Producer
+---------------------
 
 If you might be interested in producing an eBook yourself, here is some guidance.
 
 These steps are for eBooks that are in the public domain in the US, usually because the source
-printed book was published, and then the term of copyright protection expired. 'Project Gutenberg
+printed book was published, and then the term of copyright protection expired. ==Project Gutenberg
 does not accept contemporary or copyrighted works. See our How-To on submitting your own work,
-for information about our self-publishing portal.'
+for information about our self-publishing portal.==
 
 Note also that Project Gutenberg does not have a corps of volunteers who can take
 your partially-completed work and turn it into a completed eBook. Instead, join Distributed
@@ -67,7 +71,10 @@ appearing correctly, and all metadata are correct.
 require access to source material, or are stylistic or subjective in nature, we
 might get in touch to discuss potential changes.
 
-Note that Project Gutenberg is not in the business of teaching HTML,
+More about HTML
+---------------
+
+Project Gutenberg is not in the business of teaching HTML,
 however nearly all Project Gutenberg's editions now have
 both text and HTML files. The HTML files are not only
 important in themselves but are the master files for the
@@ -88,8 +95,8 @@ In Project Gutenberg HTML eBooks, you can see the HTML code in many
 different tools, including Notepad, NoteTab or word
 processors. The headings and footers of all our eBooks are
 very similar. The body of the file has text with various
-HTML tags such as <p>....</p>, <pre>....</pre>,
-<h2>....</h2> to make the html display give the text
+HTML tags such as ```<p>....</p>, <pre>....</pre>,
+<h2>....</h2>``` to make the html display give the text
 enclosed between these html tags apppear differently.
 
 If you start with plain text, there are two very helpful programs that producers utilize: "guiguts"
