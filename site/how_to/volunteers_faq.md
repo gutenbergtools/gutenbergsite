@@ -96,9 +96,7 @@ different tools, including Notepad, NoteTab or word
 processors. The headings and footers of all our eBooks are
 very similar. The body of the file has text with various
 HTML tags such as 
-<!--
-<p>....</p>, <pre>....</pre>, <h2>....</h2>
--->
+&lt;p&gt;....&lt;/p&gt;, &lt;pre&gt;....&lt;/pre&gt;, &lt;h2&gt;....&lt;/h2&gt;
 to make the html display give the text
 enclosed between these html tags apppear differently.
 
