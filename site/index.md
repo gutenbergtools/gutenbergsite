@@ -52,10 +52,10 @@ Special Areas
 
 - [About Project Gutenberg](/about/).
 - What does [free eBook](/information/free_ebook.html) (No Cost or Freedom?) mean?
-- [Permissions, copyright, licensing, and trademark information](Gutenberg:Permission How-To).
-- [Linking to Project Gutenberg]([Gutenberg:Gutenberg:Information_About_Linking_to_our_Pages) and [roboting or crawling](Gutenberg:Information_About_Robot_Access_to_our_Pages) the site.
+- [Permissions, copyright, licensing, and trademark information](/help/permission_how_to.html).
+- [Linking to Project Gutenberg](/information/linking_pages.html) and [roboting or crawling](/information/robot_access.html) the site.
 - [Donating to Project Gutenberg](/donate/).
-- [Partners, Affiliates and Resources](Partners, Affiliates and Resources).
+- [Partners, Affiliates and Resources](/information/partners_affiliates_resources.html).
 
 
 Terms of Use
