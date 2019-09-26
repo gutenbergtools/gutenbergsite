@@ -5,14 +5,16 @@ permalink: /information/robot_access.html
 ---
 
 # Information About Robot Access to our Pages
-
-
+<div class="box_shadow"><b>The Project Gutenberg website is intended for human users only.</b> Any perceived use of automated tools to access the Project Gutenberg website will result in a temporary or permanent block of your IP address. The only exceptions to this rule are below.</div>
+<div class="contents">
 Contents
-1. How to Get All Ebook Files
-2. How to Get Certain Ebook Files
-3. How to Mirror Project Gutenberg
-4. How to Get Catalog Data
-
+<ol>
+<li><a href="#how-to-get-all-ebook-files"> How to Get All Ebook Files</a></li>
+<li><a href="#how-to-get-certain-ebook-files"> How to Get Certain Ebook Files</a></li>
+<li><a href="#how-to-mirror-project-gutenberg"> How to Mirror Project Gutenberg</a></li>
+<li><a href="#how-to-get-catalog-data"> How to Get Catalog Data</a></li>
+</ol>
+</div>
 ## How to Get all Ebook Files
 The best way to have a local up-to-date copy of all files is to setup a private mirror: See: [the Mirroring How-To]()
 
@@ -21,7 +23,7 @@ The best way to have a local up-to-date copy of all files is to setup a private 
 
 This is an example of how to get files using wget: 
 
-wget -w 2 -m -H "http://www.gutenberg.org/robot/harvest?filetypes[]=html"
+<pre>wget -w 2 -m -H "http://www.gutenberg.org/robot/harvest?filetypes[]=html"</pre>
 
 Replace html with the file type you are interested in.
 
@@ -34,7 +36,7 @@ Replace html with the file type you are interested in.
 - mp3
 
 If you want only files in a given language say: 
-wget -w 2 -m -H "http://www.gutenberg.org/robot/harvest?filetypes[]=html&langs[]=de"
+<pre>wget -w 2 -m -H "http://www.gutenberg.org/robot/harvest?filetypes[]=html&langs[]=de"</pre>
 
 Replace de with the ISO language code you are interested in. Tip: you can learn the language code of any language in the Project Gutenberg catalog by looking at the status window of your browser while moving your cursor over the language at [this page](/https://dev.gutenberg.org/ebooks/)
 

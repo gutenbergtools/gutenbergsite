@@ -273,6 +273,9 @@ library */
 	width: 90%;
 }
 
+.page_content .bookshelves h2{ 
+border-bottom: 0px none #FFFFFF;
+}
 /*.library .bookshelves h2:hover,
 .library .bookshelves ul li:hover {
 	-moz-transition: all 0.2s ease-in-out;
@@ -615,6 +618,22 @@ pointer-events: none;
 
 .page_content a:visited {
 	color: #3E444D;
+}
+.contents{
+background-color: #f9f9f9;
+border: 1px solid #a2a9b1;
+padding:5px;
+display:inline-block;
+}
+
+.contents ol .inner{
+list-style-type: lower-roman;
+}
+
+pre{
+border: 1px dashed #2f6fab;
+background-color: #f9f9f9;
+padding:1em;
 }
 table {
 border-collapse: collapse;
