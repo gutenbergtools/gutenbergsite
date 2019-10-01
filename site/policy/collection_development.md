@@ -5,7 +5,7 @@ permalink: /policy/collection_development.htm
 ---
 
 Project Gutenberg is a library of free electronic books (eBooks).
-The Project Gutenberg collection has been built by the efforts of many volunteers who, 
+The Project Gutenberg collection has been built by the efforts of volunteers who, 
 over many years, have selected and digitized a variety of written and other works. The
 collection continues to grow, as new works are submitted.
 
@@ -22,15 +22,16 @@ submissions are welcome.
 The basic eligibility criteria are:
 - Submitted eBooks are digitized versions of printed books, or similar items such as manuals,
 pamphlets, travelogues, journals, or chapbooks.
-- Project Gutenberg confirms the source - that is, the printed item(s) from which the eBook is
-derived - is in the public domain in the US, via the copyright portal at https://copy.pglaf.org
+- Evidence is submitted to enable Project Gutenberg to confirm the source - that is, the 
+printed item(s) from which the eBook is derived - is in the public domain in the US, 
+via the copyright portal at https://copy.pglaf.org
 - The eBook is submitted via the upload portal at https://upload.pglaf.org, and meets the 
-requirements there for formatting and proofreading accuracy.
+requirements there for formatting and for proofreading accuracy.
 - The resulting eBook is entirely in the public domain in the US. The "sweat of the brow" effort
 to digitize the source, and any incidental or supplemental additions - such as transcriber's notes,
 indices, improvements or supplements to artwork - are entirely in the public domain.
 
-Some ineligibile items include:
+Some types of items which are ineligibile include:
 - Scans of books or other sources that have not been converted to machine-readable text, and
 undergone proofreading and formatting to the requirements of the upload portal.
 - Original contemporary items, even if they are granted to the public domain by the author.
@@ -53,7 +54,7 @@ footnotes or endnotes, and other factors about how the printed item is digitized
 encouraged to focus on presentation of the content and structure of the eBook, more than a particular
 visual presentation or layout. This is because Project Gutenberg eBooks are intended to be enjoyable, no
 matter how or where they are read. As such, production choices should not inhibit automated or
-non-automated creationg of new derived formats.
+non-automated creation of new derived formats.
 
 ## What topics and subject matter are of interest?
 
@@ -78,7 +79,7 @@ a vision for how libraries and publishers, and the people behind them, may work 
 the quality and diversity of thought and expression." 
 
 The FTR makes it clear that inclusion of an item in a library collection does not mean the ideas within
-it are endorsed by the library: "librarians, and booksellers do not need to endorse every idea or presentation they make available. It would conflict with the public interest for them to establish their own political, moral, or aesthetic views as a standard for determining what should be published or circulated."
+it are endorsed by the library. "Publishers, librarians, and booksellers do not need to endorse every idea or presentation they make available. It would conflict with the public interest for them to establish their own political, moral, or aesthetic views as a standard for determining what should be published or circulated."
 
 The final paragraph of FTR serves to summarize Project Gutenberg's commitment to building a diverse and vibrant
 collection, and to not avoid inclusion of eBooks based on their topics or the ideas within them:
@@ -86,3 +87,18 @@ collection, and to not avoid inclusion of eBooks based on their topics or the id
 
 
 ## Historic scope
+
+Project Gutenberg has a number of items that do not meet the public domain or formatting criteria described above.
+The founder of Project Gutenberg, Michael Hart, invented eBooks in 1971, and the online library grew substantially
+in the 1980s and 1990s. At that time, there were not many free collections of diverse literary works, and some of
+the modern standards we now rely on had not yet emerged (such as Unicode for representing character sets and HTML
+for textual markup).
+
+Project Gutenberg worked with many different content types, including audio books, digitized sheet music, some
+movies, and quite a few copyrighted items that were donated by contemporary authors. By the early 2000s, it was
+clear that Project Gutenberg was not as well-suited for those different content types as it is for public
+domain literature. There are now many other outlets for such works, including the self-publishing portal for contemporary
+authors, which is operated by a Project Gutenberg affiliate.
+
+
+
