@@ -4,6 +4,8 @@ title: Collection Development Policy - Project Gutenberg
 permalink: /policy/collection_development.htm
 ---
 
+# This is a draft policy, not yet adopted by PGLAF
+
 Project Gutenberg is a library of free electronic books (eBooks).
 The Project Gutenberg collection has been built by the efforts of volunteers who, 
 over many years, have selected and digitized a variety of written and other works. The
