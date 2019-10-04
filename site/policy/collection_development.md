@@ -18,8 +18,8 @@ not currently protected by copyright in the United States. Such works are in
 the public domain. New Project Gutenberg eBooks are typically digitized versions of 
 books that were published long ago, and for which any US copyright has expired.
 
-Collection development focuses on literature and other written works that have enduring value
-for readers. Selections are made by volunteers with diverse interests, and essentially all eligible
+Collection development focuses on literature and other written works. Selections are 
+made by volunteers with diverse interests, and essentially all eligible
 submissions are welcome.
 
 The basic eligibility criteria are:
@@ -62,7 +62,7 @@ visual presentation or layout. This is because Project Gutenberg eBooks are inte
 matter how or where they are read, now and in the future. As such, production choices should not 
 inhibit automated or non-automated creation of new derived formats.
 
-## What topics and subject matter are of interest?
+## What topics and subject matter are accepted?
 
 The eBooks in the Project Gutenberg collection are freely offered to readers for their enjoyment, enlightenment,
 education, and entertainment. The collection includes eBooks on many topics. There is emphasis on
