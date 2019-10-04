@@ -13,13 +13,13 @@ collection continues to grow, as new works are submitted.
 
 ## What types of works are eligible?
 
-Project Gutenberg only accepts donations of eBooks (i.e., written works) that are
-not currently protected by copyright in the United States. Such works are in
-the public domain. New Project Gutenberg eBooks are typically digitized versions of 
-books that were published long ago, and for which any US copyright has expired.
+Project Gutenberg accepts only donations of eBooks (i.e., written works) that are not 
+currently protected by copyright in the United States. Such works are in the public domain.
+New Project Gutenberg eBooks are typically digitized versions of books that were published
+long ago and for which any US copyright has expired.
 
-Collection development focuses on literature and other written works. Selections are 
-made by volunteers with diverse interests, and essentially all eligible
+Project Gutenberg's collection development focuses on literature and other written works. 
+Selections are made by volunteers with diverse interests, and essentially all eligible
 submissions are welcome.
 
 The basic eligibility criteria are:
@@ -34,8 +34,8 @@ requirements there for formatting and for proofreading accuracy.
 - The resulting eBook is entirely free of any US copyrights. Importantly, this includes
 that the "sweat of the brow" effort to digitize the source is not an act of authorship, so
 is not eligible for copyright; and also that incidental or supplemental additions, such 
-as transcriber's notes, indices, improvements or supplements to artwork, are granted
-permanently to the public domain.
+as transcriber's notes, indices, improvements or supplements to artwork, or new cover art,
+are granted permanently to the public domain.
 
 Some types of items which are ineligibile include:
 - Scans of books or other sources that have not been converted to machine-readable text and
