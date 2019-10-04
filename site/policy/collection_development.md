@@ -103,5 +103,5 @@ for textual markup).
 Project Gutenberg worked with many different content types, including audio books, digitized sheet music, some
 movies, and quite a few copyrighted items that were donated by contemporary authors. By the early 2000s, it was
 clear that Project Gutenberg was not as well-suited for those different content types as it is for public
-domain literature. There are now many other outlets for such works, including the self-publishing portal for contemporary
-authors, which is operated by a Project Gutenberg affiliate.
+domain literature. There are now many other outlets for these other types of works, including a self-publishing portal 
+for contemporary authors that is operated by a Project Gutenberg affiliate.
