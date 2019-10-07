@@ -15,7 +15,7 @@ permalink: /how_to/
       <li><a href="/how_to/copyright_confirmation.html">Copyright Confirmation How-To</a></li>
       <li><a href="/how_to/copyright_faq.html">Copyright FAQ</a></li>
       <li><a href="/how_to/copyright.html">Copyright How-To</a></li>
-      <li><a href="/how_to/copyright_rule_6.html">Copyright Rule 6 How-to</a></li>
+    <!--  <li><a href="/how_to/copyright_rule_6.html">Copyright Rule 6 How-to</a></li>-->
       <h2>F</h2>
       <li><a href="/how_to/file_formats_faq.html">File Formats FAQ</a></li>
       <li><a href="/how_to/file_sharing.html">File Sharing How-To</a></li>

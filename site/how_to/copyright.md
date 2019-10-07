@@ -8,51 +8,51 @@ permalink: /how_to/copyright.html
 <div class="contents">
 Contents
 <ol>
-<li><a href="#Project_Gutenberg.27s_Copyright_Rules">Project Gutenberg's Copyright Rules</a>
-<ol class="inner">
-<li><a href="#Definitions">Definitions</a></li>
-<li><a href="#Rule_1:_Works_First_Published_Before_95_Years_Ago_and_Before_1977">Rule 1: Works First Published Before 95 Years Ago and Before 1977</a></li>
-<li><a href="#Rule_2:_Works_first_created_by_natural_persons_on_or_after_January_1.2C_1978">Rule 2: Works first created by natural persons on or after January 1, 1978</a></li>
-<li><a href="#Rule_3:_Works_first_created_by_corporate_authors_on_or_after_January_1.2C_1978">Rule 3: Works first created by corporate authors on or after January 1, 1978</a></li>
-<li><a href="#Rule_4:_Works_first_created_before_January_1.2C_1978_but_not_published_before_that_date">Rule 4: Works first created before January 1, 1978 but not published before that date</a></li>
-<li><a href="#Rule_5:_Publication_and_Distribution_of_U.S._Works_Prior_to_March_1.2C_1989_Without_Proper_Notice">Rule 5: Publication and Distribution of U.S. Works Prior to March 1, 1989 Without Proper Notice</a></li>
-<li><a href="#Rule_6:_Failure_of_U.S._Works_to_Comply_With_Renewal_Requirements_Prior_to_1964">Rule 6: Failure of U.S. Works to Comply With Renewal Requirements Prior to 1964</a>
-<ol class="inner">
-<li><a href="#Preamble">Preamble</a></li>
-<li><a href="#Scope">Scope</a></li>
-<li><a href="#Summary">Summary</a></li>
-<li><a href="#Phase_1:_Biographical_Research">Phase 1: Biographical Research</a></li>
-<li><a href="#Phase_2:_Bibliographical_Research">Phase 2: Bibliographical Research</a></li>
-<li><a href="#Phase_3:_Renewal_Research">Phase 3: Renewal Research</a></li>
-<li><a href="#Situations_that_Prevent_a_Determination_of_Not_Having_Copyright_Protection_under_Rule_6">Situations that Prevent a Determination of Not Having Copyright Protection under Rule 6</a></li>
-<li><a href="#Time_span_for_Renewal_Records">Time span for Renewal Records</a></li>
-<li><a href="#What_to_Submit">What to Submit</a></li>
-<li><a href="#Alternate_methodology">Alternate methodology</a></li>
-<li><a href="#Renewal_resources">Renewal resources</a></li>
+<li><a href="#project-gutenbergs-copyright-rules">Project Gutenberg's Copyright Rules</a>
+<ol class="inner_1">
+<li><a href="#definitions">Definitions</a></li>
+<li><a href="#rule-1-works-first-published-before-95-years-ago-and-before-1977">Rule 1: Works First Published Before 95 Years Ago and Before 1977</a></li>
+<li><a href="#rule-2-works-first-created-by-natural-persons-on-or-after-january-1-1978">Rule 2: Works first created by natural persons on or after January 1, 1978</a></li>
+<li><a href="#rule-3-works-first-created-by-corporate-authors-on-or-after-january-1-1978">Rule 3: Works first created by corporate authors on or after January 1, 1978</a></li>
+<li><a href="#rule-4-works-first-created-before-january-1-1978-but-not-published-before-that-date">Rule 4: Works first created before January 1, 1978 but not published before that date</a></li>
+<li><a href="#rule-5-publication-and-distribution-of-us-works-prior-to-march-1-1989-without-proper-notice">Rule 5: Publication and Distribution of U.S. Works Prior to March 1, 1989 Without Proper Notice</a></li>
+<li><a href="#rule-6-failure-of-us-works-to-comply-with-renewal-requirements-prior-to-1964">Rule 6: Failure of U.S. Works to Comply With Renewal Requirements Prior to 1964</a>
+<ol class="inner_2">
+<li><a href="#preamble">Preamble</a></li>
+<li><a href="#scope">Scope</a></li>
+<li><a href="#summary">Summary</a></li>
+<li><a href="#phase-1-biographical-research">Phase 1: Biographical Research</a></li>
+<li><a href="#phase-2-bibliographical-research">Phase 2: Bibliographical Research</a></li>
+<li><a href="#phase-3-renewal-research">Phase 3: Renewal Research</a></li>
+<li><a href="#situations-that-prevent-a-determination-of-not-having-copyright-protection-under-rule-6">Situations that Prevent a Determination of Not Having Copyright Protection under Rule 6</a></li>
+<li><a href="#time-span-for-renewal-records">Time span for Renewal Records</a></li>
+<li><a href="#what-to-submit">What to Submit</a></li>
+<li><a href="#alternate-methodology">Alternate methodology</a></li>
+<li><a href="#renewal-resources">Renewal resources</a></li>
 </ol>
 </li>
-<li><a href="#Rule_8:_U.S._Government_Works">Rule 8: U.S. Government Works</a></li>
-<li><a href="#Rule_10:_Protection_of_Foreign_Works_in_the_U.S._Under_U.S._Copyright_Law">Rule 10: Protection of Foreign Works in the U.S. Under U.S. Copyright Law</a>
-<ol class="inner">
-<li><a href="#Preamble_2">Preamble</span></a></li>
-<li><a href="#Additional_Definitions_for_Foreign_Works">Additional Definitions for Foreign Works</a></li>
-<li><a href="#Rule_10.28a.29_-_Unpublished_Works_of_Foreign_Authors">Rule 10(a) - Unpublished Works of Foreign Authors</a></li>
-<li><a href="#Rule_10.28b.29_-_Works_of_Treaty_Parties_and_Proclamation_Countries_First_Published_Before_1923">Rule 10(b) - Works of Treaty Parties and Proclamation Countries First Published Before 1923  </a></li>
-<li><a href="#Rule_10.28c.29_-_Works_of_Treaty_Parties_and_Proclamation_Countries_First_Published_Between_1923_and_1977">Rule 10(c) - Works of Treaty Parties and Proclamation Countries First Published Between 1923 and 1977</a></li>
-<li><a href="#Rule_10.28d.29_-_Works_of_Treaty_Parties_and_Proclamation_Countries_First_Published_On_or_After_January_1.2C_1978">Rule 10(d) - Works of Treaty Parties and Proclamation Countries First Published On or After January 1, 1978</a></li>
-<li><a href="#Rule_10.28e.29_-_Published_Works_From_Countries_Who_Do_Not_Qualify_as_Treaty_Parties_or_Proclamation_Countries">Rule 10(e) - Published Works From Countries Who Do Not Qualify as Treaty Parties or Proclamation Countries</a></li>
+<li><a href="#rule-8-ius-government-works">Rule 8: U.S. Government Works</a></li>
+<li><a href="#rule-10-protection-of-foreign-works-in-the-us-under-us-copyright-law">Rule 10: Protection of Foreign Works in the U.S. Under U.S. Copyright Law</a>
+<ol class="inner_2">
+<li><a href="#preamble-1">Preamble</a></li>
+<li><a href="#additional-definitions-for-foreign-works">Additional Definitions for Foreign Works</a></li>
+<li><a href="#rule-10a---unpublished-works-of-foreign-authors">Rule 10(a) - Unpublished Works of Foreign Authors</a></li>
+<li><a href="#rule-10b---works-of-treaty-parties-and-proclamation-countries-first-published-before-1923">Rule 10(b) - Works of Treaty Parties and Proclamation Countries First Published Before 1923  </a></li>
+<li><a href="#rule-10c---works-of-treaty-parties-and-proclamation-countries-first-published-between-1923-and-1977">Rule 10(c) - Works of Treaty Parties and Proclamation Countries First Published Between 1923 and 1977</a></li>
+<li><a href="#rule-10d---works-of-treaty-parties-and-proclamation-countries-first-published-on-or-after-january-1-1978">Rule 10(d) - Works of Treaty Parties and Proclamation Countries First Published On or After January 1, 1978</a></li>
+<li><a href="#rule-10e---published-works-from-countries-who-do-not-qualify-as-treaty-parties-or-proclamation-countries">Rule 10(e) - Published Works From Countries Who Do Not Qualify as Treaty Parties or Proclamation Countries</a></li>
 </ol>
 </li>
 </ol>
 </li>
-<li><a href="#More_Copyright_Law">More Copyright Law</a>
-<ol class="inner">
-<li><a href="#Copyright_Rules_for_other_countries">Copyright Rules for other countries</a></li>
-<li><a href="#Whose_law_applies.3F">Whose law applies?</a></li>
-<li><a href="#What_changes_have_taken_place_in_the_term_of_copyright_protection_in_the_United_States.3F">What changes have taken place in the term of copyright protection in the United States?</a></li>
+<li><a href="#more-copyright-law">More Copyright Law</a>
+<ol class="inner_1">
+<li><a href="#copyright-rules-for-other-countries">Copyright Rules for other countries</a></li>
+<li><a href="#whose-law-applies">Whose law applies?</a></li>
+<li><a href="#what-changes-have-taken-place-in-the-term-of-copyright-protection-in-the-united-states">What changes have taken place in the term of copyright protection in the United States?</a></li>
 </ol>
 </li>
-<li><a href="#How_to_Submit_Copyright_Clearance_Materials_for_Project_Gutenberg_eBook">How to Submit Copyright Clearance Materials for Project Gutenberg eBook</a></li>
+<li><a href="#how-to-submit-copyright-clearance-materials-for-project-gutenberg-ebook">How to Submit Copyright Clearance Materials for Project Gutenberg eBook</a></li>
 </ol>
 </div>
 
@@ -60,14 +60,14 @@ Contents
 We have seven active rules under which an item may be copyright-cleared for inclusion in the Project Gutenberg collection. If you are uncertain about whether a rule applies, or whether more than one rule
 applies, please [submit the item](https://copy.pglaf.org) for our consideration. This is safer and easier than addressing hypothetical questions about potential items.
 
-- [Rule 1. Works First Published Before 95 Years Ago and Before 1977]()
-- [Rule 2. Post-1978 life+70]()
-- [Rule 3. Post-1978 publication+120]()
-- [Rule 4. Manuscripts created pre-1978 but published post-1978]()
-- [Rule 5. Pre-1989 U.S. works without a copyright notice]()
-- [Rule 6. Pre-1964 U.S. works but timely renewed]()
-- [Rule 8. Government copyright]()
-- [Rule 10. Foreign Works]()
+- [Rule 1. Works First Published Before 95 Years Ago and Before 1977](#rule-1-works-first-published-before-95-years-ago-and-before-1977)
+- [Rule 2. Post-1978 life+70](#rule-2-works-first-created-by-natural-persons-on-or-after-january-1-1978)
+- [Rule 3. Post-1978 publication+120](#rule-3-works-first-created-by-corporate-authors-on-or-after-january-1-1978)
+- [Rule 4. Manuscripts created pre-1978 but published post-1978](#rule-4-works-first-created-before-january-1-1978-but-not-published-before-that-date)
+- [Rule 5. Pre-1989 U.S. works without a copyright notice](#rule-5-publication-and-distribution-of-us-works-prior-to-march-1-1989-without-proper-notice)
+- [Rule 6. Pre-1964 U.S. works but timely renewed](#rule-6-failure-of-us-works-to-comply-with-renewal-requirements-prior-to-1964)
+- [Rule 8. Government copyright](#rule-8-us-government-works)
+- [Rule 10. Foreign Works](#rule-10-protection-of-foreign-works-in-the-us-under-us-copyright-law)
 
 (rules 7 and 9 are not currently in use) 
 

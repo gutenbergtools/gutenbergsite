@@ -626,10 +626,12 @@ padding:5px;
 display:inline-block;
 }
 
-.contents ol .inner{
+.contents ol .inner_1{
 list-style-type: lower-roman;
 }
-
+.contents ol .inner_2{
+list-style-type: lower-alpha;
+}
 pre{
 border: 1px dashed #2f6fab;
 background-color: #f9f9f9;
