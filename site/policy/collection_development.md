@@ -13,13 +13,13 @@ collection continues to grow, as new works are submitted.
 
 ## What types of works are eligible?
 
-Project Gutenberg only accepts donations of eBooks (i.e., written works) that are
-not currently protected by copyright in the United States. Such works are in
-the public domain. New Project Gutenberg eBooks are typically digitized versions of 
-books that were published long ago, and for which any US copyright has expired.
+Project Gutenberg accepts only donations of eBooks (i.e., written works) that are not 
+currently protected by copyright in the United States. Such works are in the public domain.
+New Project Gutenberg eBooks are typically digitized versions of books that were published
+long ago and for which any US copyright has expired.
 
-Collection development focuses on literature and other written works that have enduring value
-for readers. Selections are made by volunteers with diverse interests, and essentially all eligible
+Project Gutenberg's collection development focuses on literature and other written works. 
+Selections are made by volunteers with diverse interests, and essentially all eligible
 submissions are welcome.
 
 The basic eligibility criteria are:
@@ -34,8 +34,8 @@ requirements there for formatting and for proofreading accuracy.
 - The resulting eBook is entirely free of any US copyrights. Importantly, this includes
 that the "sweat of the brow" effort to digitize the source is not an act of authorship, so
 is not eligible for copyright; and also that incidental or supplemental additions, such 
-as transcriber's notes, indices, improvements or supplements to artwork, are granted
-permanently to the public domain.
+as transcriber's notes, indices, improvements or supplements to artwork, or new cover art,
+are granted permanently to the public domain.
 
 Some types of items which are ineligibile include:
 - Scans of books or other sources that have not been converted to machine-readable text and
@@ -62,7 +62,7 @@ visual presentation or layout. This is because Project Gutenberg eBooks are inte
 matter how or where they are read, now and in the future. As such, production choices should not 
 inhibit automated or non-automated creation of new derived formats.
 
-## What topics and subject matter are of interest?
+## What topics and subject matter are accepted?
 
 The eBooks in the Project Gutenberg collection are freely offered to readers for their enjoyment, enlightenment,
 education, and entertainment. The collection includes eBooks on many topics. There is emphasis on
@@ -103,5 +103,5 @@ for textual markup).
 Project Gutenberg worked with many different content types, including audio books, digitized sheet music, some
 movies, and quite a few copyrighted items that were donated by contemporary authors. By the early 2000s, it was
 clear that Project Gutenberg was not as well-suited for those different content types as it is for public
-domain literature. There are now many other outlets for such works, including the self-publishing portal for contemporary
-authors, which is operated by a Project Gutenberg affiliate.
+domain literature. There are now many other outlets for these other types of works, including a self-publishing portal 
+for contemporary authors that is operated by a Project Gutenberg affiliate.
