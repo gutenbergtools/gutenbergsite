@@ -47,7 +47,7 @@ Although you can edit a .po file with any UTF-8-capable editor, there are progra
 
 - [poedit](https://www.poedit.net/)
 - [gtranslator](https://projects.gnome.org/gtranslator/)
-- [Virtaal](https://translate.sourceforge.net/wiki/virtaal/index)
+- [Virtaal](http://translate.sourceforge.net/wiki/virtaal/index)
 
 ### Translation Help
 [Google Translate](https://translate.google.com/) A web translation tool. You can cut & paste text snippets and choose between different proposals. You can even upload a complete .po file and get it back translated (well, sort of).
