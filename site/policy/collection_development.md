@@ -69,8 +69,8 @@ education, and entertainment. The collection includes eBooks on many topics. The
 literary works and reference items of historical significance, because volunteers have focused
 on digitizing such works. Any eligible item, on any topic, is welcome.
 
-Project Gutenberg subscribes to the principles of the American Library Association's
-Freedom to Read Statement (FTR), which may be found online at https://www.ala.org/advocacy/intfreedom/freedomreadstatement.
+Project Gutenberg follows the principles of the American Library Association's
+Freedom to Read Statement (FTR), which may be found online at http://www.ala.org/advocacy/intfreedom/freedomreadstatement.
 
 This commitment means that Project Gutenberg does not avoid difficult or unpopular topics, or topics 
 for which societal views or state-of-the-art knowledge are vastly different from contemporary literature.
