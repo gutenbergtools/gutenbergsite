@@ -24,7 +24,7 @@ submissions are welcome.
 
 The basic eligibility criteria are:
 - Submitted eBooks are digitized versions of printed books, or similar items such as manuals,
-pamphlets, travelogues, journals, or chapbooks.
+pamphlets, travelogues, theses, journals, or chapbooks.
 - Evidence is submitted to enable Project Gutenberg to confirm the source - that is, the 
 printed item(s) from which the eBook is derived - is in the 
 domain in the US, 
