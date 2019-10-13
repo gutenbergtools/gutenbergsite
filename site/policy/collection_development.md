@@ -71,8 +71,9 @@ on digitizing such works. Any eligible item, on any topic, is welcome.
 Project Gutenberg follows the principles of the American Library Association's
 Freedom to Read Statement (FTR), which may be found online at http://www.ala.org/advocacy/intfreedom/freedomreadstatement.
 
-This commitment means that Project Gutenberg does not avoid difficult or unpopular topics, or topics 
-for which societal views or state-of-the-art knowledge are vastly different from contemporary literature.
+This commitment means that Project Gutenberg does not avoid difficult or unpopular topics. It also means
+that Project Gutenberg adds eBooks to its collection that contain language or ideas that are outdated, 
+incorrect, offensive, or otherwise inconsistent with today's societal views, standards or morals.
 
 The FTR relies on the US Constitution's First Amendment right to freedom of speech and freedom of the press. 
 Project Gutenberg was founded on the idea that free, unlimited access to the world's literature is a
@@ -104,3 +105,8 @@ movies, and quite a few copyrighted items that were donated by contemporary auth
 clear that Project Gutenberg was not as well-suited for those different content types as it is for public
 domain literature. There are now many other outlets for these other types of works, including a self-publishing portal 
 for contemporary authors that is operated by a Project Gutenberg affiliate.
+
+Project Gutenberg will not remove or deprecate these previous items. They were all donated and accepted 
+with the best of intentions, and with the understanding that Project Gutenberg would provide for long-term stewardship
+and unlimited redistribution. Michael Hart expressed unending gratitude to all the people who contributed content, and who
+digitized previous works. Project Gutenberg remains grateful to all of its contributors and volunteers.
