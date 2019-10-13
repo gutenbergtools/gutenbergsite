@@ -25,9 +25,9 @@ submissions are welcome.
 The basic eligibility criteria are:
 - Submitted eBooks are digitized versions of printed books, or similar items such as manuals,
 pamphlets, periodicals travelogues, theses, journals, or chapbooks.
-- Evidence is submitted to enable Project Gutenberg to confirm the source - that is, the 
-printed item(s) from which the eBook is derived - is in the 
-domain in the US, via the copyright portal at https://copy.pglaf.org
+- Evidence is submitted via the copyright portal at https://copy.pglaf.or to enable Project Gutenberg
+to confirm the source - that is, the printed item(s) from which the eBook is derived - is in the public
+domain in the US.
 - The eBook is submitted via the upload portal at https://upload.pglaf.org, and meets the 
 requirements there for formatting and for proofreading accuracy.
 - The resulting eBook is entirely free of any US copyrights. Importantly, this includes
