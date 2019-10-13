@@ -36,7 +36,7 @@ is not eligible for copyright; and also that incidental or supplemental addition
 as transcriber's notes, indices, improvements or supplements to artwork, or new cover art,
 are granted permanently to the public domain.
 
-Some types of items which are ineligibile include:
+Some types of items which are ineligible include:
 - Scans of books or other sources that have not been converted to machine-readable text and
 undergone proofreading and formatting to the requirements of the upload portal.
 - Original contemporary items, even if they are granted to the public domain by the author.
