@@ -39,7 +39,7 @@ are granted permanently to the public domain.
 Some types of items which are ineligible include:
 - Scans of books or other sources that have not been converted to machine-readable text and
 undergone proofreading and formatting to the requirements of the upload portal.
-- Original contemporary items, even if they are granted to the public domain by the author.
+- Unpublished contemporary items, even if they are granted to the public domain by the author.
 - Items that were not previously published or distributed.
 
 ## How is a Project Gutenberg eBook related to the source(s) it was based on?
