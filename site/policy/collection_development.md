@@ -24,11 +24,10 @@ submissions are welcome.
 
 The basic eligibility criteria are:
 - Submitted eBooks are digitized versions of printed books, or similar items such as manuals,
-pamphlets, travelogues, journals, or chapbooks.
-- Evidence is submitted to enable Project Gutenberg to confirm the source - that is, the 
-printed item(s) from which the eBook is derived - is in the 
-domain in the US, 
-via the copyright portal at https://copy.pglaf.org
+pamphlets, periodicals travelogues, theses, journals, or chapbooks.
+- Evidence is submitted via the copyright portal at https://copy.pglaf.or to enable Project Gutenberg
+to confirm the source - that is, the printed item(s) from which the eBook is derived - is in the public
+domain in the US.
 - The eBook is submitted via the upload portal at https://upload.pglaf.org, and meets the 
 requirements there for formatting and for proofreading accuracy.
 - The resulting eBook is entirely free of any US copyrights. Importantly, this includes
@@ -37,10 +36,10 @@ is not eligible for copyright; and also that incidental or supplemental addition
 as transcriber's notes, indices, improvements or supplements to artwork, or new cover art,
 are granted permanently to the public domain.
 
-Some types of items which are ineligibile include:
+Some types of items which are ineligible include:
 - Scans of books or other sources that have not been converted to machine-readable text and
 undergone proofreading and formatting to the requirements of the upload portal.
-- Original contemporary items, even if they are granted to the public domain by the author.
+- Unpublished contemporary items, even if they are granted to the public domain by the author.
 - Items that were not previously published or distributed.
 
 ## How is a Project Gutenberg eBook related to the source(s) it was based on?
@@ -69,11 +68,12 @@ education, and entertainment. The collection includes eBooks on many topics. The
 literary works and reference items of historical significance, because volunteers have focused
 on digitizing such works. Any eligible item, on any topic, is welcome.
 
-Project Gutenberg subscribes to the principles of the American Library Association's
-Freedom to Read Statement (FTR), which may be found online at https://www.ala.org/advocacy/intfreedom/freedomreadstatement.
+Project Gutenberg follows the principles of the American Library Association's
+Freedom to Read Statement (FTR), which may be found online at http://www.ala.org/advocacy/intfreedom/freedomreadstatement.
 
-This commitment means that Project Gutenberg does not avoid difficult or unpopular topics, or topics 
-for which societal views or state-of-the-art knowledge are vastly different from contemporary literature.
+This commitment means that Project Gutenberg does not avoid difficult or unpopular topics. It also means
+that Project Gutenberg adds eBooks to its collection that contain language or ideas that are outdated, 
+incorrect, offensive, or otherwise inconsistent with today's societal views, standards or morals.
 
 The FTR relies on the US Constitution's First Amendment right to freedom of speech and freedom of the press. 
 Project Gutenberg was founded on the idea that free, unlimited access to the world's literature is a
@@ -105,3 +105,8 @@ movies, and quite a few copyrighted items that were donated by contemporary auth
 clear that Project Gutenberg was not as well-suited for those different content types as it is for public
 domain literature. There are now many other outlets for these other types of works, including a self-publishing portal 
 for contemporary authors that is operated by a Project Gutenberg affiliate.
+
+Project Gutenberg will not remove or deprecate these previous items. They were all donated and accepted 
+with the best of intentions, and with the understanding that Project Gutenberg would provide for long-term stewardship
+and unlimited redistribution. Michael Hart expressed unending gratitude to all the people who contributed content, and who
+digitized previous works. Project Gutenberg remains grateful to all of its contributors and volunteers.
