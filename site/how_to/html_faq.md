@@ -165,6 +165,230 @@ The images should be as big as necessary, and no bigger.
 Sorry, but there is no clear number to give here. Web page designers sweat blood to save an extra 20K on a page; so should you. If you're an experienced HTML maker, you know this stuff; if you're not, take it as a guideline that you should generally aim to keep your images in the 40K to 60K size range, with occasional forays into 80-100K territory. That's generally big enough for a clear picture, unless you're reproducing fine artwork.
 
 ## The images I've scanned are too big for inclusion in HTML. What can I do about it?
+s is a common problem, where images from the book occupy a full or half page. Your images should be of an appropriate size for downloading, and 2 megabytes of high-quality scan per image is not really an appropriate size for most PG texts!
+
+You should reduce the size, and maybe the quality, of the original scan for simple viewing purposes. There is lots of image-manipulation software to do this. For Windows, you might look at the freeware Irfanview, and for both *nix and Windows there is ImageMagick [P.1]. Look for the words "resize" and "resample" in the Help.
+
+Apart from simple converters, which do enough for this purpose, you can also manipulate the images in full imaging creation and editing packages like Paint Shop Pro, Adobe Photoshop and The Gimp [P.1].
+
+Different image encoding methods can make a huge difference to the filesize. Any of the packages mentioned above can encode images as GIF, JPEG or PNG, and, particularly for black and white line drawings, these can encode to very different sizes. So, for example, a 60K JPEG may save as a 30K GIF, because the GIF encoding works better for that particular image. Try your images out, and see what works.
+
+In general, in 2004, images are best saved as either JPEG (.jpg) or PNG (.png). Anything that worked well as a GIF will probably work as well, or better, as a PNG, so the main choice is between PNG and JPEG.
+
+JPEG tends to work out better — that is, considering quality of image vs. filesize — for images resembling a photograph, with a shaded (i.e. not pure white or pure black) background, while PNG is preferred for clear black line-drawings on a white background. The reason is that JPEG's "lossy compression" can save a lot of filesize by removing individual little black and white pixels in the shading, which the human eye won't particularly notice, much like most human ears don't notice frequencies lost in digital recording.
+
+If your image is suitable for the JPEG treatment at all, it is very likely that you can get a very good .jpg file at about 50K of filesize.
+
+Since most people will be viewing these images in a browser on a screen with a resolution below or around 1000 pixels wide, you should mostly make your images not much wider than 600 pixels. If you have a 2000- or 3000-pixel-wide image derived from an original scan, you need to look at resizing it.
+
+When manipulating images, always work from your original. Don't convert your original to a JPEG, and then shrink that and convert it to a PNG. Depending on the format, images may lose definition as they are converted (search for "lossy compression" in your favorite search engine to find out more about this), and they certainly lose definition as they are resized, and you end up with the "imperfect copy of an imperfect copy of an . . ." effect. When you're experimenting, take your original, resize and Save As PNG, then go back to your original, resize and Save As JPG, and so on.
+
+You can also use an image optimizer. These are specialist software programs that try to make image files smaller without sacrificing resolution or detail. 
+
+## Can I include decorative images I've made or found?
+No.
+
+Please include only the images you got from the book. If you want to make an edition of the book for your own web site, you can of course use whatever you like there, but for PG purposes, we want the book, the whole book, and nothing but the book.
+
+## How can I make a plain text version from a HTML file?
+You can edit out the HTML by hand, of course, but there are several easier ways to convert.
+
+You can view the HTML in a browser, Select All text, and just Copy and Paste into your editor. This is easiest, but doesn't handle formatting like tables very well.
+
+You can use the Lynx [P.1] browser to convert your text with the command 
+<pre>lynx -dump myfile.html > myfile.txt</pre>
+
+Bruce Guthrie's HTMSTRIP for MS-DOS [P.1] is very configurable. 
+<[http://www.w3.org/Tools/html2things.html](http://www.w3.org/Tools/html2things.html)> has a list of other HTML to plain text converters. 
+
+## How can I make a HTML version from my plain text file?
+This is not a course in HTML, but, for most books, you don't really need a course in HTML. Making a HTML format of most books is very easy, and doesn't take long, once you have mastered basic HTML. Let's assume you have your completed PG plain text file ready, and walk through the steps commonly needed to make a HTML version. We'll do this by successive approximation, doing the major things first, and then dealing more and more with the detail.
+
+There are lots of specialized HTML editors out there, but you don't actually need any of them. The same editor that you used to create your text will also create your HTML. HTML is just text, with two types of special instructions added: tags and entities.
+
+A tag is an instruction to the browser, usually to display something with specific rules. Tags are shown within angled brackets: for example,
+
+is the instruction to start a new paragraph. An entity is a named special character that might not be available in your character set. Entities are shown starting with an ampersand "&" and ending with a semi-colon ";" : for example, &mdash; is the representation of an em-dash. I'm marking up a made-up short text as I write these steps, loosely based on the sample page from question [V.121]. You can see the changes made at each stage by looking at the files 
+
+| |[View Source]()|(text before starting)|
+|htmstep1.htm|[View Source]()|(after adding the HTML header and footer)|
+|htmstep2.htm|[View Source]()|(after adding paragraph marks)|
+|htmstep3.htm|[View Source]()|(after marking main headings)|
+|htmstep4.htm|[View Source]()|(after adding special line breaks and indents)|
+|htmstep5.htm|[View Source]()|(after adding italics and bold)|
+|htmstep6.htm|[View Source]()|(after adding accents and non-ASCII characters)|
+|htmstep7.htm|[View Source]()|(after adding an image)|
+|htmstep8.htm|[View Source]()|(showing some extra techniques)|
+
+Before you start, make sure that you can see these files both in your browser and in your editor. In your editor, you should see the HTML codes; in your browser, you should see the text as it is intended to be viewed.
+
+Note for people who already know HTML: yes, this example omits lots of possible ways to do things, and lots of refinements. You already know how to do what you want to do — skip onwards, and give the beginners room to learn in peace! :-) 
+
+### Step 1. Add the HTML header and footer information
+Add the following lines at the top of your text file: 
+<pre>
+&lt;DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"&gt;
+&lt;title&gt;The Project Gutenberg eBook of My Book, by A. N. Author&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+</pre>
+
+Let's explain these one by one: 
+<pre>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"&gt;</pre>
+says that your file is HTML 4.01 Transitional, which is the latest version, allowing the widest range of tags and entities. 
+<pre>&lt;html&gt;</pre>
+denotes the start of the HTML 
+<pre&lt;head&gt;</pre>
+denotes the start of the HTML header information. 
+<pre&lt;meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"&gt;</pre>
+says that the characters are text, using ISO-8859-1 encoding. If you need to use a different character set, you should change ISO-8859-1 to whatever you intend to use. ISO-8859-1 is good for lots of PG books in English that use French or German words.
+<pre>&lt;title&gt;The Project Gutenberg eBook of My Book, by A. N. Author &lt;/title&gt;</pre>
+You should obviously change this to the actual title and author you're producing. The 
+<pre>&lt;/head&gt;</pre>
+denotes the end of the HTML header information and 
+<pre>&lt;body&gt;</pre>
+denotes the start of the actual text itself - the body of the book.
+
+At the very end of the file, you should append these two lines 
+<pre>&lt;body&gt;
+&lt;/html&gt;
+</pre>
+
+these denote the end of the body of the book, and the end of the HTML.
+
+At this point, you actually have a valid HTML file! OK, if you view it with a browser, it doesn't look anything like the way it's supposed to, but it is HTML. Save it with a name like MYFILE1.HTM or STEP1.HTM and get a copy of Tidy for your DOS, Unix, Mac or Windows system from <http://tidy.sourceforge.net>. Run Tidy on your file, telling it just to look for errors (tidy -e if running from a command-line; if you're using a GUI version, there should be a menu option or tickbox for showing errors only). Tidy should tell you that there are no errors. Yay!
+
+If it does say that there are errors, deal with them now, before you continue. Make sure, at each step, that you have cleaned up any errors; it's a lot easier now than later. Also, when you've finished each step, save your file with a number in its name, so that if you run into problems later and get confused, you can, at worst, drop back to the correct version at the end of the previous step.
+
+The most likely error you might have at this point relates to the characters "<", ">", or "&". These are the characters used by HTML to indicate tags and entities. If these characters are used in the text of your file, (and ampersand is likely to be), you should replace them with entities, so that HTML will know that they are to be displayed as characters, not interpreted as commands.
+
+Replace 
+<pre>
+&  with  &amp;
+<  with  &lt;
+>  with  &gt;
+</pre>
+
+There is an example of this in the file htmstep1.htm
+
+### Step 2. Add paragraph marks.
+For novels and general prose, paragraphs are the main logical and display unit. Paragraphs are marked in HTML with the sign &lt;p&gt;  at the start, and &lt;/p&gt; at the end. You don't actually need the &lt;/p&gt; at the end, but adding these is a good habit to get into. You do, very much, need the &lt;p&gt; at the start. 
+
+The line-lengths within a &lt;p&gt; &lt;/p&gt; pair are irrelevant; the browser in which the text is viewed will ignore extra spaces and line-ends, and will wrap text to fit the screen. This is bad for poetry and tables, but we will discuss those later. For this step, all you need to know is that you can leave your text exactly as it is, and just add the paragraph marks. 
+
+Put a &lt;p&gt; at the start of the line before the first letter of every paragraph, and a &lt;/p&gt; just after the last letter or punctuation of every paragraph. If you can do macros in your editor, this will just take a minute; otherwise, it may be rather boring, but at least it is simple. For this step, put the paragraph marks around everything that has a blank line after it, even poetry or chapter titles. We'll come back and change that later. 
+
+Now save your text as something like MYFILE2.HTM or STEP2.HTM. Again, run Tidy to check for errors, and fix them before continuing. 
+
+If you now look at the file htmstep2.htm in your browser, you will see that it is starting to take shape. Look at it in your editor, and you will see the paragraph marks. 
+
+### Step 3. Add marks for headings.
+We want to indicate to the reader that certain lines are for chapter or other headings. HTML provides the tags &lt;h1&gt;,&lt;h2&gt;, and so on for this. &lt;h1&gt; is for the biggest heading, and usually, you will reserve this for the title, and use &lt;h2&gt; for chapter headings. If you find these too big, you could choose &lt;h2&gt; for main headings, and &lt;h3&gt; for chapters. Whenever you use one of these header tags, you must close it with its equivalent end tag. So a chapter heading might look like:
+<pre> &lt;h2&gt;Chapter XI  &lt;/h2&gt;</pre>
+
+Since there won't be many headers, and most headers are only on one line, this is usually not hard. Look at the file htmstep3.htm to see how our sample is improving, and if you're working along with me, don't forget to save your file under a new name and check it.
+
+In our example, we have marked some lines with paragraph marks where we now want to put headings, so we will change those &lt;p&gt;s,&lt;h2&gt;s, since we don't need or want to mark a line as both. 
+
+### Step 4. Line up verse, tables of contents, and other lists.
+The HTML tag &lt;br&gt;  tells the browser to force a line break without starting a new paragraph. We use this when we don't want text all wrapped together, but not separated with blank lines either, for example in verse and tables of contents. 
+
+In our sample, we add the &lt;br&gt;  tag to the end of each line in the table of contents and the end of each line of the verse. If we were working on a whole book of poetry, the same principle would apply, but we'd be using the &lt;br&gt; tag a lot more. 
+
+Where we want to indent a line of poetry, we can use   at the start of the line. Normally, however many spaces you leave between words, HTML condenses them to one space, so normal indentation doesn't work. But the "non-breaking space" entity will cause the browser to show one space for each character, so that you can indent as much as you need.
+
+The file htmstep4.htm shows the effect: this is now an entirely readable HTML text! 
+
+### Step 5. Add back in italics and bold.
+The HTML tag &lt;i&gt; tells the browser to start displaying italics, and the &lt;/i&gt; tells it to stop. Similarly, the &lt;b&gt;  tag tells it to display bold, and &lt;/b&gt; marks the end of the bold text. See htmstep5.htm for the changes. 
+
+### Step 6. Restore accents and special characters.
+Since we declared our HTML file to use ISO-8859-1 back at the start, we can use any of the common accented characters for Western European languages, but we may also use HTML entities. For example, for the "a circumflex" in "flaneur", we can use either the ISO-8859 character directly, or the HTML entity name â or number â. 
+
+There is a trade-off between characters and entities: entities do not limit you to any particular character set, but characters are directly readable when looking at the HTML source.
+
+Within entitles, there is also a trade-off between entity names and numbers: older browsers may not recognize some of the entity names, but the entities do make the text work in multiple character sets. Which you choose is entirely up to you, but it's best to be consistent; if you like entities, use them everywhere. Entities can be represented by their names — for example, — — or by their number, derived from their ISO-10646 (see Unicode) number — for example, —.
+
+There are other special character entities you may choose, to replace the ASCII equivalents in the main text. Here are some of the common ones:
+
+We've already seen 
+
+<pre>
+&amp;    &#38;   ampersand     replaces    "&"
+&lt;     &#60;   less than     replaces    "<"
+&gt;     &#62;   greater than  replaces    ">"
+&nbsp;   &#160;  space         replaces a space when you want to indent
+</pre>
+and these are also very useful for many PG texts: 
+<pre>
+&mdash;  &#8212; em-dash       replaces    "--"
+&deg;    &#176;  degree        replaces    "deg." or "degrees"
+&pound;  &#163;  British pound replaces    "L" or "l" or "pounds"
+</pre>
+
+There are many others.<[https://www.w3.org/TR/html4/sgml/entities.html](https://www.w3.org/TR/html4/sgml/entities.html)>  has a fuller list. Please note that you don't have to use these entities in your HTML; if you're happy with the text reading "500 pounds", there is no need to make that £500.
+
+I've made a couple of entity changes in htmstep6.htm.
+
+### Step 7. Link Images into the text.
+First, you need to have your image ready. You should already have resized your image to the size you want it to be viewed at. You should also have saved it as a GIF, JPG, or PNG image, since those are the formats most supported by current browsers.
+
+If your image is named front.gif, and it is a picture of the frontispiece of the book, you should add the line
+
+<pre>&lt;img src="front.gif" alt="Frontispiece"&gt;</pre>
+to your HTML at the place where you want it displayed.
+
+The "alt" text gives a label to the image, and is displayed if the image can't be shown, or in the case of a browser for visually impaired people.
+
+You don't have to add images with your HTML file, unless you want to. In many older books, there are no images at all to be added.
+
+My final HTML text is now in htmstep7.htm. You need to have the image front.gif in the same directory in order to see it. When your HTML text is posted, the images will be zipped with it, so that future readers can see them. 
+
+### Step 8. Over to you!
+This is enough to make a reasonable HTML format of most PG texts, but it doesn't begin to cover everything that can be done in HTML. If you've gone this far, I recommend the W3C's tutorials: 
+<[http://www.w3.org/MarkUp/Guide/](http://www.w3.org/MarkUp/Guide/)>
+and 
+<[http://www.w3.org/MarkUp/Guide/Advanced.html](http://www.w3.org/MarkUp/Guide/Advanced.html)> 
+which cover the ground we've just crossed, and go a bit further.
+
+Here are a few more things you might want to know, but don't go nuts adding tags just because you can! Use them only when you really need them. The file htmstep8.htm shows some of these techniques. Personally, I think that this is a bit overdone, and I prefer the effect of htmstep7, with left-aligned chapter headings, but that's a matter of taste.
+
+Once you're used to the basic HTML needed for most PG eBooks, you'll probably be able to convert one in under an hour.
+
+How do I force more space between specific paragraphs? 
+
+Use an extra &lt;br&gt; tag.
+
+How do I make text, or image, or headings centered? 
+
+Put the &lt;center&gt; and &lt;/center&gt; tags around what you want centered, like: &lt;center&gt;,&lt;h2&gt;Chapter 12&lt;/h2&gt;&lt;/center&gt;
+
+How do I lay out tabular information?
+
+The simplest way to do it is with the  &lt;pre&gt; and &lt;/pre&gt; tags. These will cause whatever is within them to be displayed as plain text, just as it was in the original, so that spaces separate the entries just as they did in the text version. You can also use this for poetry, though you usually won't need to. It's not entirely satisfactory, but it will work. 
+
+Making a full HTML table requires you to use the &lt;table&gt;, &lt;tr&gt; (table row), and &lt;td&gt; (table detail) tags, among others, and a full exposition of tables is beyond the scope of this FAQ.
+
+Briefly, you start a table with the &lt;table&gt; tag.  
+
+<pre>
+&lt;table&gt;
+&lt;/table&gt;
+</pre>
+
+For each row you want in the table, you open and close a table row &lt;tr&gt; tag, like:
+<pre>
+&lt;table&gt;
+  &lt;tr&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</pre>
 
 
- 
+
+

@@ -13,7 +13,7 @@ Contents
 <ol>
 <li><a href="#not-maintained">Not maintained</a></li>
 <li><a href="#about-project-gutenberg">About Project Gutenberg</a>
-<ol class="inner">
+<ol class="inner_1">
 <li><a href="#what-is-project-gutenberg">What is Project Gutenberg?</a></li>
 <li><a href="#where-did-project-gutenberg-come-from">Where did Project Gutenberg come from?</a></li>
 <li><a href="#what-has-project-gutenberg-achieved">What has Project Gutenberg achieved?</a></li>
@@ -26,7 +26,7 @@ Contents
 </ol>
 </li>
 <li><a href="#about-project-gutenberg-publications">About Project Gutenberg publications</a>
-<ol class="inner">
+<ol class="inner_1">
 <li><a href="#does-project-gutenberg-publish-only-books">Does Project Gutenberg publish only books?</a></li>
 <li><a href="#what-books-does-project-gutenberg-publish">What books does Project Gutenberg publish?</a></li>
 <li><a href="#what-other-things-does-project-gutenberg-publish">What other things does Project Gutenberg publish?</a></li>

@@ -10,7 +10,7 @@ permalink: /how_to/copyright_faq.html
 <h1>Contents</h1>
 <ol>
 <li><a href="#copyright">Copyright</a>
-<ol class="inner">
+<ol class="inner_1">
 <li><a href="#what-is-copyright">What is copyright?</a></li>
 <li><a href="#does-copyright-differ-from-country-to-country-from-state-to-state">Does copyright differ from country to country? From state to state?</a></li>
 <li><a href="#what-are-the-copyright-laws-outside-the-us">What are the copyright laws outside the U.S.?</a></li>
