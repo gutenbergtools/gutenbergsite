@@ -24,8 +24,8 @@ submissions are welcome.
 
 The basic eligibility criteria are:
 - Submitted eBooks are digitized versions of printed books, or similar items such as manuals,
-pamphlets, periodicals travelogues, theses, journals, or chapbooks.
-- Evidence is submitted via the copyright portal at https://copy.pglaf.or to enable Project Gutenberg
+pamphlets, periodicals, travelogues, theses, journals, or chapbooks.
+- Evidence is submitted via the copyright portal at https://copy.pglaf.org to enable Project Gutenberg
 to confirm the source - that is, the printed item(s) from which the eBook is derived - is in the public
 domain in the US.
 - The eBook is submitted via the upload portal at https://upload.pglaf.org, and meets the 
@@ -55,7 +55,7 @@ There are strict criteria for file formats and compliance checks, which are docu
 but Project Gutenberg allows latitude for the volunteers who produce new eBooks to make choices about
 how to go about digitization. The producer may make stylistic choices, such
 as for page layout or images, whether to indicate original page numbers from the source, how to handle
-footnotes or endnotes, and other aspects about how the printed item is digitized. Producers are 
+footnotes or endnotes, and other aspects of how the printed item is digitized. Producers are 
 encouraged to focus on presentation of the content and structure of the eBook, more than a particular
 visual presentation or layout. This is because Project Gutenberg eBooks are intended to be enjoyable, no
 matter how or where they are read, now and in the future. As such, production choices should not 
@@ -102,11 +102,11 @@ for textual markup).
 
 Project Gutenberg worked with many different content types, including audio books, digitized sheet music, some
 movies, and quite a few copyrighted items that were donated by contemporary authors. By the early 2000s, it was
-clear that Project Gutenberg was not as well-suited for those different content types as it is for public
+clear that Project Gutenberg was not as well-suited for those different content types as for public
 domain literature. There are now many other outlets for these other types of works, including a self-publishing portal 
 for contemporary authors that is operated by a Project Gutenberg affiliate.
 
 Project Gutenberg will not remove or deprecate these previous items. They were all donated and accepted 
-with the best of intentions, and with the understanding that Project Gutenberg would provide for long-term stewardship
+with the best of intentions, and with the understanding that Project Gutenberg would provide for their long-term stewardship
 and unlimited redistribution. Michael Hart expressed unending gratitude to all the people who contributed content, and who
 digitized previous works. Project Gutenberg remains grateful to all of its contributors and volunteers.
