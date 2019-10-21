@@ -9,42 +9,42 @@ These guidelines might not reflect all current "best practices." Please visit [D
 
 <div class ="contents">
 <ol>
-<li><a href="#">Can I submit a HTML version of my text? </a></li>
-<li><a href="#">Why should I make a HTML version? </a></li>
-<li><a href="#">Can I submit a HTML version without a plain ASCII version?</a></li>
-<li><a href="#">What are the PG rules for HTML texts?</a>
+<li><a href="#can-i-submit-a-html-version-of-my-text">Can I submit a HTML version of my text? </a></li>
+<li><a href="#why-should-i-make-a-html-version">Why should I make a HTML version? </a></li>
+<li><a href="#can-i-submit-a-html-version-without-a-plain-ascii-version">Can I submit a HTML version without a plain ASCII version?</a></li>
+<li><a href="#what-are-the-pg-rules-for-html-texts">What are the PG rules for HTML texts?</a>
 <ol class ="inner_1">
-<li><a href="#">The only absolute rule is that the HTML should be valid according to one of the W3C HTML standards, and, if used, CSS must also be valid.</a></li>
-<li><a href="#">Requirement: File names and extensions</a></li>
-<li><a href="#">Requirement: Accessibility</a></li>
-<li><a href="#">Requirement: No scripting</a></li>
-<li><a href="#">Requirement: HTML and plain-text</a></li>
-<li><a href="#">Requirement: Archive format for posting</a></li>
-<li><a href="#">Recommendation: Simplicity</a></li>
-<li><a href="#">Recommendation: Images</a></li>
-<li><a href="#">Recommendation: Line lengths</a></li>
-<li><a href="#">Recommendation: Single-file HTML</a></li>
+<li><a href="#1-the-only-absolute-rule-is-that-the-html-should-be-valid-according-to-one-of-the-w3c-html-standards-and-if-used-css-must-also-be-valid">The only absolute rule is that the HTML should be valid according to one of the W3C HTML standards, and, if used, CSS must also be valid.</a></li>
+<li><a href="#2-requirement-file-names-and-extensions">Requirement: File names and extensions</a></li>
+<li><a href="#3-requirement-accessibility">Requirement: Accessibility</a></li>
+<li><a href="#4-requirement-no-scripting">Requirement: No scripting</a></li>
+<li><a href="#5-requirement-html-and-plain-text">Requirement: HTML and plain-text</a></li>
+<li><a href="#6-requirement-archive-format-for-posting">Requirement: Archive format for posting</a></li>
+<li><a href="#7-recommendation-simplicity">Recommendation: Simplicity</a></li>
+<li><a href="#8-recommendation-images">Recommendation: Images</a></li>
+<li><a href="#9-recommendation-line-lengths">Recommendation: Line lengths</a></li>
+<li><a href="#10-recommendation-single-file-html">Recommendation: Single-file HTML</a></li>
 </ol>
 </li>
-<li><a href="#">Can I use Javascript or other scripting languages in my HTML?</a></li>
-<li><a href="#">Should I make my HTML edition all on one page, or split it into multiple linked pages?</a></li>
-<li><a href="#">How can I check that I haven't made mistakes in coding my HTML?</a></li>
-<li><a href="#">Can I submit a HTML or other format of somebody else's text?</a></li>
-<li><a href="#">How big can the images be in a HTML file?</a></li>
-<li><a href="#">The images I've scanned are too big for inclusion in HTML. What can I do about it?</a></li>
-<li><a href="#">Can I include decorative images I've made or found? </a></li>
-<li><a href="#">How can I make a plain text version from a HTML file? </a></li>
-<li><a href="#">How can I make a HTML version from my plain text file? </a>
+<li><a href="#can-i-use-javascript-or-other-scripting-languages-in-my-html">Can I use Javascript or other scripting languages in my HTML?</a></li>
+<li><a href="#should-i-make-my-html-edition-all-on-one-page-or-split-it-into-multiple-linked-pages">Should I make my HTML edition all on one page, or split it into multiple linked pages?</a></li>
+<li><a href="#how-can-i-check-that-i-havent-made-mistakes-in-coding-my-html">How can I check that I haven't made mistakes in coding my HTML?</a></li>
+<li><a href="#can-i-submit-a-html-or-other-format-of-somebody-elses-text">Can I submit a HTML or other format of somebody else's text?</a></li>
+<li><a href="#how-big-can-the-images-be-in-a-html-file">How big can the images be in a HTML file?</a></li>
+<li><a href="#the-images-ive-scanned-are-too-big-for-inclusion-in-html-what-can-i-do-about-it">The images I've scanned are too big for inclusion in HTML. What can I do about it?</a></li>
+<li><a href="#can-i-include-decorative-images-ive-made-or-found">Can I include decorative images I've made or found? </a></li>
+<li><a href="#how-can-i-make-a-plain-text-version-from-a-html-file">How can I make a plain text version from a HTML file? </a></li>
+<li><a href="#how-can-i-make-a-html-version-from-my-plain-text-file">How can I make a HTML version from my plain text file? </a>
 <ol class="inner_1">
-<li><a href="#"> Add the HTML header and footer information </a></li>
-<li><a href="#"> Add paragraph marks. </a></li>
-<li><a href="#"> Add marks for headings. </a></li>
-<li><a href="#">Line up verse, tables of contents, and other lists. </a></li>
-<li><a href="#"> Add back in italics and bold. </a></li>
-<li><a href="#"> Restore accents and special characters. </a></li>
-<li><a href="#">Link Images into the text. </a></li>
-<li><a href="#">Over to you! </a></li>
-<li><a href="#">Some common problems </a></li>
+<li><a href="#step-1-add-the-html-header-and-footer-information"> Add the HTML header and footer information </a></li>
+<li><a href="#step-2-add-paragraph-marks"> Add paragraph marks. </a></li>
+<li><a href="#step-3-add-marks-for-headings"> Add marks for headings. </a></li>
+<li><a href="#step-4-line-up-verse-tables-of-contents-and-other-lists">Line up verse, tables of contents, and other lists. </a></li>
+<li><a href="#step-5-add-back-in-italics-and-bold"> Add back in italics and bold. </a></li>
+<li><a href="#step-6-restore-accents-and-special-characters"> Restore accents and special characters. </a></li>
+<li><a href="#step-7-link-images-into-the-text">Link Images into the text. </a></li>
+<li><a href="#step-8-over-to-you">Over to you! </a></li>
+<li><a href="#step-9-some-common-problems">Some common problems </a></li>
 </ol>
 </li>
 </ol>
@@ -389,6 +389,38 @@ For each row you want in the table, you open and close a table row &lt;tr&gt; ta
 &lt;/table&gt;
 </pre>
 
+and then for each cell within a row, you specify a <td> tag and the contents of that cell: 
+<pre>
+&lt;table&gt;
+  &lt;tr&gt;
+  &lt;td&gt;This is the Top Left cell&lt;/td&gt;
+  &lt;td&gt;This is the Top Right cell&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+  &lt;td&gt;This is the Bottom Left cell&lt;/td&gt;
+  &lt;td&gt;This is the Bottom Right cell&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</pre>
 
+This only scratches the surface of tables. However, there are many guides available on the Web, and they're easy to find, once you know which tags you're looking for. A brief discussion of tables is provided by the W3C as part of the HTML 4.01 spec at <[https://www.w3.org/TR/html4/struct/tables.html#h-11.5](https://www.w3.org/TR/html4/struct/tables.html#h-11.5)> and he tutorial at <[https://www.w3.org/MarkUp/Guide/Advanced.html](https://www.w3.org/MarkUp/Guide/Advanced.html)> also shows how to make HTML tables. 
 
+### Step 9. Some common problems
+
+When you're just starting to code HTML, it may seem that errors are coming at you from all sides. Tidy may spew out a stream of complaints that you don't recognize or understand. If it's any consolation, this is normal!
+
+Just take the error list one line at a time, starting at the top. Often, one actual mistake, like not closing a tag, may cause many errors, since an unclosed tag can cause many subsequent tags to be reported as errors.
+
+Common errors include: 
+1. Simple typos in tags, like <h2Chapter 3 &lt;/h2&gt; instead of &lt;h2&gt;Chapter 3&lt;/h2&gt;
+2. Unclosed tags, like forgetting to add the </h2> in the sample above, or forgetting the slash in the closing tag so that you type &lt;i&gt;italics&lt;i&gt; instead of &lt;i&gt;italics </i>.
+3. Not nesting tags correctly. Get used to thinking of tags as brackets; the first one opened should be the last one closed. For example, you should type:
+<pre>
+&lt;center&gt;&lt;p&gt;This is centered.&lt;/p&gt;&lt;/center&gt;
+</pre>
+instead of
+<pre>
+&lt;p&gt;&lt;center&gt;This is centered.&lt;/center&gt;&lt;/p&gt;
+</pre>
+One option for making a HTML version is to use GutenMark <[http://www.sandroid.org/GutenMark/](http://www.sandroid.org/GutenMark/)> to create the basic HTML straight from your text, and then edit the resulting HTML to add the features you want. If you're having a lot of problems with your main conversion, this is worth a try. 
 

@@ -26,8 +26,8 @@ permalink: /how_to/
       <h2>H</h2>
       <li><a href="/how_to/html_faq.html">HTML FAQ</a></li>
       <h2>M</h2>
-      <li><a href="mirroring.html">Mirroring How-To</a></li>
-      <li><a href="mobilereader_devices.html">MobileReader Devices How-To</a></li>
+      <li><a href="/how_to/mirroring.html">Mirroring How-To</a></li>
+      <li><a href="/help/mobile.html">MobileReader Devices How-To</a></li>
       <h2>N</h2>
       <li><a href="no_sweat_copyright.html">No Sweat of the Brow copyright</a></li>
       <h2>P</h2>
