@@ -5,6 +5,43 @@ permalink: /help/mobile.html
 ---
 # MobileReader Devices How-To
 From Project Gutenberg, the first producer of free ebooks.
+<div class="contents">
+<ol>
+<li><a href="#project-gutenberg-is-not-just-for-your-desktop-or-notebook-computer">Project Gutenberg is not just for your desktop or notebook computer!</a></li>
+<li><a href="#search-for-guidance">Search for Guidance</a></li>
+<li><a href="#general-advice">General Advice</a></li>
+<li><a href="#kindle">Kindle</a>
+<ol class="inner_1">
+<li><a href="#general-kindle-help">General Kindle help</a></li>
+<li><a href="#blocked-users">Blocked Users</a></li>
+<li><a href="#kindle-fire-review-from-2012">Kindle Fire Review from 2012</a>
+<ol class="inner_2">
+<li><a href="#alternate-apps-and-formats">Alternate Apps and Formats</a></li>
+</ol>
+</li>
+<li><a href="#kindle-3">Kindle 3</a></li>
+<li><a href="#amazons-new-file-format">Amazon's new File Format</a></li>
+</ol>
+</li>
+<li><a href="#nook">Nook</a></li>
+<li><a href="#kobo-reader">Kobo Reader</a></li>
+<li><a href="#android">Android</a>
+<ol class="inner_1">
+<li><a href="#free-fb-reader">Free: FBReader</a></li>
+</ol>
+</li>
+<li><a href="#ipad-iphone-and-ipod-touch">iPad, iPhone and iPod Touch</a>
+<ol class="inner_1">
+<li><a href="#free-lexcycle-stanza">Free: Lexcycle Stanza</a></li>
+<li><a href="#free-himalaya">Free: Himalaya</a></li>
+<li><a href="#paid-eucalyptus">Paid: Eucalyptus</a></li>
+<li><a href="#paid-megareader">Paid: MegaReader</a></li>
+<li><a href="#paid-quickreader">Paid: QuickReader</a></li>
+</ol>
+</li>
+<li><a href="#suggestions-from-project-gutenberg-founder-michael-hart">9 Suggestions from Project Gutenberg Founder Michael Hart</a></li>
+</ol>
+</div>
 
 ## Project Gutenberg is not just for your desktop or notebook computer!
 The Nook, Kindle, Sony EReader, iPad and other eBook readers can display Project
@@ -122,6 +159,13 @@ Here are apps we know of that will work outside of the U.S., as well as within t
 
 ### Paid: MegaReader
 **MegaReader** is a paid ebook reader for iPad, iPhone and iPod Touch.
+1. Download QuickReader from the Apple App Store. Use the link on the right for the US store.
+2. Open QuickReader and select "Normal Reading" or "Speed Reading".
+3. Select "Download Books".
+4. From the list select "Project Gutenberg".
+
+### Paid: QuickReader
+**QuickReader** is a paid ebook reader for iPad, iPhone and iPod Touch. It implements a speed reading technique that teaches you how to read faster. 
 1. Download QuickReader from the Apple App Store. Use the link on the right for the US store.
 2. Open QuickReader and select "Normal Reading" or "Speed Reading".
 3. Select "Download Books".
