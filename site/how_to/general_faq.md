@@ -73,7 +73,7 @@ The Project Gutenberg Literary Archive Foundation is a 501(c)(3) organization. D
 
 In terms of the day-to-day production of eBooks, our volunteers run themselves.&#160;:-) They produce books, and submit them when completed. Our Production Directors help with general volunteer issues. The Posting Team check submitted texts and shepherd them onto our servers. You can find current contact information for these people on the [Contact Information page](/about/contact_information.html).
 
-### G.5. How many people are in Project Gutenberg?
+### How many people are in Project Gutenberg?
 It depends how you count them. We don't do roll-calls or give out membership cards. At the end of 2003, [Distributed Proofreaders](https://www.pgdp.net) sees maybe 400 people turn up to do some proofing each day, [Distributed Proofreaders Europe](https://dp.rastko.net) another 50 or so, and not everyone works through the DP sites. It would be a reasonable guess that 2,000 or so people will be doing some work for PG this month.
 
 ### How can I contact Project Gutenberg?
