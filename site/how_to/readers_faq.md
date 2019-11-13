@@ -10,70 +10,70 @@ Most of this page is no longer actively maintained. Some content may be inaccura
 
 <div class="contents">
 <ol>
-<li><a href="#">About Finding eBooks</a>
+<li><a href="#about-finding-ebooks">About Finding eBooks</a>
 <ol class="inner_1">
-<li><a href="#">How can I find an eBook I'm looking for?</a></li>
-<li><a href="#">Can I get a complete list of Project Gutenberg eBooks?</a></li>
-<li><a href="#">How can I download a PG text without using the web catalog?</a>
+<li><a href="#how-can-i-find-an-ebook-im-looking-for">How can I find an eBook I'm looking for?</a></li>
+<li><a href="#can-i-get-a-complete-list-of-project-gutenberg-ebooks">Can I get a complete list of Project Gutenberg eBooks?</a></li>
+<li><a href="#how-can-i-download-a-pg-text-without-using-the-web-catalog">How can I download a PG text without using the web catalog?</a>
 <ol class="inner_2">
-<li><a href="#"> Books after 10,000 &#8212; the new naming scheme</a></li>
-<li><a href="#">Books before 10,000 &#8212; the old naming scheme</a></li>
+<li><a href="#books-after-10000--the-new-naming-scheme"> Books after 10,000 &#8212; the new naming scheme</a></li>
+<li><a href="#books-before-10000--the-old-naming-scheme">Books before 10,000 &#8212; the old naming scheme</a></li>
 </ol>
 </li>
-<li><a href="#">You don't have the eBook I'm looking for. Can you help me find it?</a></li>
-<li><a href="#">Where else can I go to get eBooks?</a></li>
-<li><a href="#">I see some eBooks in several places on the Net. Do different people really re-create the same eBooks?</a></li>
+<li><a href="#you-dont-have-the-ebook-im-looking-for-can-you-help-me-find-it">You don't have the eBook I'm looking for. Can you help me find it?</a></li>
+<li><a href="#where-else-can-i-go-to-get-ebooks">Where else can I go to get eBooks?</a></li>
+<li><a href="#i-see-some-ebooks-in-several-places-on-the-net-do-different-people-really-re-create-the-same-ebooks">I see some eBooks in several places on the Net. Do different people really re-create the same eBooks?</a></li>
 </ol>
 </li>
-<li><a href="#">About Using the Web Site</a>
+<li><a href="#about-using-the-web-site">About Using the Web Site</a>
 <ol class="inner_1">
-<li><a href="#"> Why couldn't I reach your site? (or: Why is your site slow?)</a></li>
-<li><a href="#">I get an error when I try to download a book.</a></li>
-<li><a href="#">I searched for a book I know is in Project Gutenberg, but got no results.</a></li>
-<li><a href="#">Can I copy your website, or your website materials?</a></li>
-<li><a href="#">Your site doesn't look right in my browser. I clicked on a button, and nothing happened.</a></li>
-<li><a href="#">What does that thing about "mirror sites" mean?</a></li>
-<li><a href="#">What exactly is an FTP site anyway?</a></li>
-<li><a href="#">Can I become an FTP mirror?</a></li>
-<li><a href="#">Can I make a private FTP mirror for my school, library or organization?</a></li>
-<li><a href="#">When I clicked on the file I want, nothing happened.</a></li>
-<li><a href="#">How many texts are downloaded through the web site?</a></li>
-<li><a href="#">What are the most popular books?</a></li>
+<li><a href="#why-couldnt-i-reach-your-site-or-why-is-your-site-slow"> Why couldn't I reach your site? (or: Why is your site slow?)</a></li>
+<li><a href="#i-get-an-error-when-i-try-to-download-a-book">I get an error when I try to download a book.</a></li>
+<li><a href="#i-searched-for-a-book-i-know-is-in-project-gutenberg-but-got-no-results">I searched for a book I know is in Project Gutenberg, but got no results.</a></li>
+<li><a href="#can-i-copy-your-website-or-your-website-materials">Can I copy your website, or your website materials?</a></li>
+<li><a href="#your-site-doesnt-look-right-in-my-browser-i-clicked-on-a-button-and-nothing-happened">Your site doesn't look right in my browser. I clicked on a button, and nothing happened.</a></li>
+<li><a href="#what-does-that-thing-about-mirror-sites-mean">What does that thing about "mirror sites" mean?</a></li>
+<li><a href="#what-exactly-is-an-ftp-site-anyway">What exactly is an FTP site anyway?</a></li>
+<li><a href="#can-i-become-an-ftp-mirror">Can I become an FTP mirror?</a></li>
+<li><a href="#can-i-make-a-private-ftp-mirror-for-my-school-library-or-organization">Can I make a private FTP mirror for my school, library or organization?</a></li>
+<li><a href="#when-i-clicked-on-the-file-i-want-nothing-happened">When I clicked on the file I want, nothing happened.</a></li>
+<li><a href="#how-many-texts-are-downloaded-through-the-web-site">How many texts are downloaded through the web site?</a></li>
+<li><a href="#what-are-the-most-popular-books">What are the most popular books?</a></li>
 </ol>
 </li>
-<li><a href="#">About Downloading and Using Project Gutenberg eBooks</a>
+<li><a href="#about-downloading-and-using-project-gutenberg-ebooks">About Downloading and Using Project Gutenberg eBooks</a>
 <ol class="inner_1">
-<li><a href="#">Should I download a ZIP or a TXT file?</a></li>
-<li><a href="#">I've got a ZIP file. What do I do with it?</a></li>
-<li><a href="#">I tried to unzip my file, but it said the file was corrupt, or damaged.</a></li>
-<li><a href="#">I see gibberish onscreen when I click on a book.</a></li>
-<li><a href="#">Can I download and read your books?</a></li>
-<li><a href="#">What am I allowed to do with the books I download?</a></li>
-<li><a href="#">Does Project Gutenberg know who downloads their books?</a></li>
-<li><a href="#">I've found some obvious typos in a Project Gutenberg text. How should I report them?</a></li>
-<li><a href="#">I've found some obvious typos in a Project Gutenberg text. Who should I report them to?</a></li>
-<li><a href="#">I've reported some typos. What will happen next?</a></li>
-<li><a href="#">I've got the text file, and I can read it, but it seems to be double-spaced or it has control characters like ^J or ^M at the end of every line.</a></li>
-<li><a href="#">When I print out the text file, each line runs over the edge of the page and looks bad.</a></li>
-<li><a href="#">I can read the text file, but a few characters appear as black squares, or gibberish.</a></li>
-<li><a href="#">Can I get a handheld device for reading PG texts? Which device should I get?</a></li>
-<li><a href="#">How can I read a PG eBook on my Palm?</a></li>
-<li><a href="#">How can I read a PG eBook on my PDA (not Palm)?</a></li>
+<li><a href="#should-i-download-a-zip-or-a-txt-file">Should I download a ZIP or a TXT file?</a></li>
+<li><a href="#ive-got-a-zip-file-what-do-i-do-with-it">I've got a ZIP file. What do I do with it?</a></li>
+<li><a href="#i-tried-to-unzip-my-file-but-it-said-the-file-was-corrupt-or-damaged">I tried to unzip my file, but it said the file was corrupt, or damaged.</a></li>
+<li><a href="#i-see-gibberish-onscreen-when-i-click-on-a-book">I see gibberish onscreen when I click on a book.</a></li>
+<li><a href="#can-i-download-and-read-your-books">Can I download and read your books?</a></li>
+<li><a href="#what-am-i-allowed-to-do-with-the-books-i-download">What am I allowed to do with the books I download?</a></li>
+<li><a href="#does-project-gutenberg-know-who-downloads-their-books">Does Project Gutenberg know who downloads their books?</a></li>
+<li><a href="#ive-found-some-obvious-typos-in-a-project-gutenberg-text-how-should-i-report-them">I've found some obvious typos in a Project Gutenberg text. How should I report them?</a></li>
+<li><a href="#ive-found-some-obvious-typos-in-a-project-gutenberg-text-who-should-i-report-them-to">I've found some obvious typos in a Project Gutenberg text. Who should I report them to?</a></li>
+<li><a href="#ive-reported-some-typos-what-will-happen-next">I've reported some typos. What will happen next?</a></li>
+<li><a href="#ive-got-the-text-file-and-i-can-read-it-but-it-seems-to-be-double-spaced-or-it-has-control-characters-like-j-or-m-at-the-end-of-every-line">I've got the text file, and I can read it, but it seems to be double-spaced or it has control characters like ^J or ^M at the end of every line.</a></li>
+<li><a href="#when-i-print-out-the-text-file-each-line-runs-over-the-edge-of-the-page-and-looks-bad">When I print out the text file, each line runs over the edge of the page and looks bad.</a></li>
+<li><a href="#i-can-read-the-text-file-but-a-few-characters-appear-as-black-squares-or-gibberish">I can read the text file, but a few characters appear as black squares, or gibberish.</a></li>
+<li><a href="#can-i-get-a-handheld-device-for-reading-pg-texts-which-device-should-i-get">Can I get a handheld device for reading PG texts? Which device should I get?</a></li>
+<li><a href="#how-can-i-read-a-pg-ebook-on-my-palm">How can I read a PG eBook on my Palm?</a></li>
+<li><a href="#how-can-i-read-a-pg-ebook-on-my-pda-not-palm">How can I read a PG eBook on my PDA (not Palm)?</a></li>
 </ol>
 </li>
-<li><a href="#">About the Files</a>
+<li><a href="#about-the-files">About the Files</a>
 <ol class="inner_1">
-<li><a href="#">What types of files are there, and how do I read them?</a></li>
-<li><a href="#">What do the filenames of the texts mean?</a>
+<li><a href="#what-types-of-files-are-there-and-how-do-i-read-them">What types of files are there, and how do I read them?</a></li>
+<li><a href="#what-do-the-filenames-of-the-texts-mean">What do the filenames of the texts mean?</a>
 <ol class="inner_2">
-<li><a href="#">Books after 10,000 &#8212; the new naming scheme</a></li>
-<li><a href="#">Books up to 10,000 &#8212; the old naming scheme</a></li>
+<li><a href="#books-after-10000--the-new-naming-scheme-1">Books after 10,000 &#8212; the new naming scheme</a></li>
+<li><a href="#books-up-to-10000--the-old-naming-scheme">Books up to 10,000 &#8212; the old naming scheme</a></li>
 </ol>
 </li>
-<li><a href="#">What is the difference within PG between an "edition" and a "version"?</a></li>
-<li><a href="#">What is the difference between an "etext" and an "eBook"?</a></li>
-<li><a href="#">What are the "Etext/Ebook numbers" on the texts?</a></li>
-<li><a href="#">What do the month and year on the text mean?</a></li>
+<li><a href="#what-is-the-difference-within-pg-between-an-edition-and-a-version">What is the difference within PG between an "edition" and a "version"?</a></li>
+<li><a href="#what-is-the-difference-between-an-etext-and-an-ebook">What is the difference between an "etext" and an "eBook"?</a></li>
+<li><a href="#what-are-the-etextebook-numbers-on-the-texts">What are the "Etext/Ebook numbers" on the texts?</a></li>
+<li><a href="#what-do-the-month-and-year-on-the-text-mean">What do the month and year on the text mean?</a></li>
 </ol>
 </li>
 </ol>
@@ -212,7 +212,7 @@ If you choose one of the mirrors, you are then brought to a new page, asking you
 
 Select a site, and the file will be downloaded, or offered for download, depending on which format you selected and which browser you use. 
 
-If you can't find your text either way, the book has not been cataloged. If you know that the book has been posted recently, and maybe hasn't made it into the catalog yet, read: [ How can I download a PG text without using the web catalog?]( How can I download a PG text without using the web catalog?) 
+If you can't find your text either way, the book has not been cataloged. If you know that the book has been posted recently, and maybe hasn't made it into the catalog yet, read: [ How can I download a PG text without using the web catalog?](how-can-i-download-a-pg-text-without-using-the-web-catalog) 
 
 If even this doesn't help, don't despair! We don't have it, but it may be elsewhere on the Web. Go to the major search engines and try there. You can also try looking in the Book Search section of [The Online Books Page](https://onlinebooks.library.upenn.edu), and if you have no luck with that, you might be able to find it listed as being In Progress somewhere on their [Books In Progress and Requested](https://onlinebooks.library.upenn.edu/in-progress.html) page.
 
@@ -414,4 +414,351 @@ The Posting Team, who post the books, also make the corrections, and ultimately,
 
 Many producers put their e-mail addresses in their texts, specifically so that readers can contact them when errors are found. If you see that in your text, you should try to contact the producer first. This is especially true if the corrections aren't obvious, as in the case of missing words. The producer is likely to have the original book, and will probably be able to confirm your corrections without visiting a library. If the book needs the corrections, the producer can then notify the Posting Team.
 
-If you get no response from the producer, or if there is no e-mail address listed, or if the corrections are small and obvious, you should send them to the email address for reporting errors listed on the Contacts Page where members of the posting team will deal with them. 
+If you get no response from the producer, or if there is no e-mail address listed, or if the corrections are small and obvious, you should send them to the email address for reporting errors listed on the Contacts Page where members of the posting team will deal with them.
+
+### I've reported some typos. What will happen next?
+This varies wildly. Sometimes, you may just get a response e-mail in a day or three saying thanks, and that we've fixed the typo. This is normal when you've just reported one or a few obvious typos.
+
+Where there is some text missing, or the changes you suggest are otherwise not obvious, we may have to find someone with an eligible copy of the book to confirm the changes, and that might take time. Normally, you will get an e-mail explaining that within a week.
+
+Sometimes, even though you've noticed only one or two small typos, one of the Posting Team who was looking at it may find many more, and decide that the whole text needs to be re-proofed. This may also take time.
+
+If the text needs a lot of changes, we may post a new EDITION [R.35] of it, with a new filename: e.g. abcde10.txt may become abcde11.txt. In this case, you will receive a copy of the e-mail sent to the posted list announcing the new file. Our current rule of thumb is that we create a new edition when we make twelve significant changes, but we judge each on a case-by-case basis, and especially will usually not make a new edition if the original was posted recently. 
+
+### I've got the text file, and I can read it, but it seems to be double-spaced or it has control characters like ^J or ^M at the end of every line.
+This is most often seen on Mac or Linux. If you want to dig into why this effect happens, see the FAQ "Why use a CR/LF at end of line?" [V.85].
+
+Perhaps viewing it in a different editor or viewer will help, but it's usually easiest just to globally replace all of the control characters (if you see them) with nothing, or to replace all double line-ends with single line-ends. 
+
+### When I print out the text file, each line runs over the edge of the page and looks bad.
+If you have a file ending in .txt from Project Gutenberg, it is usually formatted with about 70 characters per line, and with a Carriage Return/Line Feed pair (also known as a "Hard Return" or a "Paragraph Mark") at the end of every line.
+
+This is the most widely accepted format for text files, but it's not ideal on all computers and all programs. 70 characters per line means that if you are using an unusually large or small font to print it, lines may wrap around or not reach across the page. The hard return means that on some systems, the lines may appear double-spaced.
+
+Unfortunately, we can't advise you how best to format texts on all systems, mostly because we don't know every system! Here are a couple of tips you might try:
+
+If your font is too big or too small, try setting the font to Courier size 10 or Times size 12. It may not be ideal, but it mostly works.
+
+In a word processor, you may be able to remove the Hard Returns, but beware! if you remove too many, the whole text will become one paragraph. One common formula for removing the HRs goes like this:
+
+    First, all paragraphs and separate lines should be separated by two HRs, so that you can see one blank line between them. Where they aren't, as in the case of a table of contents or lines of verse, add the extra HRs to make them so.
+    Replace All occurrences of two HRs with some nonsense character or string that doesn't exist in the text, like ~$~.
+    Replace All remaining HRs with a space.
+    Replace your inserted string ~$~ with one HR.
+
+### I can read the text file, but a few characters appear as black squares, or gibberish.
+The text is using some character set that your editor or viewer isn't. For example, the text is using ISO-8859-1, and your viewer is using Codepage 850 — or vice versa. You can see the plain ASCII characters, but non-ASCII characters like accented letters display as nonsense.
+
+Look at the top of the file for a clue to the character set encoding: if it's there, it may help you to find which editor, or font, or viewer you should be using. 
+
+### Can I get a handheld device for reading PG texts? Which device should I get?
+To read eBooks on a handheld, you need three things: the eBook content itself (which you can get from PG and other sites), a device (which I will sometimes call a PDA, even though technically, the RocketBook isn't a PDA) and the reader software that runs on the PDA.
+
+In mid-2002, there are three main families of handheld devices people use for reading eBooks: Palms, Pocket PCs and RocketBooks (or their successor, REB1100s). In general, it is possible to use any of these in combination with any common type of personal computer. 
+
+Palms are very common, especially when you count not just the Palm [http://www.palmone.com/us/](http://www.palmone.com/us/) itself, but PalmOS-based devices from other manufacturers, like: 
+	the Franklin eBookMan [http://www.franklin.com/ebookman/](http://www.franklin.com/ebookman/)
+	the Handspring Visor [http://www.handspring.com](http://www.handspring.com)
+        the Sony Clié [http://www.sony.com](http://www.sony.com)
+
+Because of the number of makers of PalmOS-based devices, you can buy them with lots of combinations of features — color screen, audio, different memory sizes. Of course, Palms have other applications besides eBook reading. Palms are the smallest and most portable of the three classes, and tend to have the best battery life for travelling, but they also have the smallest screen. Just about all reader software will run on Palms, except the Microsoft Reader, which runs only on Pocket PCs, but you don't need the Microsoft Reader for Project Gutenberg eBooks. 
+
+In Pocket PCs, the Compaq iPaq [http://www.hp.com](http://www.hp.com) and the Dell Axim [http://www.dell.com](http://www.dell.com) are by far the most common at the end of 2003. More expensive and bulkier than a Palm, they have a bigger screen. Like the Palms, they can perform many functions besides reading eBooks. Only Pocket PCs can support the Microsoft Reader, but this is not necessary for reading Project Gutenberg eBooks. 
+
+The RocketBook, and its successor the Gemstar REB1100, are quite different from the others. These were built specifically for reading eBooks, and do not have additional functions. They are not, technically, PDAs. Their screens are bigger, and excellent for reading, but do not offer color. They also don't offer a choice of readers — the dedicated reader is built-in to the device. Both of them require the eBooks you load to be formatted for their reader, and files made for them usually have the extension .rb for RocketBook. The REB1100 did not come with the RocketLibrarian, which is the program you run on your PC to turn an etext into a RocketBook file, but people are still making .rb files, and the RocketLibrarian is still available and popular among an enthusiastic group of Rocket users. (The REB1200 is entirely different from the REB1100, and, as far as we know, PG etexts cannot easily be transferred to it.)
+
+In late 2003, Gemstar discontinued their eBook reader range, but there are many still around.
+
+In summary, the Rocket/REB1100 is a dedicated reader, with a good screen, but limited to what it does.
+
+Palms are relatively cheap and common, with a wide range of options, and the capacity to function as PDAs as well. They can run all common readers except the Microsoft one. .
+
+The iPaq [http://www.hp.com](http://www.hp.com) has a good color screen, but is bulkier than a Palm, and can run lots of readers, including the Microsoft one, but not all Palm readers are available for Pocket PC. Like Palms, the iPaq can do other jobs besides displaying eBooks.
+
+Different people make different choices among these for reading their eBooks, and they all work well; it's a matter of personal taste.
+
+### How can I read a PG eBook on my Palm?
+These steps work for all devices running the Palm OS. 
+1. Install the free [Plucker Viewer](http://www.plkr.org/dl)
+2. Download the eBook in the "plucker" format to your desktop
+3. Sync the plucker file to the Palm using your favorite desktop application
+
+### How can I read a PG eBook on my PDA (not Palm)?
+To read a book on your PDA, you need to get the file into a format that your reader software understands. Each PDA reader program will work only with a specific format of file. Some will read several formats, but, in general, it's a jungle of competing options. 
+Unless you use a Rocket or REB1100, you will need to install at least one reader program, and many veteran readers install two or three to deal with different formats. There are many of them available. One of the most used is the [Mobipocket Reader](http://www.mobipocket.com).
+
+Further, the process may be different depending on which reader software you're using. Each format that a reader understands has one or more converter programs that run on your PC, and turn the plain text file into that format. So in general, you have to: 
+1. Download the PG text
+2. Edit the text for the layout the converter wants (often HTML).
+3. Use the converter to create a file of the format the reader wants.
+4. Transfer the converted file to your PDA.
+
+If all this sounds too complicated, remember that many people take and convert PG texts into many formats, and offer them for download from their sites. Of course, there is no guarantee that someone will have converted the particular eBook you want, but there are lots of options. Try [Blackmask](http://www.blackmask.com), which lists thousands of texts already converted for Mobipocket, iSilo, RocketBook and the Microsoft Reader. 
+
+There are many other sites that serve pre-converted PG texts. 
+
+[MemoWare](http://www.memoware.com) is also a useful resource for converted eBooks, and has lots of information, including an excellent [map of the readers and formats jungle](http://www.memoware.com/mw.cgi/?screen=help_format)
+
+Steve Sakoman's site at [http://www.sakoman.net/](http://www.sakoman.net/) takes plain texts from PG and produced automated conversions to HTML and PalmDOC PDB. 
+
+If you're "rolling your own", you'll probably need to convert our plain texts to HTML at some point, because a lot of converters require HTML as input, and this is a common theme in readers' explanations of how they get texts onto their PDAs. Don't panic! You don't have to be a HTML wizard to do this — in fact, you don't need to know anything about HTML at all! Usually, it's just a matter of removing some line ends and Saving As HTML. You won't get a lot of fancy markup, or images out of thin air, but you will get the book. 
+
+One of the main things you usually have to do in making HTML is unwrap the lines. If you're making your HTML manually, this is usually done by replacing two paragraph marks with some nonsense marker like @@Z@@, replacing all single paragraph marks with a space, and replacing the nonsense marker with a paragraph mark. After unwrapping, the text can just be Saved As HTML.
+
+This has the drawback that lines that shouldn't be wrapped — like poetry, tables or letter headings, will be wrapped. You may have to go through the text and add extra line breaks for these.
+
+There are some applications that specifically assist with auto-converting text into HTML: 
+- GutenMark [http://www.sandroid.org/GutenMark](http://www.sandroid.org/GutenMark) was specifically written for the purpose, and knows enough about PG conventions to do a very good job.
+- InterParse [http://www.interparse.com](http://www.interparse.com) is a Windows-based generic text parser that is very easy and intuitive to use.
+- The World Wide Web Consortium lists some other options at [http://www.w3.org/Tools/Misc_filters.html](http://www.w3.org/Tools/Misc_filters.html)
+
+If you're using a RocketBook or REB1100, you don't have either the choices or the confusion to deal with. One of our volunteers who uses a RocketBook offered this recipe for getting a PG text onto a RocketBook:
+
+On converting to Rocket: 
+1. Download text file.
+2. Using your utility for showing formatting, enter your word processing program's edit mode.
+3. Replace all double paragraph marks with some nonsense sequence that can't possibly actually be there, such as @@Z@@.
+4. Replace all single paragraph marks with one single space (enter).
+5. Replace your nonsense sequence with one paragraph mark.
+6. Convert all your double spaces to single spaces. Repeat this until you get "0" for how many replacements were made.
+7. Save in HTML.
+8. Go into your Rocket Librarian. Use "import file using Rocket Librarian." Go and pick up the file, which will be automatically converted to .rb in this process.
+
+This sounds long, but it usually takes me under three minutes except for a very long text. I've never taken longer than five minutes. You can just go in and pick up the text file with Rocket Librarian, but what you get onscreen doing this looks very odd. Steps 2-7 are not essential, and if I'm in a hurry to read something once I might skip them, but if it's something I know I want to keep I use them. 
+
+This formula is not ideal for poetry or blank verse — if you want to keep the lines unwrapped, you should avoid removing the paragraph marks. 
+Another volunteer, who reads on Mobipocket [http://www.mobipocket.com](http://www.mobipocket.com) offered this suggestion:
+I use the MobiPocket Publisher, available free from [http://www.mobipocket.com](http://www.mobipocket.com). It wants to take a HTML file as input, so the first thing I have to do is convert my PG text to HTML. 
+
+I usually do this by running GutenMark, available at [http://www.sandroid.org/GutenMark](http://www.sandroid.org/GutenMark). I can also do it in Microsoft Word using the following sequence: 
+- Edit / Replace / Special and choose Paragraph Mark twice (or, from replace, you can type in ^p^p to get two Paragraph Marks) and replace with @@@@. Replace All. This saves off real paragraph ends by marking them with a nonsense sequence.
+- Now Replace one Paragraph Mark (^p) with a space. Replace All. This removes the line-ends.
+- Finally, replace @@@@ with one Paragraph Mark. Replace All. This brings back the Paragraph Ends.
+- Now I can Save As HTML.
+
+GutenMark does a better job of converting to HTML than my simple Word formula, since it recognizes standard PG features, and sometimes Mobipocket doesn't like the HTML produced from Word — it complains of a missing file, or doesn't recognize quotation marks. 
+
+Having got my HTML file, I open Mobipocket Publisher, choose "Project Gutenberg", Add the File I created, and just Publish it to MobiPocket .PRC format. Then I pick it up on my iPaq the next time I sync. The whole process takes two or three minutes, and the results, since I discovered GutenMark, are good. 
+
+I recently came across InterParse 4 at [http://www.interparse.com](http://www.interparse.com). It doesn't have the built-in knowledge of GutenMark, so the results aren't as good, but it's really easy to use, and you can see the effect of your changes onscreen as you do it. For most PG books, all you have to do is just Open the text file and choose Options / Remove all CRLFs (Except at Paragraph End), then Convert / Text to HTML and Save As the HTML filename you want. Quick and painless. 
+
+## About the Files
+### What types of files are there, and how do I read them?
+The vast majority of our files are plain text. You can read these with any editor or text viewer or browser. Some are HTML. You can read these with any browser.
+
+For a fuller listing of other file types, and how to read them, please see the Formats FAQ [F.2]. 
+
+### What do the filenames of the texts mean?
+We have to divide this question into two answers, for books up to 10,000, and books after 10,000 (or older books reposted after we hit 10,000). 
+
+#### Books after 10,000 — the new naming scheme
+Since eBook number 10,000, we name our files based on the PG etext number; thus, the base of the name simply reflects the order in which the book was posted. 12345.txt is just the 12,345th book posted.
+
+Also, when we correct an older book, we may repost it into the new naming scheme rather than just replacing it in the old scheme. When we do this, its naming conventions are the same as if it had been numbered after 10,000, and, additionally, we add a subdirectory "old/", into which we put all of the older files, so that they are preserved for anyone who wants to examine them. In this way, we will eventually move all e-books to the new naming scheme.
+
+Formats or character sets other than plain ASCII then get extensions added to indicate the type of file. Character sets get digits; formats get letters. The most common of these are: 
+- -0 for Unicode
+- -8 for 8-bit plain text
+- -h for HTML
+- -m for MP3
+- -r for RTF
+- -t for TeX
+- -x for XML
+
+Thus, eBook number 12345 may — fairly typically — have the files 12345.txt, 12345.zip, 12345-8.txt, 12345-8.zip, 12345-h.htm and 12345-h.zip, as well as other possible character sets or formats.
+
+Other formats get appropriate three-letter extensions, like -pdf.
+
+The complete set of naming rules for post-10K eBooks is:
+
+1. Directory structure: the directory for the eBook shall be contained in a hierarchy of directories, each one a single digit, being all the digits of the etext number except the last, in order. The name of the directory for the eBook itself shall be the number of the eBook. Thus, eBook #12345 will be contained in: 
+
+<pre>
+/1/2/3/4/12345/
+</pre>
+and 123456 in 
+<pre>
+/1/2/3/4/5/123456/
+</pre>
+Where an e-book is a reposting of a pre-10,000 text, we will create an old/ subdirectory, containing all of the old files associated with that text. For example, consider:
+
+    Mike, by P. G. Wodehouse 7423
+
+The corrected, reposted files will be found in:
+
+    /7/4/2/7423/
+
+and the older, pre-10K files will all be held in:
+
+    /7/4/2/7423/old/
+
+2. Filenames within the eBook's directory shall be the eBook's number, with extensions preceded by a minus sign, indicating character set or format.
+
+a) A file without a character set or format indicator is plain 7-bit ASCII. [In practice, we might allow a few 8-bit characters — up to a dozen or two — and still call it ASCII]
+
+    Example: 12345.txt [7-bit plain vanilla ASCII]
+
+b) Character sets, for text files, get digits:
+
+   - -0 Unicode (including UTF-7, UTF-8, UCS-4, etc.)
+   - -5 Big-5
+   - -8 8-bit (including ISO 8859, Codepages, etc.)
+
+   - Example: 12345-8.txt [Text in some 8-bit encoding]
+
+c) File types get letters. Ideally, one-letter formats should be standards-based and editable. For now, the following is the list of single-letter formats.
+
+   - -h HTML
+   - -x XML
+   - -r RTF
+   - -t TEX
+   - -m MP3
+
+Other formats get preferably three (more if necessary) letters.
+
+   - -lit LIT
+   - -pdb PDB
+   - -doc Word DOC
+   - -mpg MPEG
+
+   - Example: 12345-x.xml [XML]
+   - Example: 12345-pdf.pdf [PDF]
+When more than one variant of a format is posted, the poster will add additional letters as appropriate. 
+   - Example: If a HTML of 12345 has been posted as 12345-h, and we are posting a new HTML if the same eBook broken into pages, it might be posted as 12345-hp.
+
+3. Under the eBook's directory are all files for that eBook. The .txt files will be in the eBook's main directory, as well as other formats that require only one file (PDF, RTF, …). Formats that are likely to require ancillary files get a subdirectory named for file type, with the file within. This is to make it predictable to find the formats, and to allow for any ancillary files to be stored in the subdirectory. 
+Formats that get a subdirectory include: HTML, TeX and XML. Formats that do not get a subdirectory include: PDF, RTF, LIT, PDB.
+
+The subdir name for each shall be the name of the primary file that lives there. 
+  - Example: The file 12345-h.htm will be at /12345/12345-h/12345-h.htm , and any ancillary files (such as JPEG or CSS) will be in (or below) the same subdirectory.
+
+4. A .zip for each format will be in the main eBook directory. The .zip will unzip to a subdirectory if it's a multi-file format from #3 above, otherwise it will simply unzip a file. In the case of some pre-compressed formats, such as MP3, a .zip may not make sense, in which case it may be omitted. 
+ - Example: 12345-h.zip will be at 12345/ , and when unzipped will create a subdirectory 12345-h/ with 12345-h.htm and any ancillary files.
+ - Example: 12345-pdf.zip will be at 12345/, and when unzipped will create 12345-pdf.pdf in the current directory.
+
+5. Versions and editions: in the case of a new EDITION, a corrected file, the original file is renamed with an extension of its own posted date .yyyymmdd, and then replaced by the corrected file. So 12345.txt, when replaced, becomes 12345.txt.20030101 and the new, corrected file becomes 12345.txt.  
+
+New EDITIONS will get a "Most recently updated: " line added to their standard metadata.
+
+The Release Date in the standard header will be the month and year of the actual first posting of that eBook. 
+
+6. Each file (e.g., 12345-h.htm) should have a Project Gutenberg header, metadata and footer. In cases where the file is not editable (such as PDF), or where adding a header isn't realistic (such as MP3), the header, metadata and footer can go in a "readme" file named for the file, with "-readme" added before the extension. The "readme" file shall be in the same directory as the file to which it refers, and shall be included in the ZIP file for that format. Where the format is multifile, there should be only one "readme" for all files. 
+ - Example: "12345-pdf-readme.txt" for the file 12345-pdf.pdf Note: If we were able to add the standard header prior to creating the PDF file, it could be distributed as any other editable format without a readme.
+ - Example: "12345-m-readme.txt" for the files 12345-m-001.mp3, 12345-m-002.mp3, etc.
+
+7. The GUTINDEX file(s) will have entries of the form: 
+Title, by Author eBook#
+
+eBook # will be in 5 digits, followed by a "C" if copyrighted and "*" if reserved. "by " will be omitted if there is not enough space. Any additional data, such as a translator or subtitle, will be on a following line or lines surrounded by square brackets [] and indented by two spaces.
+
+GUTINDEX will have approximate date indicators such as:
+
+        MARCH 2004: 822 eBooks
+
+The following is an example of etext# 12345, assuming it has ASCII, 8-bit and Unicode text files, a HTML and a HTML broken into pages, an XML, PDF, TeX, and LIT formats, and MP3. Assume that we couldn't edit the LIT, and so had to add a "readme" for that containing the header as in point 6 above.
+
+The directory 12345 for the eBook will be at
+
+    1/2/3/4/12345/
+
+and it will contain the files
+
+    1/2/3/4/12345/12345.txt
+    1/2/3/4/12345/12345.zip
+    1/2/3/4/12345/12345-0.txt
+    1/2/3/4/12345/12345-0.zip
+    1/2/3/4/12345/12345-8.txt
+    1/2/3/4/12345/12345-8.zip
+    1/2/3/4/12345/12345-h.zip
+    1/2/3/4/12345/12345-hp.zip
+    1/2/3/4/12345/12345-t.zip
+    1/2/3/4/12345/12345-x.zip
+    1/2/3/4/12345/12345-pdf.pdf
+    1/2/3/4/12345/12345-pdf.zip
+    1/2/3/4/12345/12345-lit.lit
+    1/2/3/4/12345/12345-lit-readme.lit
+    1/2/3/4/12345/12345-lit.zip
+
+and in its subdirectories the further files
+
+    1/2/3/4/12345/12345-h/12345-h.htm
+    1/2/3/4/12345/12345-h/image1.png
+    1/2/3/4/12345/12345-hp/12345-hp.htm
+    1/2/3/4/12345/12345-hp/page2.htm
+    1/2/3/4/12345/12345-hp/image1.png
+    1/2/3/4/12345/12345-t/12345-t.tex
+    1/2/3/4/12345/12345-x/12345-x.xml
+    1/2/3/4/12345/12345-x/12345-x.xsl
+    1/2/3/4/12345/12345-x/image1.png
+    1/2/3/4/12345/12345-m/12345-m-readme.txt
+    1/2/3/4/12345/12345-m/12345-m-001.mp3
+    1/2/3/4/12345/12345-m/12345-m-002.mp3
+
+#### Books up to 10,000 — the old naming scheme
+Older PG files are named for the text, the edition, and the format type.
+
+Nearly all of these PG files are named in "8.3" format — that is, up to eight characters, a dot, and three more characters. (It should have been all of them, by the rules, but we had to break a few.)
+
+The first five characters in the filename are simply a unique name for that text, for example, "Ulysses" by Joyce begins with "ulyss".
+
+If the text has been posted as both a 7-bit and 8-bit text, then the first character of the filename will be a 7 or an 8, to indicate that. For example, we have both 7crmp10 and 8crmp10 for Dostoevsky's Crime and Punishment.
+
+The 6th and 7th characters of the name are the edition number — 01 through 99. We normally start at edition 10 (1.0); numbers lower than that indicate that we think the text needs some more work; numbers higher than that mean that someone has corrected the original edition 10.
+
+The 8th character of the filename, if it exists, indicates either the version or the format of the file. When we get a different version of the text based on a different source, we give it an a, b, c, as for example if the text is from a different translation. Where we have posted a text in a different format, we also add an eighth character — "h" for HTML, "x" for XML, "r" for RTF, "t" for TeX, "u" for Unicode are established formats. There have been some experimental postings with "l" for LIT, and "p" for either PRC or PDB.
+
+So, for example: 
+<pre>
+7crmp10  is our first edition of Crime and Punishment in plain ASCII
+8sidd10  is our first edition of Siddhartha, as an 8-bit text
+dyssy10b is our first edition of our third translation of Homer's Odyssey, in plain ASCII
+jsbys11  is our second edition of Jo's Boys, in plain ASCII
+vbgle10h is our HTML format of our first edition of Darwin's Voyage of the Beagle
+7ldv110  is our 7-bit ASCII version of the first volume of the Notebooks of Leonardo da Vinci
+</pre>
+
+To make it worse, we don't always stick to these rules, for example: 
+<pre>
+1ddc810  is our first edition of the first book of Dante's Divina Commedia in Italian, as an 8-bit text
+80day10  is our first edition of Verne's Around the World in 80 days, in plain 7-bit ASCII in English.
+emma10   is our first edition of Jane Austen's "Emma" — with a 4-character basename instead of 5.
+</pre>
+Some series have special, non-standard names. Shakespeare is named with a digit representing the overall source (First Folio, etc), then "ws", then a series number, so for example 0ws2610, 1ws2610 and 2ws2610 are all versions of "Hamlet". The Tom Swift series is named with a two-digit prefix denoting the series number, then "tom", so for example 01tom10 is "Tom Swift and his Motor-Cycle".
+
+And what should we do with a text from a different source that is formatted as HTML? For example, if dyssy10b is the name of the third translation, what should the HTML version be named? dyssy10bh is obvious, but it uses 9 characters.
+
+The problem, of course, is that we are trying to fit a lot of information into an 8-character filename, and as the collection grows, and the number of formats and versions increases, we come across more pressure on filenames, so while the filename is a good guide to the contents, it's not definitive. 
+
+### What is the difference within PG between an "edition" and a "version"?
+We give the name "edition" to a corrected file made from an existing PG text. For example, if someone points out some typos in our file of "War and Peace", we will fix them, and, if enough are found to warrant a "new edition", then instead of just replacing the file wrnpc10.txt, we may make a new file wrnpc11.txt, and leave the original alone. A new edition is always filed under the same year and etext number as the original — it's just an update.
+
+We give the name "version" to a completely independent e-text made from the same original book, but a different source. For example, Homer's Odyssey was translated by many different people, but they all worked from the same book. The translations by Lang, Butler, Pope and Chapman are very different, but they all come from the same root.
+
+Thus, these are all "versions" of Homer's Odyssey. We give them all the same basename — dyssy — and each gets a new number, but we keep the original basename, and add a letter to the filename to indicate that they are "versions" of the same original book: 
+<pre>
+dyssy10.txt 	Butler's Translation
+dyssy10a.txt 	Butcher & Lang's Translation
+dyssy10b.txt 	Pope's Translation
+</pre>
+The differences don't have to be as extreme as this for us to create a new version. "Clotelle"/"Clotel", for example, was a book published multiple times in English by William Wells Brown, and each time, he changed the text. We preserve three different texts of the same book as different versions: clotl10 clotl10a and clotl10b. 
+
+### What is the difference between an "etext" and an "eBook"?
+If there is any, it seems to be in the eye of the Marketing Department! Michael Hart started the whole thing, and coined the word "Etext". The term "eBook" is gaining in popularity, even for texts that are not full books, so we've started using that more now.
+
+### What are the "Etext/Ebook numbers" on the texts?
+These are simply a series of numbers. We give one to each etext as it is posted, so the earliest etexts have low numbers and later etexts have higher numbers. Etext number 1 is the Declaration of Independence, the first text that Michael Hart typed in to the mainframe that he was using in 1971.
+
+A few numbers are reserved for books that we hope to have in the PG archive someday; for example, 1984 is reserved for Orwell's classic.
+
+When we improve an text by making some corrections, we call it a new EDITION, and it keeps the same etext number, but when we post a different VERSION of the same text, from a different paper book — like different translations of Homer's Odyssey — each new version gets a new etext number.
+
+### What do the month and year on the text mean?
+Project Gutenberg sets a production target for itself. The idea is that we try to produce X texts in a month, and in books before #10,000, we dated the texts according to what month of our schedule they appear in. For example, if our target for September 2000 was 50 texts, and we actually produced 55, then the last five would be dated October 2000, and we'd get a head-start on the month. At the time of writing the original FAQ, in July 2002, that target was the publication of 200 books per month. However, our actual production far outpaced our targets, with the result that the "head-start" had accumulated so much that in July 2002, we were releasing books scheduled for March, 2004!
+
+The fact that we were so far ahead of schedule makes this quite confusing for newcomers. If it bothers you, just don't think about it! But at least it's better than being behind schedule. We didn't always produce so many books. In the September 1994 newsletter, Michael Hart wrote:
+
+    As always, I am terrified of the prospect of doubling our output to 16 Etexts per month for next year, we really need your help!!!
+
+That was when the Project's target was 8 Etexts per month. Today, our target is heading towards 12 eBooks per day!
+
+In books after number 10,000, we abandoned the "Schedule Month, Year" idea, and the "Release Date" is the actual date on which we posted them.  
