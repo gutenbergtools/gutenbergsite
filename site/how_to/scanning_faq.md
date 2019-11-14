@@ -8,35 +8,35 @@ permalink: /how_to/scanning_faq.html
 These guidelines might not reflect all current "best practices." Please visit [Distributed Proofreaders](https://www.pgdp.net) to view forums where best practices are actively discussed and maintained. 
 <div class="contents">
 <ol>
-<li><a href="#">What is a scanner?</a></li>
-<li><a href="#">What types of scanners are there?</a></li>
-<li><a href="#">Which scanner should I get?</a></li>
-<li><a href="#">What is ADF?</a></li>
-<li><a href="#">Should I get ADF?</a></li>
-<li><a href="#">What's a "TWAIN driver" and why do I need one?</a></li>
-<li><a href="#">How do I scan a book?</a></li>
-<li><a href="#">My book won't open flat enough for a good scan, and I don't want to cut the pages.</a></li>
-<li><a href="#">How long does it take to scan a book?</a></li>
-<li><a href="#">What scanner settings are best?</a></li>
-<li><a href="#">Can I use a digital camera in place of a scanner?</a></li>
-<li><a href="#">What is OCR?</a></li>
-<li><a href="#">What differences are there between OCR packages?</a></li>
-<li><a href="#">How accurate should OCR be?</a></li>
-<li><a href="#">Which OCR package should I get?</a></li>
-<li><a href="#">What types of mistakes do OCR packages typically make?</a></li>
-<li><a href="#">Why am I getting a lot of mistakes in my OCRed text?</a>
+<li><a href="#what-is-a-scanner">What is a scanner?</a></li>
+<li><a href="#what-types-of-scanners-are-there">What types of scanners are there?</a></li>
+<li><a href="#which-scanner-should-i-get">Which scanner should I get?</a></li>
+<li><a href="#what-is-adf">What is ADF?</a></li>
+<li><a href="#should-i-get-adf">Should I get ADF?</a></li>
+<li><a href="#whats-a-twain-driver-and-why-do-i-need-one">What's a "TWAIN driver" and why do I need one?</a></li>
+<li><a href="#how-do-i-scan-a-book">How do I scan a book?</a></li>
+<li><a href="#my-book-wont-open-flat-enough-for-a-good-scan-and-i-dont-want-to-cut-the-pages">My book won't open flat enough for a good scan, and I don't want to cut the pages.</a></li>
+<li><a href="#how-long-does-it-take-to-scan-a-book">How long does it take to scan a book?</a></li>
+<li><a href="#what-scanner-settings-are-best">What scanner settings are best?</a></li>
+<li><a href="#can-i-use-a-digital-camera-in-place-of-a-scanner">Can I use a digital camera in place of a scanner?</a></li>
+<li><a href="#what-is-ocr">What is OCR?</a></li>
+<li><a href="#what-differences-are-there-between-ocr-packages">What differences are there between OCR packages?</a></li>
+<li><a href="#how-accurate-should-ocr-be">How accurate should OCR be?</a></li>
+<li><a href="#which-ocr-package-should-i-get">Which OCR package should I get?</a></li>
+<li><a href="#what-types-of-mistakes-do-ocr-packages-typically-make">What types of mistakes do OCR packages typically make?</a></li>
+<li><a href="#why-am-i-getting-a-lot-of-mistakes-in-my-ocred-text">Why am I getting a lot of mistakes in my OCRed text?</a>
 <ol class="inner_1">
-<li><a href="#"> Scan 1 &#8212; A perfect Scan</a></li>
-<li><a href="#">Scan 2 &#8212; A Typical Scan</a></li>
-<li><a href="#">Scan 3 &#8212; Guttering and Smaller Print</a></li>
-<li><a href="#">Scan 4 &#8212; A Really Bad Case!</a></li>
-<li><a href="#">Conclusion</a></li>
+<li><a href="#scan-1--a-perfect-scan"> Scan 1 &#8212; A perfect Scan</a></li>
+<li><a href="#scan-2--a-typical-scan">Scan 2 &#8212; A Typical Scan</a></li>
+<li><a href="#scan-3--guttering-and-smaller-print">Scan 3 &#8212; Guttering and Smaller Print</a></li>
+<li><a href="#scan-4--a-really-bad-case">Scan 4 &#8212; A Really Bad Case!</a></li>
+<li><a href="#conclusion">Conclusion</a></li>
 </ol>
 </li>
-<li><a href="#">I got an OCR package bundled with my scanner. Is it good enough to use?</a></li>
-<li><a href="#">I want to include some images with a HTML version. How should I scan them?</a></li>
-<li><a href="#">I want to include some images with a HTML version. What type of image should I use?</a></li>
-<li><a href="#">Will PG store scanned page images of my book?</a></li>
+<li><a href="#i-got-an-ocr-package-bundled-with-my-scanner-is-it-good-enough-to-use">I got an OCR package bundled with my scanner. Is it good enough to use?</a></li>
+<li><a href="#i-want-to-include-some-images-with-a-html-version-how-should-i-scan-them">I want to include some images with a HTML version. How should I scan them?</a></li>
+<li><a href="#i-want-to-include-some-images-with-a-html-version-what-type-of-image-should-i-use">I want to include some images with a HTML version. What type of image should I use?</a></li>
+<li><a href="#will-pg-store-scanned-page-images-of-my-book">Will PG store scanned page images of my book?</a></li>
 </ol>
 </div>
 
@@ -697,7 +697,275 @@ TextBridge Millennium Pro:
  prú~t~.
 </pre>
 <pre>
+THER Clara nor Vernon appeared at the mid-day table.
+ Pr. Middleton talked with Miss Dale on classical matters,
+ like a good-natured giant giving a child the jump from
+ stone to stone across a brawling mountain ford, so that an
+ une(lified audience might really suppose, upon - seeing her
+ over the difficulty, she had done something for herself. Sir
+ Willoughby was proud of her, and therefore anxious to
+ settle hier l)uSifleSS while he was in the humour to lose her.
+ lie hoped to finish it by shooting a word or two at Vernon
+ before dinner. Clara's petition to be set free, released from
+ hirn~, had vaguely frightened even more than it offended his
+ pri(le.
+</pre>
 
+#### Scan 4 — A Really Bad Case!
+Scan 4 is a paragraph from Pope's translation of Homer's Odyssey. This is a very, very tough one. It was obviously a cheap printing to begin with, using thin, poor-quality paper in a page size of 6" by 4.5", with capital letters about 1.5 mm high, a little bigger than Times New Roman size 8. Text this small really needs a higher-resolution scan. The book was falling apart when I got it, the ink was fading and flaking, and there was no point in even thinking about trying to scan it flat, so I cut the pages. To add an extra challenge, I scanned the sample with the cover open in a medium-lit room for the [300 dpi]() and [400 dpi]() scans, but closed the cover for the [600 dpi]() to show the best quality I could possibly get. (I was pleased to note that Abbyy, while recognizing the page in the [300 dpi]() and [400 dpi]() images, flashed up a suggestion that I should lower the brightness of the scan.)
 
+This particular book was one I sporadically tried to produce, without success, on an older scanner and a bundled OCR program over a period of two years, back in 98/99. Eventually, in 2000, it was the first book processed through Charles Franks' Distributed Proofreaders site. The initial text produced by the OCR was very poor, but the human volunteers made up for it! Thanks, guys! Today, just two years later, with a better scanner and better OCR, I could have done it myself, as you will see from the best of the results of the 600 dpi scans. That's how much things have improved recently.
 
+A separate point to note here is that you can see the "three-quarter space" effect before the exclamation mark and semi-colon that was discussed in [V.104].
 
+The results of the OCR are:
+
+Abbyy FineReader 6: 
+<pre>
+ " Ah me ! on what inhospitable coast,
+ On Tvh.it new region is Ulysses toss'd ;
+ Possess'd by wild barbarians fierce in arms ;
+ Or men. whose bosom tender pity warms ?
+ What sounds are these that gather from the shores ?
+ The voice of nymphs that haunt the sylvan bowers,
+ The fair-hair'd Pryads of the shady wood ;
+ Or azure daughters of the silver flood ;
+ Or human voir-e? but issuing1 from the shades,
+ AVhv cease I straight to learn what sound invades?"
+</pre>
+<pre>
+ " Ah me ! on what inhospitable coast,
+ On what new region is Ulysses toss'd ;
+ Possess'd by wild barbarians fierce in arms ;
+ Or men, whose bosom tender pity warms '?
+ "What sounds are these that gather from the shores ?
+ The voice of nymphs that haunt the sylvan bowers,
+ The fair-hair'd Dryads of the shady wood ;
+ Or azure daughters of the silver flood ;
+ Or human voice? but issuing from the shades,
+ Why cease I straight to learn what sound invades?"
+</pre>
+<pre>
+ " Ah me ! on what inhospitable coast,
+ On what new region is Ulysses toss'd ;
+ Possess'd by wild barbarians fierce in arms ;
+ Or men, whose bosom tender pity warms ?
+ "What sounds are these that gather from the shores ?
+ The voice of nymphs that haunt the sylvan bowers,
+ The fair-hair'd*Dryads of the slrady wood ;
+ Or azure daughters of the silver flood ;
+ Or human voice? but issuing from the shades,
+ Why cease I straight to learn what sound invades?"
+</pre>
+gocr 0.3.6:
+
+[The 300 and 400 dpi scans produced nothing recognizable. The result of the 600 dpi scan is below.] 
+<pre>
+    _hh i_3e ! o_1 ___l_at_ i__l__sl__ it_nble CoaSt_
+ On ___l_,__ _)e_v i_e_io__ i__ ___ _._____ses toss'd ;
+ _(3s3gs3_d l3.__ ___iiíi l3_3__b___i_c_i3_ fie_Ce in il__S- _
+ Or i11pn, __-i)c3se l_osonl te_1de_ _it____ __ai_n3__ ?
+ ___l_at __o__i1ds Qre tlipse tliat g__tl_p_r fE_oi33 the shoTes ?
+ '_ilie __oi__e of i)____ E1)l3l3s tl3nT 1i_n__nt the s__l__inn bo_Ye_5_
+ 3'l_e fni___i____ir'd _____-ads of' il_e sli__d__ i___oOd _
+ Op az(_pe da_____litc__s of _tlie sil __?r t1ood ;
+ Or l___i31_nn ___)i___? l3__t i3____ii_6 fi_oi11 tlie __hiade__ _
+ __'!3.__ _ea___e _ s_rai__li.t to l_ar_i1- i_ — li__t so_nd-in__ad_S___
+</pre>
+
+Recognita Standard 3.2.7AK: 
+<pre>
+ .: lh nt"'. on w-hat inlu,;y:t, I,:e co;;~t,
+ On ~cli^t ne~- re~ion i.. 1= 1-.-:.:e~ tm:'d ;
+ Possea'd 1n- wil~l L;,rba~:c, .~ fierce in arm~ ;
+ Or u.~u. w-Ln.e bossum tender pit~- warna'?
+ ~l-u:lt .<,:~;;::;3s are tll~ce that ~atl:er from the shnre~ ?
+ 'I'l.e -;;o'.re :,; nwtthil: tW ,t l:aa;nt the s~-l:c 1llJOR'er5,
+ 'lhe :a,:~-h ~;r'd~It.wa~i~ ot' tl:e ~Il;;dv vood;
+ Or az.lre dau~~l.ts~: oY tl:c ·:iv-~~r floo;:3 ;
+ C?r humnn ~-<:i: e'? l,~:tt i~~; from tl:c· ~had~~,
+ 11-lts- cea~e I ctrai rlit to learn ~s-l:, t socud incades %"
+</pre>
+<pre>
+ " ~h me ! ou "-Mat iuMospita~le coast,
+ On ~i-lmt ne~c reyion is L 1~-~ses to~s'd ;
+ Pos:e;s'd 1"~ w-iMl lrvrbaria:ns fiet~ce in arms ;
+ Or m~ n, "-hose hosom tender pit~- warm5 ?
+ Marcellohat ~ounds are tlmse tMat ~;atMer from t:he shores ?
+ ~t'I~e ~-oi~~e of n~-Inhhs t.hat liaunt the s~-l~~a n howers
+ .
+ Tlie fair-hnir'd D~ vads ot tl:e shad~- "-ood ;
+ Or aznre dau~liters of tMe sil~-~r fiood ;
+ Or lmman ~-oi:~e'? but iauin~ frotn the shades, a
+ lVly cea.~e I straibht to learn "-Mat souud in~ad°s?"
+</pre>
+<pre>
+ " Ah me ! on what inhospitable coast
+ On ~~-hat new r e~ion is L;1 ~-sses toss'd ~
+ ,
+ Possess'd 1J~- "-ilil I:OII'uai'la ils fierce in arms_ ·
+ Or men, whose hosom tender pit~l ~varn~s ?
+ ~'G'l~at somnds are these tliat ~atl~er from the shores ?
+ ~I'Iie v oice of n~-mpl~S that ~munt the sy Ivan bowers,
+ Tlie fair -hair'd DMarcello-ads of tl~e slmdy wood ;
+ Or azure daylltcrs of tlle silver flood ;
+ Or lm:nan voice? uut issL~ing from the shades,
+ ~~'lm cea~e I strai~ht to Iearn ~~-lmt so~nd inv ades ?"
+</pre>
+OmniPage Pro 10: 
+<pre>
+ On "M.^t new reion is 1=1;-a:e~ to-s'd ;
+ P"::e:~'d hw "ild Larba.:an~ fierce in arms ;
+ Or inn. "-hnse bo.,om tender pity warms
+ What <m-,n ds are thFSe that gather from the shores?
+ '1-l.e vo_,e o2 u~vnhit: thm hn,,-,nt The sylvan bowers,
+ The is ;r-ha;r'd h.-;-ads of the liz-Ay iNood
+ Or azure dau_ht;- of tl:c o=1 cr flooj ;
+ Or hnnmn wire? l,11t i — rii:g from the shadP3,
+ Al-ly cease I straiAlit to learn what sound invades?"
+</pre>
+<pre>
+     'Wh me ! on what inhospitable coast,
+ On what new region is L fusses toss'd ;
+ Possess'd br wild barbaric ns fierce in arms ;
+ Or men, whose bosom tender pith- warms
+ AN-hat sounds are these that gather from the shores ?
+ The voice of nymphs that Haunt the sylvan bowers,
+ The fair-hair'd IWvads of the shady -wood ;
+ Or azure daughters of the silver flood ;
+ Or human voice? bat iauina from the shades,
+ Why cease I straight to learn what sound invades?"
+</pre>
+<pre>
+     " Ah me! on what inhospitable coast,
+ On what new region is Ll ysses toss'd ;
+ Possess'd bv -wild barbarians fierce in arms ;
+ Or men, whose bosom tender pity warnis ?
+ AVlia± sounds are these that gatller from the shores
+ The voice of nYI11pliS that haunt the -sylvan bowers,
+ The fair -hair'd D.-yads of the shady wood ;
+ Or azure daughters of the silver flood ;
+ Or human voice? lout issuing from the shades,
+ Why cease I straight to learn what sound invades?"
+</pre>
+
+OmniPage Pro 11: 
+<pre>
+ .` lh in-' on what inhospital,le co-st, 
+ On xclznt near region is t 1:-sse~ toss'(: ; 
+ Possess'd bY Mild barbarians fierce in aims ; 
+ Or inn. whose boson tender pity warms
+ What <m-,n ds are tlipse that gather from the shores ? 
+ '_I-I.e 1-o=,- of nv:npii? that haunt the sylvan bowers, 
+ She ra;r-ha;r'd 1):, ads of the shad- wood ;
+ Or az.ire dau_lit~- of tl:e silo-:-r flood ;
+ Or human voice? l,,tt i?snina from the shadpq, 
+ Al-lry cease I straiAit to learn shat sound invades?"
+</pre>
+<pre>
+ ''' :Ah me ! on what inhospitable coast, 
+ On iyhat new region is Ulysses toss'd ; 
+ Possess'd br wild barbarimis fierce in arms ; 
+ Or men, whose bosom tender pity warms 
+ AN-hat sounds are tliese that gather from the shores ? 
+ The voice of nymphs that haunt the sylvan bowers, 
+ The fair-hair'd D~ yads of the shady -wood
+ ;
+ Or azure dau.L-hters of the silver flood ;
+ Or human voice? but issuing from the shades, 
+ Why cease I straight to learn what sound invades?"
+</pre>
+<pre>
+ " Ah me! on what inhospitable coast, 
+ On what new region is Ulysses toss'd ; 
+ Possess'd by -wild barbarians fierce in arms ; 
+ Or n1en, whose bosom tender pity warnis ? 
+ AVliat sounds are these that gather from the shores 
+ The voice of nyniplis that haunt the sylvan bowers, 
+ The fair-hair'd Dryads of the shady Wood ;
+ Or azure daughters of the silver flood ;
+ Or human voice? but issuing from the shades, 
+ Why cease I straight to learn what sound invades?"
+</pre>
+TextBridge Millennium Pro: 
+<pre>
+     no on what inhe~ptaEie coast,
+ On what new realun is hivs,e' to5sd
+ ,s~s Ä-~d liv wild lie il)~m.ihI fir see in al-rn~
+ Or u~,-n. w'linse bo,uuiu tender pity warnls
+ Wl at ~ are t1ie~e that ~atler from the shores ?
+ 'n.e a oro of imvntpirs tint he~nt the sad van bowers,
+ 'flie tah'-ha~r'd D~vahs ct the shady wood
+ 1)1' az Ire dauul~t ~ of tl,e shvr flood
+ Or liunian vi i 'I ? h'tt is- eng from the shades,
+ \VIiv cea-~e I straight to learn w hat sound invades 1"
+</pre>
+<pre>
+   Ah me on what inhospitable coast,
+ On what new region is U vases toss'd
+ Possess'd by wild barbarians fierce in arms
+ Or men, whose bosom tender pity warms ~
+ What sounds are these that gather from the shores?
+ The voi'e of nymphs that haunt the sylvan bowers,
+ The fair-baird Prvads of tl~e shady wood
+ Or azure daughters of the silver flood
+ Or human vuiae? but issuing fi'om the shades,
+ Why cease I straigl~t to learn what sound invades?"
+</pre>
+<pre>
+   Ah me on what inhospitable coast,
+ On what new region is Ulysses toss'd
+ Possess'd by wild barbarians fierce in arms
+ Or men, whose bosom tender pity warms?
+ What sounds are these that gather from the shores?
+ rfhe voice of nymphs that haunt the sylvan bowers,
+ The fair-hair'd Dtyads of the shady wood;
+ Or azure daughters of 'the silver flood
+ Or human voice? but issuing from the shades,
+ Why cease I straigl~t to learn what sOund invades?"
+</pre>
+
+#### Conclusion
+Small mistakes in scanning, like letting too much light in, getting your scanner settings wrong for the page, or not pressing the paper flat enough, can make a major difference to the final quality of the text that you will have to correct.
+
+Sometimes, no matter what you do with your scanner, problems with the paper or the print will make it difficult for your OCR package to give good output.
+
+Generally, bigger is better within the range 300dpi-600dpi, but you only need higher resolution with more difficult material.
+
+Different OCR packages will produce widely differing texts from the same images. Given a really good image, most OCR software will work acceptably, but when you have lower quality material to work with, the gap between OCR packages shows clearly. 
+
+### I got an OCR package bundled with my scanner. Is it good enough to use?
+That depends on how well your package performs on the actual scans that you do, and how much you value your time vs. money. Most scanners are bundled with OCR software, but these OCR packages are often older or "brain-damaged" versions, with their functionality deliberately lowered. It's unlikely that you'll get a current-version, top-of-the-line OCR package thrown in for free.
+
+You may have to pay extra for better OCR, but it means that you spend less time making corrections. The question is how much better you want your OCR to be.
+
+Save the images from the FAQ ["Why am I getting a lot of mistakes in my OCRed text?"]() and try processing them with the OCR you have. Compare the quality of the text produced with the quality of the samples. This should give you some idea of how your OCR compares to others.
+
+Try a few pages from your book with your OCR. How many mistakes do you see on each page? Do you find that acceptable? 
+
+### I want to include some images with a HTML version. How should I scan them?
+
+If it's color in the printed book, then it's desirable to use color in the scan. Otherwise, try both greyscale and B&W, and see which gives you the best image. 
+It's usually better to scan images in a higher resolution than you're going to use, and then use an image manipulation package to reduce them [H.10] to a size appropriate for your HTML file. The [HTML FAQ](/how_to/html_faq.html) has details on how to present them. An initial scan at 600dpi is often good. Image manipulation programs will also allow you to "clean up" the pictures, by increasing contrast, despeckling, or other filtering. 
+
+### I want to include some images with a HTML version. What type of image should I use?
+GIF, JPEG and PNG images are supported by current browsers, and you should stick with those unless you have a specific reason not to.
+
+GIF and PNG tend to be more efficient — provide better quality at a given file size — for simple line-drawings; JPEG is usually better for photographic images.
+
+### Will PG store scanned page images of my book?
+Yes, Project Gutenberg would be pleased to include your scans. However, if the scans you utilized are from another online source such as The Internet Archive, then instead the scan links are provided as part of the copyright clearance, and there is probably no need to have an additional copy in Project Gutenberg.
+
+While page images cannot be searched, or converted to other text-based formats for reading, they do have some value — for checking possible errors in the transcription, for holding images that might not have been preserved in HTML, for checking cited page numbers, for re-printing, and just generally for anyone who wants in-depth information on the source paper. This is not our core purpose, and the page images must be seen as an adjunct to the text rather than a main feature. However, disk space and bandwidth are now plentiful enough that it is practical to preserve these, if only for the relatively few people who might make use of them.
+
+We do have to be careful in our use of space and bandwidth, though. To use 40 KB per page is reasonable, given today's resources; to use 140 KB per page is not. Thus, we insist on maximally-compressed black and white page images only, for normal pages, and the best size-to-quality ratio we can get for pictures. 
+
+Our current guidelines on the submission of page images are:
+1. PG is now accepting page images of books posted. Page images will be posted only as an addition to an etext posted in the normal way — we will not post page images without plain text.
+2. Page images are an option; they are not and will not be required for the posting of a text.
+3. All page images should be good enough to work reasonably well with OCR packages, up to 600 dpi, and should be stored as black-and-white TIFFs with CCITT-4 (aka ITU-G4 or Fax Group 4) compression. This is important, so that we keep the overall file size down to a sustainable level. With this compression, a typical 600dpi page can be stored for about 40KB. Our ability to post these images depends on the file sizes staying fairly reasonable. Pages such as color pictures or greyscale photos that cannot reasonably be stored as black-and-white only should be stored as TIFF or JPEG with the best compression you can get for that image. (Note: Irfanview for Windows does this nicely individually or in batch. ImageMagick v 6.x: convert myimage.png -compress group4 myimage.tif )
+4. Each page image should be a separate file and named with the page number within the set; e.g. 001.tif, 002.tif, etc. Separate, non-page images, such as covers or color images scanned separately from the pages, should have suitable names, such as "cover.jpg" or "072-image.tif" All page images for the book will be zipped into one file, to be called FILENUMBER-page-images, e.g. 12345-page-images.zip for etext #12345, and stored in the main directory for that etext. It will unzip to a subdirectory ./page-images, but we will not post separate page images in that directory, since that would double the space used, and we believe that people who want to consult the images will probably want them all. So, for now at least, if you want the images, you must download the ZIP file.
+
+Page images submitted to Distributed Proofreaders [B.2] are automatically saved, and, while not publicly available today, will probably become so in the future.
+
+For storing higher resolution page images or pictures than we can reasonably post today, you might consider the Internet Archive. 
