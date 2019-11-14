@@ -581,6 +581,15 @@ visibility: hidden;
 pointer-events: none;
 }
 
+.page_content ul li{
+list-style: none;
+}
+.page_content ul li::before {
+color: #A01F13;
+content: "\25a0"; 
+padding-right: 1em;
+font-size:8px;
+}
 .anchor a{
 	top:-80px;
 
