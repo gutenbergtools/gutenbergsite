@@ -4,7 +4,7 @@ title: Collection Development Policy - Project Gutenberg
 permalink: /policy/collection_development.htm
 ---
 
-# This is a draft policy, not yet adopted by PGLAF
+# This is a draft policy, not yet ported to www.gutenberg.org
 
 Project Gutenberg is a library of free electronic books (eBooks).
 The Project Gutenberg collection has been built by the efforts of volunteers who, 
@@ -87,7 +87,7 @@ the quality and diversity of thought and expression."
 The FTR makes it clear that inclusion of an item in a library collection does not mean the ideas within
 it are endorsed by the library. "Publishers, librarians, and booksellers do not need to endorse every idea or presentation they make available. It would conflict with the public interest for them to establish their own political, moral, or aesthetic views as a standard for determining what should be published or circulated."
 
-The final paragraph of FTR serves to summarize Project Gutenberg's commitment to building a diverse and vibrant
+The final paragraph of FTR nicely summarize Project Gutenberg's commitment to building a diverse and vibrant
 collection, and to not avoid inclusion of eBooks based on their topics or the ideas within them:
 "We state these propositions neither lightly nor as easy generalizations. We here stake out a lofty claim for the value of the written word. We do so because we believe that it is possessed of enormous variety and usefulness, worthy of cherishing and keeping free. We realize that the application of these propositions may mean the dissemination of ideas and manners of expression that are repugnant to many persons. We do not state these propositions in the comfortable belief that what people read is unimportant. We believe rather that what people read is deeply important; that ideas can be dangerous; but that the suppression of ideas is fatal to a democratic society. Freedom itself is a dangerous way of life, but it is ours."
 
@@ -110,3 +110,13 @@ Project Gutenberg will not remove or deprecate these previous items. They were a
 with the best of intentions, and with the understanding that Project Gutenberg would provide for their long-term stewardship
 and unlimited redistribution. Michael Hart expressed unending gratitude to all the people who contributed content, and who
 digitized previous works. Project Gutenberg remains grateful to all of its contributors and volunteers.
+
+
+## Status of this policy
+
+The Project Gutenberg collection development policy was approved by the Board of Directors of the Project Gutenberg 
+Literary Archive Foundation (PGLAF) in November 2019. It was also endorsed by the Trustees of the Distributed Proofreaders Foundation.
+
+Day-to-day operation of the Project Gutenberg website, along with associated workflows and procedures, is by
+volunteers. The specific mechanisms applied to grow the Project Gutenberg collection are subject to change
+over time, within the guidance included in collection development policy.
