@@ -3,9 +3,6 @@ layout: default
 title: Collection Development Policy - Project Gutenberg
 permalink: /policy/collection_development.htm
 ---
-
-# This is an approved policy, which has not yet ported to www.gutenberg.org
-
 Project Gutenberg is a library of free electronic books (eBooks).
 The Project Gutenberg collection has been built by the efforts of volunteers who, 
 over many years, have selected and digitized a variety of written and other works. The
@@ -92,7 +89,7 @@ collection, and to not avoid inclusion of eBooks based on their topics or the id
 "We state these propositions neither lightly nor as easy generalizations. We here stake out a lofty claim for the value of the written word. We do so because we believe that it is possessed of enormous variety and usefulness, worthy of cherishing and keeping free. We realize that the application of these propositions may mean the dissemination of ideas and manners of expression that are repugnant to many persons. We do not state these propositions in the comfortable belief that what people read is unimportant. We believe rather that what people read is deeply important; that ideas can be dangerous; but that the suppression of ideas is fatal to a democratic society. Freedom itself is a dangerous way of life, but it is ours."
 
 
-## Historic scope
+## Historical context
 
 The Project Gutenberg collection includes a number of items that do not meet the public domain or formatting criteria described above.
 The founder of Project Gutenberg, Michael Hart, invented eBooks in 1971, and the online library grew substantially
