@@ -4,7 +4,7 @@ title: Collection Development Policy - Project Gutenberg
 permalink: /policy/collection_development.htm
 ---
 
-# This is a draft policy, not yet ported to www.gutenberg.org
+# This is an approved policy, which has not yet ported to www.gutenberg.org
 
 Project Gutenberg is a library of free electronic books (eBooks).
 The Project Gutenberg collection has been built by the efforts of volunteers who, 
