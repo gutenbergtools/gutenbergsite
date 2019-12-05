@@ -210,15 +210,15 @@ A tag is an instruction to the browser, usually to display something with specif
 
 is the instruction to start a new paragraph. An entity is a named special character that might not be available in your character set. Entities are shown starting with an ampersand "&" and ending with a semi-colon ";" : for example, &mdash; is the representation of an em-dash. I'm marking up a made-up short text as I write these steps, loosely based on the sample page from question [V.121]. You can see the changes made at each stage by looking at the files 
 
-| |[View Source]()|(text before starting)|
-|htmstep1.htm|[View Source]()|(after adding the HTML header and footer)|
-|htmstep2.htm|[View Source]()|(after adding paragraph marks)|
-|htmstep3.htm|[View Source]()|(after marking main headings)|
-|htmstep4.htm|[View Source]()|(after adding special line breaks and indents)|
-|htmstep5.htm|[View Source]()|(after adding italics and bold)|
-|htmstep6.htm|[View Source]()|(after adding accents and non-ASCII characters)|
-|htmstep7.htm|[View Source]()|(after adding an image)|
-|htmstep8.htm|[View Source]()|(showing some extra techniques)|
+| |[View Source](/wiki_images/1-HTML_FAQ_Example_0.txt)|(text before starting)|
+|htmstep1.htm|[View Source](/wiki_images/30-HTML_FAQ_Example_1.txt)|(after adding the HTML header and footer)|
+|htmstep2.htm|[View Source](/wiki_images/89-HTML_FAQ_Example_2.txt)|(after adding paragraph marks)|
+|htmstep3.htm|[View Source](/wiki_images/38-HTML_FAQ_Example_3.txt)|(after marking main headings)|
+|htmstep4.htm|[View Source](/wiki_images/84-HTML_FAQ_Example_4.txt)|(after adding special line breaks and indents)|
+|htmstep5.htm|[View Source](/wiki_images/98-HTML_FAQ_Example_5.txt)|(after adding italics and bold)|
+|htmstep6.htm|[View Source](/wiki_images/76-HTML_FAQ_Example_6.txt)|(after adding accents and non-ASCII characters)|
+|htmstep7.htm|[View Source](/wiki_images/10-HTML_FAQ_Example_7.txt)|(after adding an image)|
+|htmstep8.htm|[View Source](/wiki_images/71-HTML_FAQ_Example_8.txt)|(showing some extra techniques)|
 
 Before you start, make sure that you can see these files both in your browser and in your editor. In your editor, you should see the HTML codes; in your browser, you should see the text as it is intended to be viewed.
 

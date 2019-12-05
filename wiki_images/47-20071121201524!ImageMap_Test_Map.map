@@ -1,0 +1,4 @@
+<map name="map1">
+  <a href="wiki/Main_Page"             shape="rect" coords="0, 0, 50%, 50%">Main Page</a> |
+  <a href="wiki/Special:Recentchanges" shape="rect" coords="50%, 50%, 100%, 100%">Recent Changes</a>
+</map>

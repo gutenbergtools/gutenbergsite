@@ -16,14 +16,14 @@ To display a Project Gutenberg button or banner on your page:
 
 ## Project Gutenberg official buttons and banners
 
-| ![gutenberg_blog.gif](https://www.gutenberg.org/ftp/images/gutenberg_blog.gif) |
+| ![gutenberg_blog.gif](/wiki_images/gutenberg_blog.gif) |
 |------------------------------------------------------------------------------|----|
 | File Name:| gutenberg_blog.gif|
 | Dimensions:| 80 x 15 pixels|
 | Size: | 1KB|
 | Sample HTML Code: |\<a href="http://www.gutenberg.org/" \> \< img src="gutenberg_blog.gif" width="80" height="15" alt="Go To Project Gutenberg"\> \</a\>|
 | Animated Text: | Not Animated 
-| ![gutenberg_blog.gif](https://www.gutenberg.org/ftp/images/gutenberg_blog2.gif)
+| ![gutenberg_blog.gif](/wiki_images/gutenberg_blog2.gif)
 | File Name: | gutenberg_blog2.gif |
 | Dimensions: | 80 X 15 pixels|
 | Size: | 1KB |
