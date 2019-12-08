@@ -84,7 +84,7 @@ the quality and diversity of thought and expression."
 The FTR makes it clear that inclusion of an item in a library collection does not mean the ideas within
 it are endorsed by the library. "Publishers, librarians, and booksellers do not need to endorse every idea or presentation they make available. It would conflict with the public interest for them to establish their own political, moral, or aesthetic views as a standard for determining what should be published or circulated."
 
-The final paragraph of FTR nicely summarize Project Gutenberg's commitment to building a diverse and vibrant
+The final paragraph of FTR nicely summarizes Project Gutenberg's commitment to building a diverse and vibrant
 collection, and to not avoid inclusion of eBooks based on their topics or the ideas within them:
 "We state these propositions neither lightly nor as easy generalizations. We here stake out a lofty claim for the value of the written word. We do so because we believe that it is possessed of enormous variety and usefulness, worthy of cherishing and keeping free. We realize that the application of these propositions may mean the dissemination of ideas and manners of expression that are repugnant to many persons. We do not state these propositions in the comfortable belief that what people read is unimportant. We believe rather that what people read is deeply important; that ideas can be dangerous; but that the suppression of ideas is fatal to a democratic society. Freedom itself is a dangerous way of life, but it is ours."
 
