@@ -11,20 +11,20 @@ Some people chose an interview format for their responses, with pre-set question
 
 <div class="contents">
 <ol>
-<li><a href="#">Amy Zelmer</a></li>
-<li><a href="#">Ben Crowder</a></li>
-<li><a href="#">Col Choat</a></li>
-<li><a href="#">Dagny</a></li>
-<li><a href="#">Gardner Buchanan</a></li>
-<li><a href="#">Jim Tinsley</a></li>
-<li><a href="#">John Mamoun</a></li>
-<li><a href="#">Ken Reeder</a></li>
-<li><a href="#">Lynn Hill</a></li>
-<li><a href="#">Sandra Laythorpe</a></li>
-<li><a href="#">Suzanne Shell</a></li>
-<li><a href="#">Tony Adam</a></li>
-<li><a href="#">Tonya Allen</a></li>
-<li><a href="#">Walter Debeuf</a></li>
+<li><a href="#amy-zelmer">Amy Zelmer</a></li>
+<li><a href="#ben-crowder">Ben Crowder</a></li>
+<li><a href="#col-choat">Col Choat</a></li>
+<li><a href="#dagny">Dagny</a></li>
+<li><a href="#gardner-buchanan">Gardner Buchanan</a></li>
+<li><a href="#jim-tinsley">Jim Tinsley</a></li>
+<li><a href="#john-mamoun">John Mamoun</a></li>
+<li><a href="#ken-reeder">Ken Reeder</a></li>
+<li><a href="#lynn-hill">Lynn Hill</a></li>
+<li><a href="#sandra-laythorpe">Sandra Laythorpe</a></li>
+<li><a href="#suzanne-shell">Suzanne Shell</a></li>
+<li><a href="#tony-adam">Tony Adam</a></li>
+<li><a href="#tonya-allen">Tonya Allen</a></li>
+<li><a href="#walter-debeuf">Walter Debeuf</a></li>
 </ol>
 </div>
 
@@ -78,7 +78,7 @@ I tried to apply the editing rules outlined on the PG site, though they weren't 
 
 When I submitted the title pages of the book to PG for copyright clearance it was rejected because the book was published in 1926. I don't know what I was thinking about when I chose it. It must have just LOOKED old enough. I had scanned and proofed about half of it, so I just abandoned it and looked for something else. Interestingly, Australians and residents in other countries with similar copyright laws, can now read it as it is in the public domain in Australia and is now on the Project Gutenberg of Australia site. I was able to finish it and post it at PG, after all. 
 
-###How did you develop your PG experience from there?
+### How did you develop your PG experience from there?
 I think that one of the most valuable things I did was to join the volunteer discussion group. I found that I didn't need to take part, but could just take note of all the different issues raised by other volunteers. Some days there was no activity by the group, but then a hot topic would be raised (e.g. whether some books, such as Mein Kampf by Adolf Hitler, should not be accepted by PG, even if eligible) and there would be plenty of comments. I realised also that I could ask for help on specific questions regarding preparation of texts and receive prompt informative answers. Once, when I thought that I was sending to ONE of the members of the group an e-mail with a large attachment, I was quickly made aware that EVERYONE had received it. Some weren't amused, but I am a quick learner--I didn't do it again.
 
 Subscribing to the weekly newsletter is also worthwhile. There is a link on the main page of the PG web site to allow people to subscribe to the mailing list and discussion group. I also found a few people who I began to e-mail privately, outside the discussion group. That helped a lot, too. Perhaps there is merit in instigating a mentor scheme, whereby a new volunteer can refer to another more experienced one for help, guidance and encouragement. I would be interested in taking part in that. 
@@ -434,7 +434,7 @@ For a book with nice clear, good-sized print, I figure that it averages out to a
 
 I feel that I've got my process pretty well set by now. I've put together several little home-made utility programs, written in FoxPro, which assist me. (I've put in some effort to try to adapt some of these for possible use by others, but the problems are that it takes a lot more work to polish software to the point that I feel comfortable letting somebody else pound on it, and the scope of what I think the software ought to do gets bigger every time I work on it, and it's not nearly as enjoyable - for somebody who develops software at work every day - as producing etexts.) 
 
-*My complete production process, with rough time breakdown, is as follows: *
+**My complete production process, with rough time breakdown, is as follows:**
 1. Scan the book, 2 pages at a time, about 1 minute per scan (30 seconds per page). (I do not cut the pages out of the book, I just lay it flat on the scanner and press down on the spine.)
 2. Run the BMP file through TextBridge Pro, about 30 seconds per page. (Again, when working with clear, good-sized print.) I save the output as text with no line breaks.
 3. Run a little FoxPro utility that I wrote that massages and formats the file a little bit.
