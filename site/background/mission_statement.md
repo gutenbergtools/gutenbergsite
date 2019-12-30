@@ -1,14 +1,14 @@
 ---
 layout: default
-title: PG - Mission Statement
-permalink: /about/mission_statement.html
+title: Mission Statement | Project Gutenberg
+permalink: /background/mission_statement.html
 ---
-
-# Project Gutenberg Mission Statement by Micheal Hart
-From Project Gutenberg, the first producer of free ebooks.
+The Project Gutenberg Mission Statement, by Micheal Hart
+========================================================
 
 The mission of Project Gutenberg is simple:
 To encourage the creation and distribution of eBooks.
+
 This mission is, as much as possible, to encourage **all** those who are interested in making eBooks and helping to give them away.
 
 In fact, Project Gutenberg approves about 99% of all requests from those who would like to make our eBooks and give them away, within their various local copyright limitations.
@@ -44,7 +44,3 @@ Everyone is free to do their own eBooks their own way.
 
 Written by Michael S. Hart
 June 20, 2004.  Updated October 23, 2004; December 25, 2007.
-
-
-
-

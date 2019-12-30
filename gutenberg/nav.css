@@ -1,15 +1,14 @@
 /*Strip the ul of padding and list styling*/
 nav {
-	background-color:#EDDAB7;
-	color:#000000;
-	left: 0;
-	padding: 0 10vw 0 0;
-	position: fixed;
-	right: 0;
-	top: 0;
-	z-index: 999;
-  font-weight: bold;
-
+    background-color:#EDDAB7;
+    color:#000000;
+    left: 0;
+    padding: 0 10vw 0 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 999;
+    font-weight: bold;
 }
 nav ul {
     list-style-type:none;
@@ -28,32 +27,38 @@ nav li {
 nav li a {
     display:block;
     min-width:120px;
-    height: 50px;
-    text-align: center;
-    line-height: 50px;
+    text-align: center; 
+    height: 50px; 
+    line-height: 50px; 
     color: #fff;
     background: #EDDAB7;
     text-decoration: none;
 }
 /*Hover state for top level links*/
 nav li:hover a {
-   /*background: #19c589;*/
-     text-decoration:underline;
+/*    background: #7A7A7A; */
+    color: #fff;
+/*    background: #EDDAB7; */
+/*    color: #2f3036; */
+    background: #19c589; /* green */
+    text-decoration:underline;
+/*    color: #f00; */
 }
 /*Style for dropdown links*/
 nav li:hover ul a {
-    background: #EDDAB7;
-    color: #2f3036;
-    height: 40px;
+    background: #EDDAB7; /* neutral */
+    color: #2f3036; /* gray */
+    height: 40px; 
     line-height: 40px;
     margin: 0;
     text-decoration:none;
+    text-align: left; 
 }
 /*Hover state for dropdown links*/
 nav li:hover ul a:hover {
-    background: #7A7A7A;
-    /*text-decoration:underline;*/
-    color: #fff;
+    background: #7A7A7A; /* gray */
+    text-decoration:underline;
+    color: #fff; /* white */
 }
 /*Hide dropdown links until they are needed*/
 nav li ul {
@@ -69,7 +74,7 @@ nav li ul li {
 nav li ul li a {
     width: auto;
     min-width: 100px;
-    padding: 0 20px;
+    padding: 0 20px; 
 }
 /*Display the dropdown on hover*/
 nav ul li a:hover + .hidden, .hidden:hover {
@@ -84,7 +89,7 @@ nav ul li a:hover + .hidden, .hidden:hover {
 /*Style 'show menu' label button and hide it by default*/
 .show-menu {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    text-align: center;
+    text-align: center; 
     padding: 10px 0;
     display: none;
     margin-left: 140px;
@@ -116,22 +121,19 @@ nav .searchbox input[type=text]{
 }
 nav .searchbox{
 	position: relative;
-	float:right;
+	float:right; 
 	width:200px;
 	padding:10px;
 	background-color: #EDDAB7;
 }
-
 nav .donate{
 	background-color:#F5ECDB;/*#ADA96B;*/
 	color:black;
 	font-size: 16px;
 	width:115%;
 	margin-top: 60px;
-
 }
 nav .donate p{
-
 	font-weight:bold;
 	margin-top:0px;
 	margin-left:140px;
@@ -190,11 +192,7 @@ nav .donate .donbtn{
 		float:none;
 		background-color: transparent;
 		display:inline-block;
-
 	}
-
-
-
 }
 
 

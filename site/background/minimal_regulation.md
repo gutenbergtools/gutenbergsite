@@ -1,10 +1,10 @@
 ---
 layout: default
-title: PG- Contact Information
-permalink: /about/minimal_regulation.html
+title: Principle of Minimal Regulation | Project Gutenberg
+permalink: /background/minimal_regulation.html
 ---
-# Project Gutenberg Principle of Minimal Regulation/ Administration by Micheal Hart and Greg Newby
-From Project Gutenberg, the first producer of free ebooks.
+Project Gutenberg Principle of Minimal Regulation/ Administration, by Michael Hart and Greg Newby
+=================================================================================================
 
 Project Gutenberg is founded on the principle of Minimal supervision of our volunteers in their effort to promote our mission:
 To encourage the creation and distribution of eBooks.
@@ -27,6 +27,3 @@ Break Down the Bars of Ignorance and Illiteracy.
 
 Written by Michael S. Hart and Gregory B. Newby
 June 25, 2004.  Updated October 23, 2004.
-
-
-

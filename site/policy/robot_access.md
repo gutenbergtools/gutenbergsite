@@ -1,10 +1,12 @@
 ---
 layout: default
-title: PG-Robot Access to Pages
-permalink: /information/robot_access.html
+title: Robot Access to Pages | Project Gutenberg
+permalink: /policy/robot_access.html
 ---
 
-# Information About Robot Access to our Pages
+Information About Robot Access to our Pages
+===========================================
+
 <div class="box_shadow"><b>The Project Gutenberg website is intended for human users only.</b> Any perceived use of automated tools to access the Project Gutenberg website will result in a temporary or permanent block of your IP address. The only exceptions to this rule are below.</div>
 <div class="contents">
 Contents

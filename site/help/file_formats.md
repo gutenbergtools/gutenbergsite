@@ -1,11 +1,11 @@
 ---
 layout: default
-title: PG- File Formats FAQ
-permalink: /how_to/file_formats_faq.html
+title: File Formats | Project Gutenberg
+permalink: /help/file_formats.html
 ---
 
-# File Formats FAQ
-From Project Gutenberg, the first producer of free eBooks.
+File Formats Utilized by Project Gutenberg
+==========================================
 
 <div class="contents">Contents
 <ol>

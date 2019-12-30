@@ -1,10 +1,12 @@
 ---
 layout: default
-title: PG-Copyright How-To
-permalink: /how_to/copyright.html
+title: Copyright How-To | Project Gutenberg
+permalink: /help/copyright.html
 ---
 
-# Copyright How-To
+Copyright How-To
+================
+
 <div class="contents">
 Contents
 <ol>

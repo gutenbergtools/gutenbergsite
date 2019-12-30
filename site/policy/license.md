@@ -1,10 +1,11 @@
 ---
 layout: default
-title: PG-Project Gutenberg License
-permalink: /how_to/project_gutenberg_license.html
+title: License | Project Gutenberg
+permalink: /policy/license.html
 ---
 
-# The Project Gutenberg License
+The Project Gutenberg License
+=============================
 
 <div class="contents">
 <ol>
