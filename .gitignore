@@ -1,5 +1,6 @@
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-includes/latestbooks-template.html
+_includes/latestbooks-template.html
+to_delete
 BACKUP

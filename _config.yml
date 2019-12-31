@@ -43,6 +43,7 @@ exclude:
    - BACKUP
    - LICENSE
    - README.md
+   - to_delete
 
 destination: /public/vhost/g/gutenberg/dev/html/
 timezone: America/New_York

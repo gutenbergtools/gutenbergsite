@@ -26,7 +26,7 @@ See: [the Project Gutenberg License](/policy/license.html) and the [Permission H
 - If you are using a commercial product that channels requests through a proxy (such as Amazon Kindle), your address may be blocked due to too much use from that shared proxy address.  Instead, see our [Mobile Reader How-To](/wiki/Gutenberg:MobileReader_Devices_How-To) for guidance on how to download items to your own system, prior to transferring to the other device.
 
 ### Deep Linking
-When linking to a Project Gutenberg item, link to the main landing page such as www.gutenberg.org/ebooks/11.  Do not link to specific files or anchors, such as [http://www.gutenberg.org/files/11/11-h/11-h.htm](http://www.gutenberg.org/files/11/11-h/11-h.htm). Technical measures (i.e., cookies, captchas and similar) are utilized to ensure that links come from the landing page or elsewhere within www.gutenberg.org.  If you need to link to a specific file or passage, please make your own copy of that file and host it on your own server.
+When linking to a Project Gutenberg item, link to the main landing page such as www.gutenberg.org/ebooks/11.  Do not link to specific files or anchors, such as http://www.gutenberg.org/files/11/11-h/11-h.htm. Technical measures (i.e., cookies, captchas and similar) are utilized to ensure that links come from the landing page or elsewhere within www.gutenberg.org.  If you need to link to a specific file or passage, please make your own copy of that file and host it on your own server.
 This measure is a protection against possible renaming or reorganizing the back end file structure, which has happened several times over the years.  We intend the landing page to be permanent.
 
 ### Embedding or Wrapping our Site or Contents

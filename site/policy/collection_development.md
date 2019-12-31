@@ -25,19 +25,17 @@ Project Gutenberg's collection development focuses on literature and
 other written works.  Selections are made by volunteers with diverse
 interests, and essentially all eligible submissions are welcome.
 
-The basic eligibility criteria are: - Submitted eBooks are digitized
+The basic eligibility criteria are: 
+- Submitted eBooks are digitized
 versions of printed books, or similar items such as manuals,
 pamphlets, periodicals, travelogues, theses, journals, or chapbooks.
-
 - Evidence is submitted via the copyright portal at
 https://copy.pglaf.org to enable Project Gutenberg to confirm the
 source - that is, the printed item(s) from which the eBook is 
 derived - is in the public domain in the US.
-
 - The eBook is submitted via the
 upload portal at https://upload.pglaf.org, and meets the requirements
 there for formatting and for proofreading accuracy.  
-
 - The resulting eBook is entirely free of any US
 copyrights. Importantly, this includes that the "sweat of the brow"
 effort to digitize the source is not an act of authorship, so is not
@@ -53,8 +51,7 @@ upload portal.  - Unpublished contemporary items, even if they are
 granted to the public domain by the author.  - Items that were not
 previously published or distributed.
 
-## How is a Project Gutenberg eBook related to the source(s) it was
-based on?
+## How is a Project Gutenberg eBook related to the source(s) it was based on?
 
 Project Gutenberg eBooks are new works, derived from existing printed
 works. Project Gutenberg does not require that its eBooks be exact
@@ -91,7 +88,7 @@ works. Any eligible item, on any topic, is welcome.
 
 Project Gutenberg follows the principles of the American Library
 Association's Freedom to Read Statement (FTR), which may be found
-online at http://www.ala.org/advocacy/intfreedom/freedomreadstatement.
+online at [www.ala.org](http://www.ala.org/advocacy/intfreedom/freedomreadstatement).
 
 This commitment means that Project Gutenberg does not avoid difficult
 or unpopular topics. It also means that Project Gutenberg adds eBooks

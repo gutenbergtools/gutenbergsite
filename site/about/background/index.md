@@ -15,7 +15,7 @@ Internet and continues until today. The essays and documents in this
 section provide some of the background of Project Gutenberg, and also
 describe the basis for how Project Gutenberg operates.
 
-[The History and Philosophy of Project Gutenberg by Michael Hart](/about/background/history_and_philosphy.html) (1992)
+[The History and Philosophy of Project Gutenberg by Michael Hart](/about/background/history_and_philosophy.html) (1992)
 
 [Mission Statement](/about/background/mission_statement.html) (2004)
 
@@ -23,7 +23,7 @@ describe the basis for how Project Gutenberg operates.
 
 [Administrativia](/about/background/administrivia.html) (2004)
 
-[No Cost, or Freedom?](/about/background/free_ebook.md) (2012)
+[No Cost, or Freedom?](/about/background/free_ebook.html) (2012)
 
 ### Other items about Project Gutenberg
 - eBook: [Project Gutenberg (1971-2008)](https://www.gutenberg.org/ebooks/27045) by Marie Lebert, covering the history of Project Gutenberg. Other titles by Marie Lebert cover other aspects of eBooks, in English, French and Spanish. Two of these are translations. A third is an album celebrating Project Gutenberg's 40th anniversary:

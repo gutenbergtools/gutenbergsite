@@ -31,3 +31,4 @@ More about Project Gutenberg
 
 [Help and how-to](/help/)
 
+The [Project Gutenberg Literary Archive Foundation](/about/pglaf.html), which operates Project Gutenberg and accepts donations.
