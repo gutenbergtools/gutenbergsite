@@ -1,10 +1,11 @@
 ---
 layout: default
-title: PG- How-To
-permalink: /how_to/volunteers_faq.html
+title: Volunteers' FAQ (old) | Project Gutenberg
+permalink: /attic/volunteers_faq.html
 ---
-Volunteers FAQ
-==============
+
+Volunteers' FAQ (old)
+=====================
 
 Project Gutenberg welcomes contributions of eBooks from people with the interest, time, 
 and skillset needed to meet our submission standards. Details of the process and the standards
@@ -110,4 +111,3 @@ Try to turn a very simple text file into an HTML ebook
 and you are started on your way to more complex files with
 the aid of the instructions in the references in
 https://www.w3schools.com/html/html_editors.asp.
-

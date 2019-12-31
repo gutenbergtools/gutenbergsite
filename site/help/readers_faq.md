@@ -1,10 +1,13 @@
 ---
 layout: default
-title: PG-Reader's FAQ
-permalink: /how_to/readers_faq.html
+title: Reader's FAQ (old) | Project Gutenberg
+permalink: /attic/readers_faq.html
 ---
 
-# Readers' FAQ
+Readers' FAQ (old)
+==================
+
+This page is partially or entirely outdated: Please see current guidance in the [help section](/help/).
 
 Are you interested in submitting an eBook to Project Gutenberg? Instead, please see current submission requirements via the Project Gutenberg upload portal at [https://upload.pglaf.org](https://upload.pglaf.org)
 

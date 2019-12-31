@@ -1,11 +1,13 @@
 ---
 layout: default
-title: PG-Mirroring How To
-permalink: /how_to/mirroring.html
+title: Mirroring How To | Project Gutenberg
+permalink: /help/mirroring.html
 ---
 
-# Mirroring How-To
-<div class="box_shadow">Project Gutenberg welcomes sites to mirror (copy) our collection. This can bring the collection closer to people in your region. This HOW-TO describes how to set up a mirror.</div>
+Mirroring How-To
+================
+
+<div class="box_shadow">Project Gutenberg welcomes sites to mirror (copy) our collection. This can bring the collection closer to people in your region. This How-To describes how to set up a mirror.</div>
 
 <div class="contents">
 <ol>

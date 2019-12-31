@@ -19,15 +19,15 @@ Project Gutenberg Mission Statement
 
   To encourage the creation and distribution of eBooks.
 
-[A 2004 essay](/background/mission_statement.html) by Michael Hart provides more detail on the mission statement, and some of the beliefs that guide Project Gutenberg's activities in fulfillment of that mission.
+[A 2004 essay](/about/background/mission_statement.html) by Michael Hart provides more detail on the mission statement, and some of the beliefs that guide Project Gutenberg's activities in fulfillment of that mission.
 
 More about Project Gutenberg
 ----------------------------
    To read more about Project Gutenberg, choose one of these topics:
 
-[Background, History and Philosophy](/background/index.html): Various essays and articles.
+[Background, History and Philosophy](/about/background/index.html): Various essays and articles.
 
-[Partners and Affiliates](/partners_affiliates.html)
+[Partners and Affiliates](/about/partners_affiliates.html)
 
 [Help and how-to](/help/)
 

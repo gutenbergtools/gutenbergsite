@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Background, History and Philosophy | Project Gutenberg
-permalink: /background/index.html
+permalink: /about/background/
 ---
 
 Background, History and Philosophy of Project Gutenberg
@@ -15,15 +15,15 @@ Internet and continues until today. The essays and documents in this
 section provide some of the background of Project Gutenberg, and also
 describe the basis for how Project Gutenberg operates.
 
-[The History and Philosophy of Project Gutenberg by Michael Hart](/background/history_and_philosphy.html) (1992)
+[The History and Philosophy of Project Gutenberg by Michael Hart](/about/background/history_and_philosphy.html) (1992)
 
-[Mission Statement](/background/mission_statement.html) (2004)
+[Mission Statement](/about/background/mission_statement.html) (2004)
 
-[Principal of Minimal regulation](/background/minimal_regulation.html) (2004)
+[Principal of Minimal regulation](/about/background/minimal_regulation.html) (2004)
 
-[Administrativia](/background/administrivia.html) (2004)
+[Administrativia](/about/background/administrivia.html) (2004)
 
-[No Cost, or Freedom?](/background/free_ebook.md) (2012)
+[No Cost, or Freedom?](/about/background/free_ebook.md) (2012)
 
 ### Other items about Project Gutenberg
 - eBook: [Project Gutenberg (1971-2008)](https://www.gutenberg.org/ebooks/27045) by Marie Lebert, covering the history of Project Gutenberg. Other titles by Marie Lebert cover other aspects of eBooks, in English, French and Spanish. Two of these are translations. A third is an album celebrating Project Gutenberg's 40th anniversary:

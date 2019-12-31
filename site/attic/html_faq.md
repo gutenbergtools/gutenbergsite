@@ -1,10 +1,14 @@
 ---
 layout: default
-title: PG- HTML FAQ
-permalink: /how_to/html_faq.html
+title: HTML FAQ (old) | Project Gutenberg
+permalink: /attic/html_faq.html
 ---
 
-# HTML FAQ
+HTML FAQ (old)
+==============
+
+This page is partially or entirely outdated: Please see current guidance in the [help section](/help/). Production requirement for new uploads are described at [upload.pglaf.org](https://upload.pglaf.org).
+
 These guidelines might not reflect all current "best practices." Please visit [Distributed Proofreaders](https://www.pgdp.net) to view forums where best practices are actively discussed and maintained. Also, you can look at recent eBooks from Project Gutenberg, to for examples. 
 
 <div class ="contents">

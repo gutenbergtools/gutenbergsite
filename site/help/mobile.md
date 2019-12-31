@@ -1,10 +1,12 @@
 ---
 layout: default
-title: PG- Mobile Devices
+title: Tablets, Phones and eReaders How-To | Project Gutenberg
 permalink: /help/mobile.html
 ---
-# MobileReader Devices How-To
-From Project Gutenberg, the first producer of free ebooks.
+
+Tablets, Phones and eReaders How-To
+===================================
+
 <div class="contents">
 <ol>
 <li><a href="#project-gutenberg-is-not-just-for-your-desktop-or-notebook-computer">Project Gutenberg is not just for your desktop or notebook computer!</a></li>
@@ -99,13 +101,13 @@ In 2012, the Project Gutenberg Webmaster wrote a [Kindle Fire review.](/wiki/Gut
 For the Kindle Fire, and potentially other Kindle devices, you can install alternate eBook reader software.  Advice we have received (might need adjustment for your specific device, or if some versions of software are updated from when these instructions were written):  **install a third party EPUB reader** and start downloading the EPUB files instead of the Kindle files from this site. One good and free EPUB reader is [FBReader](http://www.fbreader.org/FBReaderJ). Download the *Android .2\* * package for the Kindle Fire and the *Android 4.\* * package for the Kindle Fire HD. You may want to read up on installing third party apps on the Kindle Fire. Advantages of EPUB files over Kindle files include: that they are much smaller than Kindle files and that they work on the Apple iPad too.
 
 ### Kindle 3 
-The Amazon "Kindle 3" device seem to work well with Project Gutenberg titles; the Kindle DX also.  Amazon used to have instructions available for downloading Project Gutenberg titles, but this seems to be gone now.  They do have some free content, and an app, in their [Amazon.com: Free Book Collections](http://www.amazon.com/b?ie=UTF8&amp;node=2245146011).For MS-Windows users, there is a video describing the process at [Youtube](http://www.youtube.com/watch?v=vV_fsV3Gbao&amp;feature=youtu.be), via [a blog on the power of small instructional vidoes](http://www.toolsandtaxonomy.com/2011/08/23/creating-short-videos-that-support-learning/).
+The Amazon "Kindle 3" device seem to work well with Project Gutenberg titles; the Kindle DX also.  Amazon used to have instructions available for downloading Project Gutenberg titles, but this seems to be gone now.  They do have some free content, and an app, in their [Amazon.com: Free Book Collections](http://www.amazon.com/b?ie=UTF8&amp;node=2245146011). For MS-Windows users, there is a video describing the process at [Youtube](http://www.youtube.com/watch?v=vV_fsV3Gbao&amp;feature=youtu.be), via [a blog on the power of small instructional vidoes](http://www.toolsandtaxonomy.com/2011/08/23/creating-short-videos-that-support-learning/).
 - Kindle devices favor the "MOBI" format, which is usually labeled "Kindle" on the Project Gutenberg download pages
 - As described above, you can first download to your computer, then connect your Kindle and copy files to it.  This works with MOBI and plain text.  The HTML and EPUB files we copied were not viewable on the Kindle.  Audio books in MP3 format will play through the Kindle's music player, but the player is limited and does not let you see and select from available audio books.
 - Project Gutenberg thanks Amazon for providing Kindle 3's and Kindle DX's for our evaluation in 2010.
 
 ### Amazon's New File Format
-In 2015, Amazon started using the "kfx" file format for new Kindle readers.  Project Gutenberg provides the MOBI format, which our download page calls "kindle" format.  There are no immediate plans for Project Gutenberg to offer kfx format, but this may change in the future.  Meanwhile, it appears that newer Kindle models can still utilize the other formats (MOBI, HTML and even plain text).  There are many articles about how to convert files to the kfx format.[is one at The Digital Reader.com](http://the-digital-reader.com/2016/03/28/how-to-use-calibre-to-convert-ebooks-to-kfx-format-for-the-enhanced-kindle-typesetting/%7CHere)
+In 2015, Amazon started using the "kfx" file format for new Kindle readers.  Project Gutenberg provides the MOBI format, which our download page calls "kindle" format.  There are no immediate plans for Project Gutenberg to offer kfx format, but this may change in the future.  Meanwhile, it appears that newer Kindle models can still utilize the other formats (MOBI, HTML and even plain text).  There are many articles about how to convert files to the kfx format. [Here is one at The Digital Reader.com](http://the-digital-reader.com/2016/03/28/how-to-use-calibre-to-convert-ebooks-to-kfx-format-for-the-enhanced-kindle-typesetting/%7CHere)
 
 ## Nook
 The Barnes &amp; Noble "Nook" devices seem to work well with Project Gutenberg titles, including the different versions (Color etc.).  Note that to connect, your Nook needs to be awake (use the on-screen slider to do this, you'll get a message that it is connected to your computer).  Other points for the Nook:

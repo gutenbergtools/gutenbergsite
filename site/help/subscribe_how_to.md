@@ -1,10 +1,14 @@
 ---
 layout: default
-title: PG-Subscribe How-To
-permalink: /how_to/subscribe_how_to.html
+title: Subscribe How-To (old) | Project Gutenberg
+permalink: /attic/subscribe_how_to.html
 ---
 
-# Subscribe How-To
+Subscribe How-To (old)
+======================
+
+This page is partially or entirely outdated: Please see current guidance in the [help section](/help/). Visit [lists.pglaf.org](https://lists.pglaf.org) to subscribe to the periodic newsletter.
+
 Various mailing lists for Project Gutenberg exist. A brief description of each follows, along with a link to visit or subscribe (or unsubscribe). All lists live at [http://lists.pglaf.org](http://lists.pglaf.org), and are moderated except for the discussion lists. If you would like to subscribe to a mailing list simply select a mailing list name below. All lists require email confirmation to subscribe as part of email anti-spam measures. Note that archives from 2006-2009 are not available for some lists, due to a server crash. 
 
 If you only want to report an error in a book or the book catalog then go to [Contact Information](/about/contact_information.html) where the email addresses for that are listed.

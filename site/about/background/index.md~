@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Background, History and Philosophy | Project Gutenberg
-permalink: /background/index.html
+permalink: /background/
 ---
+
 Background, History and Philosophy of Project Gutenberg
 =======================================================
 
@@ -16,7 +17,7 @@ describe the basis for how Project Gutenberg operates.
 
 [The History and Philosophy of Project Gutenberg by Michael Hart](/background/history_and_philosphy.html) (1992)
 
-[/background/mission_statement.html](Mission Statement) (2004)
+[Mission Statement](/background/mission_statement.html) (2004)
 
 [Principal of Minimal regulation](/background/minimal_regulation.html) (2004)
 

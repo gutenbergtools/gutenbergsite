@@ -1,9 +1,11 @@
 ---
 layout: default
-title: PG- No Cost, or Freedom?
-permalink: /background/free_ebook.html
+title: No Cost, or Freedom? | Project Gutenberg
+permalink: /about/background/free_ebook.html
 ---
-# No Cost, or Freedom?
+
+No Cost, or Freedom?
+====================
 
 The word free in the English language does not distinguish between free of charge and freedom. 
 

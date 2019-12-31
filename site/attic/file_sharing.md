@@ -1,7 +1,7 @@
 ---
 layout: default
 title: File Sharing How-To (old) | Project Gutenberg
-permalink: /how_to/file_sharing.html
+permalink: /attic/file_sharing.html
 ---
 
 File Sharing How-To (old)

@@ -1,10 +1,14 @@
 ---
 layout: default
-title: PG-Volunteers Voices
-permalink: /how_to/volunteers_voices.html
+title: Volunteers' Voices (old) | Project Gutenberg
+permalink: /attic/volunteers_voices.html
 ---
 
-# Volunteers' Voices
+Volunteers' Voices
+==================
+
+This page is partially or entirely outdated: Please see current guidance in the [help section](/help/).
+
 In 2006, we asked volunteers to talk about their practical experiences with Project Gutenberg, how they joined, why they give up their hours to work for Free Etexts, how they get down to the nitty-gritty of producing texts.
 
 Some people chose an interview format for their responses, with pre-set questions; others just wrote. 

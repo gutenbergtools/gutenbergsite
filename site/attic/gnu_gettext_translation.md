@@ -1,10 +1,14 @@
 ---
 layout: default
-title: PG-GNU Gettext Translation
-permalink: /how_to/gnu_gettext_translation.html
+title: GNU Gettext Translation (old) | Project Gutenberg
+permalink: /attic/gnu_gettext_translation.html
 ---
 
-# GNU Gettext Translation How-To 
+GNU Gettext Translation How-To (old)
+====================================
+
+This page is partially or entirely outdated: Please see current guidance in the [help section](/help/). Note that the Project Gutenberg website is only offered in English.
+
 While the wiki contents can be translated by creating new translated wiki pages, the rest of the Project Gutenberg site cannot. The Project Gutenberg search engine uses **GNU gettext** as translation interface. 
 
 ## Overview
@@ -71,4 +75,3 @@ English headings usually are titlecased. If your language does not follow this c
 Imperative and infinitive forms are usually the same in English. (eg. go) If your language uses different forms (eg. ir, ve, vaya) you have to figure out which one is the most appropriate. As a quick rule of thumb, you may use the imperative form for menu commands and the infinitive for tooltip phrases and headers. Let you be guided by whichever form is the most customary in your language.
 
 There is no distinct courtesy form in English, so you have to decide which, if any, courtesy form you want to use (eg. tú, vos, Usted) and stay consistent. Again, see what is customary in your language. 
-

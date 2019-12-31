@@ -7,7 +7,7 @@ permalink: /attic/copyright_confirmation.html
 Copyright Confirmation How-To (old)
 ===================================
 
-This page is partially or entirely outdated: Please see current guidance in the [help section](/help/)
+This page is partially or entirely outdated: Please see current guidance in the [help section](/help/).
 
 There are many eBooks on the Internet which are not yet part of the Project Gutenberg collection. In order for Project Gutenberg to distribute them, copyright research must be performed. As described in the [Copyright How-To](/help/copyright_how_to.html), our research is quite diligent.
 

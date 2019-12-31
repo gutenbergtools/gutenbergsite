@@ -1,10 +1,11 @@
 ---
 layout: default
-title: PG- No Sweat of the Brow Copyright
-permalink: /how_to/no_sweat_copyright.html
+title: No Sweat of the Brow Copyright | Project Gutenberg
+permalink: /help/no_sweat_copyright.html
 ---
 
-# No Sweat of the Brow Copyright
+No Sweat of the Brow Copyright
+==============================
 
 Work performed on a public domain item, known as sweat of the brow, does not result in a new copyright. This is the judgment of Project Gutenberg's copyright lawyers, and is founded in a study of case law in the United States. This is founded in the notion of authorship, which is a prerequisite for a new copyright. Non-authorship activities do not create a new copyright.
 

@@ -1,10 +1,13 @@
 ---
 layout: default
-title: PG-Header How-To
-permalink: /how_to/project_gutenberg_header.html
+title: Header How-To (old) | Project Gutenberg
+permalink: /attic/project_gutenberg_header.html
 ---
 
-# Project Gutenberg Header How-To
+Project Gutenberg Header How-To (old)
+=====================================
+
+This page is partially or entirely outdated: Please see current guidance in the [help section](/help/).
 
 This sample Project Gutenberg header illustrates proper usage. The 3rd paragraph ("This is a COPYRIGHTED...") is only included for copyrighted eBooks. An additional paragraph to follow 1.C is also added (see the bottom of this file for details). 
 

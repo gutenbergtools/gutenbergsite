@@ -1,11 +1,11 @@
 ---
 layout: default
-title: PG- Administrivia
-permalink: /background/administrivia.html
+title: Administrivia | Project Gutenberg
+permalink: /about/background/administrivia.html
 ---
 
-# Administrivia by Michael Hart
-From Project Gutenberg, the first producer of free ebooks.
+Administrivia, by Michael Hart
+==============================
 
 Project Gutenberg does not want to get bogged down in administrivia, thus we have administrators who have no desire for political powers, financial rewards, or to write more than the most minimal guidelines for the Project Gutenberg volunters. (See FAQ #0 for the freedom of the volunteers to do what they want as much as possible.)
 

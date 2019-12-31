@@ -1,11 +1,11 @@
 ---
 layout: default
-title: PG- History and Philosophy
-permalink: /background/history_and_philosophy.html
+title: History and Philosophy | Project Gutenberg
+permalink: /about/background/history_and_philosophy.html
 ---
-# The History and Philosophy of Project Gutenberg by Michael Hart
 
-The History and Philosophy of Project Gutenberg by Michael Hart
+The History and Philosophy of Project Gutenberg, by Michael Hart
+================================================================
 
 © August 1992
 

@@ -1,11 +1,13 @@
 ---
 layout: default
-title: PG-Scanning FAQ
-permalink: /how_to/scanning_faq.html
+title: Scanning FAQ (old) | Project Gutenberg
+permalink: /attic/scanning_faq.html
 ---
 
-# Scanning FAQ
-These guidelines might not reflect all current "best practices." Please visit [Distributed Proofreaders](https://www.pgdp.net) to view forums where best practices are actively discussed and maintained. 
+Scanning FAQ (old)
+==================
+
+This page is partially or entirely outdated: Please see current guidance in the [help section](/help/). Please visit [Distributed Proofreaders](https://www.pgdp.net) to view forums where best practices are actively discussed and maintained. 
 <div class="contents">
 <ol>
 <li><a href="#what-is-a-scanner">What is a scanner?</a></li>

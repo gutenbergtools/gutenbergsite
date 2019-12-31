@@ -13,9 +13,11 @@ Project Gutenberg has its first electronic distribution, by email, in 1971. By t
 
 During that same period, Project Gutenberg's collection grew. Project Gutenberg's 100th eBook, released for January 1, 1994, represented increasing maturity of methods for creating eBooks from printed books. Better understanding of copyright, in the digital age, was also emerging. A number of donated contemporary works were also added to the collection.
 
-By the time the 10,000th eBook was released, for March 1, 2006, procedures for creating and distributing Project Gutenberg eBooks were similar to today's practices. [Distributed Proofreaders](https://www.pgdp.net) was the major source of new eBooks for Project Gutenberg, with a mature online platform for crowdsourcing the production of new eBooks. The website had replaced FTP and older methods for providing information about eBooks. 
+By the time the 10,000th eBook was released, for March 1, 2006, procedures for creating and distributing Project Gutenberg eBooks were similar to today's practices. [Distributed Proofreaders](https://www.pgdp.net) emerged as the major source of new eBooks for Project Gutenberg, with a mature online platform for crowdsourcing the production of new eBooks. The website, now at www.gutenberg.org, had replaced FTP and older methods for providing information about eBooks. 
 
-The organization that supports Project Gutenberg remained small and devoted. Increased focus on quality control and common procedures helped to improve most of the older ebooks, and give a similar look and feel to the library's content. In the years since then, there has been more focus on usability for various mobile readers, including mobile phones and tablets. A [collection development](/policy/collection_development.html) policy was developed.
+The organization that supports Project Gutenberg remained small and devoted. In 2001, the [Project Gutenberg Literary Archive Foundation](https://www.pglaf.org) was formed. PGLAF is the non-profit corporation that operates and manages Project Gutenberg.
+
+Increased focus on quality control and common procedures helped to improve most of the older ebooks, and give a similar look and feel to the library's content. In the years since then, there has been more focus on usability for various mobile readers, including mobile phones and tablets. A [collection development](/policy/collection_development.html) policy was approved.
 
 The future will bring continued innovation, and ongoing focus on the mission of Project Gutenberg: To encourage the creation and distribution of eBooks.
 
@@ -23,45 +25,31 @@ The future will bring continued innovation, and ongoing focus on the mission of 
  <div class="bookshelves ">
     <ul>
       <h2>2</h2>
-      <li><a href="/attic/2DArt.html">2DArt-How-to (old)</a></li>
+       <li><a href="/attic/2DArt.html">2DArt-How-to (old)</a></li>
       <h2>C</h2>
-      <li><a href="/attic/copyright_confirmation.html">Copyright Confirmation How-To (old)</a></li>
+       <li><a href="/attic/copyright_confirmation.html">Copyright Confirmation How-To (old)</a></li>
       <h2>F</h2>
-      <li><a href="/attic/file_sharing.html">File Sharing How-To</a></li>
+       <li><a href="/attic/file_sharing.html">File Sharing How-To (old)</a></li>
       <h2>G</h2>
-      <li><a href="/how_to/general_faq.html">General FAQ</a></li>
-      <li><a href="/how_to/gnu_gettext_translation.html">GNU Gettext Translation How-To</a></li>
-      <li><a href="/how_to/greek.html">Greek How-To</a></li>
+       <li><a href="/attic/gnu_gettext_translation.html">GNU Gettext Translation How-To (old)</a></li>
+       <li><a href="/attic/greek.html">Greek How-To (old)</a> - not yet ported</li>
       <h2>H</h2>
-      <li><a href="/how_to/html_faq.html">HTML FAQ</a></li>
-      <h2>M</h2>
-      <li><a href="/how_to/mirroring.html">Mirroring How-To</a></li>
-      <li><a href="/help/mobile.html">MobileReader Devices How-To</a></li>
-      <h2>N</h2>
-      <li><a href="no_sweat_copyright.html">No Sweat of the Brow copyright</a></li>
+       <li><a href="/attic/html_faq.html">HTML FAQ (old)</a></li>
       <h2>P</h2>
-      <li><a href="pdas_ebook_readers.html">PDAs and eBook Readers How-To</a></li>
-      <li><a href="permission.html">Permission How-To</a></li>
-      <li><a href="project_gutenberg_header.html">Project Gutenberg Header How-To</a></li>
-      <li><a href="pt_pg_como_fazer_permissoes.html">PT-PG Como Fazer Permissoes</a></li>
-      <li><a href="public_domain_ebook_submission.html">Public Domain eBook Submission How-To</a></li>
-      <br><br><br>
-      <h2>R</h2>
-      <li><a href="readers_faq.html">Readers' FAQ</a></li>
+       <li><a href="/attic/pdas_ebook_readers.html">PDAs and eBook Readers How-To (old)</a></li>
+       <li><a href="/attic/project_gutenberg_header.html">Project Gutenberg Header How-To (old)</a></li>
       <h2>S</h2>
-      <li><a href="scanning_faq.html">Scanning FAQ</a></li>
-      <li><a href="sheet_music.html">Sheet Music How-To</a></li>
-      <li><a href="submitting_your_own_work.html">Submitting Your Own Work How-To</a></li>
-      <li><a href="subscribe_how_to.html">Subscribe How-To</a></li>
+       <li><a href="/attic/scanning_faq.html">Scanning FAQ (old)</a></li>
+       <li><a href="/attic/sheet_music.html">Sheet Music How-To (old)</a></li>
+       <li><a href="/attic/subscribe_how_to.html">Subscribe How-To (old)</a></li>
       <h2>T</h2>
-      <li><a href="project_gutenberg_license.html">The Project Gutenberg License</a></li>
-      <li><a href="tools_faq.html">Tools FAQ </a></li>
+       <li><a href="/attic/tools_faq.html">Tools FAQ (old)</a></li>
       <h2>V</h2>
-      <li><a href="volunteers_faq.html">Volunteers' FAQ</a></li>
-      <li><a href="volunteers_voices.html">Volunteers' Voices</a></li>
+       <li><a href="/attic/volunteers_faq.html">Volunteers' FAQ (old)</a></li>
+       <li><a href="/attic/volunteers_voices.html">Volunteers' Voices (old)</a></li>
       <h2>W</h2>
-      <li><a href="website_translation.html">Website Translation How-To</a></li>
-      <li><a href="word_processor_faq.html">Word Processor FAQ</a></li>
+       <li><a href="/attic/website_translation.html">Website Translation How-To (old)</a> - not yet ported</li>
+       <li><a href="/attic/word_processor_faq.html">Word Processor FAQ (old)</a></li>
     </ul>
   </div>
 

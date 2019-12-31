@@ -1,11 +1,14 @@
 ---
 layout: default
-title: PG-Word Processor FAQ
-permalink: /how_to/word_processor_faq.html
+title: Word Processor FAQ (old) | Project Gutenberg
+permalink: /attic/word_processor_faq.html
 ---
 
-# Word Processor FAQ
-This page is no longer actively maintained. Some content may be inaccurate or outdated, including software names and external links. Please visit [Distributed Proofreaders](https://www.pgdp.net/c/) to view forums where best practices are actively discussed and maintained. 
+Word Processor FAQ (old)
+========================
+
+This page is partially or entirely outdated: Please see current guidance in the [help section](/help/). Please visit [Distributed Proofreaders](https://www.pgdp.net/) to view forums where best practices are actively discussed and maintained. 
+
 <div class="contents">
 <ol>
 <li><a href="#editors-and-word-processors">Editors and Word Processors</a>

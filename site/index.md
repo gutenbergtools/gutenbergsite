@@ -1,61 +1,56 @@
 ---
 layout: default
-title: Free eBooks - Project Gutenberg
+title: Free eBooks | Project Gutenberg
 permalink: /
 ---
 
 {% include latestbooks.html %}
 
-
 Welcome
 =======
 
-**From Project Gutenberg, the first producer of free ebooks.** Project Gutenberg offers over 60,000 free eBooks. Choose among free epub books, free kindle books, download them or read them online. You will find the world\'s great literature here, with focus on older works for which copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for enjoyment and education. No fee or registration is required. If you find Project Gutenberg useful, please consider a small donation, to help Project Gutenberg digitize more books, maintain our online presence, and improve Project Gutenberg programs and offerings. Other ways to help include digitizing more books, recording audio books, or reporting errors.
+**Project Gutenberg** is a library of over 60,000 free eBooks. Choose among free epub and Kindle eBooks, download them or read them online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for enjoyment and education.
 
+**No fee or registration!** Everything from Project Gutenberg is gratis, libre, and completely without cost to readers. If you find Project Gutenberg useful, please consider a small donation, to help Project Gutenberg digitize more books, maintain our online presence, and improve Project Gutenberg programs and offerings. Other ways to help include digitizing, proofreading and formatting, recording audio books, or reporting errors.
 
-News
-====
-**No Fees, and No Custom Apps Required** Project Gutenberg never charges a fee, for anything. Everything from Project Gutenberg is gratis, libre, and completely without cost to readers. Free to read and free to redistribute. Project Gutenberg eBooks require no special apps to read, just the regular Web browsers or eBook readers that are included with computers and mobile devices. There have been reports of sites that charge fees for custom apps, or for the same eBooks that are freely available from Project Gutenberg. Some of the apps might have worthwhile features, but none are required to enjoy Project Gutenberg eBooks.
-
+**No special apps needed!** Project Gutenberg eBooks require no special apps to read, just the regular Web browsers or eBook readers that are included with computers and mobile devices. There have been reports of sites that charge fees for custom apps, or for the same eBooks that are freely available from Project Gutenberg. Some of the apps might have worthwhile features, but none are required to enjoy Project Gutenberg eBooks. 
 
 Find Free eBooks
 ================
 
-- [Book Search](/ebooks).
+- [Book Search](/ebooks/).
 - [Recently added eBooks](/ebooks/search/?query=&submit_search=Search&sort_order=release_date).
 - [Most Frequently Downloaded eBooks](/ebooks/search/?sort_order=downloads) and [Top 100 eBooks this month](/browse/scores/top).
 - [Bookshelves of related eBooks](:Category:Bookshelf).
 - [New eBooks Feeds](Gutenberg:Feeds).
-- [Browse Catalog](pg:catalog/): Browse and search, including full-text search.
+- [Browse Catalog](/browse/): Browse and search, including full-text search.
 - [Offline Catalogs](Gutenberg:Offline Catalogs): handy eBook Listings to consult offline.
 - Visit [self.gutenberg.org](http://self.gutenberg.org), for free eBooks by contemporary authors.
-
 
 Help and Information
 ====================
 
-- [Mobile Reader Devices How-To](/help/mobile.html): Using Kindle, Nook, cell phone, and other mobile devices and readers.
-- [How-To and FAQs](/how_to/): In depth information about many topics.
+- [Tablets, Phones and eReaders How-To](/help/mobile.html): Using tablets, Kindle, Nook, cell phone, and other mobile devices and readers.
+- [How-To and FAQs](/help/): In depth information about many topics.
 
 
 How to Help
 ===========
 
 - Join [Distributed Proofreaders](https://www.pgdp.net), the main source of new Project Gutenberg eBooks. Getting started is easy, and just a page a day will help!
-- [Report errors, bugs, typos](/about/contact_information.html), or, see [detailed information about errata reporting](Gutenberg:Readers%27_FAQ#R.26._I.27ve_found_some_obvious_typos_in_a_Project_Gutenberg_text._How_should_I_report_them.3F)
-- [LibriVox](https://librivox.org).  Help record audio books.
-- [Help to promote Project Gutenberg](Gutenberg:Promote Project Gutenberg).
+- [Report errors, bugs, typos](/help/errata.html), to help improve Project Gutenberg eBooks.
+- [LibriVox](https://librivox.org): Help record audio books.
 
 
 Special Areas
 =============
 
 - [About Project Gutenberg](/about/).
-- What does [free eBook](/information/free_ebook.html) (No Cost or Freedom?) mean?
-- [Permissions, copyright, licensing, and trademark information](/help/permission_how_to.html).
-- [Linking to Project Gutenberg](/information/linking_pages.html) and [roboting or crawling](/information/robot_access.html) the site.
+- What does [free eBook](/about/background/free_ebook.html) (No Cost or Freedom?) mean?
+- [Permissions, copyright, licensing, and trademark information](/policy/permission.html).
+- [Linking to Project Gutenberg](/information/linking_pages.html) and [roboting or crawling](/policy/robot_access.html) the site.
 - [Donating to Project Gutenberg](/donate/).
-- [Partners, Affiliates and Resources](/information/partners_affiliates_resources.html).
+- [Partners and Affiliates](/about/partners_affiliates.html).
 
 
 Terms of Use
@@ -72,5 +67,5 @@ Contact Info
 ============
 
 - [Contact Information](/about/contact_information.html): How to get in touch.
-- [Mailing lists](https://www.gutenberg.org/wiki/Gutenberg:Subscribe_How-To): Join our email lists.
+- [Mailing lists](https://lists.pglaf.org/): Subscribe to our monthly newsletter.
 

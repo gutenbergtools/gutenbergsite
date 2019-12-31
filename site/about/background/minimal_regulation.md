@@ -1,11 +1,11 @@
 ---
 layout: default
-title: PG- Principle of Minimal Regulation
-permalink: /background/minimal_regulation.html
+title: Principle of Minimal Regulation | Project Gutenberg
+permalink: /about/background/minimal_regulation.html
 ---
-# Project Gutenberg Principle of Minimal Regulation/ Administration by Michael Hart and Greg Newby
 
-From Project Gutenberg, the first producer of free ebooks.
+Project Gutenberg Principle of Minimal Regulation/ Administration, by Michael Hart and Greg Newby
+=================================================================================================
 
 Project Gutenberg is founded on the principle of Minimal supervision of our volunteers in their effort to promote our mission:
 To encourage the creation and distribution of eBooks.

@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Partners and Affiliates | Project Gutenberg
-permalink: /about/partners_affiliates_resources.html
+permalink: /about/partners_affiliates.html
 ---
+
 Partners, Affiliates and Resources
 ==================================
 

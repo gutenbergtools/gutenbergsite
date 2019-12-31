@@ -1,13 +1,15 @@
 ---
 layout: default
-title: PG-Submitting Your Own Work
-permalink: /how_to/submitting_your_own_work.html
+title: Submitting Your Own Work | Project Gutenberg
+permalink: /help/submitting_your_own_work.html
 ---
 
-# Submitting Your Own Work How-To
-Project Gutenberg's collection is focused on older literary works for which copyright in the US has expired. Contemporary works are not being accepted for the website. 
+Submitting Your Own Work How-To
+===============================
 
-Instead, our partner the World Library Foundation runs [self.gutenberg.org](http://self.gutenberg.org), the Project Gutenberg self-publishing portal. This is a collection of author-contributed works. Works are generally submitted in PDF format, and all ownership remains with the author. The self-publishing portal subscribes to the Project Gutenberg principle of unlimited, free redistribution of all works.
+Project Gutenberg's collection is focused on older literary works for which copyright in the US has expired. Contemporary works are not being accepted for the collection.
+
+Instead, our partner, the World Library Foundation runs [self.gutenberg.org](http://self.gutenberg.org), the Project Gutenberg self-publishing portal. This is a collection of author-contributed works. Works are generally submitted in PDF format, and all ownership remains with the author. The self-publishing portal subscribes to the Project Gutenberg principle of unlimited, free redistribution of all works.
 
 ## Submitting to the Self-Publishing Portal
 1. Visit http://self.gutenberg.org

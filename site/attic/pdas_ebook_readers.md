@@ -1,10 +1,14 @@
 ---
 layout: default
-title: PG-PDA's and eBook Readers
-permalink: /how_to/pdas_ebook_readers.html
+title: PDAs and eBook Readers (old) | Project Gutenberg
+permalink: /attic/pdas_ebook_readers.html
 ---
 
-# PDAs and eBook Readers How-To
+PDAs and eBook Readers How-To (old)
+===================================
+
+This page is partially or entirely outdated: Please see current guidance in the [help section](/help/).
+
 One of the nice things about Project Gutenberg eBooks is that they can be easily displayed on virtually any type of computer. Because we insist, whenever possible, on a plain text copy of our eBooks, in addition to other formats (such as HTML), readers are guaranteed to have a file they can easily display and edit. 
 
 Of course, some eBooks have particular formats (such as audio eBooks) or languages/character sets that might limit display capability, but the vast majority are also available in plain text. As time goes on, Project Gutenberg is adding more HTML eBooks, as well as eBooks in XML. 

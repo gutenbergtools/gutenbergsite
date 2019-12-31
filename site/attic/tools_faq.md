@@ -1,11 +1,13 @@
 ---
 layout: default
-title: PG-Tools FAQ
-permalink: /how_to/tools_faq.html
+title: Tools FAQ (old) | Project Gutenberg
+permalink: /attic/tools_faq.html
 ---
 
-# Tools FAQ
-This page is no longer actively maintained. Some content may be inaccurate or outdated, including external links. Please visit [Distributed Proofreaders](/how_to/http://www.pgdp.net) to view forums where best practices are actively discussed and maintained. 
+Tools FAQ (old)
+===============
+
+This page is partially or entirely outdated: Please see current guidance in the [help section](/help/). Please visit [Distributed Proofreaders](/how_to/http://www.pgdp.net) to view forums where best practices are actively discussed and maintained. 
 
 <div class="contents">
 <ol>
