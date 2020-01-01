@@ -21,7 +21,7 @@ Think of this as a contribution to later generations. These are remarkable times
 
   <input type="hidden" name="cmd" value="_s-xclick" />
   <input type="hidden" name="hosted_button_id" value="XKAL6BZL3YPSN" />
-  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" 
+  <input type="image" src="/pics/en_US.gif" 
 	 border="0" name="submit" alt="One-time donation by PayPal" 
          style="vertical-align: middle" />
 
@@ -43,7 +43,7 @@ Make a <strong>monthly donation</strong> (cancel any time):
       <option value="One hundred dollars">One hundred dollars : $100.00USD</option>
 </select> 
 
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribe_SM.gif" 
+<input type="image" src="/pics/btn_subscribe_SM.gif"
        border="0" name="submit" alt="Subscription donation by PayPal" 
        style="vertical-align: middle" />
 
