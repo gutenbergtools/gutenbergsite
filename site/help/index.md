@@ -11,6 +11,8 @@ Here are pages that give background about Project Gutenberg, including how new i
 
  <div class="bookshelves ">
     <ul>
+      <h2>A</h2>
+       <li><a href="/about">About Project Gutenberg</a> (main page)</li>
       <h2>C</h2>
        <li><a href="/help/copyright.html">Copyright How-To</a></li>
       <h2>E</h2>
@@ -22,8 +24,11 @@ Here are pages that give background about Project Gutenberg, including how new i
        <li><a href="/help/mirroring.html">Mirroring How-To</a></li>
       <h2>N</h2>
        <li><a href="/help/no_sweat_copyright.html">No Sweat of the Brow copyright</a></li>
+      <h2>O</h2>
+       <li><a href="/ebooks/offline_catalogs.html">Offline catalogs</a>, including metadata and eBook listings.</li>
       <h2>P</h2>
-       <li><a href="/policy/permission.html">Permission How-To</a></li>
+       <li><a href="/policy/permission.html">Permission and licensing</a></li>
+       <li><a href="/policy/">Policies</a> (main page)</li>
        <li><a href="/help/public_domain_ebook_submission.html">Public Domain eBook Submission How-To</a></li>
       <h2>S</h2>
        <li><a href="/help/submitting_your_own_work.html">Submitting Your Own Work How-To</a></li>

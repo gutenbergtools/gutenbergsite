@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Frequently Asked Questions | Project Gutenberg
-permalink: /how_to/faq.html
+permalink: /help/faq.html
 ---
 
 Frequently Asked Questions about Project Gutenberg
@@ -14,7 +14,8 @@ Contents
 <ol class="inner_1">
 <li><a href="#what-is-project-gutenberg">What is Project Gutenberg?</a></li>
 <li><a href="#where-did-project-gutenberg-come-from">Where did Project Gutenberg come from?</a></li>
-<li><a href="#what-has-project-gutenberg-achieved">What has Project Gutenberg achieved?</a></li>
+<li><a href="#tell-me-about-project-gutenbergs-longevity">http://www.michaelgeist.ca/2019/12/making-the-best-of-a-bad-provision-why-canada
+-should-work-toward-a-copyright-term-extension-registration-requirement/</a></li>
 <li><a href="#who-runs-project-gutenberg">Who runs Project Gutenberg?</a></li>
 <li><a href="#how-many-people-are-in-project-gutenberg">How many people are in Project Gutenberg?</a></li>
 <li><a href="#how-can-i-contact-project-gutenberg">How can I contact Project Gutenberg?</a></li>
@@ -58,7 +59,7 @@ Starting in 1991, Project Gutenberg began to take its current form, with many di
 
 There is more history and background in the [Background, History and Philosophy](/background/) section.
 
-### Tell me about Project Gutenberg's longevity?
+### Tell me about Project Gutenberg's longevity
 
 Project Gutenberg is the original, and oldest, eBook project on the Internet, founded in 1971. It is one of the oldest online content providers in the world that is still operating.
 

@@ -12,18 +12,16 @@ Project Gutenberg is an online library of free eBooks.
 Project Gutenberg was the first provider of free electronic books, or
 eBooks.  Michael Hart, founder of Project Gutenberg, invented eBooks
 in 1971 and his memory continues to inspire the creation of eBooks and
-related technologies today.
+related content today.
 
-Project Gutenberg Mission Statement
------------------------------------
+## Project Gutenberg Mission Statement
 
-  To encourage the creation and distribution of eBooks.
+*To encourage the creation and distribution of eBooks.*
 
 [A 2004 essay](/about/background/mission_statement.html) by Michael Hart provides more detail on the mission statement, and some of the beliefs that guide Project Gutenberg's activities in fulfillment of that mission.
 
-More about Project Gutenberg
-----------------------------
-   To read more about Project Gutenberg, choose one of these topics:
+## More about Project Gutenberg
+To read more about Project Gutenberg, choose one of these topics:
 
 [Background, History and Philosophy](/about/background/index.html): Various essays and articles.
 
