@@ -123,7 +123,7 @@ nav .searchbox{
 	position: relative;
 	float:right; 
 	width:200px;
-	padding:10px;
+	padding:10px; 
 	background-color: #EDDAB7;
 }
 nav .donate{
@@ -222,9 +222,16 @@ nav a {
 }
 nav .searchbox{
 	display: block;
+	float: left;
+	line-height: 20px;
+	max-width: 125px;
+	padding: 10px;
+	text-decoration: none;
+	width: 25%;
+/*	display: block;
 	float: right;
 	width: 100px;
-	padding: 10px;
+	padding: 10px; */
 }
 nav .searchbox input{
 	height:25px;
