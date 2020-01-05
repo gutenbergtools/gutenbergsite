@@ -17,9 +17,8 @@ Welcome to Project Gutenberg
 
 ## Find Free eBooks
 
-- [Book search](/ebooks/). By author, title, subject, and more. TODO: Update menu.
+- [Search and browse](/ebooks/). By author, title, subject, language, and more.
 - [Bookshelves](/ebooks/bookshelf/) of related eBooks. TODO: Implement.
-- [Browse](/browse/): Browse and search, including full-text search. TODO: Implement.
 - [Frequently downloaded](/ebooks/search/?sort_order=downloads) and [Top 100 eBooks this month](/browse/scores/top). TODO: Implement. TODO: Fix banner image. Fix "pretty pictures."
 - [Offline catalogs](/ebooks/offline_catalogs.html): handy eBook listings and metadata to consult offline.
 - [Recently added](/ebooks/search/?query=&submit_search=Search&sort_order=release_date). The latest new and updated eBooks.

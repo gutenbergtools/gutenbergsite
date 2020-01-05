@@ -1,8 +1,14 @@
-<!DOCTYPE html>
- {%- include head.html -%}
+{%- include head1.html -%}
+
+ <title>{{ page.title }}</title>
+
+{%- include head2.html -%}
+
  <body>
   <div class="container"><!-- start body -->
+
    {%- include menu.html -%}
+
    <div class="page_content"><!-- start content -->
 
         {{ content }}
@@ -10,7 +16,9 @@
    </div><!--content ending-->
 
    <div class="footer"><!-- start footer -->
+
     {%- include footer.html -%}
+
    </div><!-- footer ending-->
 
   </div><!-- body ending -->

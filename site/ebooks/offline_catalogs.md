@@ -28,30 +28,34 @@ Updated at least monthly.  These plain text files provide the basic information 
 
 If GUTINDEX.ALL is too big for you or you prefer separate annual lists, you can download GUTINDEX files by year.
 
-* [GUTINDEX.2019](/dirs/GUTINDEX.2019)
-* [GUTINDEX.2018](/dirs/GUTINDEX.2018)
-* [GUTINDEX.2017](/dirs/GUTINDEX.2017)
-* [GUTINDEX.2016](/dirs/GUTINDEX.2016)
-* [GUTINDEX.2015](/dirs/GUTINDEX.2015)
-* [GUTINDEX.2014](/dirs/GUTINDEX.2014)
-* [GUTINDEX.2013](/dirs/GUTINDEX.2013)
-* [GUTINDEX.2012](/dirs/GUTINDEX.2012)
-* [GUTINDEX.2011](/dirs/GUTINDEX.2011)
-* [GUTINDEX.2010](/dirs/GUTINDEX.2010)
-* [GUTINDEX.2009](/dirs/GUTINDEX.2009)
-* [GUTINDEX.2008](/dirs/GUTINDEX.2008)
-* [GUTINDEX.2007](/dirs/GUTINDEX.2007)
-* [GUTINDEX.2006](/dirs/GUTINDEX.2006)
-* [GUTINDEX.2005](/dirs/GUTINDEX.2005)
-* [GUTINDEX.2004](/dirs/GUTINDEX.2004)
-* [GUTINDEX.2003](/dirs/GUTINDEX.2003)
-* [GUTINDEX.2002](/dirs/GUTINDEX.2002)
-* [GUTINDEX.2001](/dirs/GUTINDEX.2001)
-* [GUTINDEX.2000](/dirs/GUTINDEX.2000)
-* [GUTINDEX.1999](/dirs/GUTINDEX.1999)
-* [GUTINDEX.1998](/dirs/GUTINDEX.1998)
-* [GUTINDEX.1997](/dirs/GUTINDEX.1997)
-* [GUTINDEX.1996](/dirs/GUTINDEX.1996) (and earlier)
+<div class="search_category">
+ <ul>
+  <li><a href="/dirs/GUTINDEX.2019">GUTINDEX.2019</a></li>
+  <li><a href="/dirs/GUTINDEX.2018">GUTINDEX.2018</a></li>
+  <li><a href="/dirs/GUTINDEX.2017">GUTINDEX.2017</a></li>
+  <li><a href="/dirs/GUTINDEX.2016">GUTINDEX.2016</a></li>
+  <li><a href="/dirs/GUTINDEX.2015">GUTINDEX.2015</a></li>
+  <li><a href="/dirs/GUTINDEX.2014">GUTINDEX.2014</a></li>
+  <li><a href="/dirs/GUTINDEX.2013">GUTINDEX.2013</a></li>
+  <li><a href="/dirs/GUTINDEX.2012">GUTINDEX.2012</a></li>
+  <li><a href="/dirs/GUTINDEX.2011">GUTINDEX.2011</a></li>
+  <li><a href="/dirs/GUTINDEX.2010">GUTINDEX.2010</a></li>
+  <li><a href="/dirs/GUTINDEX.2009">GUTINDEX.2009</a></li>
+  <li><a href="/dirs/GUTINDEX.2008">GUTINDEX.2008</a></li>
+  <li><a href="/dirs/GUTINDEX.2007">GUTINDEX.2007</a></li>
+  <li><a href="/dirs/GUTINDEX.2006">GUTINDEX.2006</a></li>
+  <li><a href="/dirs/GUTINDEX.2005">GUTINDEX.2005</a></li>
+  <li><a href="/dirs/GUTINDEX.2004">GUTINDEX.2004</a></li>
+  <li><a href="/dirs/GUTINDEX.2003">GUTINDEX.2003</a></li>
+  <li><a href="/dirs/GUTINDEX.2002">GUTINDEX.2002</a></li>
+  <li><a href="/dirs/GUTINDEX.2001">GUTINDEX.2001</a></li>
+  <li><a href="/dirs/GUTINDEX.2000">GUTINDEX.2000</a></li>
+  <li><a href="/dirs/GUTINDEX.1999">GUTINDEX.1999</a></li>
+  <li><a href="/dirs/GUTINDEX.1998">GUTINDEX.1998</a></li>
+  <li><a href="/dirs/GUTINDEX.1997">GUTINDEX.1997</a></li>
+  <li><a href="/dirs/GUTINDEX.1996">GUTINDEX.1996</a> (and earlier)</li>
+ </ul>
+</div>
 
 ## Directory/Folder Listings
 
