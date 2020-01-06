@@ -17,16 +17,17 @@ Welcome to Project Gutenberg
 
 ## Find Free eBooks
 
-- [Search and browse](/ebooks/). By author, title, subject, language, and more.
-- [Bookshelves](/ebooks/bookshelf/) of related eBooks. TODO: Implement.
-- [Frequently downloaded](/ebooks/search/?sort_order=downloads) and [Top 100 eBooks this month](/browse/scores/top). TODO: Implement. TODO: Fix banner image. Fix "pretty pictures."
+- [Search and browse](/ebooks/). By author, title, subject, language, type, poppularity, and more.
+- [Bookshelves](/ebooks/bookshelf/) of related eBooks. TODO: Implement, possibly by linking to old site, for now.
+- [Frequently downloaded](/ebooks/search/?sort_order=downloads) and [Top 100 eBooks this month](/browse/scores/top). TODO: Run Top 100 crontab; pretty pictures fix or delete.
 - [Offline catalogs](/ebooks/offline_catalogs.html): handy eBook listings and metadata to consult offline.
 - [Recently added](/ebooks/search/?query=&submit_search=Search&sort_order=release_date). The latest new and updated eBooks.
 - Visit [self.gutenberg.org](http://self.gutenberg.org) for free eBooks by contemporary authors.
 
 ## Help and Information
 
-- [How-To and FAQs](/help/): In depth information about many topics.
+- [Frequently Asked Questions](/help/faq.html) about Project Gutenberg.
+- [Help, How-To and FAQs](/help/): In depth information about many topics.
 - [Tablets, phones and eReaders How-To](/help/mobile.html): Using tablets, Kindle, Nook, cell phone, and other mobile devices and readers.
 
 ## How to Help
@@ -41,7 +42,7 @@ Welcome to Project Gutenberg
 - [About Project Gutenberg](/about/).
 - [Donating to Project Gutenberg](/donate/).
 - [Feeds](/ebooks/feeds.html) of new eBooks.
-- [Linking to Project Gutenberg](/information/linking_pages.html) and [roboting or crawling](/policy/robot_access.html) the site.
+- [Linking to Project Gutenberg](/policy/linking.html) and [roboting or crawling](/policy/robot_access.html) the site.
 - [Partners and affiliates](/about/partners_affiliates.html).
 - [Permissions, copyright, licensing, and trademark information](/policy/permission.html).
 - What does [free eBook](/about/background/free_ebook.html) (No Cost or Freedom?) mean?
@@ -53,7 +54,7 @@ Project Gutenberg eBooks may be freely used in the United States because most ar
 </div>
 
 <div class="box_shadow">
-The Project Gutenberg website is for human users only. Use of automated tools to access the website may trigger a block of your access. This site utilizes cookies, captchas and related technologies to help assure the site is maximally available for human users.
+The Project Gutenberg website is for human users only. Use of automated tools to access the website may trigger a block of your access. This site utilizes cookies, captchas and related technologies to help assure the site is maximally available for human users. See full terms of use [here](/policy/terms_of_use.html).
 </div>
 
 ## Find Project Gutenberg on social media

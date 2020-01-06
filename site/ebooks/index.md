@@ -8,17 +8,6 @@ Search
 ======
 
 <div class="page_content">
- <div class="search_category">
-  <ul>
-   <li>Most recent: 
-       <a href="/browse/recent/last1">24 hours</a>,
-       <a href="/browse/recent/last7">7 days </a>,
-       <a href="/browse/recent/last30">30 days </a></li>
-   <li><a href="/ebooks/search/?sort_order=downloads">Popular</a></li>
-   <li><a href="/browse/scores/top">Top 100</a></li>
-   <li><a href="/ebooks/search/?sort_order=random">Random</a></li>
-  </ul>
- </div>
 
  <a class="button" href="#popup1">Help</a>	
  <div id="popup1" class="overlay">
@@ -28,7 +17,7 @@ Search
 <p>Enter your search terms separated by spaces, then press &lt;Enter&gt;.
 Avoid punctuation except as indicated below:</p>
 
-<table border=3px>
+ <table>
   <tr>
     <th>Suffixes</th>
     <th>.</th>
@@ -81,7 +70,7 @@ Avoid punctuation except as indicated below:</p>
   </tr>
 </table>
 
-<table border=3px>
+ <table>
   <tr>
     <th>this query</th>
     <th>finds</th>
@@ -126,8 +115,8 @@ Avoid punctuation except as indicated below:</p>
     <td>jane austen cat.audio</td>
     <td>audio books by Jane Austen</td>
   </tr>
-</table>
-
+ </table>
+</p>
   </div>
  </div>
 </div>
@@ -136,9 +125,9 @@ Avoid punctuation except as indicated below:</p>
  <form method="get" action="/ebooks/search/"
        accept-charset="utf-8" enctype="multipart/form-data">
   <div class="search">
-   <p><label for="book-search" class="lbl-toggle">Basic Search</label>
-      <input type="text" value="" id="book-search" name="query" class="searchInput" title="" alt="undefined string" tabindex="20" size="20" maxlength="80"
-             placeholder="Search for Books"/>
+   <p><label for="book-search" class="lbl-toggle">Quick Search</label>
+      <input type="text" value="" id="book-search" name="query" class="searchInput" title="" tabindex="20" size="20" maxlength="80"
+             placeholder="Quick search"/>
       <input type="submit" name="submit_search" value="Search" style="vertical-align:middle;">
    </p>
   </div>
@@ -214,11 +203,11 @@ Avoid punctuation except as indicated below:</p>
       </p>
 
       <p>
-       <label for="language">Language:</label>
+<!--       <label for="language">Language:</label> -->
+       <label>Language:</label>
        <select id="lang" name="lang"
                title="Language (Book Count)">
-
-	       <option selected value="">Any</option>
+      <option selected value="">Any</option>
       <option value="af">Afrikaans (4)</option>
       <option value="ale">Aleut (1)</option>
       <option value="ar">Arabic (1)</option>
@@ -671,108 +660,9 @@ Avoid punctuation except as indicated below:</p>
 </div>
 
   <a class="button" href="#popup4">Help</a>
-  <input id="collapsible3" class="toggle" type="checkbox">
-  <label for="collapsible3" class="lbl-toggle">Browse</label>
-  <div class="collapsible-content">
-    <div class="content-inner">
-      <p>
-        <label for="more_than_50" accesskey="f">By languages with more than 50 books:</label>
-        <select id="more_than_50" name="more_than_50" onchange="location=this.value">
-          <option selected value="">Choose a Language</option>
-	 <option value = "/browse/languages/zh" title="Chinese (441)">Chinese (441)</option>
- <option value = "/browse/languages/da" title="Danish (69)">Danish (69)</option>
- <option value = "/browse/languages/nl" title="Dutch (805)">Dutch (805)</option>
- <option value = "/browse/languages/en" title="English (49595)">English (49595)</option>
- <option value = "/browse/languages/eo" title="Esperanto (119)">Esperanto (119)</option>
- <option value = "/browse/languages/fi" title="Finnish (2111)">Finnish (2111)</option>
- <option value = "/browse/languages/fr" title="French (3036)">French (3036)</option>
- <option value = "/browse/languages/de" title="German (1826)">German (1826)</option>
- <option value = "/browse/languages/el" title="Greek (220)">Greek (220)</option>
- <option value = "/browse/languages/hu" title="Hungarian (183)">Hungarian (183)</option>
- <option value = "/browse/languages/it" title="Italian (805)">Italian (805)</option>
- <option value = "/browse/languages/la" title="Latin (126)">Latin (126)</option>
- <option value = "/browse/languages/pt" title="Portuguese (554)">Portuguese (554)</option>
- <option value = "/browse/languages/es" title="Spanish (654)">Spanish (654)</option>
- <option value = "/browse/languages/sv" title="Swedish (202)">Swedish (202)</option>
- <option value = "/browse/languages/tl" title="Tagalog (60)">Tagalog (60)</option>
-        </select>
-      </p>
-      <p>
-        <label for="upto_50" accesskey="f">By Languages with up to 50 books:</label>
-        <select id="upto_50" name="upto_50" onchange="location=this.value">
-          <option selected value="">Choose a Language</option>
-	 <option value = "/browse/languages/af" title="Afrikaans (4)">Afrikaans (4)</option>
- <option value = "/browse/languages/ale" title="Aleut (1)">Aleut (1)</option>
- <option value = "/browse/languages/ar" title="Arabic (1)">Arabic (1)</option>
- <option value = "/browse/languages/arp" title="Arapaho (2)">Arapaho (2)</option>
- <option value = "/browse/languages/brx" title="Bodo (2)">Bodo (2)</option>
- <option value = "/browse/languages/br" title="Breton (1)">Breton (1)</option>
- <option value = "/browse/languages/bg" title="Bulgarian (6)">Bulgarian (6)</option>
- <option value = "/browse/languages/rmr" title="Caló (1)">Caló (1)</option>
- <option value = "/browse/languages/ca" title="Catalan (33)">Catalan (33)</option>
- <option value = "/browse/languages/ceb" title="Cebuano (3)">Cebuano (3)</option>
- <option value = "/browse/languages/cs" title="Czech (11)">Czech (11)</option>
- <option value = "/browse/languages/et" title="Estonian (1)">Estonian (1)</option>
- <option value = "/browse/languages/fa" title="Farsi (1)">Farsi (1)</option>
- <option value = "/browse/languages/fy" title="Frisian (3)">Frisian (3)</option>
- <option value = "/browse/languages/fur" title="Friulian (7)">Friulian (7)</option>
- <option value = "/browse/languages/gla" title="Gaelic, Scottish (2)">Gaelic, Scottish (2)</option>
- <option value = "/browse/languages/gl" title="Galician (2)">Galician (2)</option>
- <option value = "/browse/languages/kld" title="Gamilaraay (1)">Gamilaraay (1)</option>
- <option value = "/browse/languages/grc" title="Greek, Ancient (3)">Greek, Ancient (3)</option>
- <option value = "/browse/languages/he" title="Hebrew (7)">Hebrew (7)</option>
- <option value = "/browse/languages/is" title="Icelandic (7)">Icelandic (7)</option>
- <option value = "/browse/languages/ilo" title="Iloko (3)">Iloko (3)</option>
- <option value = "/browse/languages/ia" title="Interlingua (1)">Interlingua (1)</option>
- <option value = "/browse/languages/iu" title="Inuktitut (1)">Inuktitut (1)</option>
- <option value = "/browse/languages/ga" title="Irish (3)">Irish (3)</option>
- <option value = "/browse/languages/ja" title="Japanese (22)">Japanese (22)</option>
- <option value = "/browse/languages/csb" title="Kashubian (1)">Kashubian (1)</option>
- <option value = "/browse/languages/kha" title="Khasi (1)">Khasi (1)</option>
- <option value = "/browse/languages/ko" title="Korean (1)">Korean (1)</option>
- <option value = "/browse/languages/lt" title="Lithuanian (1)">Lithuanian (1)</option>
- <option value = "/browse/languages/mi" title="Maori (2)">Maori (2)</option>
- <option value = "/browse/languages/myn" title="Mayan Languages (3)">Mayan Languages (3)</option>
- <option value = "/browse/languages/enm" title="Middle English (6)">Middle English (6)</option>
- <option value = "/browse/languages/nah" title="Nahuatl (3)">Nahuatl (3)</option>
- <option value = "/browse/languages/nap" title="Napoletano-Calabrese (1)">Napoletano-Calabrese (1)</option>
- <option value = "/browse/languages/nav" title="Navajo (3)">Navajo (3)</option>
- <option value = "/browse/languages/nai" title="North American Indian (3)">North American Indian (3)</option>
- <option value = "/browse/languages/no" title="Norwegian (20)">Norwegian (20)</option>
- <option value = "/browse/languages/oc" title="Occitan (1)">Occitan (1)</option>
- <option value = "/browse/languages/oji" title="Ojibwa (1)">Ojibwa (1)</option>
- <option value = "/browse/languages/ang" title="Old English (4)">Old English (4)</option>
- <option value = "/browse/languages/pl" title="Polish (31)">Polish (31)</option>
- <option value = "/browse/languages/ro" title="Romanian (2)">Romanian (2)</option>
- <option value = "/browse/languages/ru" title="Russian (9)">Russian (9)</option>
- <option value = "/browse/languages/sa" title="Sanskrit (1)">Sanskrit (1)</option>
- <option value = "/browse/languages/sr" title="Serbian (4)">Serbian (4)</option>
- <option value = "/browse/languages/sl" title="Slovenian (1)">Slovenian (1)</option>
- <option value = "/browse/languages/bgs" title="Tagabawa (1)">Tagabawa (1)</option>
- <option value = "/browse/languages/te" title="Telugu (6)">Telugu (6)</option>
- <option value = "/browse/languages/cy" title="Welsh (13)">Welsh (13)</option>
- <option value = "/browse/languages/yi" title="Yiddish (1)">Yiddish (1)</option>
-        </select>
-      </p>
-      <p>
-        <label for="category" accesskey="c">Category:</label>
-        <select id="category" name="category"
-        title="Please choose a Project Gutenberg Category." style="width: 30em" onchange="location=this.value">
 
-	<option selected value="">Choose a Category </option>
- <option value = "/browse/categories/1" title="Audio Book, human-read (576)">Audio Book, human-read (576)</option>
- <option value = "/browse/categories/2" title="Audio Book, computer-generated (370)">Audio Book, computer-generated (370)</option>
- <option value = "/browse/categories/3" title="Music, recorded (137)">Music, recorded (137)</option>
- <option value = "/browse/categories/4" title="Music, Sheet (33)">Music, Sheet (33)</option>
- <option value = "/browse/categories/5" title="Pictures, still (3)">Pictures, still (3)</option>
- <option value = "/browse/categories/6" title="Other recordings (31)">Other recordings (31)</option>
- <option value = "/browse/categories/7" title="Pictures, moving (8)">Pictures, moving (8)</option>
- <option value = "/browse/categories/8" title="Data (87)">Data (87)</option>
- <option value = "/browse/categories/9" title="Compilations (3)">Compilations (3)</option>
- 	 </select>
-      </p>
-    </div>
-  </div>
+   {%- include navbar.html -%}
+
   <a class="button" href="#popup3">Help</a>
   <input id="collapsible2" class="toggle" type="checkbox">
   <label for="collapsible2" class="lbl-toggle">Full Text Search</label>
@@ -795,7 +685,7 @@ Avoid punctuation except as indicated below:</p>
         <input type="submit" name="btnG" value="Google Search"/>
 
       </form>
-  <form method="get" id="search" action="https://duckduckgo.com/">
+  <form method="get" id="duck" action="https://duckduckgo.com/">
     <img src="/pics/duck.png" style="vertical-align:middle;" alt="DuckDuckGo logo">
     <input type="hidden" name="sites" value="http://www.gutenberg.org"/>
     <input type="hidden" name="k8" value="#444444"/>

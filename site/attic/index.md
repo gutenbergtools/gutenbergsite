@@ -32,7 +32,7 @@ The future will bring continued innovation, and ongoing focus on the mission of 
        <li><a href="/attic/file_sharing.html">File Sharing How-To (old)</a></li>
       <h2>G</h2>
        <li><a href="/attic/gnu_gettext_translation.html">GNU Gettext Translation How-To (old)</a></li>
-       <li><a href="/attic/greek.html">Greek How-To (old)</a> - not yet ported</li>
+       <li><a href="/attic/greek_how_to.html">Greek How-To (old)</a></li>
       <h2>H</h2>
        <li><a href="/attic/html_faq.html">HTML FAQ (old)</a></li>
       <h2>P</h2>

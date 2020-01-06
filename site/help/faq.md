@@ -14,8 +14,7 @@ Contents
 <ol class="inner_1">
 <li><a href="#what-is-project-gutenberg">What is Project Gutenberg?</a></li>
 <li><a href="#where-did-project-gutenberg-come-from">Where did Project Gutenberg come from?</a></li>
-<li><a href="#tell-me-about-project-gutenbergs-longevity">http://www.michaelgeist.ca/2019/12/making-the-best-of-a-bad-provision-why-canada
--should-work-toward-a-copyright-term-extension-registration-requirement/</a></li>
+<li><a href="#tell-me-about-project-gutenbergs-longevity">Tell me about Project Gutenberg's Longevity</a></li>
 <li><a href="#who-runs-project-gutenberg">Who runs Project Gutenberg?</a></li>
 <li><a href="#how-many-people-are-in-project-gutenberg">How many people are in Project Gutenberg?</a></li>
 <li><a href="#how-can-i-contact-project-gutenberg">How can I contact Project Gutenberg?</a></li>

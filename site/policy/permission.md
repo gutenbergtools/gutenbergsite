@@ -9,37 +9,41 @@ Project Gutenberg Permissions, Licensing and other Common Requests
 
 <div class="contents">
 <ol>
-<li><a href="#Overview">Overview</a></li>
-<li><a href="#Most_permissions_not_needed">Most permissions not needed</a></li>
-<li><a href="#Terms_of_Use">Terms of Use</a></li>
-<li><a href="#Trademark_Permission_to_.22Trade_On.22_the_Project_Gutenberg_name">Trademark Permission to "Trade On" the Project Gutenberg name</a></li>
-<li><a href="#Crediting">Crediting</a></li>
-<li><a href="#Linking">Linking</a></li>
-<li><a href="#Project_Gutenberg_as_Publisher">Project Gutenberg as Publisher</a></li>
-<li><a href="#Quotes_and_extracts_from_Project_Gutenberg_items">Quotes and extracts from Project Gutenberg items</a></li>
-<li><a href="#Copyright_page_and_trademarks_from_Source">Copyright page and trademarks from Source</a></li>
-<li><a href="#Citing_Project_Gutenberg">Citing Project Gutenberg</a></li>
-<li><a href="#No_paperwork">No paperwork</a></li>
-<li><a href="#US_only">US only</a></li>
-<li><a href="#No_.22sweat_of_the_brow.22">No "sweat of the brow"</a></li>
-<li><a href="#For_copyrighted_content">For copyrighted content</a></li>
-<li><a href="#Commercial_use_of_Project_Gutenberg_trademark">Commercial use of Project Gutenberg trademark</a></li>
-<li><a href="#Higher_resolution_images">Higher resolution images</a></li>
-<li><a href="#More_details_on_items">More details on items</a></li>
-<li><a href="#Reporting_errata">Reporting errata</a></li>
+<li><a href="#overview">Overview</a></li>
+<li><a href="#most-permissions-not-needed">Most permissions not needed</a></li>
+<li><a href="#terms-of-use">Terms of Use</a></li>
+<li><a href="#trademark-permission-to-.22Trade-On.22-the-Project-Gutenberg-name">Trademark Permission to "Trade On" the Project Gutenberg name</a></li>
+<li><a href="#crediting">Crediting</a></li>
+<li><a href="#linking">Linking</a></li>
+<li><a href="#project-gutenberg-as-publisher">Project Gutenberg as Publisher</a></li>
+<li><a href="#quotes-and-extracts-from-Project-Gutenberg-items">Quotes and extracts from Project Gutenberg items</a></li>
+<li><a href="#copyright-page-and-trademarks-from-source">Copyright page and trademarks from Source</a></li>
+<li><a href="#citing-project-gutenberg">Citing Project Gutenberg</a></li>
+<li><a href="#no-paperwork">No paperwork</a></li>
+<li><a href="#us-only">US only</a></li>
+<li><a href="#no-.22sweat-of-the-brow.22">No "sweat of the brow"</a></li>
+<li><a href="#for-copyrighted-content">For copyrighted content</a></li>
+<li><a href="#commercial-use-of-Project-Gutenberg-trademark">Commercial use of Project Gutenberg trademark</a></li>
+<li><a href="#higher-resolution-images">Higher resolution images</a></li>
+<li><a href="#more-details-on-items">More details on items</a></li>
+<li><a href="#reporting-errata">Reporting errata</a></li>
 </ol>
 </div>
 
 ## Overview
 
-Project Gutenberg receives many requests for permissions to use eBooks, images from eBooks, or extracts. Most such requests are not needed, since permission is included in the items themselves (even for commercial use). This How-To provides responses to the most common inquiries. If your inquiry is not addressed, please email [Prof. Newby](/about/contact_information.html) with your permission requests. Responses are typically received within a day or so (or, re-send your request!). 
+Project Gutenberg receives many requests for permissions to use eBooks, images from eBooks, or extracts. Most such requests do not need a custom response, since permission is included in the items themselves (even for commercial use), or in the narrative below.
+
+This How-To provides responses to the most common inquiries. If your inquiry is not addressed, please email [Prof. Newby](/about/contact_information.html) with your permission requests. Responses are typically received within a day or so (or, re-send your request!). 
 
 ## Most permissions not needed
-Most permission requests we receive did not need to be made. The vast majority of Project Gutenberg eBooks are in the public domain in the US. This means that nobody can grant, or withhold, permission to do with this item as you please. 
+
+Most permission requests we receive do not require a custom response. The vast majority of Project Gutenberg eBooks are in the public domain in the US. This means that nobody can grant, or withhold, permission to do with this item as you please. 
 
 "As you please" includes any commercial use, republishing in any format, making derivative works or performances, etc. Read more about the public domain in [Wikipedia](https://en.wikipedia.org/wiki/Public_domain).
 
 ## Terms of Use
+
 All use of the web site and content at www.gutenberg.org is subject to its Terms of Use. Find them on the main page of [www.gutenberg.org](/). 
 
 ## Trademark Permission to "Trade On" the Project Gutenberg name
@@ -48,12 +52,16 @@ The name "Project Gutenberg" is a registered trademark. The [/license Small Prin
 No permission is needed for non-commercial use. So, for example, you can freely redistribute any eBook, anywhere, any time, with or without the "Project Gutenberg" trademark included. The Small Print has more details. Note that if you are not in the US, you must confirm yourself whether an item is free to redistribute where you are. 
 
 ## Crediting
+
 No permission is needed to credit Project Gutenberg as the source of something you use. This applies even for commercial use. 
 
 ## Linking
+
 No permission is needed to link to www.gutenberg.org or to any page or address within it.
 
 To link to a specific eBook, link to the landing page for that eBook, not to specific files. So, for example, you would link to www.gutenberg.org/ebooks/19033 rather than "deep linking" to the specific HTML, plain text, etc. www.gutenberg.org prohibits deep links automatically (based on the HTTP referrer), because from time to time the underlying structure of an eBook might change. 
+
+More detail, mostly for webmasters, is in our [linking](/policy/linking.html) document.
 
 ## Project Gutenberg as Publisher
 Project Gutenberg does not promise or enforce adherence to any particular source item. We typically make each eBook from a single print book, but sometimes multiple print books are used. Even with a single print book, we make many changes: spelling modernization, dehyphenation, conversion to HTML or other formats, etc. Therefore, we are the publisher of our eBooks, even if print sources were used from prior publishers.
@@ -63,9 +71,9 @@ Sometimes an eBook will include mention of its source, and even then, this is no
 ## Quotes and extracts from Project Gutenberg items
 No permission is needed to use quotes from Project Gutenberg items (in the US, this would be "fair use"). This applies for all use, including commercial use. In other words, no royalties are due for quotes even if they are used for commercial products.
 
-It is always OK to cite Project Gutenberg as the publication source (see below for how to cite), and it is also OK to not cite Project Gutenberg: your choice. 
-
+It is always OK to cite Project Gutenberg as the publication source (see below for how to cite), and it is also OK to not cite Project Gutenberg: your choice.
 ## Copyright page and trademarks from Source
+
 Sometimes an eBook will include a transcription or image of the original title page, verso (obverse) or other pages from a source print book used for the eBook. This may include a copyright statement, which will usually be before 1964 (see our ["copyright how-to"](/help/copyright.html) for details). This does not mean that item is still copyrighted. The header/footer in the eBook from Project Gutenberg will mention that such items are in the public domain in the US.
 
 Similarly, eBooks might include images or text that are (or were) trademarks in the US or elsewhere. This might include print publisher names or marks, publication associations, or marks depicted as images or words within the eBooks. Project Gutenberg is providing such items "as is," with no representation of ownership, or whether any such marks are still active.
