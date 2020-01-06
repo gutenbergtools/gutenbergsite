@@ -19,7 +19,7 @@ Welcome to Project Gutenberg
 
 - [Search and browse](/ebooks/). By author, title, subject, language, type, poppularity, and more.
 - [Bookshelves](/ebooks/bookshelf/) of related eBooks. TODO: Implement, possibly by linking to old site, for now.
-- [Frequently downloaded](/ebooks/search/?sort_order=downloads) and [Top 100 eBooks this month](/browse/scores/top). TODO: Run Top 100 crontab; pretty pictures fix or delete.
+- [Frequently downloaded](/browse/scores/top): Top 100, or ranked [by popularity](/ebooks/search/?sort_order=downloads).
 - [Offline catalogs](/ebooks/offline_catalogs.html): handy eBook listings and metadata to consult offline.
 - [Recently added](/ebooks/search/?query=&submit_search=Search&sort_order=release_date). The latest new and updated eBooks.
 - Visit [self.gutenberg.org](http://self.gutenberg.org) for free eBooks by contemporary authors.

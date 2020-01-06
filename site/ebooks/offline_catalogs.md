@@ -30,6 +30,7 @@ If GUTINDEX.ALL is too big for you or you prefer separate annual lists, you can 
 
 <div class="search_category">
  <ul>
+  <li><a href="/dirs/GUTINDEX.2020">GUTINDEX.2020</a></li>
   <li><a href="/dirs/GUTINDEX.2019">GUTINDEX.2019</a></li>
   <li><a href="/dirs/GUTINDEX.2018">GUTINDEX.2018</a></li>
   <li><a href="/dirs/GUTINDEX.2017">GUTINDEX.2017</a></li>
