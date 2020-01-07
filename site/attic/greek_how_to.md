@@ -61,15 +61,15 @@ Update: It has recently come to my attention that some texts use the even more o
 The only tricky bit is the rough-breathing mark which is usually transliterated as an "h" preceding the letter in question. `a = ha The exception is a word that starts with "r", which is begun with "rh" instead (e.g. the letter "rho"). It can get sneaky when combined with other diacriticals (accent-marks), especially the "soft-breathing" mark, which does not get transliterated at all.
 
 |Rough-breathing | Soft-breathing|
-|Greek dasia.gif | Greek psili.gif|
+|![Greek dasia.gif](../gutenberg/greek_how_to_dasia.gif) | ![Greek psili.gif](../gutenberg/greek_how_to_psili.gif)|
 
 The rough-breathing mark may appear above or in front of the initial letter. It's only found at the beginning of a word. Some example text:
 
-Mênin aeide, thea, Pêlêiadeô Achilêos
+![Mênin aeide, thea, Pêlêiadeô Achilêos](../gutenberg/greek_how_to_eg_Iliad_1.gif)
 
 Mênin aeide, thea, Pêlêiadeô Achilêos
 
-oulomenên, hê muri' Achaiois alge' ethêke
+![oulomenên, hê muri' Achaiois alge' ethêke](../gutenberg/greek_how_to_eg_Iliad_2.gif)	
 
 oulomenên, hê muri' Achaiois alge' ethêke,
 
