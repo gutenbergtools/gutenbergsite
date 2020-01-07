@@ -54,7 +54,7 @@ Project Gutenberg eBooks may be freely used in the United States because most ar
 </div>
 
 <div class="box_shadow">
-The Project Gutenberg website is for human users only. Use of automated tools to access the website may trigger a block of your access. This site utilizes cookies, captchas and related technologies to help assure the site is maximally available for human users. See full terms of use [here](/policy/terms_of_use.html).
+The Project Gutenberg website is for human users only. Use of automated tools to access the website may trigger a block of your access. This site utilizes cookies, captchas and related technologies to help assure the site is maximally available for human users. See full terms of use <a href="/policy/terms_of_use.html">here</a>.
 </div>
 
 ## Find Project Gutenberg on social media
