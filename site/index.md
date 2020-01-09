@@ -18,8 +18,8 @@ Welcome to Project Gutenberg
 ## Find Free eBooks
 
 - [Search and browse](/ebooks/). By author, title, subject, language, type, poppularity, and more.
-- [Bookshelves](/ebooks/bookshelf/) of related eBooks. TODO: Implement, possibly by linking to old site, for now.
-- [Frequently downloaded](/browse/scores/top): Top 100, or ranked [by popularity](/ebooks/search/?sort_order=downloads).
+- [Bookshelves](/ebooks/bookshelf/) of related eBooks. TODO: Implement, possibly by linking to old site, for now. Bookshelf links from bibrec tabs do work, however [example](/ebooks/76).
+- [Frequently downloaded](/browse/scores/top): Top 100, or ranked [by popularity](/ebooks/search/?sort_order=downloads). TODO: bibrec links to "also" and "locss"
 - [Offline catalogs](/ebooks/offline_catalogs.html): handy eBook listings and metadata to consult offline.
 - [Recently added](/ebooks/search/?query=&submit_search=Search&sort_order=release_date). The latest new and updated eBooks.
 - Visit [self.gutenberg.org](http://self.gutenberg.org) for free eBooks by contemporary authors.
