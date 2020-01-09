@@ -79,13 +79,14 @@ applies, please [submit the item](https://copy.pglaf.org) for our consideration.
 A "U.S. Work" is a work where (i) one or more of the authors was a national or domiciliary of the United States at the time of first publication, (ii) the work was first published in the United States, (iii) the work was first published by the United Nations or the Organization of American States, (iv) an architectural work embodied in a building located in the United States, or (v) a pictorial, graphic, or sculptural work incorporated into a building located in the United States. 
 
 ### Rule 1: Works First Published Before 95 Years Ago and Before 1977
-Summary: As of 2019, qualifying Works published prior to January 1, 1924 are in the public domain in the U.S.
 
-Pre-1923: The maximum term of copyright protection for Works first published before January 1, 1923 and complying with all U.S. requirements for notice, registration and renewal expired no more than 75 years from the date of first publication. Thus, any such Works published prior to 1923 have been in the public domain in the U.S. since 1998 or earlier.
+Summary: As of 2020, qualifying Works published in 1924 or earlier do not have copyright protection in the U.S.
 
-1923 through 1977: The maximum term of copyright protection for Works first published on or after January 1, 1923 and complying with all U.S. requirements for notice, registration and renewal expires no more than 95 years from the date of first publication.
+Detail: For Works published prior to January 1, 1977, the maximum term of copyright protection is 95 years from the date of first publication. This is regardless of whether the Work complied with U.S. requirements for notice, registration and renewal. This is regardless of where the Work was published.
 
-As of 2019: All qualifying Works first published longer than 95 years ago (i.e., pre-1924, as of 2019) are no longer protected by U.S. copyright law, regardless of where they were published. This is the rule Project Gutenberg uses most often.
+Historical detail: For Works first published before January 1, 1923, the maximum term of copyright protection was 75 years from the date of first publication. This is regardless of whether the Work complied with U.S. requirements for notice, registration and renewal. This is regardless of where the Work was published. Thus, any such Works published prior to 1923 have been in the public domain in the U.S. since 1998 or earlier.
+
+This is the rule we use the most, and it may be utilized for Works published before 1977. Works published in 1977 or later are not subject to Rule 1.
 
 ### Rule 2: Works first created by natural persons on or after January 1, 1978
 Works first created on or after January 1, 1978 are protected under U.S. copyright law until 70 years after the death of the author if the author is a natural person. (Copyright protection will not expire for any works under this rule until at least January 1, 2049.) 
@@ -103,7 +104,7 @@ If a substantial number of copies of a U.S. Work were printed and distributed in
 Rule 6 copyright research is only accepted from known volunteers with demonstrated competency in the required evidence steps to provide non-renewal evidence. 
 
 #### Preamble
-Project Gutenberg's "Rule 6" from the Copyright How-To provides a mechanism for demonstrating that items no longer have copyright protection, due to non-renewal of copyright. Rule 6 may only be used for items first published in the US between 95 years ago (1924, as of 2019) and December 31, 1964.
+Project Gutenberg's "Rule 6" from the Copyright How-To provides a mechanism for demonstrating that items no longer have copyright protection, due to non-renewal of copyright. Rule 6 may only be used for items first published in the US between 95 years ago and December 31, 1964.
 
 Based on review of the US Library of Congress' historical renewal records, Project Gutenberg has estimated that over 85% of all registered books and monographs are never renewed. The procedures described here are intended to identify whether a particular item is among those that were not renewed.
 
@@ -237,7 +238,7 @@ U.S. law grants exactly the same protection to unpublished works created by fore
 The maximum term of protection under U.S. copyright law for eligible foreign works first published before January 1, 1923 expired no more than 75 years from the date of first publication. Hence, all works which would otherwise qualify as eligible foreign works first published before 1923 are no longer protected by U.S. copyright law, regardless of where they were published. 
 
 #### Rule 10(c) - Works of Treaty Parties and Proclamation Countries First Published Between 1923 and 1977
-The maximum term of copyright protection for eligible foreign works first published between 1923-1977 expires 95 years from the date of first publication. No such works may be cleared under this rule until 2019 unless one of the other rules applies.
+The maximum term of copyright protection for eligible foreign works first published between 1923-1977 expires 95 years from the date of first publication. 2019 was the first year in which works could be cleared under this rule. 
 
 #### Rule 10(d) - Works of Treaty Parties and Proclamation Countries First Published On or After January 1, 1978
 1. Eligible foreign work first created by authors who are natural persons on or after January 1, 1978 are protected under U.S. copyright law until 70 years after the death of the author. ( Copyright protection will not expire for any works under this rule until at least January 1, 2049.).
