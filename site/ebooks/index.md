@@ -160,6 +160,7 @@ Avoid punctuation except as indicated below:</p>
   <div class="popup">
    <a class="close" href="#">&times;</a>
     <div class="content">
+        <p>These search engines are not operated by Project Gutenberg, and have their own privacy policies. Your search will be redirected to the named third-party site.</p>
     </div>
   </div>
 </div>
@@ -168,6 +169,7 @@ Avoid punctuation except as indicated below:</p>
  <div class="popup">
   <a class="close" href="#">&times;</a>
    <div class="content">
+      <p>These are different ways to browse through the collection.</p>
    </div>
  </div>
 </div>
