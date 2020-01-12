@@ -4,10 +4,10 @@ title: Free eBooks | Project Gutenberg
 permalink: /
 ---
 
-Welcome to Project Gutenberg
-============================
+Welcome to Project Gutenberg (public beta test site)
+====================================================
 
-**Project Gutenberg** is a library of over 60,000 free eBooks. Choose among free epub and Kindle eBooks, download them or read them online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for you to enjoy.
+**Project Gutenberg** is a library of over 60,000 free eBooks. Choose among free epub and Kindle eBooks, download them or read them online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for you to enjoy. *This is the test and development site. Not all functions are implemented, and not all content has been moved from the [www.gutenberg.org](https://www.gutenberg.org) site yet. See the [new website](/help/new_website) page for information about currently known issues, and how to report problems or suggest changes.*
 
 {% include latestbooks.html %}
 
@@ -17,7 +17,7 @@ Welcome to Project Gutenberg
 
 ## Find Free eBooks
 
-- [Search and browse](/ebooks/). By author, title, subject, language, type, poppularity, and more.
+- [Search and browse](/ebooks/). By author, title, subject, language, type, popularity, and more.
 - [Bookshelves](/ebooks/bookshelf/) of related eBooks. TODO: Implement, possibly by linking to old site, for now. Bookshelf links from bibrec tabs do work, however [example](/ebooks/76).
 - [Frequently downloaded](/browse/scores/top): Top 100, or ranked [by popularity](/ebooks/search/?sort_order=downloads). TODO: bibrec links to "also" and "locss"
 - [Offline catalogs](/ebooks/offline_catalogs.html): handy eBook listings and metadata to consult offline.
