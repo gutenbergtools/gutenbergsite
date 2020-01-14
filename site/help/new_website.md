@@ -84,7 +84,9 @@ These are mostly from reports that still need consideration, or might have some 
 * UI: "Donate" button and "Donate" link: do we need both? "donation" text isn't underlined, so doesn't look like a link. Should this be "appreciates your donations" rather "appreciates your donation?" Status: We will incluude some assessment of this in a forthcoming user survey.
 * UI: The "Project Gutenberg" logo in upper left should be bigger. Status: awaiting user testing.
 * UI: Do you really need the Help and Information topic for the mainpage since you have a Help item going elsewhere in the site and this particular info isn't really key like the info about books and how tocreate the books. Status: awaiting user testing.
-* Interface: Perhaps the "Help" top menu item should be at the far right which is a common place for Help on menus.  Status: Being considered, might be part of user testing.
+* UI: Printing press in the logo looks like R2D2. Status: Consider asking about this during user evaluation.
+* UI: Advanced Search has three different button styles. This is distracting for users. Status: Consider changing; consider asking during user evaluation.
+* UI: Perhaps the "Help" top menu item should be at the far right which is a common place for Help on menus.  Status: Being considered, might be part of user testing.
 * UI+CSS: It's not clear what the meaning is of the --> arrow aftercertain drop-down menu items. Is it necessary? Status: Being considered. Can we do a 2nd level pop-up menu?
 * CSS: Your list elements in the text part of the page such as under "Find Free eBooks", are acting odd -- with the second lineof text wrapping under the bullet rather than being set off from it. Status: Being investigated.
 * CSS: I wish the top menu bar and dropdowns used a sans serif font.Sans serif is more common for menus. Do you really need an underlineto appear under the text when you highlight a menu item? Status: Being investigated.
