@@ -48,7 +48,7 @@ The future will bring continued innovation, and ongoing focus on the mission of 
        <li><a href="/attic/volunteers_faq.html">Volunteers' FAQ (old)</a></li>
        <li><a href="/attic/volunteers_voices.html">Volunteers' Voices (old)</a></li>
       <h2>W</h2>
-       <li><a href="/attic/website_translation.html">Website Translation How-To (old)</a> - not yet ported</li>
+       <li><a href="/attic/website_translation.html">Website Translation How-To (old)</a></li>
        <li><a href="/attic/word_processor_faq.html">Word Processor FAQ (old)</a></li>
     </ul>
   </div>

@@ -12,14 +12,14 @@ Also see the [collection development](/policy/collection_development.html) page.
 Project Gutenberg eBooks are created by volunteers. This How-To contains some of the basics to get started in creating an eBook for submission to Project Gutenberg. 
 <div class="contents">
 <ol>
-<li><a href="#">1 What types of eBooks may be submitted to Project Gutenberg?</a></li>
-<li><a href="#">2 Who should submit an eBook?</a></li>
-<li><a href="#">3 Copyright</a></li>
-<li><a href="#">4 File Formats</a></li>
-<li><a href="#">5 Creating an eBook</a></li>
-<li><a href="#">6 Harvesting</a></li>
-<li><a href="#">7 Where to Submit the eBook</a></li>
-<li><a href="#">8 Thank you!</a></li>
+ <li><a href="#">What types of eBooks may be submitted to Project Gutenberg?</a></li>
+ <li><a href="#">Who should submit an eBook?</a></li>
+ <li><a href="#">Copyright</a></li>
+ <li><a href="#">File Formats</a></li>
+ <li><a href="#">Creating an eBook</a></li>
+ <li><a href="#">Harvesting</a></li>
+ <li><a href="#">Where to Submit the eBook</a></li>
+ <li><a href="#">Thank you!</a></li>
 </ol>
 </div>
 

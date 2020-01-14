@@ -9,27 +9,23 @@ Tablets, Phones and eReaders How-To
 
 <div class="contents">
 <ol>
-<li><a href="#project-gutenberg-is-not-just-for-your-desktop-or-notebook-computer">Project Gutenberg is not just for your desktop or notebook computer!</a></li>
-<li><a href="#search-for-guidance">Search for Guidance</a></li>
-<li><a href="#general-advice">General Advice</a></li>
-<li><a href="#kindle">Kindle</a>
-<ol class="inner_1">
-<li><a href="#general-kindle-help">General Kindle help</a></li>
-<li><a href="#blocked-users">Blocked Users</a></li>
-<ol class="inner_2">
-<li><a href="#alternate-apps-and-formats">Alternate Apps and Formats</a></li>
-</ol>
-</li>
-<li><a href="#kindle-3">Kindle 3</a></li>
-<li><a href="#amazons-newer-file-format">Amazon's new File Format</a></li>
-</ol>
-</li>
-<li><a href="#nook">Nook</a></li>
-<li><a href="#kobo-reader">Kobo Reader</a></li>
-<li><a href="#android">Android</a>
-</li>
-<li><a href="#ipad-iphone-and-ipod-touch">iPad, iPhone and iPod Touch</a></li>
-<li><a href="#suggestions-from-project-gutenberg-founder-michael-hart">9 Suggestions from Project Gutenberg Founder Michael Hart</a></li>
+ <li><a href="#project-gutenberg-is-not-just-for-your-desktop-or-notebook-computer">Project Gutenberg is not just for your desktop or notebook computer!</a></li>
+ <li><a href="#search-for-guidance">Search for Guidance</a></li>
+ <li><a href="#general-advice">General Advice</a></li>
+ <li><a href="#kindle">Kindle</a>
+  <ol class="inner_1">
+   <li><a href="#general-kindle-help">General Kindle help</a></li>
+   <li><a href="#blocked-users">Blocked Users</a></li>
+   <li><a href="#alternate-apps-and-formats">Alternate Apps and Formats</a></li>
+   <li><a href="#kindle-3">Kindle 3</a></li>
+   <li><a href="#amazons-newer-file-format">Amazon's new File Format</a></li>
+  </ol>
+ </li>
+ <li><a href="#nook">Nook</a></li>
+ <li><a href="#kobo-reader">Kobo Reader</a></li>
+ <li><a href="#android">Android</a></li>
+ <li><a href="#ipad-iphone-and-ipod-touch">iPad, iPhone and iPod Touch</a></li>
+ <li><a href="#suggestions-from-project-gutenberg-founder-michael-hart">Suggestions from Project Gutenberg Founder Michael Hart</a></li>
 </ol>
 </div>
 

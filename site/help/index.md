@@ -12,6 +12,7 @@ Here are pages that give background about Project Gutenberg, including how new i
  <div class="bookshelves ">
     <ul>
       <h2>A</h2>
+       <li><a href="/help/attic/">Attic: Outdated or partially outdated items</a></li>
        <li><a href="/about">About Project Gutenberg</a> (main page)</li>
       <h2>C</h2>
        <li><a href="/help/copyright.html">Copyright How-To</a></li>
@@ -35,6 +36,8 @@ Here are pages that give background about Project Gutenberg, including how new i
       <h2>T</h2>
        <li><a href="/help/mobile.html">Tablets, Phones and eReaders How-To</a></li>
        <li><a href="/policy/license.html">Trademark License</a></li>
+      <h2>W</h2>
+       <li><a href="/help/new_website.html">Website redesign 2020</a></li>
     </ul>
   </div>
 
