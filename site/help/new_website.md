@@ -22,15 +22,6 @@ Goals for the website redesign and back-end updates include:
 * Make the metadata and site structure more easily mirrorable, whether in bulk or for subsets. This is partially done by using github for website content. In the future, we plan to make landing pages use static HTML5+CSS, instead of via autocat3 (below).
 * In the future, we hope to make the eBooks themselves available similarly. This will facilitate reader-contributed formats, as well as errata reporting and fixes.
 
-## Known issues
-* Some pages are not yet ported. This includes the Michael Hart eulogy, and a few pages that are outdated or deemed less important. If you find a page that isn't ported, and should be, please let us know.
-* Bookshelves are not implemented on the new site yet. 
-* The links in the bibrec tabs for landing pages for eBooks should all work, but they go to a mixture of static and dynamic pages. Links to "also" and "locss" might not be working.
-* The [autocat3](https://github.com/gutenbergtools/autocat3) program handles search, and also generates landing pages. There are probably some remaining problems with how results are displayed, or possibly with wrong links in bibrec tabs. If you find a problem, please send the exact link or search you used, so we can replicate and fix. Also note that autocat3 presents results in HTML 4, with somewhat different headers and without customization for mobile/smaller viewers. The rest of the site is in HTML5.
-* CSS anomalies appear in the shared areas under the "Quick search" item (top right of most pages). CSS anomalies also make the right end of the "Some of our latest eBooks" section on the main page appear white, instead of shaded.
-* Some "responsive" aspects of the site are not quite right, especially on smaller screens. We hope to fix these with improved CSS. Examples include: 3-column layout on help/FAQ page does not switch to 1-column when made narrow. Bottom-most pop-up menus (top of each page) are not reachable with short screens, and spacing between menu items isn't ideal. 
-* Translated pages will *not* be ported. The www.gutenberg.org site has always been written in English, and in the past there was some capability of hosting pages translated into other languages. However, this was never adequately maintained, and has resulted in outdated and unmaintained content in non-English. Instead, those wishing a translated site can now copy the structure and English contents from the github pages, and make their own website.
-
 ## How to provide input, fixes and suggestions
 
 ### General reporting of errors
@@ -75,5 +66,42 @@ It is especially important that we can understand what you are experiencing, and
 
 Eventually, we hope to retire much or all of the current Project Gutenberg [mobile site](http://m.gutenberg.org), because it does not have anyone maintaining it, and it lacks much of the functionality and content of the main site. 
 
-*Most recently updated: January 12, 2020*
+## Known issues
+* Some pages are not yet ported. This includes the Michael Hart eulogy, and a few pages that are outdated or deemed less important. If you find a page that isn't ported, and should be, please let us know.
+* Bookshelves are not implemented on the new site yet. 
+* The links in the bibrec tabs for landing pages for eBooks should all work, but they go to a mixture of static and dynamic pages. Links to "also" and "locss" might not be working.
+* The [autocat3](https://github.com/gutenbergtools/autocat3) program handles search, and also generates landing pages. There are probably some remaining problems with how results are displayed, or possibly with wrong links in bibrec tabs. If you find a problem, please send the exact link or search you used, so we can replicate and fix. Also note that autocat3 presents results in HTML 4, with somewhat different headers and without customization for mobile/smaller viewers. The rest of the site is in HTML5.
+* CSS anomalies appear in the shared areas under the "Quick search" item (top right of most pages). CSS anomalies also make the right end of the "Some of our latest eBooks" section on the main page appear white, instead of shaded.
+* Some "responsive" aspects of the site are not quite right, especially on smaller screens. We hope to fix these with improved CSS. Examples include: 3-column layout on help/FAQ page does not switch to 1-column when made narrow. Bottom-most pop-up menus (top of each page) are not reachable with short screens, and spacing between menu items isn't ideal. 
+* Translated pages will *not* be ported. The www.gutenberg.org site has always been written in English, and in the past there was some capability of hosting pages translated into other languages. However, this was never adequately maintained, and has resulted in outdated and unmaintained content in non-English. Instead, those wishing a translated site can now copy the structure and English contents from the github pages, and make their own website.
+
+## Issues being considered or investigated
+
+These are mostly from reports that still need consideration, or might have some different approaches that need to be assessed:
+
+* "Donate" button and "Donate" link: do we need both? "donation" text isn't underlined, so doesn't look like a link. Should this be "appreciates your donations" rather "appreciates your donation?" Status: We will incldude some assessment of this in a forthcoming user survey.
+* The "Project Gutenberg" logo in upper left should be bigger. Status: Same as for the donate button: awaiting user testing.
+* Interface suggestions/issues. Status: Being looked at by our CSS designer.
+* Interface: Your list elements in the text part of the page such as under"Find Free eBooks", are acting odd -- with the second lineof text wrapping under the bullet rather than being set off from it.
+* Interface: I wish the top menu bar and dropdowns used a sans serif font.Sans serif is more common for menus. Do you really need an underlineto appear under the text when you highlight a menu item?
+* Interface: It might be worth considering using a san serif for headings andserif (as you are doing) for the main text on the pages. That's avery common typographic style.
+* Interface: It's not clear what the meaning is of the --> arrow aftercertain drop-down menu items. Is it necessary?
+* Interface: Should the Search and Browse menu item be "Search &Browse" (it's common to use & in menus) and could the dropdown include Recently added? I'd be tempted to move the Bookshelves to just above offline calalogs
+* Interface: Perhaps the "Help" top menu item should be at the farright which is a common place for Help on menus
+* Interface: Do you really need the Help and Information topic for the mainpage since you have a Help item going elsewhere in the site and this particular info isn't really key like the info about books and how tocreate the books
+* The site embeds Facebook and Twitter metadata to support rendering nicely on these platforms but doesn't embed structured data for the same effect on Google https://developers.google.com/search/docs/guides/intro-structured-data. Status: All the headers need to be investigated and updated. Note especially that autocat3, PHP and gutenbergsite all have different headers (autocat3 actually has multiple headers, via Genshi templates), and that only gutenbergsite is HTML5. So, we need to work towards a single header base that is valid, and suitable for HTML5 and HTML4.
+* The session ID is included in the query parameters of Kindle and ePub download links. This could expose the session ID to intermediaries (caches, CDNs, ISPs). Status: It's not clear whether or why this is necessary, since the downloads are to static files. It might be we can disable this.
+* Content-Security-Policy (CSP) header is not being returned. Implementing a CSP goes a long way in mitigating XSS attacks https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP). Status: Part of the header investigation mentioned above.
+* JS and CSS source isn't minified leaking library names and versions https://snyk.io/vuln/search?type=npm&q=jquery. Status: We plan to have no Javascript at all in the future. The only remaining Javascript is for switching between bibrec & download tabs on eBook landing pages such as https://dev.gutenberg.org/ebooks/11 .. we hope to instead to that in HTML5.
+* The server cache (Varnish) is returned in the X-Varnish and Via headers https://www.cvedetails.com/vulnerability-list/vendor_id-12937/Varnish-cache.html. Status: being investigated.
+* Search output order seems random. Status: Gathering specific examples, and we'll see what is happening under the hood. Search is handld by PostgreSQL.
+* Add these links to the DP HTML documentation somewhere. Status: Need to decide where to put the links.
+- The Post-Processing FAQ --
+https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Post-Processing_FAQ 
+- Easy Epub -- https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy_Epub (It's a guide to how best to handle the HTML that goes through epubmaker to lead topassable epubs/mobis)- 
+- HTML Best Practices -- https://www.pgdp.org/~jana/best-practices/ (this was written a while back but DP tries to keep it up-to-date)
+* Revise the Volunteer's FAQ (currently in "the attic" since it was outdated). Status: The Whitewashers team is looking into this. The above links might do well in that FAQ, though the FAQ is geared towards solo producers.
+
+
+*Most recently updated: January 14, 2020*
 
