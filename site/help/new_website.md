@@ -79,27 +79,30 @@ Eventually, we hope to retire much or all of the current Project Gutenberg [mobi
 
 These are mostly from reports that still need consideration, or might have some different approaches that need to be assessed:
 
-* "Donate" button and "Donate" link: do we need both? "donation" text isn't underlined, so doesn't look like a link. Should this be "appreciates your donations" rather "appreciates your donation?" Status: We will incldude some assessment of this in a forthcoming user survey.
-* The "Project Gutenberg" logo in upper left should be bigger. Status: Same as for the donate button: awaiting user testing.
-* Interface suggestions/issues. Status: Being looked at by our CSS designer.
-* Interface: Your list elements in the text part of the page such as under"Find Free eBooks", are acting odd -- with the second lineof text wrapping under the bullet rather than being set off from it.
-* Interface: I wish the top menu bar and dropdowns used a sans serif font.Sans serif is more common for menus. Do you really need an underlineto appear under the text when you highlight a menu item?
-* Interface: It might be worth considering using a san serif for headings andserif (as you are doing) for the main text on the pages. That's avery common typographic style.
-* Interface: It's not clear what the meaning is of the --> arrow aftercertain drop-down menu items. Is it necessary?
-* Interface: Should the Search and Browse menu item be "Search &Browse" (it's common to use & in menus) and could the dropdown include Recently added? I'd be tempted to move the Bookshelves to just above offline calalogs
-* Interface: Perhaps the "Help" top menu item should be at the farright which is a common place for Help on menus
-* Interface: Do you really need the Help and Information topic for the mainpage since you have a Help item going elsewhere in the site and this particular info isn't really key like the info about books and how tocreate the books
-* The site embeds Facebook and Twitter metadata to support rendering nicely on these platforms but doesn't embed structured data for the same effect on Google https://developers.google.com/search/docs/guides/intro-structured-data. Status: All the headers need to be investigated and updated. Note especially that autocat3, PHP and gutenbergsite all have different headers (autocat3 actually has multiple headers, via Genshi templates), and that only gutenbergsite is HTML5. So, we need to work towards a single header base that is valid, and suitable for HTML5 and HTML4.
-* The session ID is included in the query parameters of Kindle and ePub download links. This could expose the session ID to intermediaries (caches, CDNs, ISPs). Status: It's not clear whether or why this is necessary, since the downloads are to static files. It might be we can disable this.
-* Content-Security-Policy (CSP) header is not being returned. Implementing a CSP goes a long way in mitigating XSS attacks https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP). Status: Part of the header investigation mentioned above.
-* JS and CSS source isn't minified leaking library names and versions https://snyk.io/vuln/search?type=npm&q=jquery. Status: We plan to have no Javascript at all in the future. The only remaining Javascript is for switching between bibrec & download tabs on eBook landing pages such as https://dev.gutenberg.org/ebooks/11 .. we hope to instead to that in HTML5.
-* The server cache (Varnish) is returned in the X-Varnish and Via headers https://www.cvedetails.com/vulnerability-list/vendor_id-12937/Varnish-cache.html. Status: being investigated.
-* Search output order seems random. Status: Gathering specific examples, and we'll see what is happening under the hood. Search is handld by PostgreSQL.
-* Add these links to the DP HTML documentation somewhere. Status: Need to decide where to put the links.
-- The Post-Processing FAQ --
-https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Post-Processing_FAQ 
-- Easy Epub -- https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy_Epub (It's a guide to how best to handle the HTML that goes through epubmaker to lead topassable epubs/mobis)- 
-- HTML Best Practices -- https://www.pgdp.org/~jana/best-practices/ (this was written a while back but DP tries to keep it up-to-date)
+* UI: Search output order seems random. Status: Gathering specific examples, and we'll see what is happening under the hood. Search is handld by PostgreSQL. Status: Investigating.
+* UI: Should the Search and Browse menu item be "Search & Browse" (it's common to use & in menus) and could the dropdown include Recently added? I'd be tempted to move the Bookshelves to just above offline calalogs.  Status: Being considered
+* UI: "Donate" button and "Donate" link: do we need both? "donation" text isn't underlined, so doesn't look like a link. Should this be "appreciates your donations" rather "appreciates your donation?" Status: We will incluude some assessment of this in a forthcoming user survey.
+* UI: The "Project Gutenberg" logo in upper left should be bigger. Status: awaiting user testing.
+* UI: Do you really need the Help and Information topic for the mainpage since you have a Help item going elsewhere in the site and this particular info isn't really key like the info about books and how tocreate the books. Status: awaiting user testing.
+* Interface: Perhaps the "Help" top menu item should be at the far right which is a common place for Help on menus.  Status: Being considered, might be part of user testing.
+* UI+CSS: It's not clear what the meaning is of the --> arrow aftercertain drop-down menu items. Is it necessary? Status: Being considered. Can we do a 2nd level pop-up menu?
+* CSS: Your list elements in the text part of the page such as under "Find Free eBooks", are acting odd -- with the second lineof text wrapping under the bullet rather than being set off from it. Status: Being investigated.
+* CSS: I wish the top menu bar and dropdowns used a sans serif font.Sans serif is more common for menus. Do you really need an underlineto appear under the text when you highlight a menu item? Status: Being investigated.
+* CSS: It might be worth considering using a san serif for headings andserif (as you are doing) for the main text on the pages. That's avery common typographic style. Status: Being investigated.
+* HTML: The site embeds Facebook and Twitter metadata to support rendering nicely on these platforms but doesn't embed structured data for the same effect on Google https://developers.google.com/search/docs/guides/intro-structured-data. Status: All the headers need to be investigated and updated. Note especially that autocat3, PHP and gutenbergsite all have different headers (autocat3 actually has multiple headers, via Genshi templates), and that only gutenbergsite is HTML5. So, we need to work towards a single header base that is valid, and suitable for HTML5 and HTML4.
+* HTML/autocat3: The session ID is included in the query parameters of Kindle and ePub download links. This could expose the session ID to intermediaries (caches, CDNs, ISPs). Status: It's not clear whether or why this is necessary, since the downloads are to static files. It might be we can disable this.
+* HTML: Content-Security-Policy (CSP) header is not being returned. Implementing a CSP goes a long way in mitigating XSS attacks https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP). Status: Part of the header investigation mentioned above.
+* autocat3: JS and CSS source isn't minified leaking library names and versions https://snyk.io/vuln/search?type=npm&q=jquery. Status: We plan to have no Javascript at all in the future. The only remaining Javascript is for switching between bibrec & download tabs on eBook landing pages such as https://dev.gutenberg.org/ebooks/11 .. we hope to instead to that in HTML5.
+* HTTPD: The server cache (Varnish) is returned in the X-Varnish and Via headers https://www.cvedetails.com/vulnerability-list/vendor_id-12937/Varnish-cache.html. Status: being investigated.
+* Content: Add these links to the DP HTML documentation somewhere. Status: Need to decide where to put the links.
+
+The Post-Processing FAQ --
+https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Post-Processing_FAQ
+
+Easy Epub -- https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy_Epub (It's a guide to how best to handle the HTML that goes through epubmaker to lead to passable epubs/mobis)
+
+HTML Best Practices -- https://www.pgdp.org/~jana/best-practices/ (this was written a while back but DP tries to keep it up-to-date)
+
 * Revise the Volunteer's FAQ (currently in "the attic" since it was outdated). Status: The Whitewashers team is looking into this. The above links might do well in that FAQ, though the FAQ is geared towards solo producers.
 
 

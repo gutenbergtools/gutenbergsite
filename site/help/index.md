@@ -12,7 +12,7 @@ Here are pages that give background about Project Gutenberg, including how new i
  <div class="bookshelves ">
     <ul>
       <h2>A</h2>
-       <li><a href="/help/attic/">Attic: Outdated or partially outdated items</a></li>
+       <li><a href="/attic/">Attic: Outdated or partially outdated items</a></li>
        <li><a href="/about">About Project Gutenberg</a> (main page)</li>
       <h2>C</h2>
        <li><a href="/help/copyright.html">Copyright How-To</a></li>
