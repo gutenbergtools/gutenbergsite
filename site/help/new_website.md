@@ -75,6 +75,7 @@ Eventually, we hope to retire much or all of the current Project Gutenberg [mobi
 
 ## Issues being considered or investigated
 These are mostly from reports that still need consideration, or might have some different approaches that need to be assessed:
+### UI Related Issues
 1. UI/Search: Search output order seems random.**Status: Investigating. Search is handled by PostgreSQL.**
 2. autocat3/Search: Advanced Search, Author: "Agatha Christie" and "Ernest Hemingway": the two searches give a very different layout. **Status: Investigating.**
 3. UI: Should the Search and Browse menu item be "Search & Browse" (it's common to use & in menus) and could the dropdown include Recently added? I'd be tempted to move the Bookshelves to just above offline calalogs. **Status: Being considered**
@@ -85,22 +86,24 @@ These are mostly from reports that still need consideration, or might have some 
 8. UI/Search: Advanced Search has three different button styles. This is distracting for users.**Status: Consider changing; consider asking during user evaluation.**
 9. UI: Perhaps the "Help" top menu item should be at the far right which is a common place for Help on menus. ** Status: Being considered, might be part of user testing.**
 10. UI/CSS: It's not clear what the meaning is of the --> arrow aftercertain drop-down menu items. Is it necessary? **Status: Being considered. Can we do a 2nd level pop-up menu?**
-11. CSS: Your list elements in the text part of the page such as under "Find Free eBooks", are acting odd -- with the second lineof text wrapping under the bullet rather than being set off from it. **Status: Being investigated.**
-12. CSS: I wish the top menu bar and dropdowns used a sans serif font.Sans serif is more common for menus. Do you really need an underlineto appear under the text when you highlight a menu item? **Status: Being investigated.**
-13. CSS: It might be worth considering using a san serif for headings andserif (as you are doing) for the main text on the pages. That's avery common typographic style. **Status: Being investigated.**
-14. HTML: The site embeds Facebook and Twitter metadata to support rendering nicely on these platforms but doesn't embed structured data for the same effect on Google https://developers.google.com/search/docs/guides/intro-structured-data. **Status: All the headers need to be investigated and updated.** Note especially that autocat3, PHP and gutenbergsite all have different headers (autocat3 actually has multiple headers, via Genshi templates), and that only gutenbergsite is HTML5. So, we need to work towards a single header base that is valid, and suitable for HTML5 and HTML4.
-15. HTML/autocat3: The session ID is included in the query parameters of Kindle and ePub download links. This could expose the session ID to intermediaries (caches, CDNs, ISPs). **Status: It's not clear whether or why this is necessary, since the downloads are to static files. It might be we can disable this.**
-16. HTML: Content-Security-Policy (CSP) header is not being returned. Implementing a CSP goes a long way in mitigating XSS attacks https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP). **Status: Part of the header investigation mentioned above.**
-17. autocat3/Search: On narrow screens, landing pages are squished and the footer disappears.
-18. autocat3: JS and CSS source isn't minified leaking library names and versions https://snyk.io/vuln/search?type=npm&q=jquery. **Status: We plan to have no Javascript at all in the future. The only remaining Javascript is for switching between bibrec & download tabs on eBook landing pages such as https://dev.gutenberg.org/ebooks/11 .. we hope to instead to that in HTML5.**
-19. HTTPD: The server cache (Varnish) is returned in the X-Varnish and Via headers https://www.cvedetails.com/vulnerability-list/vendor_id-12937/Varnish-cache.html. **Status: being investigated.**
-20. Content: Add these links to the DP HTML documentation somewhere. **Status: Need to decide where to put the links.**
+11. CSS: Your list elements in the text part of the page such as under "Find Free eBooks", are acting odd -- with the second lineof text wrapping under the bullet rather than being set off from it. **Status: Actively Investigating.**
+12. CSS: I wish the top menu bar and dropdowns used a sans serif font.Sans serif is more common for menus. Do you really need an underlineto appear under the text when you highlight a menu item? **Status: Will Investigate.**
+13. CSS: It might be worth considering using a san serif for headings andserif (as you are doing) for the main text on the pages. That's avery common typographic style. **Status: Will Investigate**
+14. CSS: How to make pop-up menu list display fit better? First, I couldn’t figure out how to get less spacing between the pop-up menu items (there is too much space before/after, and should be automatic spacing). Second, and more importantly, on a very small screen the menu items at the bottom of the list are unreachable (i.e., shrink your screen, and you’ll see they cannot be reached). Can this be some sort of scrollable list? **Status: Will Investigate**
+### HTML and autocat3 Related Issues
+1. HTML: The site embeds Facebook and Twitter metadata to support rendering nicely on these platforms but doesn't embed structured data for the same effect on Google https://developers.google.com/search/docs/guides/intro-structured-data. **Status: All the headers need to be investigated and updated.** Note especially that autocat3, PHP and gutenbergsite all have different headers (autocat3 actually has multiple headers, via Genshi templates), and that only gutenbergsite is HTML5. So, we need to work towards a single header base that is valid, and suitable for HTML5 and HTML4.
+2. HTML/autocat3: The session ID is included in the query parameters of Kindle and ePub download links. This could expose the session ID to intermediaries (caches, CDNs, ISPs). **Status: It's not clear whether or why this is necessary, since the downloads are to static files. It might be we can disable this.**
+3. HTML: Content-Security-Policy (CSP) header is not being returned. Implementing a CSP goes a long way in mitigating XSS attacks https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP). **Status: Part of the header investigation mentioned above.**
+4. autocat3/Search: On narrow screens, landing pages are squished and the footer disappears.
+5. autocat3: JS and CSS source isn't minified leaking library names and versions https://snyk.io/vuln/search?type=npm&q=jquery. **Status: We plan to have no Javascript at all in the future. The only remaining Javascript is for switching between bibrec & download tabs on eBook landing pages such as https://dev.gutenberg.org/ebooks/11 .. we hope to instead to that in HTML5.**
+6. HTTPD: The server cache (Varnish) is returned in the X-Varnish and Via headers https://www.cvedetails.com/vulnerability-list/vendor_id-12937/Varnish-cache.html. **Status: being investigated.**
+7. Content: Add these links to the DP HTML documentation somewhere. **Status: Need to decide where to put the links.**
 The Post-Processing FAQ --
 https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Post-Processing_FAQ
 Easy Epub -- https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy_Epub (It's a guide to how best to handle the HTML that goes through epubmaker to lead to passable epubs/mobis)
 HTML Best Practices -- https://www.pgdp.org/~jana/best-practices/ (this was written a while back but DP tries to keep it up-to-date)
-21. Revise the Volunteer's FAQ (currently in "the attic" since it was outdated). **Status: The Whitewashers team is looking into this. The above links might do well in that FAQ, though the FAQ is geared towards solo producers.**
+8. Revise the Volunteer's FAQ (currently in "the attic" since it was outdated). **Status: The Whitewashers team is looking into this. The above links might do well in that FAQ, though the FAQ is geared towards solo producers.**
 
 
-*Most recently updated: January 14, 2020*
+*Most recently updated: January 16, 2020*
 
