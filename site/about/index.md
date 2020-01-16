@@ -23,10 +23,7 @@ related content today.
 ## More about Project Gutenberg
 To read more about Project Gutenberg, choose one of these topics:
 
-[Background, History and Philosophy](/about/background/index.html): Various essays and articles.
-
-[Partners and Affiliates](/about/partners_affiliates.html)
-
-[Help and how-to](/help/)
-
-The [Project Gutenberg Literary Archive Foundation](/about/pglaf.html), which operates Project Gutenberg and accepts donations.
+- [Background, History and Philosophy](/about/background/index.html): Various essays and articles.
+- [Partners and Affiliates](/about/partners_affiliates.html)
+- [Help and how-to](/help/)
+- The [Project Gutenberg Literary Archive Foundation](/about/pglaf.html), which operates Project Gutenberg and accepts donations.

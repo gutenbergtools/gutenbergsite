@@ -37,17 +37,16 @@ nav li a {
 /*Hover state for top level links*/
 nav li:hover a {
 /*    background: #7A7A7A; */
-    color: #fff;
-/*    background: #EDDAB7; */
+	color: #fff;
+	background: #BDAE92;
 /*    color: #2f3036; */
-    background: #19c589; /* green */
-    text-decoration:underline;
+    text-decoration:none;
 /*    color: #f00; */
 }
 /*Style for dropdown links*/
 nav li:hover ul a {
-    background: #EDDAB7; /* neutral */
-    color: #2f3036; /* gray */
+    background: #EDDAB7; 
+    color: #2f3036; 
     height: 40px; 
     line-height: 40px;
     margin: 0;
@@ -56,8 +55,8 @@ nav li:hover ul a {
 }
 /*Hover state for dropdown links*/
 nav li:hover ul a:hover {
-    background: #7A7A7A; /* gray */
-    text-decoration:underline;
+    background: #BDAE92; 
+    text-decoration:none;
     color: #fff; /* white */
 }
 /*Hide dropdown links until they are needed*/
@@ -144,6 +143,13 @@ nav .donate .donbtn{
 	    display:inline-block;
 	    cursor: pointer;
 	}
+nav .donate a:link{
+	text-decoration: underline;
+}
+nav .donate a:hover{
+	background: #BDAE92;
+	color: #fff; /* white */
+}
 
 /*Responsive Styles*/
 @media screen and /*(orientation: portrait)*/(max-width : 750px){
