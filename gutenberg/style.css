@@ -586,7 +586,7 @@ only screen and (max-device-width: 1200px) {
 	display: inline-block; 
 	width: 1em;
 	margin-left: -1em;
-	font-size: small;
+	/*font-size: small;*/
 }
 .page_content ul li{
 	list-style: none;
