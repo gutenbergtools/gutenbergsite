@@ -670,7 +670,7 @@ Avoid punctuation except as indicated below:</p>
   <label for="collapsible2" class="lbl-toggle">Full Text Search</label>
   <div class="collapsible-content">
     <div class="content-inner">
-      <form method="get" action="https//search.yahoo.com/search">
+      <form method="get" action="https://search.yahoo.com/search">
       <img src="/pics/yahoologo.png" style="vertical-align:middle;" alt="Yahoo! logo">
       <input type="hidden" name="fr" value="cap-PG">
       <input type="hidden" name="vs" id="ysvs1" value="gutenberg.org">
