@@ -9,6 +9,7 @@ nav {
     top: 0;
     z-index: 999;
     font-weight: bold;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 nav ul {
     list-style-type:none;
@@ -26,7 +27,7 @@ nav li {
 /*Style for menu links*/
 nav li a {
     display:block;
-    min-width:120px;
+    min-width:80px;
     text-align: center; 
     height: 50px; 
     line-height: 50px; 

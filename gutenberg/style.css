@@ -2,19 +2,7 @@ html,
 body {
 	background-color:#FFFFFF;/* #FFFCD7;*/
 	color:#000000; /*#A01F13;*/
-	font-family:
-		/*-apple-system,
-		BlinkMacSystemFont,
-		"Segoe UI",
-		"Helvetica Neue",
-		Roboto,
-		Ubuntu,
-		Helvetica,
-		Arial,
-		sans-serif,
-		"Apple Color Emoji",
-		"Segoe UI Emoji",
-		"Segoe UI Symbol";*/;
+	font-family: "Times New Roman", Times, serif;
 	font-size: 16px;
 	margin: 0;
 	max-width: 100vw;
@@ -51,7 +39,7 @@ a:active {
 	text-decoration: none;
 }
 
-/* text selection */
+/* text selection 
 ::-moz-selection {
 	background-color: #0a0a0a;
 	color: #ffffff;
@@ -60,7 +48,7 @@ a:active {
 ::selection {
 	background-color: #0a0a0a;
 	color: #ffffff;
-}
+}*/
 
 .no-select {
 	-khtml-user-select: none;

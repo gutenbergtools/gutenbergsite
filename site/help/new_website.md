@@ -86,10 +86,10 @@ These are mostly from reports that still need consideration, or might have some 
 8. UI/Search: Advanced Search has three different button styles. This is distracting for users.**Status: Consider changing; consider asking during user evaluation.**
 9. UI: Perhaps the "Help" top menu item should be at the far right which is a common place for Help on menus. **Status: Being considered, might be part of user testing.**
 10. UI/CSS: It's not clear what the meaning is of the --> arrow aftercertain drop-down menu items. Is it necessary? **Status: Being considered. Can we do a 2nd level pop-up menu?**
-11. CSS: Your list elements in the text part of the page such as under "Find Free eBooks", are acting odd -- with the second lineof text wrapping under the bullet rather than being set off from it. **Status: Resolved**
-12. CSS: I wish the top menu bar and dropdowns used a sans serif font.Sans serif is more common for menus. Do you really need an underlineto appear under the text when you highlight a menu item? **Status: Actively Investigating. Removed underline when hovering over menu items**
-13. CSS: It might be worth considering using a san serif for headings andserif (as you are doing) for the main text on the pages. That's avery common typographic style. **Status: Actively Investigating**
-14. CSS: How to make pop-up menu list display fit better? First, I couldn’t figure out how to get less spacing between the pop-up menu items (there is too much space before/after, and should be automatic spacing). Second, and more importantly, on a very small screen the menu items at the bottom of the list are unreachable (i.e., shrink your screen, and you’ll see they cannot be reached). Can this be some sort of scrollable list? **Status: Will Investigate**
+11. CSS: Your list elements in the text part of the page such as under "Find Free eBooks", are acting odd -- with the second lineof text wrapping under the bullet rather than being set off from it. **Status: Resolved.**
+12. CSS: I wish the top menu bar and dropdowns used a sans serif font.Sans serif is more common for menus. Do you really need an underlineto appear under the text when you highlight a menu item? **Status: Resolved. Removed underline when hovering over menu items**
+13. CSS: It might be worth considering using a san serif for headings andserif (as you are doing) for the main text on the pages. That's avery common typographic style. **Status: Resolved. Added Sans Serif fonts for menu and serif for rest of the page.**
+14. CSS: How to make pop-up menu list display fit better? First, I couldn’t figure out how to get less spacing between the pop-up menu items (there is too much space before/after, and should be automatic spacing). Second, and more importantly, on a very small screen the menu items at the bottom of the list are unreachable (i.e., shrink your screen, and you’ll see they cannot be reached). Can this be some sort of scrollable list? **Status: Actively Investigting. Decreased min-width for less spacing between menu items.**
 
 ### HTML and autocat3 Related Issues
 1. HTML: The site embeds Facebook and Twitter metadata to support rendering nicely on these platforms but doesn't embed structured data for the same effect on Google https://developers.google.com/search/docs/guides/intro-structured-data. **Status: All the headers need to be investigated and updated.** Note especially that autocat3, PHP and gutenbergsite all have different headers (autocat3 actually has multiple headers, via Genshi templates), and that only gutenbergsite is HTML5. So, we need to work towards a single header base that is valid, and suitable for HTML5 and HTML4.
@@ -106,5 +106,5 @@ HTML Best Practices -- https://www.pgdp.org/~jana/best-practices/ (this was writ
 8. Revise the Volunteer's FAQ (currently in "the attic" since it was outdated). **Status: The Whitewashers team is looking into this. The above links might do well in that FAQ, though the FAQ is geared towards solo producers.**
 
 
-*Most recently updated: January 16, 2020*
+*Most recently updated: January 20, 2020*
 
