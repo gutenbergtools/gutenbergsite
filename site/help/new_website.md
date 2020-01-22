@@ -76,7 +76,7 @@ Eventually, we hope to retire much or all of the current Project Gutenberg [mobi
 ## Issues being considered or investigated
 These are mostly from reports that still need consideration, or might have some different approaches that need to be assessed:
 ### UI Related Issues
-1. UI/Search: Search output order seems random.**Status: Investigating. Search is handled by PostgreSQL.**
+1. UI/Search: Search output order seems random.**Status: Defer. Search is handled by PostgreSQL, and unchanged from the current site. We will look into a different search implementation, for the future..**
 2. autocat3/Search: Advanced Search, Author: "Agatha Christie" and "Ernest Hemingway": the two searches give a very different layout. **Status: Investigating.**
 3. UI: Should the Search and Browse menu item be "Search & Browse" (it's common to use & in menus) and could the dropdown include Recently added? I'd be tempted to move the Bookshelves to just above offline calalogs. **Status: Being considered**
 4. UI: "Donate" button and "Donate" link: do we need both? Should this be "appreciates your donations" rather "appreciates your donation?" **Status:Resolved. Donation Text is now underlined. Added text for direct donation. We will include some assessment of this in a forthcoming user survey.**
