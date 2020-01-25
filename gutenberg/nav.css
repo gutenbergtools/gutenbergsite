@@ -3,6 +3,7 @@ nav {
 	background-color:#EDDAB7;
 	color:#000000;
 	left: 0;
+	/*overflow:scroll;*/
 	padding: 0 10vw 0 0;
 	position: fixed;
 	right: 0;
@@ -159,6 +160,7 @@ nav .donate a:hover{
 		nav {
 			height:auto;
 			font-size:12px;
+			position:absolute;
 		}
 		nav ul {
         position: static;
