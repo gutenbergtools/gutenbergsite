@@ -71,6 +71,10 @@ nav li ul li {
     display: block;
     float: none;
 }
+/*increasing the width of the last li in the main menu */
+nav ul li:nth-last-child(1) ul{
+	width:max-content;
+}
 /*Prevent text wrapping*/
 nav li ul li a {
     width: auto;
@@ -135,7 +139,7 @@ nav .donate{
 	margin-top: 60px;
 }
 nav .donate p{
-	font-weight:bold;
+/* gbn 20200506:	font-weight:bold; */
 	margin-top:0px;
 	margin-left:140px;
 	display: inline;
@@ -322,7 +326,7 @@ nav .donate{
 }
 nav .donate p{
 
-	font-weight:bold;
+/* gbn 20200206:	font-weight:bold; */
 	margin-top:0px;
 	margin-left:140px;
 	display: inline;
