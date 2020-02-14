@@ -9,7 +9,7 @@ nav {
 	right: 0;
 	top: 0;
 	z-index: 999;
-	font-weight: bold;
+	/*font-weight: bold;*/
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 nav ul {
@@ -24,6 +24,7 @@ nav li {
 	display:inline-block;
 	float: left;
 	margin-right: 1px;
+	font-weight:bold;
 }
 /*Style for menu links*/
 nav li a {
@@ -143,6 +144,7 @@ nav .donate p{
 	margin-top:0px;
 	margin-left:140px;
 	display: inline;
+	/*font-weight:unset;*/
 }
 
 nav .donate .donbtn{
