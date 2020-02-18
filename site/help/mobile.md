@@ -56,6 +56,12 @@ to your eBook reader or mobile phone:
 ## Search For Guidance
 Many articles have been written on different approaches to getting Project Gutenberg content onto different devices.  Use your favorite search site to look for guidance.  These include articles on specific devices, as well on how convert Gutenberg files to other formats.[This article](http://www.makeuseof.com/tag/3-good-online-sources-free-ebooks-free-app-read/) at makeuseof.com describes conversion for Project Gutenberg content.
 
+These Wikipedia links have information, listings, and comparisons that may be useful:
+* [Comparison of e-readers](https://en.wikipedia.org/wiki/Comparison_of_e-readers)
+* [Comparison of e-book formats](https://en.wikipedia.org/wiki/Comparison_of_e-book_formats)
+* [Comparison of Android e-reader software](https://en.wikipedia.org/wiki/Comparison_of_Android_e-reader_software)
+* [Comparison of iOS e-reader software](https://en.wikipedia.org/wiki/Comparison_of_iOS_e-reader_software) 
+
 ## General Advice
 There are a few different challenges that many people face. Here are some of the ones we hear about most often. Keep in mind that there are many different types of computers, and they can be set up differently and have different software. So, your specific experience might be a little different than someone else's. This also means that step-by-step instructions might need some variation for your own situation.
 

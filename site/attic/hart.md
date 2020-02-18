@@ -58,7 +58,7 @@ Michael is remembered as a dear friend, who sacrificed personal luxury to fight 
 This obituary is granted to the public domain by its author, Dr. Gregory B. Newby. 
 
 ### Eulogy for Michael S. Hart
-As spoken by Newby at Michael's funeral, September 12 2011 (this sequence of words is granted to the public domain): "Rather than speak in whole sentences, which can be difficult at times like these, I will speak a series of words that characterize Michael. These words might help you to form your own memories of him. Friend. Visionary. Leader. Intellectual. Anti-Elitist. Digital Literati. Rebel. Frisbee Player. Hippie. Musician. Technician. Enthusiast. lover of Much and Many. Full of Passion. Scout. Veteran. Patriot. Pacifist. Humanist. Egalitarian. Educator. Man of the People. Builder. Maker. Speaker. Listener. Systems Analyst. Friend." 
+As spoken by Newby at Michael's funeral, September 12 2011 (this sequence of words is granted to the public domain): "Rather than speak in whole sentences, which can be difficult at times like these, I will speak a series of words that characterize Michael. These words might help you to form your own memories of him. Friend. Visionary. Leader. Intellectual. Anti-Elitist. Digital Literati. Rebel. Frisbee Player. Hippie. Musician. Technician. Enthusiast. Lover of Much and Many. Full of Passion. Scout. Veteran. Patriot. Pacifist. Humanist. Egalitarian. Educator. Man of the People. Builder. Maker. Speaker. Listener. Systems Analyst. Friend." 
 
 ## Message from Michael's Family
 The family prepared a document with an image of Michael, "breaking down the bars of ignorance and illiteracy." The message is part of this [PDF file](/gutenberg/HartfamilyAppreciation.pdf) and contains this text: 
@@ -75,7 +75,7 @@ The family prepared a document with an image of Michael, "breaking down the bars
 
 
 ## Read some of Michael's writings
-You can find a series of writings by Michael online in the [Public Library Blog Newsletter](http://worldlibrary.net/blog/post/2011/09/01/The-World-Public-Library-Blog-Newsletter-Volume-1-Number-25.aspx%7CWorld) - Page doesn't exist
+You can find a series of writings by Michael online in his [online pages](https://www.pglaf.org/hart].
 
 ## Remembrances
 [Birthday Remembrances](https://www.gutenberg.org/wiki/User:Jim_Berger) by friend Jim Berger. 
@@ -85,27 +85,26 @@ These links include many of the obituaries and stories commemorating Michael, as
 
 - Official [Project Gutenberg Facebook Page](https://www.facebook.com/project.gutenberg) included many brief memorial statements
 - [Photos, mostly recent](https://www.flickr.com/groups/1751356@N20/) collected from friends
-- Various essays at [http://www.pglaf.org/~hart/]() - Page doesn't exist 
-- [http://blogs.computerworlduk.com/open-enterprise/2011/09/michael-hart-1947---2011-prophet-of-abundance/]() - Page doesn't exist
+- [http://blogs.computerworlduk.com/open-enterprise/2011/09/michael-hart-1947---2011-prophet-of-abundance/]()  (no longer available at this address)
 - [http://www.cultofmac.com/project-gutenberg-founder-hart-dies-aged-64/112781](http://www.cultofmac.com/project-gutenberg-founder-hart-dies-aged-64/112781)
 - [http://flic.kr/p/akpK5K](https://www.flickr.com/photos/maitri/6126856839/)
 - [http://www.metafilter.com/107235/RIP-Michael-S-Hart](https://www.metafilter.com/107235/RIP-Michael-S-Hart)
-- [http://arstechnica.com/tech-policy/news/2011/09/michael-hart-project-gutenbergse-book-loving-founder-passes-away.ars]() - Page doesnt exist
+- [http://arstechnica.com/tech-policy/news/2011/09/michael-hart-project-gutenbergse-book-loving-founder-passes-away.ars]() (no longer available at this address)
 - [http://www.telegraph.co.uk/technology/news/8750592/Michael-Hart-creator-of-the-ebook-dies.html](http://www.telegraph.co.uk/technology/news/8750592/Michael-Hart-creator-of-the-ebook-dies.html)
-- [http://dir.salon.com/tech/feature/2002/10/09/bookmobile/index1.html]() - Page doesn't exist
+- [http://dir.salon.com/tech/feature/2002/10/09/bookmobile/index1.html]()  (no longer available at this address)
 - [http://radar.oreilly.com/2011/09/rip-michael-s-hart.html](http://radar.oreilly.com/2011/09/rip-michael-s-hart.html)
 - [http://news.slashdot.org/story/11/09/08/0210256/Michael-Hart-Inventor-of-the-E-book-Dead-At-64](https://news.slashdot.org/story/11/09/08/0210256/Michael-Hart-Inventor-of-the-E-book-Dead-At-64)
 - [http://www.nytimes.com/2011/09/09/business/michael-hart-a-pioneer-of-e-books-dies-at-64.html](https://www.nytimes.com/2011/09/09/business/michael-hart-a-pioneer-of-e-books-dies-at-64.html)
 - [http://will.illinois.edu/news/spotstory/e-book-developer-michael-hart-dies/](https://will.illinois.edu/news/spotstory/e-book-developer-michael-hart-dies/)
 - [http://www.latimes.com/news/obituaries/la-me-michael-hart-20110909,0,7536729.story?track=rss](https://www.latimes.com/local/obituaries/la-me-michael-hart-20110909-story.html)
-- [http://www.news-gazette.com/news/people/2011-09-10/life-remembered-project-gutenberg-founder-michael-hart-did-it-his-way.html]() - Page doesn't exist
-- [http://www.thisbookisoverdue.com/This_Book_Is_Overdue/Blog/Entries/2011/9/10_Missing_Michael_Hart.html#]() - Page doesn't exist
+- [http://www.news-gazette.com/news/people/2011-09-10/life-remembered-project-gutenberg-founder-michael-hart-did-it-his-way.html]()  (no longer available at this address)
+- [http://www.thisbookisoverdue.com/This_Book_Is_Overdue/Blog/Entries/2011/9/10_Missing_Michael_Hart.html#]()  (no longer available at this address)
 - [http://brewster.kahle.org/2011/09/07/michael-hart-of-project-gutenberg-passes/](http://brewster.kahle.org/2011/09/07/michael-hart-of-project-gutenberg-passes/)
 - [http://www.washingtonpost.com/local/obituaries/project-gutenberg-creator-michael-s-hart-dies-at-64/2011/09/08/gIQA1DMFDK_story.html](https://www.washingtonpost.com/local/obituaries/project-gutenberg-creator-michael-s-hart-dies-at-64/2011/09/08/gIQA1DMFDK_story.html)
 - [http://radar.oreilly.com/2011/09/rip-michael-s-hart.html](http://radar.oreilly.com/2011/09/rip-michael-s-hart.html)
 - [http://mindshift.kqed.org/2011/09/how-project-gutenberg-changed-literature/](https://www.kqed.org/mindshift/15178/how-project-gutenberg-changed-literature)
-- [http://blogs.computerworlduk.com/open-enterprise/2011/09/michael-hart-1947---2011-prophet-of-abundance/index.htm]() - Page doesn't exist
+- [http://blogs.computerworlduk.com/open-enterprise/2011/09/michael-hart-1947---2011-prophet-of-abundance/index.htm]()  (no longer available at this address)
 - [http://chronicle.com/article/Michael-Hart-Who-Defined-the/128953/](https://www.chronicle.com/article/Michael-Hart-Who-Defined-the/128953/)
-- [http://www.voanews.com/learningenglish/home/american-life/Remembering-Three-Interesting-Americans-130230353.html]() - Page doesn't exist
+- [http://www.voanews.com/learningenglish/home/american-life/Remembering-Three-Interesting-Americans-130230353.html]()  (no longer available at this address)
 - [http://www.economist.com/node/21530075](https://www.economist.com/obituary/2011/09/24/michael-hart)
-- [http://www.msnbc.msn.com/id/44462901/ns/technology_and_science-tech_and_gadgets/t/founder-project-gutenberg-dead/#.TvO03FZMjKc]() Page doesn't exist
+- [http://www.msnbc.msn.com/id/44462901/ns/technology_and_science-tech_and_gadgets/t/founder-project-gutenberg-dead/#.TvO03FZMjKc]() (no longer available at this address)

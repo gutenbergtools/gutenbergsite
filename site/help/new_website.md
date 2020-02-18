@@ -83,12 +83,10 @@ Easy Epub -- https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy
 HTML Best Practices -- https://www.pgdp.org/~jana/best-practices/ (this was written a while back but DP tries to keep it up-to-date)
 
 ### User interface and user experience issues
-1. Some "responsive" aspects of the site are not quite right, especially on smaller screens. We hope to fix these with improved CSS. Bottom-most pop-up menus (top of each page) are not reachable with short screens, and spacing between menu items isn't ideal. 
-2. The "Project Gutenberg" logo in upper left should be bigger. Printing press in the logo looks like R2D2. favicon.ico isn't as bold as it used to be. **Status: Under consideration, including during user testing.**
-3. Do you really need the Help and Information topic for the mainpage since you have a Help item going elsewhere in the site and this particular info isn't really key like the info about books and how to create the books. **Status: awaiting user testing.**
-4. Advanced Search has three different button styles. This is distracting for users. **Status: Consider changing; consider asking during user evaluation.**
-5. autocat3/Search: On narrow screens, landing pages are squished and the footer disappears. **Status: Will fix**
-6. CSS: Create Touch-Responsive Navigation. The current menu is responsive only to screensize. **Status: Fixing**
+1. The "Project Gutenberg" logo in upper left should be bigger. Printing press in the logo looks like R2D2. favicon.ico isn't as bold as it used to be. **Status: Under consideration, including during user testing.**
+2. Do you really need the Help and Information topic for the mainpage since you have a Help item going elsewhere in the site and this particular info isn't really key like the info about books and how to create the books. **Status: awaiting user testing.**
+3. Advanced Search has three different button styles. This is distracting for users. **Status: Consider changing; consider asking during user evaluation.**
+4. autocat3/Search: On narrow screens, landing pages are squished and the footer disappears. **Status: Will fix**
 
 ### HTML, server, search and autocat3 Related Issues
 1. HTML: The site embeds Facebook and Twitter metadata to support rendering nicely on these platforms but doesn't embed structured data for the same effect on Google https://developers.google.com/search/docs/guides/intro-structured-data. **Status: All the headers need to be investigated and updated.** Note especially that autocat3, PHP and gutenbergsite all have different headers (autocat3 actually has multiple headers, via Genshi templates), and that only gutenbergsite is HTML5. So, we need to work towards a single header base that is valid, and suitable for HTML5 and HTML4.
@@ -103,5 +101,5 @@ The [autocat3](https://github.com/gutenbergtools/autocat3) program handles searc
 1. UI/Search: Search output order seems random.**Status: Defer. Search is handled by PostgreSQL, and unchanged from the current site. We will look into a different search implementation, for the future.**
 2. autocat3/Search: Advanced Search, Author: "Agatha Christie" and "Ernest Hemingway": the two searches give a very different layout. **Status: Defer. Search is handled by PostgreSQL, and unchanged from the current site. We will look into a different search implementation, for the future.**
 
-*Most recently updated: February 6, 2020*
+*Most recently updated: February 11, 2020*
 

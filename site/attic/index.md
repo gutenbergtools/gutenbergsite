@@ -35,6 +35,8 @@ The future will bring continued innovation, and ongoing focus on the mission of 
        <li><a href="/attic/greek_how_to.html">Greek How-To (old)</a></li>
       <h2>H</h2>
        <li><a href="/attic/html_faq.html">HTML FAQ (old)</a></li>
+      <h2>M</h2>
+       <li><a href="/attic/hart.html">Michael Hart's Eulogy</a></li>
       <h2>P</h2>
        <li><a href="/attic/pdas_ebook_readers.html">PDAs and eBook Readers How-To (old)</a></li>
        <li><a href="/attic/project_gutenberg_header.html">Project Gutenberg Header How-To (old)</a></li>
