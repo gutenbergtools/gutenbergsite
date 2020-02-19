@@ -5,20 +5,20 @@ permalink: /attic/hart.html
 ---
 
 <div class="contents">
-<h5>Contents</h5>
+<h4>Contents</h4>
 <ol>
-<li><a href="#">Michael Stern Hart (1947-2011)</a>
+<li><a href="#michael-stern-hart-1947-2011">Michael Stern Hart (1947-2011)</a>
 <ol class="inner_1">
-<li><a href="#">Archives at UIUC</a></li>
-<li><a href="#">Obituary for Michael Stern Hart</a>
+<li><a href="#archives-at-uiuc">Archives at UIUC</a></li>
+<li><a href="#obituary-for-michael-stern-hart">Obituary for Michael Stern Hart</a>
 <ol class="inner_2">
-<li><a href="#">Eulogy for Michael S. Hart</a></li>
+<li><a href="#eulogy-for-michael-stern-hart">Eulogy for Michael S. Hart</a></li>
 </ol>
 </li>
-<li><a href="#">Message from Michael's Family</a></li>
-<li><a href="#">Read some of Michael's writings</a></li>
-<li><a href="#">Remembrances</a></li>
-<li><a href="#">Collection of Links</a></li>
+<li><a href="#message-from-michaels-family">Message from Michael's Family</a></li>
+<li><a href="#read-some-of-michaels-writings">Read some of Michael's writings</a></li>
+<li><a href="#remembrances">Remembrances</a></li>
+<li><a href="#collection-of-links">Collection of Links</a></li>
 </ol>
 </li>
 </ol>

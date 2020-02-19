@@ -72,7 +72,7 @@ Eventually, we hope to retire much or all of the current Project Gutenberg [mobi
 ## Known issues and "TO DO" items
 
 ### Content issues
-1. Some pages are not yet ported. This includes the Michael Hart eulogy, and a few pages that are outdated or deemed less important. If you find a page that isn't ported, and should be, please let us know. Redirect pages and updates to the 404 error are needed to help people find new pages, when using an older link (such as from MediaWiki). **Status: Will do before the main site changeover.**
+1. Some pages are not yet ported. This includes pages that are outdated or deemed less important. If you find a page that isn't ported, and should be, please let us know. Redirect pages and updates to the 404 error are needed to help people find new pages, when using an older link (such as from MediaWiki). **Status: Will do before the main site changeover.**
 2. Bookshelves are not implemented on the new site yet. **Status: Bookshelf implementation will be done after the new site is in production.**
 3. The links in the bibrec tabs for landing pages for eBooks should all work, but they go to a mixture of static and dynamic pages. Links to "also" and "locss" might not be working. **Status: Updates to autocat3 and landing pages are being made, but will likely not be fully implemented when the new site is in production.**
 5. Revise the Volunteer's FAQ (currently in "the attic" since it was outdated). **Status: The Whitewashers team is looking into this.**
@@ -101,5 +101,5 @@ The [autocat3](https://github.com/gutenbergtools/autocat3) program handles searc
 1. UI/Search: Search output order seems random.**Status: Defer. Search is handled by PostgreSQL, and unchanged from the current site. We will look into a different search implementation, for the future.**
 2. autocat3/Search: Advanced Search, Author: "Agatha Christie" and "Ernest Hemingway": the two searches give a very different layout. **Status: Defer. Search is handled by PostgreSQL, and unchanged from the current site. We will look into a different search implementation, for the future.**
 
-*Most recently updated: February 11, 2020*
+*Most recently updated: February 19, 2020*
 
