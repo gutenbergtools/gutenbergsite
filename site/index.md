@@ -7,7 +7,7 @@ permalink: /
 Welcome to Project Gutenberg (public beta test site)
 ====================================================
 
-**New website available for testing.** This is a new website, undergoing evaluation. *This is the test and development site. Not all functions are implemented, and not all content has been moved from the [www.gutenberg.org](https://www.gutenberg.org) site yet. See the [new website](/help/new_website) page for information about currently known issues, and how to report problems or suggest changes.*
+**New website available for testing.** This is a new website, undergoing evaluation. There may be occasional outages, as the site is improved. *This is the test and development site. Not all functions are implemented, and not all content has been moved from the [www.gutenberg.org](https://www.gutenberg.org) site yet. See the [new website](/help/new_website) page for information about currently known issues, and how to report problems or suggest changes.*
 
 After visiting the new website, please consider providing your input and suggestions via an [anonymous online survey](https://docs.google.com/forms/d/e/1FAIpQLSdY8XVj8n5CVpo3Dref2mkiqnK2jmeBJBF0IKntupuxcEeK4g/viewform). 
 
