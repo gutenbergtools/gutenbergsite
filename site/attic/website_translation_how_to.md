@@ -144,16 +144,16 @@ Categorizing is not so hard but you need to pay attention. Each translation of G
 
 In the beginning of your translated page add: 
 <pre>
-{{Cat|category text}}
+&#123;&#123;Cat|category text&#125;&#125;
 </pre>
 
 The Portuguese have translated "FAQ" has "PergFreq". So for the original pages categorized as "FAQ", they've used: 
 <pre>
-{{Cat|PT-PG}} {{Cat|PT PergFreq}}
+&#123;&#123;Cat|PT-PG&#125;&#125; &#123;&#123;Cat|PT PergFreq&#125;&#125;
 </pre>
 Save the page and then browse it. In the ending, you'll see the categories you have created in bright red. Click the category. It will open a page saying the category has not been edited. In that page add the text: 
 <pre>
-{{Category:Categories}}
+&#123;&#123;Category:Categories&#125;&#125;
 </pre>
 This way your categories will become a subcategory of the Categories category. (Confusing?) Michael Hart's Essays are already a subcategory under the About category. You'll have to pay extra attention on those. 
 
@@ -168,7 +168,7 @@ After having a raw translation of all the pages, you should read the entire webs
 
 You will probably feel the need to delete some pages (eg.: because you have found a better translation for a page title). Create the new page and insert the text
 
-{{delete|reason why you want to delete the page}}
+&#123;&#123;delete|reason why you want to delete the page&#125;&#125;
 
 in the old one. You can also ask a sysop's help.
 

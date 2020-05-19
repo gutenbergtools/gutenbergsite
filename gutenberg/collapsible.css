@@ -98,8 +98,11 @@ input[type='checkbox'] {
 .search label{
   display: table-cell;
 }
-.search input{
+/*.search input{
   display: table-cell;
+}*/
+.search input[type="text"]{
+  width: 400px;
 }
 
 .box {

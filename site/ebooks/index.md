@@ -6,10 +6,8 @@ permalink: /ebooks/index.html
 
 Search
 ======
-
 <div class="page_content">
-
- <a class="button" href="#popup1">Help</a>	
+<a class="button" href="#popup1">Help</a>	
  <div id="popup1" class="overlay">
   <div class="popup">
    <a class="close" href="#">&times;</a>
@@ -128,7 +126,7 @@ Avoid punctuation except as indicated below:</p>
    <p><label for="book-search" class="lbl-toggle">Quick Search</label>
       <input type="text" value="" id="book-search" name="query" class="searchInput" title="" tabindex="20" size="20" maxlength="80"
              placeholder="Quick search"/>
-      <input type="submit" name="submit_search" value="Search" style="vertical-align:middle;">
+      <input type="submit" name="submit_search" value="Search">
    </p>
   </div>
  </form>

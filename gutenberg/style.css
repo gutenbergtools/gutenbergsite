@@ -2,14 +2,16 @@ html,
 body {
 	background-color:#FFFFFF;/* #FFFCD7;*/
 	color:#000000; /*#A01F13;*/
-	font-family:"Times New Roman", Times, serif;
-	font-size: 16px;
+	font-family: Georgia, Times, Times New Roman, serif;
+	font-size: 1em;
+	line-height: 1.5em;
+	letter-spacing: 0.01mm;
 	margin: 0;
 	max-width: 100vw;
 	padding: 0;
 	width: 100%;
 	height:100%;
-	
+
 }
 
 html {
@@ -39,7 +41,7 @@ a:active {
 	text-decoration: none;
 }
 
-/* text selection 
+/* text selection
 ::-moz-selection {
 	background-color: #0a0a0a;
 	color: #ffffff;
@@ -51,20 +53,11 @@ a:active {
 }*/
 
 .no-select {
-	-khtml-user-select: none;
-	-moz-user-select: none;
-	-ms-user-select: none;
-	-webkit-touch-callout: none;
-	-webkit-user-select: none;
 	user-select: none;
 }
 
 /* animations */
 .fadein {
-	-moz-animation: fadein 1s;
-	-ms-animation: fadein 1s;
-	-o-animation: fadein 1s;
-	-webkit-animation: fadein 1s;
 	animation: fadein 1s;
 }
 
@@ -99,10 +92,6 @@ a:active {
 }
 
 .fadeinup {
-	-moz-animation: fadeInUp 1s both ease;
-	-ms-animation: fadeInUp 1s both ease;
-	-o-animation: fadeInUp 1s both ease;
-	-webkit-animation: fadeInUp 1s both ease;
 	animation: fadeInUp 1s both ease;
 }
 
@@ -153,7 +142,7 @@ container */
 @media screen and (orientation: landscape) {
 	.container {
 		min-height: 75vh;
-		padding: 10vh 10vw;
+		padding: 10vh 5vw;
 
 	}
 
@@ -162,7 +151,7 @@ container */
 @media screen and (orientation: portrait) {
 	.container {
 		min-height: 75vh;
-		padding: 10vh 10vw;
+		padding: 10vh 5vw;
 		}
 
 }
@@ -211,16 +200,7 @@ library */
 	padding: 10px
 }
 
-.library .latest .cover-container {
-	height: 96px;
-	width: 66px;
-}
-
-.library .latest a img {
-	max-height: 160px;
-	max-width: 120px;
-}
-.library .latest h1{
+library .latest h1{
 	/*color: #999999;*/
 	/*font-size: 30px;
 	font-weight: bold;*/
@@ -231,7 +211,7 @@ library */
 	border-bottom: 2px solid #A01F13;
 	}
 .library .latest a:hover{
-	background-color: #FFFFFF;
+	background-color: transparent;
 }
 
 
@@ -242,20 +222,16 @@ library */
 }
 
 .bookshelves ul {
-	-moz-column-count: 3;
-	-moz-column-gap: 0px;
-	-webkit-column-count: 3;
-	-webkit-column-gap: 0px;
-	column-count: 3;
+column-count: 3;
 	column-gap: 0px;
 	cursor: default;
 	width: 100%;
 	/*height: 620px;*/
 }
 .bookshelves > ul li::before {
-	content: "\25AA"; 
+	content: "\25AA";
 	color: #A01F13;
-	display: inline-block; 
+	display: inline-block;
 	width: 1em;
 	margin-left: -1em;
 	/*font-size: small;*/
@@ -268,7 +244,7 @@ library */
 	width: 90%;
 }*/
 
-.page_content .bookshelves h2{ 
+.page_content .bookshelves h2{
 border-bottom: 0px none #FFFFFF;
 }
 /*.library .bookshelves h2:hover,
@@ -331,9 +307,6 @@ book */
 }
 
 .book.page_content {
-	-moz-transition: box-shadow 0.2s ease-in-out, background-color 0.5s ease-in-out;
-	-o-transition: box-shadow 0.2s ease-in-out, background-color 0.5s ease-in-out;
-	-webkit-transition: box-shadow 0.2s ease-in-out, background-color 0.5s ease-in-out;
 	background-color: #f5f5f5;
 	box-shadow: none;
 	padding: 50px;
@@ -341,9 +314,6 @@ book */
 }
 
 .book.page_content:hover {
-	-moz-transition: box-shadow 0.2s ease-in-out, background-color 0.5s ease-in-out;
-	-o-transition: box-shadow 0.2s ease-in-out, background-color 0.5s ease-in-out;
-	-webkit-transition: box-shadow 0.2s ease-in-out, background-color 0.5s ease-in-out;
 	background-color: #ffffff;
 	box-shadow: 0 25px 75px rgba(0, 0, 0, 0.1);
 	transition: box-shadow 0.2s ease-in-out, background-color 0.5s ease-in-out;
@@ -443,10 +413,6 @@ display: inline;
 /* ==================================================
 about */
 .about {
-	-moz-column-count: 2;
-	-moz-column-gap: 0px;
-	-webkit-column-count: 2;
-	-webkit-column-gap: 0px;
 	column-count: 2;
 	column-gap: 0px;
 	margin: 0 auto;
@@ -475,7 +441,7 @@ about */
 	text-decoration: underline;
 }
 
-@media only screen and (max-width: 1200px),
+/*@media only screen and (max-width: 1200px),
 only screen and (max-device-width: 1200px) {
 	.about {
 		-moz-column-count: 1;
@@ -494,7 +460,7 @@ only screen and (max-device-width: 1200px) {
 	.about p.quote {
 		width: 95%;
 	}
-}
+}*/
 .page_content{
 	margin-top:40px;
 	padding-bottom: 30px;
@@ -511,12 +477,12 @@ only screen and (max-device-width: 1200px) {
 }
 .page_content figure img{
 	width:100%;
-	align:center;
+	vertical-align:baseline;
 }
 /*.thumbnail a{
 	text-align:center;
 }*/
-.page_content .box_shadow{
+.box_shadow{
 	/*box-shadow: 10px 10px 8px #F5ECDB;*/
 	background-color: #F5ECDB;
 	/*border:2px outset #F5ECDB;*/
@@ -541,7 +507,7 @@ only screen and (max-device-width: 1200px) {
 	pointer-events: none;
 }
 .page_content h1{
-	font-size: 30px;
+	font-size: 1.875em;
 	font-weight: bold;
 	color:#A01F13;
 	/*margin-top: 15px;*/
@@ -558,7 +524,7 @@ only screen and (max-device-width: 1200px) {
 	pointer-events: none;
 }
 .page_content h2{
-	font-size: 25px;
+	font-size: 1.5em;
 	font-weight:bold;
 	color:#A01F13;
 	margin-top:15px;
@@ -576,9 +542,9 @@ only screen and (max-device-width: 1200px) {
 	pointer-events: none;
 }
 .page_content > ul li::before {
-	content: "\25AA"; 
+	content: "\25AA";
 	color: #A01F13;
-	display: inline-block; 
+	display: inline-block;
 	width: 1em;
 	margin-left: -1em;
 	/*font-size: small;*/
@@ -588,13 +554,13 @@ only screen and (max-device-width: 1200px) {
 	font-size:small;
 }
 .bookshelves > ul li::before{
-	font-size:small;	
+	font-size:small;
 }
 }
 
 .page_content ul li{
 	list-style: none;
-	/*padding: 5px;*/
+	padding: 5px;
 }
 
 /*.page_content ul{
@@ -671,16 +637,14 @@ text-align:center;
 }
 
 .footer {
-	text-align:center;
-	font-size:12px;
-	/*position:absolute;*/
-  	/*bottom:0;
-  	height:60px;   Height of the footer */
 	position: absolute;
+	left: 0;
+	right: 0;
 	bottom: 0;
-	width: 80%;
+	text-align: center;
+	font-size: 0.75em;
 	height: 30px;
-
+	width: 100%;
 }
 
 .footer ul li{
@@ -688,8 +652,39 @@ text-align:center;
 	padding: 10px;
 }
 .footer img{
-	align:center;
+	vertical-align:baseline;
 }
+.cover_title h5{
+
+  white-space: break-spaces;
+  overflow: hidden;
+  height:70px;
+	text-decoration: none;
+	text-align: center;
+}
+.cover_title h5:hover{
+  overflow-y: visible;
+	height:auto;
+
+}
+.cover_image img {
+    height: 150px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+.cover_image {
+   height:auto;
+   width: 100px;
+}
+/*.cover_image h5 {
+    white-space: break-spaces;
+    overflow-y: auto;
+    height: 100px;
+
+}*/
 
 /*=====CLASS RULES IMPLEMENTED in pg-desktop-one.css========*/
 ul.results li::before {
@@ -715,28 +710,59 @@ ul.results li::before {
 		height: auto;
 	}
 	.page_content h1{
-		font-size:18px;
+		font-size:1.125em;
 		text-align: center;
 	}
 	.page_content h2{
-		font-size:16px;
+		font-size:1em;
 		text-align: center;
 	}
 	body {
 
-		font-size:14px;
+		font-size:1em;
 	}
 
 	.bookshelves ul {
-        	-moz-column-count: 1;
-        	-moz-column-gap: 0px;
-        	-webkit-column-count: 1;
-        	-webkit-column-gap: 0px;
-        	column-count: 1;
+	       	column-count: 1;
         	column-gap: 0px;
         	cursor: default;
         	width: 100%;
-                height: unset;	
+                height: unset;
+
+	/*.page_content img{
+		width: 50%;
+		height: 50%;
+	}*/
+}
+.cover_title h5{
+	overflow-y: scroll;
+	height:100px;
 }
 
 }
+
+/*New Cover_image rules only applicable to test_index for latest covers from gutenberg1*/
+.library .latest a{
+  vertical-align: top;
+}
+.library .latest a:link {
+    text-decoration: none;
+}
+.library .latest a:hover h5{
+  overflow-y: visible;
+	height:auto;
+}
+/*Old Cover image rules orginally declated in CoverPages.py on autocat3. Keep them so it doesn't break anything if it is used somewhere else on autocat3.*/
+.cover-thumb {
+	display: inline-block;
+	background-position: center;
+	background-repeat: no-repeat;
+	}
+	.cover-thumb-small {
+		width:  100px;
+		height: 150px;
+		}
+	.cover-thumb-medium {
+   width:  210px;
+   height: 310px;
+} 
