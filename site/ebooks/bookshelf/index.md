@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Help | Project Gutenberg
-permalink: /help/
+title: Bookshelf | Project Gutenberg
+permalink: /ebooks/bookshelf/
 ---
 
 Category: Bookshelf
@@ -10,7 +10,7 @@ Category: Bookshelf
 Please click on the subcategories for more bookshelves. Some bookshelves have not been updated. Another way to find related eBooks is to use the "bibrec" tab in an eBook's landing page, to find other eBooks with the same subject.
 
 ## Subcategories
-<li><a href="/ebooks/bookshelves/search/?query="></a></li>
+
  <div class="bookshelves ">
     <ul>
       <h2>A</h2>
