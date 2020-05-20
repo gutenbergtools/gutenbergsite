@@ -16,38 +16,38 @@ Please click on the subcategories for more bookshelves. Some bookshelves have no
       <h2>A</h2>
        <li><a href="/ebooks/bookshelves/search/?query=animal">Animal</a></li>
       <h2>C</h2>
-       <li><a href="/ebooks/bookshelves/search/?query=children"></a>Children's Bookshelf</li>
-       <li><a href="/ebooks/bookshelves/search/?query=classic"></a>Classics Bookshelf</li>
-       <li><a href="/ebooks/bookshelves/search/?query=country"></a>Countries Bookshelf</li>
-       <li><a href="/ebooks/bookshelves/search/?query=crime"></a>Crime Bookshelf</li>
+       <li><a href="/ebooks/bookshelves/search/?query=children">Children's Bookshelf</a></li>
+       <li><a href="/ebooks/bookshelves/search/?query=classic">Classics Bookshelf</a></li>
+       <li><a href="/ebooks/bookshelves/search/?query=country">Countries Bookshelf</a></li>
+       <li><a href="/ebooks/bookshelves/search/?query=crime">Crime Bookshelf</a></li>
       <h2>E</h2>
        <li><a href="/ebooks/bookshelves/search/?query=education">Education Bookshelf</a></li>
       <h2>F</h2>
-       <li><a href="/ebooks/bookshelves/search/?query=fiction"></a>Fiction Bookshelf</li>
-       <li><a href="/ebooks/bookshelves/search/?query=fine art"></a>Fine arts Bookshelf</li>
+       <li><a href="/ebooks/bookshelves/search/?query=fiction">Fiction Bookshelf</a></li>
+       <li><a href="/ebooks/bookshelves/search/?query=fine art">Fine arts Bookshelf</a></li>
       <h2>G</h2>
-       <li><a href="/ebooks/bookshelves/search/?query=general work"></a>General Works Bookshelf</li>
-       <li><a href="/ebooks/bookshelves/search/?query=geography"></a>Geography Bookshelf</li>
+       <li><a href="/ebooks/bookshelves/search/?query=general work">General Works Bookshelf</a></li>
+       <li><a href="/ebooks/bookshelves/search/?query=geography">Geography Bookshelf</a></li>
       <h2>H</h2>
-       <li><a href="/ebooks/bookshelves/search/?query=history"></a>History Bookshelf</li>
+       <li><a href="/ebooks/bookshelves/search/?query=history">History Bookshelf</a></li>
       <h2>L</h2>
-       <li><a href="/ebooks/bookshelves/search/?query=language|literature"></a>Language and Literature Bookshelf</li>
-       <li><a href="/ebooks/bookshelves/search/?query=law"></a>Law Bookshelf</li>
+       <li><a href="/ebooks/bookshelves/search/?query=language|literature">Language and Literature Bookshelf</a></li>
+       <li><a href="/ebooks/bookshelves/search/?query=law">Law Bookshelf</a></li>
       <h2>M</h2>
-       <li><a href="/ebooks/bookshelves/search/?query=music"></a>Music Bookshelf</li>
+       <li><a href="/ebooks/bookshelves/search/?query=music">Music Bookshelf</a></li>
       <h2>P</h2>
-       <li><a href="/ebooks/bookshelves/search/?query=periodical"></a>Periodicals Bookshelf</li>
-       <li><a href="/ebooks/bookshelves/search/?query=pornography"></a>Pornography</li>
-       <li><a href="/ebooks/bookshelves/search/?query=psychology|philosophy"></a>Psychology and Philosophy Bookshelf</li>
+       <li><a href="/ebooks/bookshelves/search/?query=periodical">Periodicals Bookshelf</a></li>
+       <li><a href="/ebooks/bookshelves/search/?query=pornography">Pornography</a></li>
+       <li><a href="/ebooks/bookshelves/search/?query=psychology|philosophy">Psychology and Philosophy Bookshelf</a></li>
       <h2>R</h2>
-       <li><a href="/ebooks/bookshelves/search/?query=religion"></a>Religion Bookshelf</li>
+       <li><a href="/ebooks/bookshelves/search/?query=religion">Religion Bookshelf</a></li>
       <h2>S</h2>
-       <li><a href="/ebooks/bookshelves/search/?query=science"></a>Science Bookshelf</li>
-       <li><a href="/ebooks/bookshelves/search/?query=Social Sciences"></a>Social Sciences Bookshelf</li>
+       <li><a href="/ebooks/bookshelves/search/?query=science">Science Bookshelf</a></li>
+       <li><a href="/ebooks/bookshelves/search/?query=Social Sciences">Social Sciences Bookshelf</a></li>
       <h2>T</h2>
-       <li><a href="/ebooks/bookshelves/search/?query=Technology"></a>Technology Bookshelf</li>
+       <li><a href="/ebooks/bookshelves/search/?query=Technology">Technology Bookshelf</a></li>
       <h2>W</h2>
-       <li><a href="/ebooks/bookshelves/search/?query=war"></a>Wars Bookshelf</li>
+       <li><a href="/ebooks/bookshelves/search/?query=war">Wars Bookshelf</a></li>
     </ul>
   </div>
 
