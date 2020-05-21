@@ -22,15 +22,16 @@ Please click on the subcategories for more bookshelves. Some bookshelves have no
        <li><a href="/ebooks/bookshelves/search/?query=africa.|Argentina.|Australia|Bulgaria|Canada|Czech|egypt|france.|germany.|greece.|india|italy|zealand|norway|south%20america|.travel.|United%20Kingdom|.united%20states.!law">Countries Bookshelf</a></li>
        <li><a href="/ebooks/bookshelves/search/?query=crime|detective|mystery">Crime Bookshelf</a></li>
       <h2>E</h2>
+       <!-- Extra one in results-->
        <li><a href="/ebooks/bookshelves/search/?query=education">Education Bookshelf</a></li>
       <h2>F</h2>
-       <li><a href="/ebooks/bookshelves/search/?query=fiction">Fiction Bookshelf</a></li>
-       <li><a href="/ebooks/bookshelves/search/?query=fine art">Fine arts Bookshelf</a></li>
+       <li><a href="/ebooks/bookshelves/search/?query=fiction|adventure|fantasy|humor|horror|western">Fiction Bookshelf</a></li>
+       <li><a href="/ebooks/bookshelves/search/?query=architecture.|art.%20!storia%20!international%20!%20FR%20!%20PT%20!%20varia">Fine arts Bookshelf</a></li>
       <h2>G</h2>
-       <li><a href="/ebooks/bookshelves/search/?query=general work">General Works Bookshelf</a></li>
-       <li><a href="/ebooks/bookshelves/search/?query=geography">Geography Bookshelf</a></li>
+       <li><a href="/ebooks/bookshelves/search/?query=reference">General Works Bookshelf</a></li>
+       <li><a href="/ebooks/bookshelves/search/?query=africa.|Anthropology|Argentina.|Australia|Bulgaria|camp|canada|CIA|Czech|Egypt|Folklore|France|germany|india|greece|itatly|zealand|Maps%20and%20Cartography%20.|norway|south%20america|united%20states|%20united%20kingdom|Women%27s%20Travel%20Journals">Geography Bookshelf</a></li>
       <h2>H</h2>
-       <li><a href="/ebooks/bookshelves/search/?query=history">History Bookshelf</a></li>
+       <li><a href="/ebooks/bookshelves/search/?query=history|Archaeology%20.|Biographies">History Bookshelf</a></li>
       <h2>L</h2>
        <li><a href="/ebooks/bookshelves/search/?query=language|literature">Language and Literature Bookshelf</a></li>
        <li><a href="/ebooks/bookshelves/search/?query=law">Law Bookshelf</a></li>
