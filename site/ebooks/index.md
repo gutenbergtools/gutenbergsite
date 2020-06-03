@@ -191,17 +191,14 @@ Avoid punctuation except as indicated below:</p>
        <label for="author">Author:</label>
        <input type="text" name="author" id="author"/>
       </p>
-
       <p>
        <label for="title">Title:</label>
        <input type="text" name="title" id="title"/>
       </p>
-
       <p>
        <label for="subject">Subject:</label>
        <input type="text" name="subject" id="subject"/>
       </p>
-
       <p>
 <!--       <label for="language">Language:</label> -->
        <label>Language:</label>
@@ -277,12 +274,10 @@ Avoid punctuation except as indicated below:</p>
       <option value="yi">Yiddish (1)</option>
 </select>
       </p>
-
       <p>
        <label for="category" accesskey="c">Category:</label>
        <select id="category" name="category"
                title="Category (Book Count)">
-
       <option selected value="">Any</option>
       <option value="1">Audio Book, human-read (576)</option>
       <option value="2">Audio Book, computer-generated (370)</option>
@@ -295,7 +290,6 @@ Avoid punctuation except as indicated below:</p>
       <option value="9">Compilations (3)</option>
        </select>
       </p>
-
       <p>
        <label for="locc" accesskey="o">LoCC:</label>
        <select id="locc" name="locc"
@@ -569,12 +563,10 @@ Avoid punctuation except as indicated below:</p>
       <option value="Z">Z Bibliography, Library science (496)</option>
        </select>
       </p>
-
       <p>
        <label for="filetype" accesskey="f">Filetype:</label>
        <select id="filetype" name="filetype"
                title="Please choose a file type.">
-
 	       <option selected value="">Any</option>
       <option value="readme">Readme (readme)</option>
       <option value="license">License (license)</option>
@@ -650,7 +642,6 @@ Avoid punctuation except as indicated below:</p>
       <option value="?">Unspecified (?)</option>
        </select>
       </p>
-
       <p>
         <input type="submit" id="submit"  name="submit_search" value="Search">
       </p>
@@ -674,16 +665,13 @@ Avoid punctuation except as indicated below:</p>
       <input type="hidden" name="vs" id="ysvs1" value="gutenberg.org">
       <input type="text"   name="p" size="29" placeholder="Search Yahoo!">
       <input type="submit" value="Yahoo! Search">
-
       </form>
-
       <form method="get" action="https://www.google.com/search">
         <img src="/pics/google_search.png" style="vertical-align:middle;" alt="Google logo">
         <input type="text" name="q" size="31" maxlength="255" value="" placeholder="Search Google">
         <input type="hidden" name="domains" value="gutenberg.org"/>
         <input type="hidden" name="sitesearch" value="gutenberg.org"/>
         <input type="submit" name="btnG" value="Google Search"/>
-
       </form>
   <form method="get" id="duck" action="https://duckduckgo.com/">
     <img src="/pics/duck.png" style="vertical-align:middle;" alt="DuckDuckGo logo">
@@ -694,7 +682,6 @@ Avoid punctuation except as indicated below:</p>
     <input type="text" name="q" maxlength="255" placeholder="Search DuckDuckGo"/>
     <input type="submit" value="DuckDuckGo Search"/>
   </form>
-
     </div>
   </div>
 </div>
