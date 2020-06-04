@@ -71,10 +71,8 @@ Eventually, we hope to retire much or all of the current Project Gutenberg [mobi
 ## Known issues and "TO DO" items
 
 ### Content issues
-1. Bookshelves are not implemented on the new site yet. **Status: Bookshelf implementation will be done after the new site is in production.**
-2. The links in the bibrec tabs for landing pages for eBooks should all work, but they go to a mixture of static and dynamic pages. Links to "also" and "locss" might not be working. **Status: Updates to autocat3 and landing pages are being made, but will likely not be fully implemented when the new site is in production.**
-3. Revise the Volunteer's FAQ (currently in "the attic" since it was outdated). **Status: The Whitewashers team is looking into this.**
-4. Add these links to the DP HTML documentation, to the Volunteer's FAQ. **Status: awaiting the Volunteer's FAQ mentioned just above.**
+1. Revise the Volunteer's FAQ (currently in "the attic" since it was outdated). **Status: The Whitewashers team is looking into this.**
+2. Add these links to the DP HTML documentation, to the Volunteer's FAQ. **Status: awaiting the Volunteer's FAQ mentioned just above.**
 The Post-Processing FAQ --
 https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Post-Processing_FAQ
 Easy Epub -- https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy_Epub (It's a guide to how best to handle the HTML that goes through epubmaker to lead to passable epubs/mobis)
@@ -90,11 +88,12 @@ HTML Best Practices -- https://www.pgdp.org/~jana/best-practices/ (this was writ
 2. HTML: Content-Security-Policy (CSP) header is not being returned. Implementing a CSP goes a long way in mitigating XSS attacks https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP). **Status: under investigation.**
 3. HTTPD: The server cache (Varnish) is returned in the X-Varnish and Via headers https://www.cvedetails.com/vulnerability-list/vendor_id-12937/Varnish-cache.html. **Status: This will be addressed during a forthcoming web server upgrade.**
 
+
 ### Search-related issues
 
 The [autocat3](https://github.com/gutenbergtools/autocat3) program handles search, and also generates landing pages. There are probably some remaining problems with how results are displayed, or possibly with wrong links in bibrec tabs. If you find a problem, please send the exact link or search you used, so we can replicate and fix.
 1. UI/Search: Search output order seems random.**Status: Defer. Search is handled by PostgreSQL, and unchanged from the current site. We will look into a different search implementation, for the future.**
 2. autocat3/Search: Advanced Search, Author: "Agatha Christie" and "Ernest Hemingway": the two searches give a very different layout. **Status: Defer. Search is handled by PostgreSQL, and unchanged from the current site. We will look into a different search implementation, for the future.**
 
-*Most recently updated: March 18, 2020*
+*Most recently updated: May 27, 2020*
 

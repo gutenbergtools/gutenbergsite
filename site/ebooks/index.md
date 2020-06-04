@@ -648,14 +648,11 @@ Avoid punctuation except as indicated below:</p>
       </p>
     </div>
   </div>
- <!-- Advanced search form ends here -->
+  <!-- Advanced search form ends here -->
  </form>
 </div>
-
   <a class="button" href="#popup4">Help</a>
-
    {%- include navbar.html -%}
-
   <a class="button" href="#popup3">Help</a>
   <input id="collapsible2" class="toggle" type="checkbox">
   <label for="collapsible2" class="lbl-toggle">Full Text Search</label>
