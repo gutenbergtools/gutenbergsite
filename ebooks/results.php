@@ -5,10 +5,13 @@ $pagesize = 100;
 $max_results = 1000;
 $max_ft_results = 5000;
 
+// gbn 20200203: Need to set this differently than the old site:
+set_include_path(get_include_path() . PATH_SEPARATOR . "/public/vhost/g/gutenberg/dev/private/lib/php");
 include_once ("pgcat.phh");
 
 $db = $config->db ();
-rate_limit ();
+// gbn 20200203: not sure where rate_limit is:
+// rate_limit ();
 // userobots ();
 
 pageheader ("Search on Titles &gt; Results");

@@ -1,0 +1,699 @@
+---
+layout: default
+title: Search | Project Gutenberg
+permalink: /ebooks/new_ebooks_2.html
+---
+
+Search
+======
+<div class="page_content">
+<a class="button" href="#popup1">Help</a>	
+ <div id="popup1" class="overlay">
+  <div class="popup">
+   <a class="close" href="#">&times;</a>
+    <div class="content">
+<p>Enter your search terms separated by spaces, then press &lt;Enter&gt;.
+Avoid punctuation except as indicated below:</p>
+
+ <table>
+  <tr>
+    <th>Suffixes</th>
+    <th>.</th>
+    <td>exact match</td>
+  </tr>
+  <tr>
+    <th rowspan="7">Prefixes</th>
+    <th>a.</th>
+    <td>author</td>
+  </tr>
+  <tr>
+    <th>t.</th>
+    <td>title</td>
+  </tr>
+  <tr>
+    <th>s.</th>
+    <td>subject</td>
+  </tr>
+  <tr>
+    <th>l.</th>
+    <td>language</td>
+  </tr>
+  <tr>
+    <th>#</th>
+    <td>ebook no.</td>
+  </tr>
+  <tr>
+    <th>n.</th>
+    <td>ebook no.</td>
+  </tr>
+  <tr>
+    <th>cat.</th>
+    <td>category</td>
+  </tr>
+<tr>
+    <th rowspan="3" style="width: 8em">
+      Operators
+      <small>Always put spaces around these.</small>
+    </th>
+    <th>|</th>
+    <td>or</td>
+  </tr>
+  <tr>
+    <th>!</th>
+    <td>not</td>
+  </tr>
+  <tr>
+    <th>( )</th>
+    <td>grouping</td>
+  </tr>
+</table>
+
+ <table>
+  <tr>
+    <th>this query</th>
+    <th>finds</th>
+  </tr>
+  <tr>
+    <td>shakespeare hamlet</td>
+    <td>"Hamlet" by Shakespeare</td>
+  </tr>
+  <tr>
+    <td>qui.</td>
+    <td>"qui", not "Quixote"</td>
+  </tr>
+  <tr>
+    <td>love stories</td>
+    <td>love stories</td>
+  </tr>
+  <tr>
+    <td>a.shakespeare</td>
+    <td>by Shakespeare</td>
+  </tr>
+  <tr>
+    <td>s.shakespeare</td>
+    <td>about Shakespeare</td>
+  </tr>
+<tr>
+    <td>#74</td>
+    <td>ebook no. 74</td>
+  </tr>
+  <tr>
+    <td>juvenile l.german</td>
+    <td>juvenile lit in German</td>
+  </tr>
+  <tr>
+    <td>verne ( l.fr | l.it )</td>
+    <td>by Verne in French or Italian</td>
+  </tr>
+  <tr>
+    <td>love stories ! austen</td>
+    <td>love stories not by Austen</td>
+  </tr>
+  <tr>
+    <td>jane austen cat.audio</td>
+    <td>audio books by Jane Austen</td>
+  </tr>
+ </table>
+</p>
+  </div>
+ </div>
+</div>
+
+<div class="searchbox">
+ <form method="get" action="/ebooks/search/"
+       accept-charset="utf-8" enctype="multipart/form-data">
+  <div class="search">
+   <p><label for="book-search" class="lbl-toggle">Quick Search</label>
+      <input type="text" value="" id="book-search" name="query" class="searchInput" title="" tabindex="20" size="20" maxlength="80"
+             placeholder="Quick search"/>
+      <input type="submit" name="submit_search" value="Search">
+   </p>
+  </div>
+ </form>
+</div>
+
+<div id="popup2" class="overlay">
+ <div class="popup">
+   <a class="close" href="#">&times;</a>
+    <div class="content">
+     <ul>
+      <li>Advanced Search is case insensitive.</li>
+      <li>Fill in as many fields you like.</li>
+      <li>Enter one or more space separated words in each field.
+	Avoid punctuation characters.</li>
+      <li>The result will match all of the words you entered in all
+	of the fields. Eg. Author: <i>Jules Verne</i>, Title: <i>20</i>,
+	Language: <i>French</i> will get <i>20.000 Leagues Under The Sea</i>
+	in French.</li>
+      <li>Select Language: <i>English</i> only if you explicitly want to
+	exclude works in languages other than English.
+	Eg. Author: <i>Molière</i> Language: <i>English</i>
+	will get all the works of Molière translated into English.</li>
+    </ul>
+   </div>
+ </div>
+</div>
+
+<div id="popup3" class="overlay">
+  <div class="popup">
+   <a class="close" href="#">&times;</a>
+    <div class="content">
+        <p>These search engines are not operated by Project Gutenberg, and have their own privacy policies. Your search will be redirected to the named third-party site.</p>
+    </div>
+  </div>
+</div>
+
+<div id="popup4" class="overlay">
+ <div class="popup">
+  <a class="close" href="#">&times;</a>
+   <div class="content">
+      <p>These are different ways to browse through the collection.</p>
+   </div>
+ </div>
+</div>
+
+<div id="popup5" class="overlay">
+ <div class="popup">
+   <a class="close" href="#">&times;</a>
+    <div class="content">
+    </div>
+  </div>
+</div>
+
+<div class="box">
+ <a class="button" href="#popup2">Help</a>
+  <form method="post" action="results" accept-charset="utf-8" enctype="multipart/form-data">
+   <input id="collapsible1" class="toggle" type="checkbox">
+   <label for="collapsible1" class="lbl-toggle">Advanced Search</label>
+    <div class="collapsible-content">
+     <div class="content-inner">
+      <p>
+       <label for="author">Author:</label>
+       <input type="text" name="author" id="author"/>
+      </p>
+
+      <p>
+       <label for="title">Title:</label>
+       <input type="text" name="title" id="title"/>
+      </p>
+
+      <p>
+       <label for="subject">Subject:</label>
+       <input type="text" name="subject" id="subject"/>
+      </p>
+
+      <p>
+<!--       <label for="language">Language:</label> -->
+       <label>Language:</label>
+       <select id="lang" name="lang"
+               title="Language (Book Count)">
+      <option selected value="">Any</option>
+      <option value="af">Afrikaans (4)</option>
+      <option value="ale">Aleut (1)</option>
+      <option value="ar">Arabic (1)</option>
+      <option value="arp">Arapaho (2)</option>
+      <option value="brx">Bodo (2)</option>
+      <option value="br">Breton (1)</option>
+      <option value="bg">Bulgarian (6)</option>
+      <option value="rmr">Caló (1)</option>
+      <option value="ca">Catalan (33)</option>
+      <option value="ceb">Cebuano (3)</option>
+      <option value="zh">Chinese (441)</option>
+      <option value="cs">Czech (11)</option>
+      <option value="da">Danish (69)</option>
+      <option value="nl">Dutch (805)</option>
+      <option value="en">English (49590)</option>
+      <option value="eo">Esperanto (119)</option>
+      <option value="et">Estonian (1)</option>
+      <option value="fa">Farsi (1)</option>
+      <option value="fi">Finnish (2110)</option>
+      <option value="fr">French (3036)</option>
+      <option value="fy">Frisian (3)</option>
+      <option value="fur">Friulian (7)</option>
+      <option value="gla">Gaelic, Scottish (2)</option>
+      <option value="gl">Galician (2)</option>
+      <option value="kld">Gamilaraay (1)</option>
+      <option value="de">German (1824)</option>
+      <option value="el">Greek (220)</option>
+      <option value="grc">Greek, Ancient (3)</option>
+      <option value="he">Hebrew (7)</option>
+      <option value="hu">Hungarian (183)</option>
+      <option value="is">Icelandic (7)</option>
+      <option value="ilo">Iloko (3)</option>
+      <option value="ia">Interlingua (1)</option>
+      <option value="iu">Inuktitut (1)</option>
+      <option value="ga">Irish (3)</option>
+      <option value="it">Italian (805)</option>
+      <option value="ja">Japanese (22)</option>
+      <option value="csb">Kashubian (1)</option>
+      <option value="kha">Khasi (1)</option>
+      <option value="ko">Korean (1)</option>
+      <option value="la">Latin (126)</option>
+      <option value="lt">Lithuanian (1)</option>
+      <option value="mi">Maori (2)</option>
+      <option value="myn">Mayan Languages (3)</option>
+      <option value="enm">Middle English (6)</option>
+      <option value="nah">Nahuatl (3)</option>
+      <option value="nap">Napoletano-Calabrese (1)</option>
+      <option value="nav">Navajo (3)</option>
+      <option value="nai">North American Indian (3)</option>
+      <option value="no">Norwegian (20)</option>
+      <option value="oc">Occitan (1)</option>
+      <option value="oji">Ojibwa (1)</option>
+      <option value="ang">Old English (4)</option>
+      <option value="pl">Polish (31)</option>
+      <option value="pt">Portuguese (554)</option>
+      <option value="ro">Romanian (2)</option>
+      <option value="ru">Russian (9)</option>
+      <option value="sa">Sanskrit (1)</option>
+      <option value="sr">Serbian (4)</option>
+      <option value="sl">Slovenian (1)</option>
+      <option value="es">Spanish (654)</option>
+      <option value="sv">Swedish (202)</option>
+      <option value="bgs">Tagabawa (1)</option>
+      <option value="tl">Tagalog (60)</option>
+      <option value="te">Telugu (6)</option>
+      <option value="cy">Welsh (13)</option>
+      <option value="yi">Yiddish (1)</option>
+</select>
+      </p>
+
+      <p>
+       <label for="category" accesskey="c">Category:</label>
+       <select id="category" name="category"
+               title="Category (Book Count)">
+
+      <option selected value="">Any</option>
+      <option value="1">Audio Book, human-read (576)</option>
+      <option value="2">Audio Book, computer-generated (370)</option>
+      <option value="3">Music, recorded (137)</option>
+      <option value="4">Music, Sheet (33)</option>
+      <option value="5">Pictures, still (3)</option>
+      <option value="6">Other recordings (31)</option>
+      <option value="7">Pictures, moving (8)</option>
+      <option value="8">Data (87)</option>
+      <option value="9">Compilations (3)</option>
+       </select>
+      </p>
+
+      <p>
+       <label for="locc" accesskey="o">LoCC:</label>
+       <select id="locc" name="locc"
+               title="Please choose a Library of Congress Class.">
+      <option selected value="">Any</option>
+      <option value="AC">AC General Works: Collections, Series, Collected works, Pamphlets (56)</option>
+      <option value="AE">AE General Works: Encyclopedias (140)</option>
+      <option value="AG">AG General Works: Dictionaries and other general reference books (246)</option>
+      <option value="AM">AM General Works: Museums, Collectors and collecting (2)</option>
+      <option value="AP">AP General Works: Periodicals (2354)</option>
+      <option value="AS">AS General Works: Academies and International Associations, Congresses (5)</option>
+      <option value="AY">AY General Works: Yearbooks, Almanacs, Directories (4)</option>
+      <option value="AZ">AZ General Works: History of scholarship and learning, The humanities (7)</option>
+      <option value="B">B Philosophy, Psychology, Religion (470)</option>
+      <option value="BC">BC Philosophy, Psychology, Religion: Logic (25)</option>
+      <option value="BD">BD Philosophy, Psychology, Religion: Speculative Philosophy, General Philosophical works (39)</option>
+      <option value="BF">BF Philosophy, Psychology, Religion: Psychology, Philosophy, Psychoanalysis (413)</option>
+      <option value="BH">BH Philosophy, Psychology, Religion: Aesthetics (17)</option>
+      <option value="BJ">BJ Philosophy, Psychology, Religion: Ethics, Social usages, Etiquette, Religion (249)</option>
+      <option value="BL">BL Philosophy, Psychology, Religion: Religion: General, Miscellaneous and Atheism (391)</option>
+      <option value="BM">BM Philosophy, Psychology, Religion: Judaism (38)</option>
+      <option value="BP">BP Philosophy, Psychology, Religion: Islam, Bahaism, Theosophy, Other and new beliefs (129)</option>
+      <option value="BQ">BQ Philosophy, Psychology, Religion: Buddhism (24)</option>
+      <option value="BR">BR Philosophy, Psychology, Religion: Christianity (207)</option>
+      <option value="BS">BS Philosophy, Psychology, Religion: Christianity: The Bible, Old and New Testament (625)</option>
+      <option value="BT">BT Philosophy, Psychology, Religion: Christianity: Doctrinal theology, God, Christology (191)</option>
+      <option value="BV">BV Philosophy, Psychology, Religion: Christianity: Practical theology, Worship (581)</option>
+      <option value="BX">BX Philosophy, Psychology, Religion: Christianity: Churches, Church movements (659)</option>
+      <option value="CB">CB History: History of civilization (39)</option>
+      <option value="CC">CC History: Archaeology (8)</option>
+      <option value="CE">CE History: Technical Chronology, Calendar (4)</option>
+      <option value="CJ">CJ History: Numismatics (8)</option>
+      <option value="CN">CN History: Inscriptions, Epigraphy (2)</option>
+      <option value="CR">CR History: Heraldry (38)</option>
+      <option value="CS">CS History: Genealogy (19)</option>
+      <option value="CT">CT History: Biography (262)</option>
+      <option value="D">D History: General and Eastern Hemisphere (478)</option>
+      <option value="D501">D501 History: General and Eastern Hemisphere: World War I (1914-1918) (735)</option>
+      <option value="D731">D731 History: General and Eastern Hemisphere: World War II (1939-1945) (28)</option>
+      <option value="DA">DA History: General and Eastern Hemisphere: Great Britain, Ireland, Central Europe (1484)</option>
+      <option value="DB">DB History: General and Eastern Hemisphere: Austria, Hungary, Czech Republic, Slovakia (54)</option>
+      <option value="DC">DC History: General and Eastern Hemisphere: France, Andorra, Monaco (863)</option>
+      <option value="DD">DD History: General and Eastern Hemisphere: Germany (167)</option>
+      <option value="DE">DE History: General and Eastern Hemisphere: The Mediterranean Region, The Greco-Roman World (16)</option>
+      <option value="DF">DF History: General and Eastern Hemisphere: Greece (100)</option>
+      <option value="DG">DG History: General and Eastern Hemisphere: Italy, Vatican City, Malta (444)</option>
+      <option value="DH">DH History: General and Eastern Hemisphere: Netherlands, Belgium, Luxemburg (159)</option>
+      <option value="DJ">DJ History: General and Eastern Hemisphere: Netherlands (47)</option>
+      <option value="DJK">DJK History: General and Eastern Hemisphere: Eastern Europe (2)</option>
+      <option value="DK">DK History: General and Eastern Hemisphere: Russia, Former Soviet Republics, Poland (166)</option>
+      <option value="DL">DL History: General and Eastern Hemisphere: Northern Europe, Scandinavia (80)</option>
+      <option value="DP">DP History: General and Eastern Hemisphere: Spain, Portugal (196)</option>
+      <option value="DQ">DQ History: General and Eastern Hemisphere: Switzerland (28)</option>
+      <option value="DR">DR History: General and Eastern Hemisphere: Balkan Peninsula, Turkey (86)</option>
+      <option value="DS">DS History: General and Eastern Hemisphere: Asia (852)</option>
+      <option value="DT">DT History: General and Eastern Hemisphere: Africa (331)</option>
+      <option value="DU">DU History: General and Eastern Hemisphere: History of Oceania (South Seas) (194)</option>
+      <option value="DX">DX History: General and Eastern Hemisphere: History of Romanies (14)</option>
+      <option value="E011">E011 History: America: America (441)</option>
+      <option value="E151">E151 History: America: United States (379)</option>
+      <option value="E186">E186 History: America: Colonial History (1607-1775) (30)</option>
+      <option value="E201">E201 History: America: Revolution (1775-1783) (117)</option>
+      <option value="E300">E300 History: America: Revolution to the Civil War (1783-1861) (389)</option>
+      <option value="E456">E456 History: America: Civil War period (1861-1865) (483)</option>
+      <option value="E660">E660 History: America: Late nineteenth century (1865-1900) (93)</option>
+      <option value="E740">E740 History: America: Twentieth century (41)</option>
+      <option value="E838">E838 History: America: Later twentieth century (1961-) (2)</option>
+      <option value="E895">E895 History: America: Twenty-first century (6)</option>
+      <option value="F001">F001 United States local history: New England (106)</option>
+      <option value="F1001">F1001 North America local history: Canada (266)</option>
+      <option value="F106">F106 United States local history: Atlantic coast. Middle Atlantic States (138)</option>
+      <option value="F1201">F1201 North America local history: Mexico (59)</option>
+      <option value="F1401">F1401 Latin America local history: General (35)</option>
+      <option value="F1461">F1461 Latin America local history: Guatemala (4)</option>
+      <option value="F1481">F1481 Latin America local history: El Salvador (1)</option>
+      <option value="F1501">F1501 Latin America local history: Honduras (2)</option>
+      <option value="F1521">F1521 Latin America local history: Nicaragua (1)</option>
+      <option value="F1541">F1541 Latin America local history: Costa Rica (1)</option>
+      <option value="F1561">F1561 Latin America local history: Panama (8)</option>
+      <option value="F1601">F1601 History of the Americas: West Indies (7)</option>
+      <option value="F1751">F1751 History of the Americas: West Indies. Cuba (27)</option>
+      <option value="F1861">F1861 History of the Americas: West Indies. Jamaica (2)</option>
+      <option value="F1900">F1900 West Indies local history: Hispaniola (Haiti and Dominican Republic) (9)</option>
+      <option value="F1951">F1951 West Indies local history: Puerto Rico (8)</option>
+      <option value="F2001">F2001 History of the Americas: Lesser Antilles (6)</option>
+      <option value="F206">F206 United States local history: The South. South Atlantic States (118)</option>
+      <option value="F2131">F2131 History of the Americas: West Indies. British West Indies (2)</option>
+      <option value="F2155">F2155 History of the Americas: Caribbean area. Caribbean sea (15)</option>
+      <option value="F2201">F2201 Latin America local history: South America. General (43)</option>
+      <option value="F2251">F2251 Latin America local history: Colombia (3)</option>
+      <option value="F2301">F2301 Latin America local history: Venezuela (7)</option>
+      <option value="F2351">F2351 Latin America local history: Guiana (12)</option>
+      <option value="F2501">F2501 Latin America local history: Brazil (31)</option>
+      <option value="F2661">F2661 Latin America local history: Paraguay (11)</option>
+      <option value="F2701">F2701 Latin America local history: Uruguay (4)</option>
+      <option value="F2801">F2801 Latin America local history: Argentina (53)</option>
+      <option value="F296">F296 United States local history: Gulf States. West Florida (29)</option>
+      <option value="F3051">F3051 Latin America local history: Chile (7)</option>
+      <option value="F3301">F3301 Latin America local history: Bolivia (6)</option>
+      <option value="F3401">F3401 Latin America local history: Peru (21)</option>
+      <option value="F350.5">F350.5 United States local history: Mississippi River and Valley. Middle West (45)</option>
+      <option value="F3701">F3701 Latin America local history: Ecuador (1)</option>
+      <option value="F396">F396 United States local history: Old Southwest. Lower Mississippi Valley (34)</option>
+      <option value="F476">F476 United States local history: Old Northwest. Northwest Territory (15)</option>
+      <option value="F516">F516 United States local history: Ohio River and Valley. (37)</option>
+      <option value="F590.3">F590.3 United States local history: The West. Trans-Mississippi Region. Great Plains (144)</option>
+      <option value="F721">F721 United States local history: Rocky Mountains. Yellowstone National Park (60)</option>
+      <option value="F786">F786 United States local history: New Southwest. Colorado River, Canyon, and Valley (69)</option>
+      <option value="F850.5">F850.5 United States local history: Pacific States (168)</option>
+      <option value="F975">F975 United States local history: Central American, West Indian, and other countries protected by and having close political affiliations with the United States (6)</option>
+      <option value="G">G Geography, Anthropology, Recreation (437)</option>
+      <option value="GA">GA Geography, Anthropology, Recreation: Mathematical geography, Cartography (7)</option>
+      <option value="GB">GB Geography, Anthropology, Recreation: Physical geography (21)</option>
+      <option value="GC">GC Geography, Anthropology, Recreation: Oceanography (10)</option>
+      <option value="GF">GF Geography, Anthropology, Recreation: Human ecology, Anthropogeography (5)</option>
+      <option value="GN">GN Geography, Anthropology, Recreation: Anthropology (107)</option>
+      <option value="GR">GR Geography, Anthropology, Recreation: Folklore (262)</option>
+      <option value="GT">GT Geography, Anthropology, Recreation: Manners and customs (89)</option>
+      <option value="GV">GV Geography, Anthropology, Recreation: Recreation, Leisure (244)</option>
+      <option value="H">H Social sciences (9)</option>
+      <option value="HA">HA Social sciences: Statistics (3)</option>
+      <option value="HB">HB Social sciences: Economic theory, Demography (80)</option>
+      <option value="HC">HC Social sciences: Economic history and conditions, Special topics (39)</option>
+      <option value="HD">HD Social sciences: Economic history and conditions, Production (155)</option>
+      <option value="HE">HE Social sciences: Transportation and communications (143)</option>
+      <option value="HF">HF Social sciences: Commerce (78)</option>
+      <option value="HG">HG Social sciences: Finance (57)</option>
+      <option value="HJ">HJ Social sciences: Public finance (9)</option>
+      <option value="HM">HM Social sciences: Sociology (45)</option>
+      <option value="HN">HN Social sciences: Social history and conditions, Social problems (56)</option>
+      <option value="HQ">HQ Social sciences: The family, Marriage, Sex and Gender (359)</option>
+      <option value="HS">HS Social sciences: Societies: secret, benevolent, etc. (28)</option>
+      <option value="HT">HT Social sciences: Communities, Classes, Races (44)</option>
+      <option value="HV">HV Social sciences: Social pathology, Social and Public Welfare (339)</option>
+      <option value="HX">HX Social sciences: Socialism, Communism, Anarchism (134)</option>
+      <option value="J">J Political science (71)</option>
+      <option value="JA">JA Political science: Political science (6)</option>
+      <option value="JC">JC Political science: Political theory (72)</option>
+      <option value="JF">JF Political science: Political institutions and public administration (13)</option>
+      <option value="JK">JK Political science: Political inst. and pub. Admin.: United States (103)</option>
+      <option value="JL">JL Political science: Political inst. and pub. Admin.: America (2)</option>
+      <option value="JN">JN Political science: Political inst. and pub. Admin.: Europe (33)</option>
+      <option value="JQ">JQ Political science: Political inst. and pub. Admin.: Asia, Africa and Oceania (6)</option>
+      <option value="JS">JS Political science: Local government, Municipal government (3)</option>
+      <option value="JV">JV Political science: Colonies and colonization, International migration (21)</option>
+      <option value="JX">JX Political science: International law (38)</option>
+      <option value="JZ">JZ Political science: International relations (1)</option>
+      <option value="K">K Law in general, Comparative and uniform law, Jurisprudence (31)</option>
+      <option value="KBM">KBM Law in general, Comparative and uniform law, Jurisprudence: Jewish law (1)</option>
+      <option value="KBR">KBR Law in general, Comparative and uniform law, Jurisprudence: History of canon law (1)</option>
+      <option value="KD">KD Law in general, Comparative and uniform law, Jurisprudence: United Kingdom and Ireland (65)</option>
+      <option value="KDZ">KDZ Law in general, Comparative and uniform law, Jurisprudence: America, North America (1)</option>
+      <option value="KE">KE Law in general, Comparative and uniform law, Jurisprudence: Canada (1)</option>
+      <option value="KF">KF Law in general, Comparative and uniform law, Jurisprudence: United States (76)</option>
+      <option value="KH">KH Law in general, Comparative and uniform law, Jurisprudence: South America (1)</option>
+      <option value="KJ">KJ Law in general, Comparative and uniform law, Jurisprudence: Europe (17)</option>
+      <option value="KL">KL Law in general, Comparative and uniform law, Jurisprudence: Asia and Eurasia, Africa, Pacific Area, and Antarctica (2)</option>
+      <option value="KN">KN Law in general, Comparative and uniform law, Jurisprudence: South Asia, Southeast Asia, East Asia (2)</option>
+      <option value="KNX">KNX Law in general, Comparative and uniform law, Jurisprudence: Japan (2)</option>
+      <option value="KP">KP Law in general, Comparative and uniform law, Jurisprudence: South Asia, Southeast Asia, East Asia (1)</option>
+      <option value="KZ">KZ Law in general, Comparative and uniform law, Jurisprudence: Law of nations (20)</option>
+      <option value="L">L Education (6)</option>
+      <option value="LA">LA Education: History of education (46)</option>
+      <option value="LB">LB Education: Theory and practice of education (135)</option>
+      <option value="LC">LC Education: Special aspects of education (48)</option>
+      <option value="LD">LD Education: Individual institutions: United States (16)</option>
+      <option value="LE">LE Education: Individual institutions: America (except US) (1)</option>
+      <option value="LF">LF Education: Individual institutions: Europe (32)</option>
+      <option value="LH">LH Education: College and school magazines and papers (1)</option>
+      <option value="LT">LT Education: Textbooks (10)</option>
+      <option value="M">M Music (212)</option>
+      <option value="ML">ML Music: Literature of music (319)</option>
+      <option value="MT">MT Music: Musical instruction and study, Composition (67)</option>
+      <option value="N">N Fine Arts (183)</option>
+      <option value="NA">NA Fine Arts: Architecture (196)</option>
+      <option value="NB">NB Fine Arts: Sculpture (26)</option>
+      <option value="NC">NC Fine Arts: Drawing, Design, Illustration (160)</option>
+      <option value="ND">ND Fine Arts: Painting (246)</option>
+      <option value="NE">NE Fine Arts: Print media (37)</option>
+      <option value="NK">NK Fine Arts: Decorative and Applied Arts, Decoration and Ornament (134)</option>
+      <option value="NX">NX Fine Arts: Arts in general (4)</option>
+      <option value="P">P Language and Literatures (21)</option>
+      <option value="PA">PA Language and Literatures: Classical Languages and Literature (576)</option>
+      <option value="PB">PB Language and Literatures: General works (56)</option>
+      <option value="PC">PC Language and Literatures: Romance languages: Italian, French, Spanish, Portuguese (107)</option>
+      <option value="PD">PD Language and Literatures: Germanic and Scandinavian languages (11)</option>
+      <option value="PE">PE Language and Literatures: English (225)</option>
+      <option value="PF">PF Language and Literatures: West Germanic (40)</option>
+      <option value="PG">PG Language and Literatures: Slavic (including Russian), Languages and Literature (479)</option>
+      <option value="PH">PH Language and Literatures: Finno-Ugrian and Basque languages and literatures (997)</option>
+      <option value="PJ">PJ Language and Literatures: Oriental languages and literatures (122)</option>
+      <option value="PK">PK Language and Literatures: Indo-Iranian literatures (88)</option>
+      <option value="PL">PL Language and Literatures: Languages and literatures of Eastern Asia, Africa, Oceania (416)</option>
+      <option value="PM">PM Language and Literatures: Indigenous American and Artificial Languages (97)</option>
+      <option value="PN">PN Language and Literatures: Literature: General, Criticism, Collections (848)</option>
+      <option value="PQ">PQ Language and Literatures: Romance literatures: French, Italian, Spanish, Portuguese (4200)</option>
+      <option value="PR">PR Language and Literatures: English literature (9157)</option>
+      <option value="PS">PS Language and Literatures: American and Canadian literature (9118)</option>
+      <option value="PT">PT Language and Literatures: Germanic, Scandinavian, and Icelandic literatures (2587)</option>
+      <option value="PZ">PZ Language and Literatures: Juvenile belles lettres (6530)</option>
+      <option value="Q">Q Science (173)</option>
+      <option value="QA">QA Science: Mathematics (184)</option>
+      <option value="QB">QB Science: Astronomy (128)</option>
+      <option value="QC">QC Science: Physics (148)</option>
+      <option value="QD">QD Science: Chemistry (69)</option>
+      <option value="QE">QE Science: Geology (123)</option>
+      <option value="QH">QH Science: Natural history (613)</option>
+      <option value="QH301">QH301 Science: Biology (3)</option>
+      <option value="QK">QK Science: Botany (163)</option>
+      <option value="QL">QL Science: Zoology (555)</option>
+      <option value="QM">QM Science: Human anatomy (11)</option>
+      <option value="QP">QP Science: Physiology (137)</option>
+      <option value="QR">QR Science: Microbiology (13)</option>
+      <option value="R">R Medicine (79)</option>
+      <option value="RA">RA Medicine: Public aspects of medicine (87)</option>
+      <option value="RB">RB Medicine: Pathology (7)</option>
+      <option value="RC">RC Medicine: Internal medicine (153)</option>
+      <option value="RD">RD Medicine: Surgery (27)</option>
+      <option value="RE">RE Medicine: Ophthalmology (4)</option>
+      <option value="RF">RF Medicine: Otorhinolaryngology (3)</option>
+      <option value="RG">RG Medicine: Gynecology and obstetrics (23)</option>
+      <option value="RJ">RJ Medicine: Pediatrics (13)</option>
+      <option value="RK">RK Medicine: Dentistry (5)</option>
+      <option value="RL">RL Medicine: Dermatology (2)</option>
+      <option value="RM">RM Medicine: Therapeutics, Pharmacology (63)</option>
+      <option value="RS">RS Medicine: Pharmacy and materia medica (13)</option>
+      <option value="RT">RT Medicine: Nursing (9)</option>
+      <option value="RV">RV Medicine: Botanic, Thomsonian, and eclectic medicine (1)</option>
+      <option value="RX">RX Medicine: Homeopathy (9)</option>
+      <option value="RZ">RZ Medicine: Other systems of medicine (7)</option>
+      <option value="S">S Agriculture (96)</option>
+      <option value="SB">SB Agriculture: Plant culture (207)</option>
+      <option value="SD">SD Agriculture: Forestry (17)</option>
+      <option value="SF">SF Agriculture: Animal culture (177)</option>
+      <option value="SH">SH Agriculture: Aquaculture, Fisheries, Angling (49)</option>
+      <option value="SK">SK Agriculture: Hunting sports (105)</option>
+      <option value="T">T Technology (188)</option>
+      <option value="TA">TA Technology: Engineering and Civil engineering (52)</option>
+      <option value="TC">TC Technology: Ocean engineering (34)</option>
+      <option value="TD">TD Technology: Environmental technology, Sanitary engineering (14)</option>
+      <option value="TE">TE Technology: Highway engineering, Roads and pavements (3)</option>
+      <option value="TF">TF Technology: Railroad engineering and operation (27)</option>
+      <option value="TG">TG Technology: Bridge engineering (4)</option>
+      <option value="TH">TH Technology: Building construction (28)</option>
+      <option value="TJ">TJ Technology: Mechanical engineering and machinery (57)</option>
+      <option value="TK">TK Technology: Electrical, Electronics and Nuclear engineering (100)</option>
+      <option value="TL">TL Technology: Motor vehicles, Aeronautics, Astronautics (79)</option>
+      <option value="TN">TN Technology: Mining engineering, Metallurgy (35)</option>
+      <option value="TP">TP Technology: Chemical technology (66)</option>
+      <option value="TR">TR Technology: Photography (32)</option>
+      <option value="TS">TS Technology: Manufactures (103)</option>
+      <option value="TT">TT Technology: Handicrafts, Arts and crafts (100)</option>
+      <option value="TX">TX Technology: Home economics (316)</option>
+      <option value="U">U Military science (81)</option>
+      <option value="UA">UA Military science: Armies: Organization, distribution, military situation (67)</option>
+      <option value="UB">UB Military science: Military administration (8)</option>
+      <option value="UC">UC Military science: Maintenance and transportation (8)</option>
+      <option value="UD">UD Military science: Infantry (10)</option>
+      <option value="UE">UE Military science: Cavalry, Armor (8)</option>
+      <option value="UF">UF Military science: Artillery (8)</option>
+      <option value="UG">UG Military science: Military engineering (23)</option>
+      <option value="UH">UH Military science: Other services (12)</option>
+      <option value="V">V Naval science (24)</option>
+      <option value="VA">VA Naval science: Navies: Organization, distribution, naval situation (10)</option>
+      <option value="VB">VB Naval science: Naval administration (1)</option>
+      <option value="VE">VE Naval science: Marines (1)</option>
+      <option value="VF">VF Naval science: Naval ordnance (3)</option>
+      <option value="VG">VG Naval science: Minor services of navies (1)</option>
+      <option value="VK">VK Naval science: Navigation, Merchant marine (24)</option>
+      <option value="VM">VM Naval science: Naval architecture, Shipbuilding, Marine engineering (20)</option>
+      <option value="Z">Z Bibliography, Library science (496)</option>
+       </select>
+      </p>
+
+      <p>
+       <label for="filetype" accesskey="f">Filetype:</label>
+       <select id="filetype" name="filetype"
+               title="Please choose a file type.">
+
+	       <option selected value="">Any</option>
+      <option value="readme">Readme (readme)</option>
+      <option value="license">License (license)</option>
+      <option value="index">Audio Book Index (index)</option>
+      <option value="html">HTML (html)</option>
+      <option value="html.gen">Generated HTML (html.gen)</option>
+      <option value="html.noimages">Generated HTML (no images) (html.noimages)</option>
+      <option value="html.images">Generated HTML (with images) (html.images)</option>
+      <option value="iso">ISO CD/DVD Image (iso)</option>
+      <option value="epub.dp">EPUB (hand-crafted) (epub.dp)</option>
+      <option value="epub.noimages">EPUB (no images) (epub.noimages)</option>
+      <option value="epub.images">EPUB (with images) (epub.images)</option>
+      <option value="pdf.gen">Generated PDF (pdf.gen)</option>
+      <option value="pdf.noimages">Generated PDF (no images) (pdf.noimages)</option>
+      <option value="pdf.images">Generated PDF (with images) (pdf.images)</option>
+      <option value="kindle.noimages">Kindle (no images) (kindle.noimages)</option>
+      <option value="kindle.images">Kindle (with images) (kindle.images)</option>
+      <option value="md5">MD5 Checksum (md5)</option>
+      <option value="iso.split">Part of ISO CD/DVD Image (iso.split)</option>
+      <option value="pdf">PDF (pdf)</option>
+      <option value="css">CSS Stylesheet (css)</option>
+      <option value="eps">Encapsulated PostScript (eps)</option>
+      <option value="mus">Finale (mus)</option>
+      <option value="fen">Forsyth–Edwards Notation (fen)</option>
+      <option value="gif">GIF Picture (gif)</option>
+      <option value="jpg">JPEG Picture (jpg)</option>
+      <option value="ly">LilyPond (ly)</option>
+      <option value="mid">MIDI (mid)</option>
+      <option value="mpg">MPEG Video (mpg)</option>
+      <option value="lit">MS Lit for PocketPC (lit)</option>
+      <option value="rtf">MS Rich Text Format (rtf)</option>
+      <option value="avi">MS Video (avi)</option>
+      <option value="wav">MS Wave Audio (wav)</option>
+      <option value="doc">MS Word Document (doc)</option>
+      <option value="ogg">Ogg Vorbis Audio (ogg)</option>
+      <option value="pdb">Palm Database (pdb)</option>
+      <option value="prc">Palm Database (prc)</option>
+      <option value="plucker">Plucker (plucker)</option>
+      <option value="png">PNG Picture (png)</option>
+      <option value="ps">PostScript (ps)</option>
+      <option value="ps2">PostScript Level 2 (ps2)</option>
+      <option value="qioo">QiOO Mobile (qioo)</option>
+      <option value="mov">Quicktime Video (mov)</option>
+      <option value="qt">Quicktime Video (qt)</option>
+      <option value="sib">Sibelius (sib)</option>
+      <option value="svg">SVG (svg)</option>
+      <option value="dvi">TeX Device Independent (dvi)</option>
+      <option value="tiff">TIFF Picture (tiff)</option>
+      <option value="tr">Tome Raider (tr)</option>
+      <option value="xsl">XSLT Stylesheet (xsl)</option>
+      <option value="m4b">Apple iTunes Audiobook (m4b)</option>
+      <option value="m4a">Apple iTunes Audiobook (m4a)</option>
+      <option value="mp4">MPEG 4 Part 14 (mp4)</option>
+      <option value="mp3">MP3 Audio (mp3)</option>
+      <option value="spx">Speex Audio (spx)</option>
+      <option value="txt.utf-8">Plain Text UTF-8 (txt.utf-8)</option>
+      <option value="txt">Plain Text (txt)</option>
+      <option value="aac">AAC (Advanced Audio Coding) (aac)</option>
+      <option value="flv">Flash Video (flv)</option>
+      <option value="xls">Microsoft Excel (xls)</option>
+      <option value="nfo">Proprietary `Folio' format (nfo)</option>
+      <option value="pageimages">Raw Page Images (pageimages)</option>
+      <option value="rdf">RDF (rdf)</option>
+      <option value="rst.gen">reStructuredText (rst.gen)</option>
+      <option value="tei">TEI Text Encoding Initiative (tei)</option>
+      <option value="tex">TeX (tex)</option>
+      <option value="wma">Windows Media Audio (wma)</option>
+      <option value="xml">XML (xml)</option>
+      <option value="rst">reStructuredText (rst)</option>
+      <option value="cover.medium">Cover Medium (cover.medium)</option>
+      <option value="cover.small">Cover Thumbnail (cover.small)</option>
+      <option value="rst.master">reStructuredText Master (rst.master)</option>
+      <option value="?">Unspecified (?)</option>
+       </select>
+      </p>
+
+      <p>
+        <input type="submit" id="submit"  name="submit_search" value="Search">
+      </p>
+    </div>
+  </div>
+ </form>
+</div>
+
+  <a class="button" href="#popup4">Help</a>
+  {%- include navbar.html -%}
+
+  <a class="button" href="#popup3">Help</a>
+  <input id="collapsible2" class="toggle" type="checkbox">
+  <label for="collapsible2" class="lbl-toggle">Full Text Search</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <form method="get" action="https://search.yahoo.com/search">
+      <img src="/pics/yahoologo.png" style="vertical-align:middle;" alt="Yahoo! logo">
+      <input type="hidden" name="fr" value="cap-PG">
+      <input type="hidden" name="vs" id="ysvs1" value="gutenberg.org">
+      <input type="text"   name="p" size="29" placeholder="Search Yahoo!">
+      <input type="submit" value="Yahoo! Search">
+
+      </form>
+
+      <form method="get" action="https://www.google.com/search">
+        <img src="/pics/google_search.png" style="vertical-align:middle;" alt="Google logo">
+        <input type="text" name="q" size="31" maxlength="255" value="" placeholder="Search Google">
+        <input type="hidden" name="domains" value="gutenberg.org"/>
+        <input type="hidden" name="sitesearch" value="gutenberg.org"/>
+        <input type="submit" name="btnG" value="Google Search"/>
+
+      </form>
+  <form method="get" id="duck" action="https://duckduckgo.com/">
+    <img src="/pics/duck.png" style="vertical-align:middle;" alt="DuckDuckGo logo">
+    <input type="hidden" name="sites" value="http://www.gutenberg.org"/>
+    <input type="hidden" name="k8" value="#444444"/>
+    <input type="hidden" name="k9" value="#D51920"/>
+    <input type="hidden" name="kt" value="h"/>
+    <input type="text" name="q" maxlength="255" placeholder="Search DuckDuckGo"/>
+    <input type="submit" value="DuckDuckGo Search"/>
+  </form>
+
+    </div>
+  </div>
+</div>
