@@ -5,10 +5,13 @@ $pagesize = 100;
 $max_results = 1000;
 $max_ft_results = 5000;
 
+// gbn 20200203: Need to set this differently than the old site:
+set_include_path(get_include_path() . PATH_SEPARATOR . "/public/vhost/g/gutenberg/dev/private/lib/php");
 include_once ("pgcat.phh");
 
 $db = $config->db ();
-rate_limit ();
+// gbn 20200203: not sure where rate_limit is:
+// rate_limit ();
 // userobots ();
 
 pageheader ("Search on Titles &gt; Results");
@@ -109,14 +112,6 @@ class BooksTable extends ListTable {
 			    create_function ('$db', 'return in_array 
                                             ($db->get ("fk_attriblist", SQLINT), array (240, 245, 246));'));
     echo ("<a href=\"/ebooks/$pk\">" . join ("<br$config->endtag>", $a)  . "</a>");
-
-    list ($a, $b) = getall ($db2, "c_title", 
-			    create_function ('$db', 'return ($db->get ("fk_attriblist", SQLINT) == 505);'));
-    if (count ($a)) {
-      echo ("<p>Contents:</p><ul><li>");
-      echo (join ("</li><li>", $a));
-      echo ("</li></ul>");
-    }
     echo ("</td>");
 
     $db2->exec ("select * from mn_books_langs, langs " . 
