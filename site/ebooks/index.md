@@ -126,7 +126,7 @@ Avoid punctuation except as indicated below:</p>
    <p><label for="book-search" class="lbl-toggle">Quick Search</label>
       <input type="text" value="" id="book-search" name="query" class="searchInput" title="" tabindex="20" size="20" maxlength="80"
              placeholder="Quick search"/>
-      <input type="submit" name="submit_search" value="Search">
+        <input type="submit" id="quicksubmit" name="submit_search" value="Search">
    </p>
   </div>
  </form>
@@ -182,6 +182,7 @@ Avoid punctuation except as indicated below:</p>
 
 <div class="box">
  <a class="button" href="#popup2">Help</a>
+ <!-- Advanced search form begins here -->
   <form method="post" action="results" accept-charset="utf-8" enctype="multipart/form-data">
    <input id="collapsible1" class="toggle" type="checkbox">
    <label for="collapsible1" class="lbl-toggle">Advanced Search</label>
@@ -647,6 +648,7 @@ Avoid punctuation except as indicated below:</p>
       </p>
     </div>
   </div>
+ <!-- Advanced search form ends here -->
  </form>
 </div>
 
