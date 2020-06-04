@@ -109,6 +109,14 @@ class BooksTable extends ListTable {
 			    create_function ('$db', 'return in_array 
                                             ($db->get ("fk_attriblist", SQLINT), array (240, 245, 246));'));
     echo ("<a href=\"/ebooks/$pk\">" . join ("<br$config->endtag>", $a)  . "</a>");
+
+    list ($a, $b) = getall ($db2, "c_title", 
+			    create_function ('$db', 'return ($db->get ("fk_attriblist", SQLINT) == 505);'));
+    if (count ($a)) {
+      echo ("<p>Contents:</p><ul><li>");
+      echo (join ("</li><li>", $a));
+      echo ("</li></ul>");
+    }
     echo ("</td>");
 
     $db2->exec ("select * from mn_books_langs, langs " . 
