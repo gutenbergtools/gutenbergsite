@@ -66,7 +66,7 @@ You can navigate the directory/folder contents starting at [/dirs](/dirs), howev
 
 ### XML/RDF 
 
-All Project Gutenberg metadata are [available digitally](/dirs/cache/feeds/) in the XML/RDF format. This is updated daily (other than the legacy format mentioned below). Please use one of these files as input to a database or other tools you may be developing, instead of [crawling or roboting](/policy/robot_access.html) the website.
+All Project Gutenberg metadata are [available digitally](/cache/epub/feeds/) in the XML/RDF format. This is updated daily (other than the legacy format mentioned below). Please use one of these files as input to a database or other tools you may be developing, instead of [crawling or roboting](/policy/robot_access.html) the website.
 
 Note that the exact same metadata is available as a *per-eBook* .rdf file. These are found in the cache/epub (i.e., cache/generated) directory, accessible by mirroring or by the directory/folder listings above. The large XML/RDF file is simply a concatenation of all the per-eBook metadata.
 
@@ -76,7 +76,7 @@ MARC is a common metadata format utilized by library card catalog databases. Ste
 
 These instructions were provided to Project Gutenberg, and are listed here in the hopes they may be useful. 
 
-- Download the XML/RDF file (i.e., [https://www.gutenberg.org/cache/epub/feeds/rdf-files.tar.zip](https://www.gutenberg.org/cache/epub/feeds/rdf-files.tar.zip).
+- Download the XML/RDF file (i.e., [/cache/epub/feeds/rdf-files.tar.zip](/cache/epub/feeds/rdf-files.tar.zip).
 - Unzip, untar
 - Run your modified copy of the Adelaide script above, pgrdf2marc.pl, against the untarred/unzipped RDF files to generate MARC records (there may be a few RDF records that do not convert, perhaps as many as 100)
 
