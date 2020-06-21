@@ -98,13 +98,13 @@ In the past, Project Gutenberg also published other cultural works like movies a
 For more details, see the [collection development](/policy/collection_development.html) policy.
 
 ### What books does Project Gutenberg publish?
-Any books that we legally can, and that our volunteers want to work on.
+Any books that meet our collection development policy, and that our volunteers want to work on.
 
 We do not publish any books that still have copyright protection. This generally means that our texts are taken from books published 95+ years ago. (It's more complicated than that, as our [Copyright FAQ](/how_to/copyright_faq.html) explains, but 95+ criterion is a good first rule-of-thumb.)
 
-This means that you won't find the latest bestsellers or modern computer books here. You will find the classic books from the start of this century and previous centuries, from authors like Shakespeare, Poe, Dante, as well as well-loved favorites like the Sherlock Holmes stories by Sir Arthur Conan Doyle, the Tarzan and Mars books of Edgar Rice Burroughs, Alice's adventures in Wonderland as told by Lewis Carroll, and thousands of others.
+This means that you won't find the latest bestsellers or modern computer books here. You will find the classic books from the start of the 20th century and previous centuries, from authors like Shakespeare, Poe, Dante, as well as well-loved favorites like the Sherlock Holmes stories by Sir Arthur Conan Doyle, the Tarzan and Mars books of Edgar Rice Burroughs, Alice's adventures in Wonderland as told by Lewis Carroll, and thousands of others.
 
-These books are chosen by our volunteers. Simply, a volunteer decides that a certain book should be in the archives, obtains the book and does the work necessary to turn it into an eBook. Most of our new eBooks now come from [Distributed Proofreaders](https://www.pgdp.net). Historically, we had many "solo" eBook producers, but this is less frequently seen these days.
+These books are chosen by our volunteers. Simply, a volunteer decides that a certain book should be in the library, obtains the book and does the work necessary to turn it into an eBook. Most of our new eBooks now come from [Distributed Proofreaders](https://www.pgdp.net). Historically, we had many "solo" eBook producers, but this is less frequently seen these days.
 
 Two websites have a description of the copyright process, and the various checks and requirements for uploading a new eBook that has been given a copyright clearance. For copyright, see [copy.pglaf.org](https://copy.pglaf.org). For uploads and compliance checks, see [upload.pglaf.org](https://upload.pglaf.org).
 
@@ -124,25 +124,25 @@ Whatever languages we can! As above, this is decided by what languages our volun
 
 ### Why don't you have any / many books about history, geography, science, biography, etc.? Why aren't there any / more PG books available in French, Spanish, German, etc.?
 
-If we can legally publish a book, and it isn't in the archives, it's because no volunteer has produced it yet. At the moment, we have a predominance of English language novels because that is what most people have chosen to work on.
+If a book meets our collection development policy, and it isn't in the library, it's because no volunteer has produced it yet. At the moment, we have a predominance of English language novels because that is what most people have chosen to work on.
 
 We're always looking for new languages and topics, and always delighted to see people producing them. If we don't have enough of the types of books you would like to see, why don't you help us out by contributing one? If the people interested in a particular area don't contribute, we'll always be short in that area.
 
 ### Why don't you have any books by Stephen King, Tom Clancy, Tolkien, etc.?
 Project Gutenberg can publish only books that are in the public domain in the United States. Current bestsellers have not yet entered the public domain.
 
-### Why is Project Gutenberg so set on using Plain Vanilla ASCII?
+### Why is Project Gutenberg so set on using plain text
 Project Gutenberg supports and publishes many open formats, but, yes, we do want to have a plain text version of everything possible.
 
 We're looking at our history, and we're planning for the long term--the very long term.
 
-Today, Plain Vanilla ASCII can be read, written, copied and printed by just about every simple text editor on every computer in the world. This has been so for decades, and is likely to be so for the foreseeable future. We've seen formats and extended character sets come and go; plain text stays with us. We can still read Shakespeare's First Folios, the original Gutenberg Bible, the Domesday Book, and even the Dead Sea Scrolls and the Rosetta Stone (though we may have trouble with the language!), but we can't read many files made in various formats on computer media just 20 years ago.
+Today, plain text can be read, written, copied and printed by just about every simple text editor on every computer in the world. This has been so for decades, and is likely to be so for the foreseeable future. We've seen formats and extended character sets come and go; plain text stays with us. We can still read Shakespeare's First Folios, the original Gutenberg Bible, the Domesday Book, and even the Dead Sea Scrolls and the Rosetta Stone (though we may have trouble with the language!), but we can't read many files made in various formats on computer media just 20 years ago.
 
-We're trying to build an archive that will last not only decades, but centuries.
+We're trying to build a library that will last not only decades, but centuries.
 
-The point of putting works in the PG archive is that they are copied to many, many public sites and individual computers all over. No single disaster can destroy them; no single government can suppress them. Long after we're all dead and gone, when the very concept of an Internet Service Provider is as quaint as gas streetlamps, when HTML reads like Middle English, those texts will still be safe, copied, and available to our descendants.
+The point of putting works in the PG library is that they are copied to many, many public sites and individual computers all over. No single disaster can destroy them; no single government can suppress them. Long after we're all dead and gone, when the very concept of an Internet Service Provider is as quaint as gas streetlamps, when HTML reads like Middle English, those texts will still be safe, copied, and available to our descendants.
 
-The PG archive is so valuable, yet free and easily portable, that even if every current PG volunteer vanished overnight, people around the world would copy and preserve any item that is legal for them to have in their country. For people in the US, this is 100% of the collection!
+The PG library is so valuable, yet free and easily portable, that even if every current PG volunteer vanished overnight, people around the world would copy and preserve any item that is legal for them to have in their country. For people in the US, this is 100% of the collection!
 
 Also see the [File Formats FAQ](/help/file_formats.html) for more detailed discussion of formats.
 
