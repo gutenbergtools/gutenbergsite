@@ -464,7 +464,7 @@ only screen and (max-device-width: 1200px) {
 .page_content{
     position: absolute;
     top:0px;
-	margin-top:60px;
+	margin-top: 80px;
 	padding-bottom: 30px;
 }
 
@@ -593,7 +593,9 @@ only screen and (max-device-width: 1200px) {
 .page_content	a:active {
 	color: brown;
 	}
-
+.page-body {
+    padding-top: 1px;
+}
 
 .anchor a{
 	top:-80px;

@@ -131,7 +131,7 @@ div.badge:hover{opacity:0.8;}
 #helpbox{border:1px solid #d9d6c4;border-radius:0.5em;overflow:hidden;box-shadow:3px 3px 3px rgba(0,0,0,0.1);float:right;clear:both;margin:1em 1em 0 1em;background-color:white;}
 #helpbox > div{margin:1em 1em 0 1em;}div.breadcrumbs > ul{padding:0;list-style:none outside none;}
 div.breadcrumbs > ul > li{display:inline-block;}div.breadcrumbs > ul > li.next:before{content:"›";}
-#cover-social-wrapper{position:absolute;/*left:0;*/width:200px;/*margin:0 1em;*/}
+#cover-social-wrapper{/*left:0;*/width:200px;float:left;/*margin:0 1em;*/}
 #cover{width:200px;}#cover img{box-shadow:5px 5px 5px rgba(0,0,0,0.7);}
 #no-cover{width:200px;height:300px;border:1px solid gray;}
 #no-cover > div.icon{position:relative;top:139px;left:89px;}
@@ -140,7 +140,7 @@ div.breadcrumbs > ul > li{display:inline-block;}div.breadcrumbs > ul > li.next:b
 #social > ul{padding:0;list-style:none outside none;}
 #social > ul > li{display:inline-block;}
 #qr{margin-top:2em;}.qrcode{display:inline-block;width:116px;height:116px;}.qrcode.qrcode-desktop{background-position:0 0;}.qrcode.qrcode-mobile{background-position:-120px 0;}
-#tabs-wrapper{clear:both;margin:0 1em 0 200px;}
+#tabs-wrapper{margin:0 1em 0 200px;}
 #tabs{margin-left:2em;}div.clearfix{clear:both;content:".";display:block;height:0;visibility:hidden;}
 div.copyright{margin:2em 1em;font-size:70%;}
 .paypal-button{min-width:74px;height:21px;}
