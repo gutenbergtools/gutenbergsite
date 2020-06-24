@@ -462,7 +462,9 @@ only screen and (max-device-width: 1200px) {
 	}
 }*/
 .page_content{
-	margin-top:40px;
+    position: absolute;
+    top:0px;
+	margin-top:60px;
 	padding-bottom: 30px;
 }
 
