@@ -462,9 +462,7 @@ only screen and (max-device-width: 1200px) {
 	}
 }*/
 .page_content{
-    position: absolute;
-    top:0px;
-	margin-top: 80px;
+	margin-top: 40px;
 	padding-bottom: 30px;
 }
 
@@ -503,8 +501,6 @@ only screen and (max-device-width: 1200px) {
 .page_content h1::before {
 	display: block;
 	content: "";
-	margin-top: -120px;
-	height: 120px;
 	visibility: hidden;
 	pointer-events: none;
 }
