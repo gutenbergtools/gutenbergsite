@@ -19,10 +19,12 @@ nav {
 
 nav .searchbox{
 	position: relative;
-	float:right;
+	float:left;
 	width:320px;
-	padding:10px;
-
+	padding:3px;
+}
+nav .donatelink {
+    padding: 8px;
 }
 nav .searchbox input[type=text]{
 	height:25px;
