@@ -21,7 +21,7 @@ Think of this as a contribution to later generations. These are remarkable times
 
   <input type="hidden" name="cmd" value="_s-xclick" />
   <input type="hidden" name="hosted_button_id" value="XKAL6BZL3YPSN" />
-  <input type="image" src="/pics/en_US.gif" 
+  <input type="image" src="/pics/en_US062920.gif" 
 	 border="0" name="submit" alt="One-time donation by PayPal" 
          style="vertical-align: middle" />
 
