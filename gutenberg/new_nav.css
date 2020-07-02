@@ -253,7 +253,7 @@ nav {
   
   /* Put theme-specific colors here to make it easy to switch between themes */
   /* ORIGINAL THEME */
-  /* nav {
+  nav {
     background-color: #EDDAB7;
     color: #000000;
   }
@@ -273,11 +273,11 @@ nav {
   }
   nav .donate {
     background-color: #F5ECDB;
-  } */
+  }
   
   
   /* BLUE THEME */
-  
+/*   
   nav {
     background-color: #7ebed0;
     color: #000000;
@@ -299,7 +299,7 @@ nav {
   nav .donate {
     background-color: #c7dde3;
   }
- 
+  */
   
   
   /* GOLD THEME */
