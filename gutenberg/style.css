@@ -769,7 +769,7 @@ ul.results li::before {
 
 
 /* BLUE THEME */
-/*
+
 library .latest h1 {
 	color: #A01F13;
 	border-bottom: 2px solid #A01F13;
@@ -790,12 +790,12 @@ library .latest h1 {
 .footer a:link, .footer a:visited, .footer a:hover, .footer a:active  {
 	color: #006479;
 }
-*/
+
 
 
 /* GOLD THEME */
 
-library .latest h1 {
+/* library .latest h1 {
 	color: #A01F13;
 	border-bottom: 2px solid #A01F13;
 }
@@ -814,7 +814,7 @@ library .latest h1 {
 }
 .footer a:link, .footer a:visited, .footer a:hover, .footer a:active  {
 	color: #006479;
-}
+} */
 
 
 
