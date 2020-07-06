@@ -149,10 +149,6 @@ nav {
     -webkit-transition: all .125s ease-in-out;
   }
   
-  #menu a:hover {
-    color: #09c;
-  }
-  
   #menu .sub-menu {
     display: none;
   }
@@ -220,7 +216,8 @@ nav {
       z-index: 3000;
       max-height: 80vh;
       overflow-y: auto;
-     }
+      font-weight: normal;
+    }
   
     #menu .sub-menu,
     #menu input[type="checkbox"]:checked + .sub-menu {
@@ -263,6 +260,9 @@ nav {
   #menu .main-menu {
     background-color: #EDDAB7;
   }
+  #menu a:hover {
+    color: #27778f;
+  }
   @media only screen and (min-width: 1024px) {
     #menu .main-menu li {
       background-color: #EDDAB7;
@@ -277,7 +277,7 @@ nav {
   
   
   /* BLUE THEME */
-/*   
+  /*
   nav {
     background-color: #7ebed0;
     color: #000000;
@@ -288,12 +288,18 @@ nav {
   #menu .main-menu {
     background-color: #7ebed0;
   }
+  #menu a:hover {
+    color: #27778f;
+  }
   @media only screen and (min-width: 1024px) {
     #menu .main-menu li {
       background-color: #7ebed0;
     }
   }
   #menu .sub-menu {
+    background-color: #7ebed0;
+  }
+  #menu .sub-menu li {
     background-color: #a3cdda;
   }
   nav .donate {
@@ -303,8 +309,8 @@ nav {
   
   
   /* GOLD THEME */
-  
-  /* nav {
+  /*
+  nav {
     background-color: #edd194;
     color: #000000;
   }
@@ -314,18 +320,24 @@ nav {
   #menu .main-menu {
     background-color: #edd194;
   }
+  #menu a:hover {
+    color: #27778f;
+  }
   @media only screen and (min-width: 1024px) {
     #menu .main-menu li {
       background-color: #edd194;
     }
   }
   #menu .sub-menu {
+    background-color: #edd194;
+  }
+  #menu .sub-menu li {
     background-color: #f0dca9;
   }
   nav .donate {
     background-color: #f3e8be;
-  } */
- 
+  }
+  */
   
   
   
