@@ -7,9 +7,9 @@ permalink: /
 Welcome to Project Gutenberg (public beta test site)
 ====================================================
 <div class="box_announce">  
-**New website available for testing.** This is a new website, undergoing evaluation. There may be occasional outages, as the site is improved. *This is the test and development site. Not all functions are implemented, and not all content has been moved from the [www.gutenberg.org](https://www.gutenberg.org) site yet. See the [new website](/help/new_website) page for information about currently known issues, and how to report problems or suggest changes.*
+<p><strong>New website available for testing.</strong> This is a new website, undergoing evaluation. There may be occasional outages, as the site is improved. <em>This is the test and development site. Not all functions are implemented, and not all content has been moved from the <a href="https://www.gutenberg.org">www.gutenberg.org</a> site yet. See the <a href="/help/new_website">new website</a> page for information about currently known issues, and how to report problems or suggest changes.</em></p>
 
-After visiting the new website, please consider providing your input and suggestions via an [anonymous online survey](https://docs.google.com/forms/d/e/1FAIpQLSdY8XVj8n5CVpo3Dref2mkiqnK2jmeBJBF0IKntupuxcEeK4g/viewform). 
+<p>After visiting the new website, please consider providing your input and suggestions via an <a href="https://docs.google.com/forms/d/e/1FAIpQLSdY8XVj8n5CVpo3Dref2mkiqnK2jmeBJBF0IKntupuxcEeK4g/viewform">anonymous online survey</a>.</p> 
 </div>
 **Project Gutenberg** is a library of over 60,000 free eBooks. Choose among free epub and Kindle eBooks, download them or read them online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for you to enjoy. 
 
@@ -30,6 +30,7 @@ After visiting the new website, please consider providing your input and suggest
 
 ## Help and Information
 <div class="box_shadow>
+
 - [Frequently Asked Questions](/help/faq.html) about Project Gutenberg.
 - [Help, How-To and FAQs](/help/): In depth information about many topics.
 - [Tablets, phones and eReaders How-To](/help/mobile.html): Using tablets, Kindle, Nook, cell phone, and other mobile devices and readers.
