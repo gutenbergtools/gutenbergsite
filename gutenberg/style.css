@@ -554,6 +554,7 @@ only screen and (max-device-width: 1200px) {
 }
 .page_content a:link {
 	color: #003366;
+	text-decoration: underline;
 }
 
 .page_content a:visited {
