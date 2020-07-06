@@ -56,12 +56,7 @@ The [Distributed Proofreaders](https://www.pgdp.net/) site includes active forum
 
 ## Find Project Gutenberg on social media
 * {:.icon-list} [![Facebook Icon](/gutenberg/f_icon.png)](https://www.facebook.com/project.gutenberg)
-* [![Facebook Icon](/gutenberg/t_icon.png)](https://www.facebook.com/project.gutenberg)
+* [![Twitter Icon](/gutenberg/t_icon.png)](https://www.facebook.com/project.gutenberg)
 * News feed of new eBooks:
-Facebook: [https://www.facebook.com/project.gutenberg](https://www.facebook.com/project.gutenberg)
-
-Facebook news feed of new eBooks: [https://www.facebook.com/gutenberg.new](https://www.facebook.com/gutenberg.new)
-
-Twitter  [https://twitter.com/gutenberg\_org](https://twitter.com/gutenberg_org) @gutenberg\_org
-
-Twitter news feed of new eBooks: [https://twitter.com/gutenberg\_new](https://twitter.com/gutenberg_new) @gutenberg\_new  
+* [![Facebook News Feed Icon](/gutenberg/f_news_icon.png)](https://www.facebook.com/gutenberg.new)
+* [![Twitter News Feed Icon](/gutenberg/t_news_icon.png)](https://twitter.com/gutenberg_new)
