@@ -33,6 +33,7 @@ Here are pages that give background about Project Gutenberg, including how new i
        <li><a href="/help/public_domain_ebook_submission.html">Public Domain eBook Submission How-To</a></li>
       <h2>S</h2>
        <li><a href="/help/submitting_your_own_work.html">Submitting Your Own Work How-To</a></li>
+       <li><a href="/help/subscribe_how_to.html">Subscribe How-To</a></li>
       <h2>T</h2>
        <li><a href="/help/mobile.html">Tablets, Phones and eReaders How-To</a></li>
        <li><a href="/policy/license.html">Trademark License</a></li>
