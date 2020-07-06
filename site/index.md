@@ -70,7 +70,7 @@ Welcome to Project Gutenberg (public beta test site)
     <li><a href="https://twitter.com/gutenberg_org">
       <img src="/gutenberg/t_icon.png" alt="Twitter Icon" />
     </a></li>
-    <li>News feed of new eBooks:</li>
+    <li>News feeds of new eBooks:</li>
     <li><a href="https://www.facebook.com/gutenberg.new">
       <img src="/gutenberg/f_news_icon.png" alt="Facebook News Feed Icon" />
     </a></li>
