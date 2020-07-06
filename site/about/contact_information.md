@@ -49,7 +49,7 @@ If you need to send printed mail, please consider instead scanning and emailing 
 <dd>  Salt Lake City, UT 84116</dd></dl>
 
 ## Newsletter and Discussion Lists
-For subscribing our mailing lists, visit our [Subscribe How-To](/attic/subscribe_how_to.html) page. There is a monthly email newsletter, also some discussion lists (gutvol-d is the most active, for discussions among volunteers). 
+For subscribing our mailing lists, visit our [Subscribe How-To](/help/subscribe_how_to.html) page. There is a monthly email newsletter, also some discussion lists (gutvol-d is the most active, for discussions among volunteers). 
 
 ## Distributed Proofreaders
 The [Distributed Proofreaders](https://www.pgdp.net/) site includes active forums, FAQs and other items of interest for eBook lovers, eBook creators and potential creators. Contact information is available at the site, and online forums are also used for discussions and inquiries. 

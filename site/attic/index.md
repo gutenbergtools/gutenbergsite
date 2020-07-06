@@ -43,7 +43,7 @@ The future will bring continued innovation, and ongoing focus on the mission of 
       <h2>S</h2>
        <li><a href="/attic/scanning_faq.html">Scanning FAQ (old)</a></li>
        <li><a href="/attic/sheet_music.html">Sheet Music How-To (old)</a></li>
-       <li><a href="/attic/subscribe_how_to.html">Subscribe How-To (old)</a></li>
+       <li><a href="/help/subscribe_how_to.html">Subscribe How-To (old)</a></li>
       <h2>T</h2>
        <li><a href="/attic/tools_faq.html">Tools FAQ (old)</a></li>
       <h2>V</h2>
