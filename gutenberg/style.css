@@ -521,7 +521,6 @@ only screen and (max-device-width: 1200px) {
 	pointer-events: none;
 }
 .page_content > ul li::before {
-	content: "\25AA";
 	color: #A01F13;
 	display: inline-block;
 	width: 1em;
@@ -624,7 +623,6 @@ text-align:center;
 	bottom: 0;
 	text-align: center;
 	font-size: 0.9em;
-	height: 30px;
 	width: 100%;
 }
 
