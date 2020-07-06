@@ -29,13 +29,13 @@ Welcome to Project Gutenberg (public beta test site)
 - Visit [self.gutenberg.org](http://self.gutenberg.org) for free eBooks by contemporary authors.
 
 ## Help and Information
-<div class="box_shadow>
-
-- [Frequently Asked Questions](/help/faq.html) about Project Gutenberg.
-- [Help, How-To and FAQs](/help/): In depth information about many topics.
-- [Tablets, phones and eReaders How-To](/help/mobile.html): Using tablets, Kindle, Nook, cell phone, and other mobile devices and readers.
-
-</div>
+  <div class="box_shadow">
+    <ul>
+      <li><a href="/help/faq.html">Frequently Asked Questions</a> about Project Gutenberg.</li>
+      <li><a href="/help/">Help, How-To and FAQs</a>: In depth information about many topics.</li>
+      <li><a href="/help/mobile.html">Tablets, phones and eReaders How-To</a>: Using tablets, Kindle, Nook, cell phone, and other mobile devices and readers.</li>
+    </ul>
+  </div>
 
 ## How to Help
 
