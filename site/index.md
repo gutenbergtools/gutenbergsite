@@ -62,11 +62,21 @@ The Project Gutenberg website is for human users only. Use of automated tools to
 </div>
 
 ## Find Project Gutenberg on social media
-* {:.icon-list} [![Facebook Icon](/gutenberg/f_icon.png)](https://www.facebook.com/project.gutenberg)
-* [![Twitter Icon](/gutenberg/t_icon.png)](https://www.facebook.com/project.gutenberg)
-* News feed of new eBooks:
-* [![Facebook News Feed Icon](/gutenberg/f_news_icon.png)](https://www.facebook.com/gutenberg.new)
-* [![Twitter News Feed Icon](/gutenberg/t_news_icon.png)](https://twitter.com/gutenberg_new) 
+<ul class="icon-list">
+    <li><a href="https://www.facebook.com/project.gutenberg">
+      <img src="/gutenberg/f_icon.png" alt="Facebook Icon" />
+    </a></li>
+    <li><a href="https://twitter.com/gutenberg_org">
+      <img src="/gutenberg/t_icon.png" alt="Twitter Icon" />
+    </a></li>
+    <li>News feed of new eBooks:</li>
+    <li><a href="https://www.facebook.com/gutenberg.new">
+      <img src="/gutenberg/f_news_icon.png" alt="Facebook News Feed Icon" />
+    </a></li>
+    <li><a href="https://twitter.com/gutenberg_new">
+      <img src="/gutenberg/t_news_icon.png" alt="Twitter News Feed Icon" />
+    </a></li>
+  </ul>
 
 ## Contact Info
 
