@@ -6,11 +6,11 @@ permalink: /
 
 Welcome to Project Gutenberg (public beta test site)
 ====================================================
-
+<div class="box_announce">  
 **New website available for testing.** This is a new website, undergoing evaluation. There may be occasional outages, as the site is improved. *This is the test and development site. Not all functions are implemented, and not all content has been moved from the [www.gutenberg.org](https://www.gutenberg.org) site yet. See the [new website](/help/new_website) page for information about currently known issues, and how to report problems or suggest changes.*
 
 After visiting the new website, please consider providing your input and suggestions via an [anonymous online survey](https://docs.google.com/forms/d/e/1FAIpQLSdY8XVj8n5CVpo3Dref2mkiqnK2jmeBJBF0IKntupuxcEeK4g/viewform). 
-
+</div>
 **Project Gutenberg** is a library of over 60,000 free eBooks. Choose among free epub and Kindle eBooks, download them or read them online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for you to enjoy. 
 
 {% include latest_books_template.html %}
@@ -29,10 +29,12 @@ After visiting the new website, please consider providing your input and suggest
 - Visit [self.gutenberg.org](http://self.gutenberg.org) for free eBooks by contemporary authors.
 
 ## Help and Information
-
+<div class="box_shadow>
 - [Frequently Asked Questions](/help/faq.html) about Project Gutenberg.
 - [Help, How-To and FAQs](/help/): In depth information about many topics.
 - [Tablets, phones and eReaders How-To](/help/mobile.html): Using tablets, Kindle, Nook, cell phone, and other mobile devices and readers.
+
+</div>
 
 ## How to Help
 
@@ -54,11 +56,9 @@ After visiting the new website, please consider providing your input and suggest
 ## Terms of Use
 
 <div class="box_shadow">
-Project Gutenberg eBooks may be freely used in the United States because most are not protected by U.S. copyright law. They may not be free of copyright in other countries. Readers outside of the United States must check the copyright terms of their countries before accessing, downloading or redistributing eBooks. We also have a number of copyrighted titles, for which the copyright holder has given permission for unlimited non-commercial worldwide use.
-</div>
+<p>Project Gutenberg eBooks may be freely used in the United States because most are not protected by U.S. copyright law. They may not be free of copyright in other countries. Readers outside of the United States must check the copyright terms of their countries before accessing, downloading or redistributing eBooks. We also have a number of copyrighted titles, for which the copyright holder has given permission for unlimited non-commercial worldwide use.</p>
 
-<div class="box_shadow">
-The Project Gutenberg website is for human users only. Use of automated tools to access the website may trigger a block of your access. This site utilizes cookies, captchas and related technologies to help assure the site is maximally available for human users. See full terms of use <a href="/policy/terms_of_use.html">here</a>.
+<p>The Project Gutenberg website is for human users only. Use of automated tools to access the website may trigger a block of your access. This site utilizes cookies, captchas and related technologies to help assure the site is maximally available for human users. See full terms of use <a href="/policy/terms_of_use.html">here</a>.</p>
 </div>
 
 ## Find Project Gutenberg on social media
@@ -78,8 +78,8 @@ The Project Gutenberg website is for human users only. Use of automated tools to
     </a></li>
   </ul>
 
-## Contact Info
+<!-- ## Contact Info
 
 - [Contact Information](/about/contact_information.html): How to get in touch.
-- [Mailing lists](https://lists.pglaf.org/): Subscribe to the monthly newsletter.
+- [Mailing lists](https://lists.pglaf.org/): Subscribe to the monthly newsletter. -->
 
