@@ -55,6 +55,9 @@ For subscribing our mailing lists, visit our [Subscribe How-To] page. There is a
 The [Distributed Proofreaders](https://www.pgdp.net/) site includes active forums, FAQs and other items of interest for eBook lovers, eBook creators and potential creators. Contact information is available at the site, and online forums are also used for discussions and inquiries. 
 
 ## Find Project Gutenberg on social media
+* {:.icon-list} [![Facebook Icon](/gutenberg/f_icon.png)](https://www.facebook.com/project.gutenberg)
+* [![Facebook Icon](/gutenberg/t_icon.png)](https://www.facebook.com/project.gutenberg)
+* News feed of new eBooks:
 Facebook: [https://www.facebook.com/project.gutenberg](https://www.facebook.com/project.gutenberg)
 
 Facebook news feed of new eBooks: [https://www.facebook.com/gutenberg.new](https://www.facebook.com/gutenberg.new)
