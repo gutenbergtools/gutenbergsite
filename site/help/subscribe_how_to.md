@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Subscribe How-To (old) | Project Gutenberg
-permalink: /attic/subscribe_how_to.html
+title: Subscribe How-To | Project Gutenberg
+permalink: /help/subscribe_how_to.html
 ---
 
-Subscribe How-To (old)
+Subscribe How-To
 ======================
 
 This page is partially or entirely outdated: Please see current guidance in the [help section](/help/). Visit [lists.pglaf.org](https://lists.pglaf.org) to subscribe to the periodic newsletter.
