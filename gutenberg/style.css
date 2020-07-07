@@ -399,8 +399,6 @@ book */
 }
 
 
-
-
 /* ==================================================
 about */
 .about {
@@ -521,6 +519,7 @@ only screen and (max-device-width: 1200px) {
 	pointer-events: none;
 }
 .page_content > ul li::before {
+	content: "\25AA";
 	color: #A01F13;
 	display: inline-block;
 	width: 1em;
@@ -616,6 +615,17 @@ text-align:center;
 	font-weight: bold;
 }
 
+ul.icon-list {
+	list-style-type: none;
+}
+
+ul.icon-list li {
+	display: inline-block;
+	padding: 30px;
+}
+
+/* ==================================================
+footer */
 .footer {
 	position: absolute;
 	left: 0;
@@ -756,6 +766,10 @@ library .latest h1 {
 	//border:2px outset #F5ECDB;
 	border: 1px solid #eddab7;
 }
+.box_announce {
+	background-color: #f2dede;
+	border: 1px solid #ebccd1;
+}
 .page_content h1 {
 	color: #A01F13;
 	border-bottom: 2px solid #A01F13;
@@ -767,8 +781,8 @@ library .latest h1 {
 
 
 /* BLUE THEME */
-
-/* library .latest h1 {
+/*
+library .latest h1 {
 	color: #A01F13;
 	border-bottom: 2px solid #A01F13;
 }
@@ -776,10 +790,17 @@ library .latest h1 {
 	background-color: #d9eaef;
 	border: 1px solid #b2c3c4;
 }
+.box_announce {
+	background-color: #f2dede;
+	border: 1px solid #ebccd1;
+}
 .page_content h1 {
 	color: #aa873b;
 }
 .page_content h2 {
+	color: #9b8053;
+}
+.page_content h2.subtitle {
 	color: #9b8053;
 }
 .footer {
@@ -787,13 +808,13 @@ library .latest h1 {
 }
 .footer a:link, .footer a:visited, .footer a:hover, .footer a:active  {
 	color: #006479;
-} */
-
+}
+*/
 
 
 /* GOLD THEME */
-
-/* library .latest h1 {
+/*
+library .latest h1 {
 	color: #A01F13;
 	border-bottom: 2px solid #A01F13;
 }
@@ -801,18 +822,25 @@ library .latest h1 {
 	background-color: #f3e8be;
 	border: 1px solid #eddab7;
 }
+.box_announce {
+	background-color: #f9dabf;
+	border: 1px solid #f4c398;
+}
 .page_content h1 {
 	color: #967f38;
 }
 .page_content h2 {
 	color: #967f38;
 }
+.page_content h2.subtitle {
+	color: #9a7000;
+}
 .footer {
 	border-top: 3px solid #e2cc93;
 }
 .footer a:link, .footer a:visited, .footer a:hover, .footer a:active  {
 	color: #006479;
-} */
-
+}
+*/
 
 
