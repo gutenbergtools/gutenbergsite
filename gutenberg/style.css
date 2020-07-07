@@ -752,6 +752,10 @@ ul.results li::before {
 	height: 310px;
 }
 
+.box_announce {
+    padding: 0em 1em;
+}
+
 /* Put theme-specific colors here to make it easy to switch between themes */
 /* ORIGINAL THEME */
 library .latest h1 {
