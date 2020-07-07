@@ -6,12 +6,13 @@ permalink: /
 
 Welcome to Project Gutenberg (public beta test site)
 ====================================================
+<h2 class="subtitle">Project Gutenberg is a library of over 60,000 free eBooks</h2>
 <div class="box_announce">  
 <p><strong>New website available for testing.</strong> This is a new website, undergoing evaluation. There may be occasional outages, as the site is improved. <em>This is the test and development site. Not all functions are implemented, and not all content has been moved from the <a href="https://www.gutenberg.org">www.gutenberg.org</a> site yet. See the <a href="/help/new_website">new website</a> page for information about currently known issues, and how to report problems or suggest changes.</em></p>
 
 <p>After visiting the new website, please consider providing your input and suggestions via an <a href="https://docs.google.com/forms/d/e/1FAIpQLSdY8XVj8n5CVpo3Dref2mkiqnK2jmeBJBF0IKntupuxcEeK4g/viewform">anonymous online survey</a>.</p> 
 </div>
-**Project Gutenberg** is a library of over 60,000 free eBooks. Choose among free epub and Kindle eBooks, download them or read them online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for you to enjoy. 
+Choose among free epub and Kindle eBooks, download them or read them online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for you to enjoy. 
 
 {% include latest_books_template.html %}
 
