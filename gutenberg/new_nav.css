@@ -269,6 +269,9 @@ nav {
     }
   }
   #menu .sub-menu {
+    background-color: #EDDAB7;
+  }
+  #menu .sub-menu li {
     background-color: #f0e1c5;
   }
   nav .donate {

@@ -29,7 +29,7 @@ Choose among free epub and Kindle eBooks, download them or read them online. You
 - [Recently added](/ebooks/search/?query=&submit_search=Search&sort_order=release_date). The latest new and updated eBooks.
 - Visit [self.gutenberg.org](http://self.gutenberg.org) for free eBooks by contemporary authors.
 
-## Help and Information
+## Get Help
   <div class="box_shadow">
     <ul>
       <li><a href="/help/faq.html">Frequently Asked Questions</a> about Project Gutenberg.</li>
@@ -63,7 +63,7 @@ Choose among free epub and Kindle eBooks, download them or read them online. You
 <p>The Project Gutenberg website is for human users only. Use of automated tools to access the website may trigger a block of your access. This site utilizes cookies, captchas and related technologies to help assure the site is maximally available for human users. See full terms of use <a href="/policy/terms_of_use.html">here</a>.</p>
 </div>
 
-## Find Project Gutenberg on social media
+## Social Media
 <ul class="icon-list">
     <li><a href="https://www.facebook.com/project.gutenberg">
       <img src="/gutenberg/f_icon.png" alt="Facebook Icon" />

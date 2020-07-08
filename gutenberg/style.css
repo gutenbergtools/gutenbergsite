@@ -648,7 +648,9 @@ footer */
 	overflow: hidden;
 	height: 70px;
 	text-decoration: none;
-	text-align: center;
+    text-align: center;
+    position: absolute;
+    width: 100px;
 }
 .cover_title h5:hover {
 	overflow-y: visible;
@@ -776,11 +778,11 @@ library .latest h1 {
 }
 .page_content h1 {
 	color: #A01F13;
-	border-bottom: 2px solid #A01F13;
+	/* border-bottom: 2px solid #A01F13; */
 }
 .page_content h2 {
 	color: #A01F13;
-	border-bottom: 2px solid #A01F13;
+	/* border-bottom: 2px solid #A01F13; */
 }
 
 
