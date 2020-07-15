@@ -761,15 +761,12 @@ ul.results li::before {
 
 /* Put theme-specific colors here to make it easy to switch between themes */
 /* ORIGINAL THEME */
-library .latest h1 {
-	/* color: #999999; */
+/* library .latest h1 {
 	color: #A01F13;
 	border-bottom: 2px solid #A01F13;
 }
 .box_shadow {
-	/* box-shadow: 10px 10px 8px #F5ECDB; */
 	background-color: #F5ECDB;
-	/* border:2px outset #F5ECDB; */
 	border: 1px solid #eddab7;
 }
 .box_announce {
@@ -778,16 +775,14 @@ library .latest h1 {
 }
 .page_content h1 {
 	color: #A01F13;
-	/* border-bottom: 2px solid #A01F13; */
 }
 .page_content h2 {
 	color: #A01F13;
-	/* border-bottom: 2px solid #A01F13; */
-}
+} */
 
 
 /* BLUE THEME */
-/*
+
 library .latest h1 {
 	color: #A01F13;
 	border-bottom: 2px solid #A01F13;
@@ -815,7 +810,7 @@ library .latest h1 {
 .footer a:link, .footer a:visited, .footer a:hover, .footer a:active  {
 	color: #006479;
 }
-*/
+
 
 
 /* GOLD THEME */
