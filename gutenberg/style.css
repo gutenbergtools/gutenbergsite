@@ -162,9 +162,9 @@ container */
 }
 
 ul {
-	list-style-type: none;
+	list-style-type: "\2022";
 	margin: 0;
-	padding: 0;
+	padding-left: 10px;
 }
 
 
@@ -522,7 +522,7 @@ only screen and (max-device-width: 1200px) {
 	color: #A01F13;
 	display: inline-block;
 	width: 1em;
-	margin-left: -1em;
+	/*margin-left: -1em;*/
 	/*font-size: small;*/
 }
 @media only screen and (min-width: 750px) {
@@ -535,7 +535,7 @@ only screen and (max-device-width: 1200px) {
 }
 
 .page_content ul li {
-	list-style: none;
+	/* list-style: none; */
 	padding: 5px;
 }
 
