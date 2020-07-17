@@ -116,21 +116,27 @@ input[type='checkbox'] {
   text-align: center;*/
 }
 
-.button {
+.page_content a.button {
   font-size: 1em;
+  font-weight: bold;
   padding: 10px;
-  /*color: #fff;*/
-  border: 2px solid #000000;
+  color: #b1635d;
+  border: 2px solid #a28961;
   border-radius: 20px/50px;
+  /*border-radius: 25px;*/
   text-decoration: none;
+  background: #f4eee3;
   cursor: pointer;
   transition: all 0.3s ease-out;
   display: inline;
   float:right;
 }
-.button:hover {
-  background: #06D85F;
-}
+.page_content a.button:hover {
+  /*background: #06D85F;*/
+  background: #cbb582;
+  text-decoration: none;
+  color: #954645;
+
 
 .overlay {
   position: fixed;
