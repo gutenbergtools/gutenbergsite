@@ -761,6 +761,7 @@ ul.results li::before {
 
 /* Put theme-specific colors here to make it easy to switch between themes */
 /* ORIGINAL THEME */
+/*
 library .latest h1 {
 	color: #A01F13;
 	border-bottom: 2px solid #A01F13;
@@ -779,10 +780,10 @@ library .latest h1 {
 .page_content h2 {
 	color: #A01F13;
 }
-
+*/
 
 /* BLUE THEME */
-/* 
+/*
 library .latest h1 {
 	color: #A01F13;
 	border-bottom: 2px solid #A01F13;
@@ -809,12 +810,12 @@ library .latest h1 {
 }
 .footer a:link, .footer a:visited, .footer a:hover, .footer a:active  {
 	color: #006479;
-} */
-
+}
+*/
 
 
 /* GOLD THEME */
-/*
+
 library .latest h1 {
 	color: #A01F13;
 	border-bottom: 2px solid #A01F13;
@@ -842,6 +843,6 @@ library .latest h1 {
 .footer a:link, .footer a:visited, .footer a:hover, .footer a:active  {
 	color: #006479;
 }
-*/
+
 
 
