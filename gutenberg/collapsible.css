@@ -121,8 +121,8 @@ input[type='checkbox'] {
   font-weight: bold;
   padding: 10px;
   color: #b1635d;
-  border: 2px solid #a28961;
-  border-radius: 20px/50px;
+  /*border: 2px solid #a28961;*/
+  border-radius: 50px/50px;
   /*border-radius: 25px;*/
   text-decoration: none;
   background: #f4eee3;
