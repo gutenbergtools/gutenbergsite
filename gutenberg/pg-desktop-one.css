@@ -210,7 +210,7 @@ ul.results li{-webkit-column-break-inside:avoid;-moz-column-break-inside:avoid;-
 ul.results li a.link{display:block;text-decoration:none;}
 ul.results li .padded{padding:0.5em 0.5em;}
 ul.results li.h2,ul.results li.statusline{background:#eceadf;color:inherit;background-color:#eceadf;}
-.cell{padding: 0.2em 1.8em;}
+.cell{padding: 0.2em 1.2em;}
 .cell.leftcell{float:left;vertical-align:top;}
 .cell.content{display:block;margin-left:50px;padding-left:1em;color:#a01f13;}
 .cell.content:hover{color:#8d770b;}

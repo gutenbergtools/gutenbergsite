@@ -7,6 +7,53 @@ permalink: /ebooks/index.html
 Search
 ======
 <div class="page_content">
+<style type="text/css">
+.icon   { background-image: url(/pics/sprite.png?1591823171);
+	  width: 23px;
+	height: 23px; }
+</style>
+<li class="navlink">
+<a class="link" href="/ebooks/search/?sort_order=downloads" accesskey="0">
+<span class="cell leftcell without-cover">
+<span class="icon-wrapper">
+<span class="icon icon_popular"></span>
+</span>
+</span>
+<span class="cell content">
+<span class="title">Popular</span>
+<span class="subtitle">Our most popular books.</span>
+</span>
+<span class="hstrut"></span>
+</a>
+</li>
+<li class="navlink">
+<a class="link" href="/ebooks/search/?sort_order=release_date" accesskey="1">
+<span class="cell leftcell without-cover">
+<span class="icon-wrapper">
+<span class="icon icon_date"></span>
+</span>
+</span>
+<span class="cell content">
+<span class="title">Latest</span>
+<span class="subtitle">Our latest releases.</span>
+</span>
+<span class="hstrut"></span>
+</a>
+</li>
+<li class="navlink">
+<a class="link" href="/ebooks/search/?sort_order=random" accesskey="2">
+<span class="cell leftcell without-cover">
+<span class="icon-wrapper">
+<span class="icon icon_random"></span>
+</span>
+</span>
+<span class="cell content">
+<span class="title">Random</span>
+<span class="subtitle">Random books.</span>
+</span>
+<span class="hstrut"></span>
+</a>
+</li>
 <a class="button" href="#popup1">Help</a>	
  <div id="popup1" class="overlay">
   <div class="popup">
