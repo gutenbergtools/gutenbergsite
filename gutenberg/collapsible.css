@@ -102,7 +102,14 @@ input[type='checkbox'] {
   display: table-cell;
 }*/
 .search input[type="text"]{
-  width: 400px;
+  height: 24px;
+  width: 250px;
+  border-radius: 8px;
+  color: #0d0908;
+  background-color: #60a3bc30;
+  padding-right: 10px;
+  padding-left: 10px;
+  border: none;
 }
 
 .box {
