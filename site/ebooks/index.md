@@ -12,6 +12,7 @@ Search
 	  width: 23px;
 	height: 23px; }
 </style>
+<div>
 <li class="navlink">
 <a class="link" href="/ebooks/search/?sort_order=downloads" accesskey="0">
 <span class="cell leftcell without-cover">
@@ -54,6 +55,7 @@ Search
 <span class="hstrut"></span>
 </a>
 </li>
+</div>
 <a class="button" href="#popup1">Help</a>	
  <div id="popup1" class="overlay">
   <div class="popup">
