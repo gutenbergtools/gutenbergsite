@@ -169,8 +169,8 @@ div.copyright{margin:2em 1em;font-size:70%;}
 th,.shaded,.subcaption,.msgsubcaption,table.tablet,table.tablet td,caption,.caption,.msgcaption,.pagedesc{background-color:#eceadf;}
 a{color:black;}
 a:visited{color:#654b24;}
-a:hover{background-color:#eceadf;}
-.hover:hover{background-color:#eceadf;}
+/* a:hover{background-color:#eceadf;}
+.hover:hover{background-color:#eceadf;} */
 .h1{font-weight:bold;}
 img.cover-art{max-width:100%;}
 .ui-corner-all,.ui-corner-top,.ui-corner-left,.ui-corner-tl{border-top-left-radius:0.5em;}
