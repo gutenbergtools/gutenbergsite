@@ -25,17 +25,30 @@ nav {
     padding: 8px;
   }
   nav .searchbox input[type=text]{
-    height: 25px;
+    height: 24px;
     width: 250px;
     border-radius: 8px;
     color: black;
     background-color: #f5f5f5;
     padding-right: 10px;
     padding-left: 10px;
+    border:none;
+  }
+  nav .searchbox input[type="submit"]:hover {
+    text-shadow: 0px 0px 6px rgba(255, 255, 255, 1);
+    -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+    -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+     box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+    transition: all 0.4s ease 0s;
   }
   nav .searchbox input[type="submit"] {
-    padding-right: 0px;
-    padding-left: 0px;
+    color: #fff;
+    text-decoration: none;
+    background: #60a3bc;
+    padding: 6px;
+    border-radius: 40px;
+    display: inline-block;
+    border: none;
   }
   nav .donate {
     color: black;
