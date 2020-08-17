@@ -577,7 +577,7 @@ only screen and (max-device-width: 1200px) {
 	color: currentColor;
 	/*background:#E7E292;*/
 	text-decoration: underline;
-	background: #BDAE92;
+	/*background: #BDAE92;*/
 }
 .page_content	a:active {
 	color: brown;
@@ -585,6 +585,7 @@ only screen and (max-device-width: 1200px) {
 .page-body {
 	padding-top: 1px;
 }
+
 
 .anchor a {
 	top:-80px;
@@ -819,6 +820,9 @@ library .latest h1 {
 }
 .page_content h2.subtitle {
 	color: #9b8053;
+}
+.page_content a:hover {
+        background: #C7DDE3;
 }
 .footer {
 	background-color: #f0efea;
