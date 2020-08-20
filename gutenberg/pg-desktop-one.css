@@ -125,7 +125,7 @@ div.badge:hover{opacity:0.8;}
 #menubar a{margin-left:1em;padding:2px 0 1px 0;text-decoration:none;border-bottom:1px solid #cfcaaf;}
 #menubar span.grayed{margin-left:1em;color:gray;}
 #menubar #menubar-first{margin-left:0;}
-#search{background:#f5f4ef;border:1px solid #d9d5bf;border-width:0 1px 1px 0;padding:0.5em 0.5em;width:96%;}
+#search{padding:0.5em 0.5em;}
 #search table.borderless{background:white;width:100%;*width:auto;}
 #search td{border:1px solid #d9d5bf;background:transparent;}
 #search form.focused{outline:1px solid rgba(101,75,36,0.5);}

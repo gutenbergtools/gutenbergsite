@@ -102,7 +102,7 @@ input[type='checkbox'] {
   display: table-cell;
 }*/
 .search input[type="text"]{
-  height: 24px;
+  height: 28px;
   width: 250px;
   border-radius: 8px;
   color: #0d0908;
