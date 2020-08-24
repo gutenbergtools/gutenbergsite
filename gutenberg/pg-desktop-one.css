@@ -166,7 +166,10 @@ div.copyright{margin:2em 1em;font-size:70%;}
 .twitter-js-share-button{width:170px;height:20px;}
 .twitter-js-follow-button{width:170px;height:20px;}
 .rss-follow-button{height:20px;}
-th,.shaded,.subcaption,.msgsubcaption,table.tablet,table.tablet td,caption,.caption,.msgcaption,.pagedesc{background-color:#eceadf;}
+th,.shaded,.subcaption,.msgsubcaption,table.tablet,table.tablet td,caption,.msgcaption,.pagedesc{background-color:#eceadf;}
+caption {
+    font-weight: bold;
+}
 a{color:black;}
 a:visited{color:#654b24;}
 /* a:hover{background-color:#eceadf;}
