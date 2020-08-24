@@ -305,7 +305,7 @@ nav {
     background-color: #7ebed0;
   }
   #menu a:hover {
-    color: #cedcdf;
+    color: #fff;
     transition: all 0.4s ease 0s;
   }
   @media only screen and (min-width: 1024px) {
