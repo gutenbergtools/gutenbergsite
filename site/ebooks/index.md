@@ -163,7 +163,6 @@ Avoid punctuation except as indicated below:</p>
     <td>audio books by Jane Austen</td>
   </tr>
  </table>
-</p>
   </div>
  </div>
 </div>
