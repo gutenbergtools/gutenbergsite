@@ -83,16 +83,10 @@ HTML Best Practices -- https://www.pgdp.org/~jana/best-practices/ (this was writ
 1. Logo improvements. Some changes to the size and layout of the logos, which generally appear on the top left of the new website's pages. **Status: being worked on.**
 
 
-### HTML, server, search and autocat3 Related Issues
-1. HTML/autocat3: The session ID is included in the query parameters of Kindle and ePub download links. This could expose the session ID to intermediaries (caches, CDNs, ISPs). **Status: It's not clear whether or why this is necessary, since the downloads are to static files. It might be we can disable this.**
-2. HTML: Content-Security-Policy (CSP) header is not being returned. Implementing a CSP goes a long way in mitigating XSS attacks https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP). **Status: under investigation.**
-3. HTTPD: The server cache (Varnish) is returned in the X-Varnish and Via headers https://www.cvedetails.com/vulnerability-list/vendor_id-12937/Varnish-cache.html. **Status: This will be addressed during a forthcoming web server upgrade.**
-
-
 ### Search-related issues
 
 The [autocat3](https://github.com/gutenbergtools/autocat3) program handles search, and also generates landing pages. There are probably some remaining problems with how results are displayed, or possibly with wrong links in bibrec tabs. If you find a problem, please send the exact link or search you used, so we can replicate and fix.
 1. UI/Search: Search output order seems random.**Status: Defer. Search is handled by PostgreSQL, and unchanged from the current site. We will look into a different search implementation, for the future.**
 
-*Most recently updated: Jun 04, 2020*
+*Most recently updated: August 25, 2020*
 
