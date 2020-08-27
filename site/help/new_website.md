@@ -7,6 +7,17 @@ permalink: /help/new_website.html
 New Website 2020
 ================
 
+On August 26 2020, the Project Gutenberg website underwent some major changes. These changes had been previewed since early 2020, and visitors to the old site were invited to try the new site, including giving input via a brief survey.
+
+The old site is no longer available. If you found yourself on this page unexpectedly, it is because an old page was redirected here.
+
+Please use the navigation menus at the top of the page to find what you were looking for. All of the functionality, and most of the content, from the old site is still here - but in a different location.
+
+Below, find a description of the motivation behind the changes. Also find a description of known issues, and the items that were not brought to the new website (and how to find archived copies).
+
+THANK YOU for your patience as we continue to update the website to fix remaining problems, and maintain all the functionality and content that visitors expect. If you encounter an issue not described below, or have a suggestion, please email help2020@pglaf.org (details below on other ways of reporting issues).
+
+
 ## Known issues and "TO DO" items
 
 ### Functionality issues
