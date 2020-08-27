@@ -37,6 +37,8 @@ Here are pages that give background about Project Gutenberg, including how new i
       <h2>T</h2>
        <li><a href="/help/mobile.html">Tablets, Phones and eReaders How-To</a></li>
        <li><a href="/policy/license.html">Trademark License</a></li>
+      <h2>V</h2>
+       <li><a href="/help/volunteers_faq.html">Volunteers' FAQ</a></li>
       <h2>W</h2>
        <li><a href="/help/new_website.html">Website redesign 2020</a></li>
     </ul>
