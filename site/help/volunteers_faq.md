@@ -30,8 +30,8 @@ Distributed Proofreaders maintains canonical guidance on production.
 See especially:
 
 * [The Post-Processing FAQ](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Post-Processing_FAQ)
-* [Easy Epub](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy_Epub (It's a guide to how best to handle the HTML that goes through epubmaker to lead to passable epubs/mobis)
-* [HTML Best Practices](https://www.pgdp.org/~jana/best-practices/ (this was written a while back but DP tries to keep it up-to-date)
+* [Easy Epub](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy_Epub). This is a guide to how best to handle the HTML that goes through epubmaker to lead to passable epubs/mobis files.
+* [HTML Best Practices](https://www.pgdp.org/~jana/best-practices/). This was written a while back but DP tries to keep it up-to-date.
 
 Being a Solo Producer
 ---------------------
