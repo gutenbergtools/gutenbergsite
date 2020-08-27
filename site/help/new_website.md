@@ -9,6 +9,13 @@ New Website 2020
 
 ## Known issues and "TO DO" items
 
+### Functionality issues
+1. Roboting not working properly. URLs such as http://www.gutenberg.org/robot/harvest?filetypes[]=txt sometimes work, and sometimes generate a 500 server error. This might be a missing package on one of the back end servers.
+2. Breadcrumbs broken. The author link is not "live" in an eBook's landing page. For example, in https://www.gutenberg.org/ebooks/63051 the "38 by Theodore Roosevelt" should be a link to that author's page, but is not live.
+3. Similarly to breadcrumbs, the author links should be live in search results like this: https://www.gutenberg.org/browse/authors/d#a130 (i.e., "Dreiser, Theodore" should link to a search for that author's books).
+4. "Authors" match in search yields 404. For example, from this page: https://www.gutenberg.org/ebooks/search/?query=a.roosevelt&submit_search=Go%21 the "Authors" link (top left) should list all Roosevelts, but instead give a 404 at https://www.gutenberg.org/ebooks/authors/search/?query=a.roosevelt
+5. Bookshelf editing is not currently available. Bookshelves only have older entries. Most bookshelves had not been updated recently anyway, and we hope to add bookshelf editing capabilities soon.
+
 ### Content issues
 1. Revise the Volunteer's FAQ (currently in "the attic" since it was outdated). **Status: The Whitewashers team is looking into this.**
 2. Add these links to the DP HTML documentation, to the Volunteer's FAQ. **Status: awaiting the Volunteer's FAQ mentioned just above.**
@@ -18,11 +25,18 @@ Easy Epub -- https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy
 HTML Best Practices -- https://www.pgdp.org/~jana/best-practices/ (this was written a while back but DP tries to keep it up-to-date)
 
 ### User interface and user experience issues
-1. Logo improvements. Some changes to the size and layout of the logos, which generally appear on the top left of the new website's pages. **Status: being worked on.**
+1. Selecting text is challenging on landing pages. For example, on this page: https://www.gutenberg.org/ebooks/13930 it is hard to select the title text ("African and European Addresses by Theodore Roosevelt") to copy-and-paste. Instead, the book image and "Download this eBook" are selected.
+
 
 ### Search-related issues
 
 1. UI/Search: Search output order seems random.**Status: Defer. Search is handled by PostgreSQL, and unchanged from the current site. We will look into a different search implementation, for the future.**
+
+### Items that will not be fixed
+1. Wiki "user" pages. These have not been maintained, and are no longer part of the site. Archived pages are likely available at the Wayback machine, https://wayback.archive.org -- first enter the URL (such as https://www.gutenberg.org or a more specific link), then select the date of the archive snapshot to view the removed page.
+2. Translated pages. These have not been maintained, and are no longer part of the site. The Wayback machine, again, should have archived copies.
+3. Mobile site (http://m.gutenberg.org) was retired, since the new website is responsive for smaller screens and has all the same functionality. This retirement was originally planned to happen later, but the site was unmaintained and had some issues that forced early retirement.
+
 
 # New Website Overview
 
