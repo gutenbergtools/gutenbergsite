@@ -22,10 +22,9 @@ THANK YOU for your patience as we continue to update the website to fix remainin
 
 ### Functionality issues
 1. Roboting not working properly. URLs such as http://www.gutenberg.org/robot/harvest?filetypes[]=txt sometimes work, and sometimes generate a 500 server error. This might be a missing package on one of the back end servers. Status: Checking with sysadmins.
-2. The author links should be live in search results like this: https://www.gutenberg.org/browse/authors/d#a130 (i.e., "Dreiser, Theodore" should link to a search for that author's books). Status: Checking the nightly program that generates 'browse' items.
-3. "Authors" match in search yields 404. For example, from this page: https://www.gutenberg.org/ebooks/search/?query=a.roosevelt&submit_search=Go%21 the "Authors" link (top left) should list all Roosevelts, but instead give a 404 at https://www.gutenberg.org/ebooks/authors/search/?query=a.roosevelt . Status: This is a template error in autocat3, being investigated.
-4. "Titles" have the same issue as #4. Same status. 
-5. Bookshelf editing is not currently available. Bookshelves only have older entries. Most bookshelves had not been updated recently anyway, and we hope to add bookshelf editing capabilities soon. Status: Under development.
+2. "Authors" match in search yields 404. For example, from this page: https://www.gutenberg.org/ebooks/search/?query=a.roosevelt&submit_search=Go%21 the "Authors" link (top left) should list all Roosevelts, but instead give a 404 at https://www.gutenberg.org/ebooks/authors/search/?query=a.roosevelt . Status: This is a template error in autocat3, being investigated.
+3. "Titles" have the same issue as #4. Same status. 
+4. Bookshelf editing is not currently available. Bookshelves only have older entries. Most bookshelves had not been updated recently anyway, and we hope to add bookshelf editing capabilities soon. Status: Under development.
 
 ### Content issues
 1. Revise the Volunteer's FAQ (currently in "the attic" since it was outdated). **Status: The Whitewashers team is looking into this.**
