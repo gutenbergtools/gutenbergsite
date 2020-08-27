@@ -21,12 +21,12 @@ THANK YOU for your patience as we continue to update the website to fix remainin
 ## Known issues and "TO DO" items
 
 ### Functionality issues
-1. Roboting not working properly. URLs such as http://www.gutenberg.org/robot/harvest?filetypes[]=txt sometimes work, and sometimes generate a 500 server error. This might be a missing package on one of the back end servers.
-2. Breadcrumbs broken. The author link is not "live" in an eBook's landing page. For example, in https://www.gutenberg.org/ebooks/63051 the "38 by Theodore Roosevelt" should be a link to that author's page, but is not live.
-3. Similarly to breadcrumbs, the author links should be live in search results like this: https://www.gutenberg.org/browse/authors/d#a130 (i.e., "Dreiser, Theodore" should link to a search for that author's books).
-4. "Authors" match in search yields 404. For example, from this page: https://www.gutenberg.org/ebooks/search/?query=a.roosevelt&submit_search=Go%21 the "Authors" link (top left) should list all Roosevelts, but instead give a 404 at https://www.gutenberg.org/ebooks/authors/search/?query=a.roosevelt
-5. "Titles" have the same issue as #4.
-6. Bookshelf editing is not currently available. Bookshelves only have older entries. Most bookshelves had not been updated recently anyway, and we hope to add bookshelf editing capabilities soon.
+1. Roboting not working properly. URLs such as http://www.gutenberg.org/robot/harvest?filetypes[]=txt sometimes work, and sometimes generate a 500 server error. This might be a missing package on one of the back end servers. Status: Checking with sysadmins.
+2. Breadcrumbs broken. The author link is not "live" in an eBook's landing page. For example, in https://www.gutenberg.org/ebooks/63051 the "38 by Theodore Roosevelt" should be a link to that author's page, but is not live. Status: CSS issue. There is an oversized block (containing "download" this ebook) covering the rightmost breadcrunb that is blocking the mouse events.
+3. The author links should be live in search results like this: https://www.gutenberg.org/browse/authors/d#a130 (i.e., "Dreiser, Theodore" should link to a search for that author's books). Status: Checking the nightly program that generates 'browse' items.
+4. "Authors" match in search yields 404. For example, from this page: https://www.gutenberg.org/ebooks/search/?query=a.roosevelt&submit_search=Go%21 the "Authors" link (top left) should list all Roosevelts, but instead give a 404 at https://www.gutenberg.org/ebooks/authors/search/?query=a.roosevelt . Status: This is a template error in autocat3, being investigated.
+5. "Titles" have the same issue as #4. Same status. 
+6. Bookshelf editing is not currently available. Bookshelves only have older entries. Most bookshelves had not been updated recently anyway, and we hope to add bookshelf editing capabilities soon. Status: Under development.
 
 ### Content issues
 1. Revise the Volunteer's FAQ (currently in "the attic" since it was outdated). **Status: The Whitewashers team is looking into this.**
@@ -37,13 +37,13 @@ Easy Epub -- https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy
 HTML Best Practices -- https://www.pgdp.org/~jana/best-practices/ (this was written a while back but DP tries to keep it up-to-date)
 
 ### User interface and user experience issues
-1. Selecting text is challenging on landing pages. For example, on this page: https://www.gutenberg.org/ebooks/13930 it is hard to select the title text ("African and European Addresses by Theodore Roosevelt") to copy-and-paste. Instead, the book image and "Download this eBook" are selected.
-2. At https://www.gutenberg.org/, the 'box of latest books' contains 10 books, but only shows 9, so I get a scroll bar. When I scroll to reveal the 10th book, the covers all shift left, but the titles below don't move. (And in fact, the 10th title is hanging off the right edge of the box.)
+1. Selecting text is challenging on landing pages. For example, on this page: https://www.gutenberg.org/ebooks/13930 it is hard to select the title text ("African and European Addresses by Theodore Roosevelt") to copy-and-paste. Instead, the book image and "Download this eBook" are selected. Status: not yet determined.
+2. At https://www.gutenberg.org/, the 'box of latest books' contains 10 books, but only shows 9, so I get a scroll bar. When I scroll to reveal the 10th book, the covers all shift left, but the titles below don't move. (And in fact, the 10th title is hanging off the right edge of the box.) Status: CSS issue, being investigated.
 
 
 ### Search-related issues
 
-1. UI/Search: Search output order seems random.**Status: Defer. Search is handled by PostgreSQL, and unchanged from the current site. We will look into a different search implementation, for the future.**
+1. UI/Search: Search output order seems random. Status: Defer. Search is handled by PostgreSQL, and unchanged from the old site.
 
 ### Items that will not be fixed
 1. Wiki "user" pages. These have not been maintained, and are no longer part of the site. Archived pages are likely available at the Wayback machine, https://wayback.archive.org -- first enter the URL (such as https://www.gutenberg.org or a more specific link), then select the date of the archive snapshot to view the removed page.
