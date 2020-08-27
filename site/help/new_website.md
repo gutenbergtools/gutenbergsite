@@ -38,6 +38,7 @@ HTML Best Practices -- https://www.pgdp.org/~jana/best-practices/ (this was writ
 
 ### User interface and user experience issues
 1. Selecting text is challenging on landing pages. For example, on this page: https://www.gutenberg.org/ebooks/13930 it is hard to select the title text ("African and European Addresses by Theodore Roosevelt") to copy-and-paste. Instead, the book image and "Download this eBook" are selected.
+2. At https://www.gutenberg.org/, the 'box of latest books' contains 10 books, but only shows 9, so I get a scroll bar. When I scroll to reveal the 10th book, the covers all shift left, but the titles below don't move. (And in fact, the 10th title is hanging off the right edge of the box.)
 
 
 ### Search-related issues
