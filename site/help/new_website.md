@@ -7,9 +7,29 @@ permalink: /help/new_website.html
 New Website 2020
 ================
 
-The Project Gutenberg website, along with some of its back-end functionality, has been undergoing major updates. The new website is available for public beta testing. Input, fixes and suggestions are welcome.
+## Known issues and "TO DO" items
 
-You can find the development site at [dev.gutenberg.org](https://dev.gutenberg.org) (http or https). The main production site remains at [www.gutenberg.org](https://www.gutenberg.org).
+### Content issues
+1. Revise the Volunteer's FAQ (currently in "the attic" since it was outdated). **Status: The Whitewashers team is looking into this.**
+2. Add these links to the DP HTML documentation, to the Volunteer's FAQ. **Status: awaiting the Volunteer's FAQ mentioned just above.**
+The Post-Processing FAQ --
+https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Post-Processing_FAQ
+Easy Epub -- https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy_Epub (It's a guide to how best to handle the HTML that goes through epubmaker to lead to passable epubs/mobis)
+HTML Best Practices -- https://www.pgdp.org/~jana/best-practices/ (this was written a while back but DP tries to keep it up-to-date)
+
+### User interface and user experience issues
+1. Logo improvements. Some changes to the size and layout of the logos, which generally appear on the top left of the new website's pages. **Status: being worked on.**
+
+### Search-related issues
+
+1. UI/Search: Search output order seems random.**Status: Defer. Search is handled by PostgreSQL, and unchanged from the current site. We will look into a different search implementation, for the future.**
+
+# New Website Overview
+
+The Project Gutenberg website, along with some of its back-end functionality, has undergone major updates in 2019 and 2020. On August 26 2020, the legacy site was retired and the new site went into service - this followed over six months of public "beta" testing, when members of the public were invited to visit the new site and give input (including a brief anonymous survey).
+
+Input, fixes and suggestions are welcome. The website is still undergoing development, and the basic look-and-feel (menus, colors, fonts, etc.) has been updated with the new design.
+
 
 ## Goals
 
@@ -17,11 +37,12 @@ Goals for the website redesign and back-end updates include:
 
 * Modernize the website, including a responsive design and updated content. Deprecation or removal of outdated content. 
 * Abandonment of non-English website pages, which generally have been unmaintained for years. (Interest in non-English eBooks remains strong, and there has been no decrease in the enthusiasm for non-English eBooks.)
-* Utilize HTML version 5 and Cascading Style Sheets for the entire experience. We will no longer require Javascript, and will only use dynamically-generated pages where they truly make sense (such as for searching). 
+* Utilize HTML version 5 and Cascading Style Sheets for the entire experience. The site no longer requires Javascript, and uses dynamically-generated pages only for eBook landing pages and search results. 
+* Discontinue the mobile site (previously at http://m.gutenberg.org), which was unmaintained and utilized older-style PHP that was vulnerable to mis-use.
 * Stop utilizing MediaWiki for the main pages. Instead, write page content in Markdown. Propagate the content to the website automatically, with HTML5+CSS for layout, menus, etc.
 * Make the whole website content publicly available for edit suggestions. We are using github for this. 
 * Make the metadata and site structure more easily mirrorable, whether in bulk or for subsets. This is partially done by using github for website content. In the future, we plan to make landing pages use static HTML5+CSS, instead of via autocat3 (below).
-* In the future, we hope to make the eBooks themselves available similarly. This will facilitate reader-contributed formats, as well as errata reporting and fixes.
+* In the future, we hope to make the eBooks themselves available similarly (via github). This will facilitate reader-contributed formats, as well as new methods for errata reporting and fixes.
 
 ## How to provide input, fixes and suggestions
 
@@ -29,7 +50,7 @@ Please first check below in case your suggestion is already being worked on.
 
 ### General reporting of errors
 
-First, if you find a error, typo, etc. within an eBook you can report it using the [regular mechanisms](/help/errata.html). The eBooks themselves are exactly the same (i.e., the exact same files), whether you are looking at the development site or the main site.
+First, if you find a error, typo, etc. within an eBook you can report it using the [regular mechanisms](/help/errata.html). The eBooks themselves are exactly the same on this new site as on the old (i.e., the exact same files).
 
 If you are not sure how to report a problem you find, it's fine to just email help2020@pglaf.org. It will get to the right person.
 
@@ -66,27 +87,5 @@ If you encounter something that doesn't work for you, or could be better, please
 
 It is especially important that we can understand what you are experiencing, and what could be improved. To help with this, please provide a description of how you accessed the website, and the problems encountered. If you know of external testing sites, or standards, or software that we should look into, please let us know.
 
-Eventually, we hope to retire much or all of the current Project Gutenberg [mobile site](http://m.gutenberg.org), because it does not have anyone maintaining it, and it lacks much of the functionality and content of the main site. 
-
-## Known issues and "TO DO" items
-
-### Content issues
-1. Revise the Volunteer's FAQ (currently in "the attic" since it was outdated). **Status: The Whitewashers team is looking into this.**
-2. Add these links to the DP HTML documentation, to the Volunteer's FAQ. **Status: awaiting the Volunteer's FAQ mentioned just above.**
-The Post-Processing FAQ --
-https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Post-Processing_FAQ
-Easy Epub -- https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy_Epub (It's a guide to how best to handle the HTML that goes through epubmaker to lead to passable epubs/mobis)
-HTML Best Practices -- https://www.pgdp.org/~jana/best-practices/ (this was written a while back but DP tries to keep it up-to-date)
-
-
-### User interface and user experience issues
-1. Logo improvements. Some changes to the size and layout of the logos, which generally appear on the top left of the new website's pages. **Status: being worked on.**
-
-
-### Search-related issues
-
-The [autocat3](https://github.com/gutenbergtools/autocat3) program handles search, and also generates landing pages. There are probably some remaining problems with how results are displayed, or possibly with wrong links in bibrec tabs. If you find a problem, please send the exact link or search you used, so we can replicate and fix.
-1. UI/Search: Search output order seems random.**Status: Defer. Search is handled by PostgreSQL, and unchanged from the current site. We will look into a different search implementation, for the future.**
-
-*Most recently updated: August 25, 2020*
+*Most recently updated: August 27, 2020*
 
