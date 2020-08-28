@@ -27,6 +27,7 @@ THANK YOU for your patience as we continue to update the website to fix remainin
 ### Content issues
 1. Bookshelf editing is not currently available. Bookshelves only have older entries. Most bookshelves had not been updated recently anyway, and we hope to add bookshelf editing capabilities soon. Status: Under development.
 2. Need to remove mention of https://www.gutenberg.org/wiki/Gutenberg:Help_on_Bibliographic_Record_Page from bibrec (help text, appears 4x on each bibrec page).
+3. OPDS catalog (for offline readers) does not seem to be part of the new site, but should be in Offline Catalogs (https://www.gutenberg.org/ebooks/offline_catalogs.html). Status: It would help if someone told us where it used to be.
 
 ### User interface and user experience issues
 1. Display issues on book landing pages (such as https://www.gutenberg.org/ebooks/1342) and search output pages (such as https://www.gutenberg.org/ebooks/1342/also/). The top of the content is too high, going behind the main top menu bar. Status: CSS issue; working on it.
@@ -37,11 +38,16 @@ THANK YOU for your patience as we continue to update the website to fix remainin
 
 1. UI/Search: Search output order seems random. Status: Defer. Search is handled by PostgreSQL, and unchanged from the old site.
 
+### Feature requests (things that are not really broken, but would be good to have)
+1. Bookshelf sorting by author. For example, https://www.gutenberg.org/ebooks/bookshelf/16?sort_order=title&start_index=26 can sort alphabetically by title, but not by author. The sort field is already part of the request (sort_order=title), so sorting by other fields seem viable. Status: Not yet investigated.
+
+
 ### Items that will not be fixed
 1. Wiki "user" pages. These have not been maintained, and are no longer part of the site. Archived pages are likely available at the Wayback machine, https://wayback.archive.org -- first enter the URL (such as https://www.gutenberg.org or a more specific link), then select the date of the archive snapshot to view the removed page.
 2. Translated pages. These have not been maintained, and are no longer part of the site. The Wayback machine, again, should have archived copies.
 3. Mobile site (http://m.gutenberg.org) was retired, since the new website is responsive for smaller screens and has all the same functionality. This retirement was originally planned to happen later, but the site was unmaintained and had some issues that forced early retirement.
-
+4. "My Kindle's experimental browser can no longer connect." Status: We don't know what to do with this, since the site works with other browsers.
+5. "Your app is broken." Project Gutenberg does not have, and has never had, an app. Project Gutenberg eBooks require no special apps to read, just the regular Web browsers or eBook readers that are included with computers and mobile devices. No app is required to enjoy Project Gutenberg eBooks. IF YOU ARE HAVING TROUBLE WITH AN APP, it is not an app from Project Gutenberg. Any support/fixes will need to come from whoever made the app.
 
 
 # New Website Overview
