@@ -25,7 +25,8 @@ THANK YOU for your patience as we continue to update the website to fix remainin
 2. "Authors" match in search yields 404. For example, from this page: https://www.gutenberg.org/ebooks/search/?query=a.roosevelt&submit_search=Go%21 the "Authors" link (top left) should list all Roosevelts, but instead give a 404 at https://www.gutenberg.org/ebooks/authors/search/?query=a.roosevelt . Status: This is a template error in autocat3, being investigated.
 3. "Titles" have the same issue as above. Same status. 
 4. Character set encoding issues. It looks like the web server is sending UTF-8 (the default Unicode character set) for web pages that have internal encoding. Examples: https://www.gutenberg.org/files/41196/41196-h/41196-h.htm (scroll down to just after Chapter 1; the pound symbol is displayed incorrectly as Unicode). https://www.gutenberg.org/ebooks/62985 (same issue, with other ISO-8859-1 characters). Status: Investigating. This looks like a server config issue HTTP content encoding.
-5. New releases page has an HTML error (element between Head and Body). See: https://validator.w3.org/nu/?doc=https%3A%2F%2Fdev.gutenberg.org%2Fbrowse%2Frecent%2Flast1
+5. New releases page has an HTML error (element between Head and Body). See: https://validator.w3.org/nu/?doc=https%3A%2F%2Fdev.gutenberg.org%2Fbrowse%2Frecent%2Flast1 . Status: This looks like a template error in autocat3, being investigated.
+6. Redirected pages go from https to http inappropriately. For example, https://www.gutenberg.org/catalog redirects properly but changes to http://www.gutenberg.org/ebooks .. this seems to happen with some search pages, also. Status: Investigating. This looks like an issue with redirect syntax or server config.
 
 ### Content issues
 1. Bookshelf editing is not currently available. Bookshelves only have older entries. Most bookshelves had not been updated recently anyway, and we hope to add bookshelf editing capabilities soon. Status: Under development.
