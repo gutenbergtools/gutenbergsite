@@ -58,12 +58,14 @@ if (isupdatemode ("add")) {
     $retcode = $db->Exec ("insert into attributes " . $sql);
   }
 }
+
 if (isupdatemode ("edit")) {
   if ($f->Check ()) {
     $sql = $f->mkUpdate ($db->GetFormatter ());
     $retcode = $db->Exec ("update attributes set " . $sql . "where pk = $pk");
   }
 }
+
 if (isupdatemode ("delete")) {
   $retcode = $db->Exec ("delete from attributes where pk = $pk");
 }
