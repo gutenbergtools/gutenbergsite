@@ -24,6 +24,8 @@ THANK YOU for your patience as we continue to update the website to fix remainin
 1. Roboting not working properly. URLs such as http://www.gutenberg.org/robot/harvest?filetypes[]=txt sometimes work, and sometimes generate a 500 server error. This might be a missing package on one of the back end servers. Status: Checking with sysadmins.
 2. "Authors" match in search yields 404. For example, from this page: https://www.gutenberg.org/ebooks/search/?query=a.roosevelt&submit_search=Go%21 the "Authors" link (top left) should list all Roosevelts, but instead give a 404 at https://www.gutenberg.org/ebooks/authors/search/?query=a.roosevelt . Status: This is a template error in autocat3, being investigated.
 3. "Titles" have the same issue as above. Same status. 
+4. Character set encoding issues. It looks like the web server is sending UTF-8 (the default Unicode character set) for web pages that have internal encoding. Examples: https://www.gutenberg.org/files/41196/41196-h/41196-h.htm (scroll down to just after Chapter 1; the pound symbol is displayed incorrectly as Unicode). https://www.gutenberg.org/ebooks/62985 (same issue, with other ISO-8859-1 characters). Status: Investigating. This looks like a server config issue HTTP content encoding.
+5. New releases page has an HTML error (element between Head and Body). See: https://validator.w3.org/nu/?doc=https%3A%2F%2Fdev.gutenberg.org%2Fbrowse%2Frecent%2Flast1
 
 ### Content issues
 1. Bookshelf editing is not currently available. Bookshelves only have older entries. Most bookshelves had not been updated recently anyway, and we hope to add bookshelf editing capabilities soon. Status: Under development.
@@ -31,6 +33,7 @@ THANK YOU for your patience as we continue to update the website to fix remainin
 ### User interface and user experience issues
 1. Display issues on book landing pages (such as https://www.gutenberg.org/ebooks/1342) and search output pages (such as https://www.gutenberg.org/ebooks/1342/also/). The top of the content is too high, going behind the main top menu bar. Status: CSS issue; working on it.
 2. At https://www.gutenberg.org/, the 'box of latest books' contains 10 books, but only shows 9, so I get a scroll bar. When I scroll to reveal the 10th book, the covers all shift left, but the titles below don't move. (And in fact, the 10th title is hanging off the right edge of the box.) Status: CSS issue, same as #2 under "Functionality issues."
+3. Long lists should have "Last" as well as First and Next. For example, http://www.gutenberg.org/ebooks/bookshelf/68
 
 ### Search-related issues
 
@@ -40,6 +43,7 @@ THANK YOU for your patience as we continue to update the website to fix remainin
 1. Wiki "user" pages. These have not been maintained, and are no longer part of the site. Archived pages are likely available at the Wayback machine, https://wayback.archive.org -- first enter the URL (such as https://www.gutenberg.org or a more specific link), then select the date of the archive snapshot to view the removed page.
 2. Translated pages. These have not been maintained, and are no longer part of the site. The Wayback machine, again, should have archived copies.
 3. Mobile site (http://m.gutenberg.org) was retired, since the new website is responsive for smaller screens and has all the same functionality. This retirement was originally planned to happen later, but the site was unmaintained and had some issues that forced early retirement.
+
 
 
 # New Website Overview
