@@ -6,6 +6,7 @@ $mirror      = 'http://aleph.gutenberg.org/';
 # $epub_mirror = 'http://gutenberg.pglaf.org/';
 $epub_mirror = 'http://aleph.gutenberg.org/';
 
+set_include_path(get_include_path() . PATH_SEPARATOR . "/public/vhost/g/gutenberg/dev/private/lib/php");
 include_once ("pgcat.phh");
 
 $limit = 100;

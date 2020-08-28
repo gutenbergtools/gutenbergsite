@@ -510,7 +510,7 @@ only screen and (max-device-width: 1200px) {
 	width: 100%;
 }
 .page_content h2::before {
-	/* display: block; */
+	display: block;
 	content: "";
 	margin-top: -120px;
 	height: 120px;

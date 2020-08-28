@@ -29,6 +29,7 @@ THANK YOU for your patience as we continue to update the website to fix remainin
 
 ### Content issues
 1. Bookshelf editing is not currently available. Bookshelves only have older entries. Most bookshelves had not been updated recently anyway, and we hope to add bookshelf editing capabilities soon. Status: Under development.
+2. Need to remove mention of https://www.gutenberg.org/wiki/Gutenberg:Help_on_Bibliographic_Record_Page from bibrec (help text, appears 4x on each bibrec page).
 
 ### User interface and user experience issues
 1. Display issues on book landing pages (such as https://www.gutenberg.org/ebooks/1342) and search output pages (such as https://www.gutenberg.org/ebooks/1342/also/). The top of the content is too high, going behind the main top menu bar. Status: CSS issue; working on it.
