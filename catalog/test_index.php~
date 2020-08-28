@@ -1,0 +1,17 @@
+---
+layout: default
+title: Free eBooks | Project Gutenberg
+permalink: /test_index.html
+---
+
+Testing php
+===========
+
+Phpinfo output:
+<?php
+ phpinfo();
+?>
+
+Output ends.
+
+
