@@ -73,7 +73,7 @@ Please first check below in case your suggestion is already being worked on.
 
 ### General reporting of errors
 
-First, if you find a error, typo, etc. within an eBook you can report it using the [regular mechanisms](/help/errata.html). The eBooks themselves are exactly the same on this new site as on the old (i.e., the exact same files).
+First, if you find an error, typo, etc. within an eBook you can report it using the [regular mechanisms](/help/errata.html). The eBooks themselves are exactly the same on this new site as on the old (i.e., the exact same files).
 
 If you are not sure how to report a problem you find, it's fine to just email help2020@pglaf.org. It will get to the right person.
 
