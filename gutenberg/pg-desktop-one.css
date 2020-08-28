@@ -208,7 +208,7 @@ table.borderless caption,table.borderless th,table.borderless td{border-width:0p
      height: 23px; 
 
  }
-ul.results{display:block;margin:0 0.5em;list-style-type:none;padding-left:0;-moz-column-width:20em;-moz-column-gap:1em;-moz-column-rule:1px solid #cfcaaf;-webkit-column-width:20em;-webkit-column-gap:1em;-webkit-column-rule:1px solid #cfcaaf;column-width:20em;column-gap:1em;column-rule:1px solid #cfcaaf;}
+ul.results{display:block;margin: 3em 0.5em 0 0.5em;list-style-type:none;padding-left:0;-moz-column-width:20em;-moz-column-gap:1em;-moz-column-rule:1px solid #cfcaaf;-webkit-column-width:20em;-webkit-column-gap:1em;-webkit-column-rule:1px solid #cfcaaf;column-width:20em;column-gap:1em;column-rule:1px solid #cfcaaf;}
 ul.results li{-webkit-column-break-inside:avoid;-moz-column-break-inside:avoid;-ms-column-break-inside:avoid;-o-column-break-inside:avoid;break-inside:avoid-column;display:block;display:table;width:100%;}
 ul.results li a.link{display:block;text-decoration:none;}
 ul.results li .padded{padding:0.5em 0.5em;}
