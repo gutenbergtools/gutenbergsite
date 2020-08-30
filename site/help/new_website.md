@@ -31,9 +31,9 @@ THANK YOU for your patience as we continue to update the website to fix remainin
 4. "Top" lists are not being updated. https://www.gutenberg.org/browse/scores/top .. this is likely due to changes in the logfiles. Status: Logfiles from the new servers are not being made available for analysis; iBiblio needs to help with this.
 
 ### User interface and user experience issues
-1. Display issues on book landing pages (such as https://www.gutenberg.org/ebooks/1342) and search output pages (such as https://www.gutenberg.org/ebooks/1342/also/). The top of the content is too high, going behind the main top menu bar. Status: CSS issue; working on it.
+1. Display issues on search output pages (such as https://www.gutenberg.org/ebooks/1342/also/). The top of the content is too high, going behind the main top menu bar. Status: CSS issue; working on it.
 2. At https://www.gutenberg.org/, the 'box of latest books' contains 10 books, but only shows 9, so I get a scroll bar. When I scroll to reveal the 10th book, the covers all shift left, but the titles below don't move. (And in fact, the 10th title is hanging off the right edge of the box.) Status: CSS issue, same as #2 under "Functionality issues."
-3. Long lists should have "Last" as well as First and Next. For example, http://www.gutenberg.org/ebooks/bookshelf/68
+3. Long lists should have "Last" as well as First and Next. For example, http://www.gutenberg.org/ebooks/bookshelf/68. Status: Not yet investigated.
 
 ### Search-related issues
 
@@ -45,7 +45,7 @@ THANK YOU for your patience as we continue to update the website to fix remainin
 
 ### Items that will not be fixed
 1. Wiki "user" pages. These have not been maintained, and are no longer part of the site. Archived pages are likely available at the Wayback machine, https://wayback.archive.org -- first enter the URL (such as https://www.gutenberg.org or a more specific link), then select the date of the archive snapshot to view the removed page.
-2. Translated pages. These have not been maintained, and are no longer part of the site. The Wayback machine, again, should have archived copies.
+2. Translated pages. These have not been maintained, and are no longer part of the site. The Wayback machine, again, likely has archived copies.
 3. Mobile site (http://m.gutenberg.org) was retired, since the new website is responsive for smaller screens and has all the same functionality. This retirement was originally planned to happen later, but the site was unmaintained and had some issues that forced early retirement.
 4. "My Kindle's experimental browser can no longer connect." Status: We don't know what to do with this, since the site works with other browsers.
 5. "Your app is broken." Project Gutenberg does not have, and has never had, an app. Project Gutenberg eBooks require no special apps to read, just the regular Web browsers or eBook readers that are included with computers and mobile devices. No app is required to enjoy Project Gutenberg eBooks. IF YOU ARE HAVING TROUBLE WITH AN APP, it is not an app from Project Gutenberg. Any support/fixes will need to come from whoever made the app.
@@ -73,7 +73,7 @@ Goals for the website redesign and back-end updates include:
 
 ## How to provide input, fixes and suggestions
 
-Please first check below in case your suggestion is already being worked on.
+Please first check above in case your suggestion is already being worked on.
 
 ### General reporting of errors
 
@@ -114,5 +114,5 @@ If you encounter something that doesn't work for you, or could be better, please
 
 It is especially important that we can understand what you are experiencing, and what could be improved. To help with this, please provide a description of how you accessed the website, and the problems encountered. If you know of external testing sites, or standards, or software that we should look into, please let us know.
 
-*Most recently updated: August 27, 2020*
+*Most recently updated: August 29, 2020*
 
