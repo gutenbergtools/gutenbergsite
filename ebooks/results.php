@@ -20,9 +20,10 @@ privatecache ();
 $db2 = $config->db ();
 $dofulltext = false;
 
-$time_start  = getmicrotime ();
-$time_query1 = getmicrotime ();
-$time_query2 = getmicrotime ();
+// For debugging:
+// $time_start  = getmicrotime ();
+// $time_query1 = getmicrotime ();
+// $time_query2 = getmicrotime ();
 
 function getall ($db, $field, $filterfunc = null) {
   $f = array ();
@@ -409,7 +410,8 @@ if ($yousel) {
 
 // flush (); flushes headers too :-(
 
-$time_query1 = getmicrotime ();
+// For debugging:
+// $time_query1 = getmicrotime ();
 
 $where  = "books.pk in (" . implode (", ", $pks) . ")";
 $offset = $pageno * $pagesize;
@@ -429,7 +431,8 @@ books.pk offset $offset";
 
 $db->exec ($sql);
 
-$time_query2 = getmicrotime ();
+// For debugging:
+// $time_query2 = getmicrotime ();
 
 $hcnt = $db->CountRows ();
 
@@ -461,8 +464,9 @@ if ($pages > 1) {
   $pl = "<p class=\"center resultpages\">" . join (" ", $pagelinks) . "</p>\n\n";
 }
 
-$time_end = getmicrotime ();
-$time = $time_end - $time_start;
+// For debugging:
+// $time_end = getmicrotime ();
+// $time = $time_end - $time_start;
 
 echo ($pl);
 
@@ -472,13 +476,13 @@ $table->PrintTable ($db, "Titles", "pgdbfiles");
 
 echo ($pl);
 
-$time_end = getmicrotime ();
-
-$time1 = $time_query1 - $time_start;
-$time2 = $time_query2 - $time_query1;
-$time3 = $time_end    - $time_query2;
-$time  = $time_end    - $time_start;
-
+// For debugging purposes:
+// $time_end = getmicrotime ();
+// 
+// $time1 = $time_query1 - $time_start;
+// $time2 = $time_query2 - $time_query1;
+// $time3 = $time_end    - $time_query2;
+// $time  = $time_end    - $time_start;
 // p ("Processing time: $time ($time1 + $time2 + $time3) seconds");
 
 pagefooter ();
