@@ -505,8 +505,8 @@ only screen and (max-device-width: 1200px) {
 .page_content h1 {
 	font-size: 1.875em;
 	font-weight: bold;
-	/*margin-top: 15px;*/
-	margin-bottom: 15px;
+	margin-top: 3.5em;
+	margin-bottom: -0.5em;
 	width: 100%;
 }
 .page_content h2::before {
