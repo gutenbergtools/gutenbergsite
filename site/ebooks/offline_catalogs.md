@@ -58,6 +58,16 @@ If GUTINDEX.ALL is too big for you or you prefer separate annual lists, you can 
  </ul>
 </div>
 
+## Affiliate sites
+
+Not part of Project Gutenberg - check laws of the country where you are, before accessing or redistributing any eBooks.
+
+<div class="search_category">
+ <ul>
+  <li><a href="/dirs/GUTINDEX.AUS">GUTINDEX.AUS, Project Gutenberg of Australia</a></li>
+ </ul>
+</div>
+
 ## Directory/Folder Listings
 
 You can navigate the directory/folder contents starting at [/dirs](/dirs), however this is not very user-friendly.
