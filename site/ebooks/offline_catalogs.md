@@ -4,14 +4,32 @@ title: Offline Catalogs | Project Gutenberg
 permalink: /ebooks/offline_catalogs.html
 ---
 
-Offline Catalogs
-================
+Offline Catalogs and Feeds
+==========================
 
 This page tells you how to find and get Project Gutenberg eBooks if:
+- you want notifications as new books become available, or
 - you don't want to use a browser to download eBooks but prefer other software like an ftp-client or wget, or
 - you are on a slow or limited internet connection, or
 - you'd rather have a handy book catalog to consult offline, or
 - you would like to make your own listings or derivatives from this information.
+
+## Feeds of new books
+
+### RSS
+
+Find our RSS feed in the [cache/feeds](/cache/epub/feeds/today.rss) location. Updated daily after 2am U.S. Eastern time.
+
+### Email
+
+The "[posted](https://lists.pglaf.org/mailman/listinfo/posted)" list is where every new eBook is announced as it is being uploaded to the Project Gutenberg servers. New books are then available for download, typically within 2 hours. The list has a once-daily digest option, and also online public archives.
+
+### Social media
+
+* [Facebook group](https://www.facebook.com/project.gutenberg)
+* [Facebook news feed of new eBooks](https://www.facebook.com/gutenberg.new)
+* [Twitter](https://twitter.com/gutenberg_org @gutenberg_org)
+* [Twitter news feed of new eBooks](https://twitter.com/gutenberg_new @gutenberg_new)
 
 ## List of Sites Hosting Project Gutenberg EBooks
 
@@ -19,7 +37,7 @@ The Project Gutenberg collection is available from dozens of sites offering acce
 
 ## The GUTINDEX Listings of EBooks
 
-Updated at least monthly.  These plain text files provide the basic information about each eBook, and are good for searching from your own system (for example, use control-F in a Web browser or word processor).  Note that these files are not recommended for automation (that is, to use as input to generate a computerized database).  Instead, use one of the catalog files mentioned below.
+Updated at least monthly.  These plain text files provide the basic information about each eBook, and are good for searching from your own system (for example, use control-F in a Web browser or word processor). They are the accession lists for Project Gutenberg. Note that these files are not recommended for automation (that is, to use as input to generate a computerized database). Instead, use one of the catalog files mentioned below.
 
 * [GUTINDEX.ALL](/dirs/GUTINDEX.ALL)
 * [GUTINDEX.zip](/dirs/GUTINDEX.zip) (same as above zipped)
