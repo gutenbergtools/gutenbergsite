@@ -22,7 +22,6 @@ THANK YOU for your patience as we continue to update the website to fix remainin
 
 ### Functionality issues
 1. Redirected pages go from https to http inappropriately. For example, https://www.gutenberg.org/catalog redirects properly but changes to http://www.gutenberg.org/ebooks .. this seems to happen with some search pages, also. Status: Investigating. This looks like an issue with redirect syntax or server config.
-2. Missing files (UTF-8 txt and others): Mostly this is new publications since August 26: that were not published as UTF-8, but as ASCII or ISO-8859-1. The issue is that links to the /files location are not being made. An example: https://www.gutenberg.org/ebooks/63062 , the "Plain Text UTF-8" file is generated automatically from the .txt file in "More Files...", but is not linked in. Status: being investigated.
 
 ### Content issues
 1. Bookshelf editing is not currently available. Bookshelves only have older entries. Most bookshelves had not been updated recently anyway, and we hope to add bookshelf editing capabilities soon. Status: Under development.
