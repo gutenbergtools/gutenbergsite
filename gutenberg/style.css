@@ -665,7 +665,7 @@ footer */
 .cover_title h5 {
 	white-space: break-spaces;
 	overflow: hidden;
-	height: 70px;
+	height: 5em;
 	text-decoration: none;
     text-align: center;
     position: relative;
