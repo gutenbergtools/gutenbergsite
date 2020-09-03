@@ -17,6 +17,7 @@ Please click on the subcategories for more bookshelves. Some bookshelves have no
        <li><a href="/ebooks/bookshelves/search/?query=animal">Animal</a></li>
       <h2>C</h2>
        <!-- Missing Children's Periodicals-->
+       <li><a href="/ebooks/bookshelves/search/?query=canada">Canada Bookshelf</a></li>
        <li><a href="/ebooks/bookshelves/search/?query=children|christmas|child|school">Children's Bookshelf</a></li>
        <li><a href="/ebooks/bookshelves/search/?query=classic">Classics Bookshelf</a></li>
        <li><a href="/ebooks/bookshelves/search/?query=africa.|Argentina.|Australia|Bulgaria|Canada|Czech|egypt|france.|germany.|greece.|india|italy|zealand|norway|south%20america|.travel.|United%20Kingdom|.united%20states.!law">Countries Bookshelf</a></li>

@@ -22,12 +22,14 @@ THANK YOU for your patience as we continue to update the website to fix remainin
 
 ### Functionality issues
 1. Redirected pages go from https to http inappropriately. For example, https://www.gutenberg.org/catalog redirects properly but changes to http://www.gutenberg.org/ebooks .. this seems to happen with some search pages, also. Status: Investigating. This looks like an issue with redirect syntax or server config.
+2. Kindle issues. Kindles are getting an outdated version of the web page, which has invalid/ill-formed HTML or CSS. Status: The issue has been identified, and a fix is expected soon.
 
 ### Content issues
 1. Bookshelf editing is not currently available. Bookshelves only have older entries. Most bookshelves had not been updated recently anyway, and we hope to add bookshelf editing capabilities soon. Status: Under development.
 2. Need to create a new version of the mention of https://www.gutenberg.org/wiki/Gutenberg:Help_on_Bibliographic_Record_Page from bibrec (help text, appears 4x on each bibrec page linked with the question mark from the dropbox, gdrive and onedrive icons).
-3. OPDS catalog (for offline readers) was not ported to the new site, because it was never listed in Offline Catalogs (https://www.gutenberg.org/ebooks/offline_catalogs.html) like it should have been. It used to be available via m.gutenberg.org, which would respond to requests with HTML if the user agent was a browser, and with OPDS if the user agent was a reader app such as FBReader. Status: We will seek to recover this functionality.
+3. OPDS catalog (for offline readers) was not ported to the new site, because it was never listed in Offline Catalogs (https://www.gutenberg.org/ebooks/offline_catalogs.html) like it should have been. It used to be available via m.gutenberg.org, which would respond to requests with HTML if the user agent was a browser, and with OPDS if the user agent was a reader app such as FBReader. Status: We might have this fixed now.
 4. "Top" lists are not being updated. https://www.gutenberg.org/browse/scores/top .. this is likely due to changes in the logfiles. Status: Logfiles from the new servers are not being made available automatically; iBiblio needs to help with this.
+5. Bookshelves: We found at least one is missing, Emmy's Picks (archival copy: https://web.archive.org/web/20200229062652/http://www.gutenberg.org/wiki/Category:Emmy's_Picks). We should try to recreate the more granular list found here: https://web.archive.org/web/20200229034611/http://www.gutenberg.org/wiki/Category:Bookshelf .. Are books on multiple booklists being presented with multiple entries? Status: Not yet investigated.
 
 ### User interface and user experience issues
 None currently
@@ -35,6 +37,7 @@ None currently
 ### Search-related issues
 
 1. UI/Search: Search output order seems random. Status: Defer. Search is handled by PostgreSQL, and unchanged from the old site.
+2. Bookshelves have lost their hierarchy and metadata. We have the key=value pair for lowest-level bookshelf membership, but not the group it was part of. For example, here is what the top-level grouping for Canada used to look like: https://web.archive.org/web/20200229062612/http://www.gutenberg.org/wiki/Canada_(Bookshelf) .. currently, you can find books in the right category. This, for eaxmple, is in "Canada:" https://www.gutenberg.org/ebooks/53929 .. however, the Canada bookshelf doesn't list the granularity, such as by putting #53929 in Autobiography/biography under Canada. Basically, the hierarchy is not presented. Status: being considered. Bookshelves are now database entries, rather than Wiki pages, and the hierarchical structure presentation is not being presented.
 
 ### Feature requests (things that are not really broken, but would be good to have)
 1. Bookshelf sorting by author. For example, https://www.gutenberg.org/ebooks/bookshelf/16?sort_order=title&start_index=26 can sort alphabetically by title, but not by author. The sort field is already part of the request (sort_order=title), so sorting by other fields seem viable. Status: Not yet investigated.
@@ -44,8 +47,7 @@ None currently
 1. Wiki "user" pages. These have not been maintained, and are no longer part of the site. Archived pages are likely available at the Wayback machine, https://wayback.archive.org -- first enter the URL (such as https://www.gutenberg.org or a more specific link), then select the date of the archive snapshot to view the removed page.
 2. Translated pages. These have not been maintained, and are no longer part of the site. The Wayback machine, again, likely has archived copies.
 3. Mobile site (http://m.gutenberg.org) was retired, since the new website is responsive for smaller screens and has all the same functionality. This retirement was originally planned to happen later, but the site was unmaintained and had some issues that forced early retirement. We apologize there was not adequate notice for this change.
-4. "My Kindle's experimental browser can no longer connect." One specific report was that visiting a book's landing page (?) yields something like "error on line 43 at column 8: opening and ending tag mismatch: meta line 0 and head..." Status: We don't know what to do with this, since the site works with other browsers and the W3C validator says the page is valid (i.e, no errors reported). *We suspect this impacts older Kindles that have not, or cannot, receive updates.* Here is an article that says HTML5+CSS should work now: https://goodereader.com/blog/kindle/kindle-and-html5-a-match-made-in-heaven , but there are many other stories online that describe problems with HTML5 and CSS.
-5. "Your app is broken." Project Gutenberg does not have, and has never had, an app. Project Gutenberg eBooks require no special apps to read, just the regular Web browsers or eBook readers that are included with computers and mobile devices. No app is required to enjoy Project Gutenberg eBooks. IF YOU ARE HAVING TROUBLE WITH AN APP, it is not an app from Project Gutenberg. Any support/fixes will need to come from whoever made the app.
+4. "Your app is broken." Project Gutenberg does not have, and has never had, an app. Project Gutenberg eBooks require no special apps to read, just the regular Web browsers or eBook readers that are included with computers and mobile devices. No app is required to enjoy Project Gutenberg eBooks. IF YOU ARE HAVING TROUBLE WITH AN APP, it is not an app from Project Gutenberg. Any support/fixes will need to come from whoever made the app.
 
 
 # New Website Overview
@@ -111,5 +113,5 @@ If you encounter something that doesn't work for you, or could be better, please
 
 It is especially important that we can understand what you are experiencing, and what could be improved. To help with this, please provide a description of how you accessed the website, and the problems encountered. If you know of external testing sites, or standards, or software that we should look into, please let us know.
 
-*Most recently updated: September 1, 2020*
+*Most recently updated: September 3, 2020*
 
