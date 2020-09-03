@@ -221,7 +221,7 @@ span.title{display:block;font-weight:bold;}
 a span.title{text-decoration:underline;}
 span.subtitle{display:block;color:black;}
 span.extra{display:block;color:gray;}
-h1 .icon{float:left;margin-top:80px}
+h1 .icon{float:left;margin-left:20px}
 .icon_flattr{background-position:0px 0px;width:93px;height:20px;}
 .icon_paypal{background-position:0px -21px;width:92px;height:26px;}
 .icon_logo{background-position:0px -48px;width:72px;height:72px;}

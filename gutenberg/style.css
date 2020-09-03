@@ -187,7 +187,6 @@ ul {
 /* ==================================================
 library */
 .library .latest {
-	overflow: auto;
 	white-space: nowrap;
 	width: 100%;
 }
@@ -665,8 +664,9 @@ footer */
 	height: 5em;
 	text-decoration: none;
     text-align: center;
-    position: relative;
+    position: absolute;
 	width: 100px;
+	background-color: #d9eaef;
 }
 .cover_title h5:hover {
 	overflow-y: visible;
@@ -681,7 +681,7 @@ footer */
 	display: block;
 }
 .cover_image {
-	height: auto;
+	height: 250px;
 	width: 100px;
 }
 /*.cover_image h5 {
