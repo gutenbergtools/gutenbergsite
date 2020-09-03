@@ -46,7 +46,6 @@ The future will bring continued innovation, and ongoing focus on the mission of 
       <h2>T</h2>
        <li><a href="/attic/tools_faq.html">Tools FAQ (old)</a></li>
       <h2>V</h2>
-       <li><a href="/attic/volunteers_faq.html">Volunteers' FAQ (old)</a></li>
        <li><a href="/attic/volunteers_voices.html">Volunteers' Voices (old)</a></li>
       <h2>W</h2>
        <li><a href="/attic/website_translation.html">Website Translation How-To (old)</a></li>
