@@ -543,9 +543,9 @@ only screen and (max-device-width: 1200px) {
 	.page_content > ul li::before {
 		font-size: small;
 	}
-	.bookshelves > ul li::before {
+	/* .bookshelves > ul li::before {
 		font-size: small;
-	}
+	} */
 }
 
 .page_content ul li {
