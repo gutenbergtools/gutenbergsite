@@ -23,6 +23,8 @@ describe the basis for how Project Gutenberg operates.
 
 [Administrativia](/about/background/administrivia.html) (2004)
 
+[How eTexts Will Become the "Killer App" of the Computer Revolution](/about/background/etexts-killer-app.html) (Undated)
+
 [No Cost, or Freedom?](/about/background/free_ebook.html) (2012)
 
 ### Other items about Project Gutenberg
