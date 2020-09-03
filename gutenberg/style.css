@@ -233,14 +233,14 @@ column-count: 3;
 	width: 100%;
 	/*height: 620px;*/
 }
-.bookshelves > ul li::before {
+/* .bookshelves > ul li::before {
 	content: "\25AA";
 	color: #A01F13;
 	display: inline-block;
 	width: 1em;
 	margin-left: -1em;
-	/*font-size: small;*/
-}
+	font-size: small;
+} */
 /*.bookshelves ul li {
 	color: #808080;
 	display: inline-block;
