@@ -37,7 +37,7 @@ None currently
 ### Search-related issues
 
 1. UI/Search: Search output order seems random. Status: Defer. Search is handled by PostgreSQL, and unchanged from the old site.
-2. Bookshelves have lost their hierarchy and metadata. We have the key=value pair for lowest-level bookshelf membership, but not the group it was part of. For example, here is what the top-level grouping for Canada used to look like: https://web.archive.org/web/20200229062612/http://www.gutenberg.org/wiki/Canada_(Bookshelf) .. currently, you can find books in the right category. This, for eaxmple, is in "Canada:" https://www.gutenberg.org/ebooks/53929 .. however, the Canada bookshelf doesn't list the granularity, such as by putting #53929 in Autobiography/biography under Canada. Basically, the hierarchy is not presented. Status: being considered. Bookshelves are now database entries, rather than Wiki pages, and the hierarchical structure presentation is not being presented.
+2. Bookshelves have lost their hierarchy and metadata. We have the key=value pair for lowest-level bookshelf membership, but not the group it was part of. For example, here is what the top-level grouping for Canada used to look like: https://web.archive.org/web/20200229062612/http://www.gutenberg.org/wiki/Canada_(Bookshelf) .. currently, you can find books in the right category. This, for example, is in "Canada:" https://www.gutenberg.org/ebooks/53929 .. however, the Canada bookshelf doesn't list the granularity, such as by putting #53929 in Autobiography/biography under Canada. Basically, the hierarchy is not presented. Status: being considered. Bookshelves are now database entries, rather than Wiki pages, and the hierarchical structure presentation is not being presented.
 
 ### Feature requests (things that are not really broken, but would be good to have)
 1. Bookshelf sorting by author. For example, https://www.gutenberg.org/ebooks/bookshelf/16?sort_order=title&start_index=26 can sort alphabetically by title, but not by author. The sort field is already part of the request (sort_order=title), so sorting by other fields seem viable. Status: Not yet investigated.
@@ -115,5 +115,5 @@ If you encounter something that doesn't work for you, or could be better, please
 
 It is especially important that we can understand what you are experiencing, and what could be improved. To help with this, please provide a description of how you accessed the website, and the problems encountered. If you know of external testing sites, or standards, or software that we should look into, please let us know.
 
-*Most recently updated: September 3, 2020*
+*Most recently updated: September 4, 2020*
 
