@@ -43,7 +43,6 @@ None currently
 1. Bookshelf sorting by author. For example, https://www.gutenberg.org/ebooks/bookshelf/16?sort_order=title&start_index=26 can sort alphabetically by title, but not by author. The sort field is already part of the request (sort_order=title), so sorting by other fields seem viable. Status: Not yet investigated.
 2. Long lists should have "Last" as well as First and Next. For example, http://www.gutenberg.org/ebooks/bookshelf/68. Status: Not yet investigated.
 3. The "new books" pane at https://www.gutenberg.org has a pop-up tooltip that mentions the title. Please also mention the author.
-4. The "new books" pane at https://www.gutenberg.org has images, but they are scaled up. For example, https://www.gutenberg.org/cache/epub/63113/pg63113.cover.small.jpg .. why not instead use https://www.gutenberg.org/cache/epub/63113/pg63113.cover.medium.jpg and scale down? It would look much better, at a cost of perhaps 60KB for all 10 images.
 
 ### Items that will not be fixed
 1. Wiki "user" pages. These have not been maintained, and are no longer part of the site. Archived pages are likely available at the Wayback machine, https://wayback.archive.org -- first enter the URL (such as https://www.gutenberg.org or a more specific link), then select the date of the archive snapshot to view the removed page.
