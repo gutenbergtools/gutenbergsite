@@ -23,16 +23,19 @@ THANK YOU for your patience as we continue to update the website to fix remainin
 ### Functionality issues
 1. Redirected pages go from https to http inappropriately. For example, https://www.gutenberg.org/catalog redirects properly but changes to http://www.gutenberg.org/ebooks .. this seems to happen with some search pages, also. Status: Investigating. This looks like an issue with redirect syntax or server config.
 2. Kindle issues. Kindles are getting an outdated version of the web page, which has invalid/ill-formed HTML or CSS. Status: The issue has been identified, and a fix is expected soon.
+3. The OPDS feed still has some issues. "Search for 'science fiction' yields: Subjects 24 found, Bookshelves 4 found. Clicking on either yields 404 not found." 
 
 ### Content issues
 1. Bookshelf editing is not currently available. Bookshelves only have older entries. Most bookshelves had not been updated recently anyway, and we hope to add bookshelf editing capabilities soon. Status: Under development.
-2. Need to create a new version of the mention of https://www.gutenberg.org/wiki/Gutenberg:Help_on_Bibliographic_Record_Page from bibrec (help text, appears 4x on each bibrec page linked with the question mark from the dropbox, gdrive and onedrive icons).
+2. Need to create a new version of the mention of https://www.gutenberg.org/wiki/Gutenberg:Help_on_Bibliographic_Record_Page from bibrec (help text, appears 4x on each bibrec page linked with the question mark from the dropbox, gdrive and onedrive icons). Also a description of epub, mobi, and other formats. Status: Under development.
 3. OPDS catalog (for offline readers) was not ported to the new site, because it was never listed in Offline Catalogs (https://www.gutenberg.org/ebooks/offline_catalogs.html) like it should have been. It used to be available via m.gutenberg.org, which would respond to requests with HTML if the user agent was a browser, and with OPDS if the user agent was a reader app such as FBReader. Status: We might have this fixed now.
 4. "Top" lists are not being updated. https://www.gutenberg.org/browse/scores/top .. this is likely due to changes in the logfiles. Status: Logfiles from the new servers are not being made available automatically; iBiblio needs to help with this.
-5. Bookshelves: We found at least one is missing, Emmy's Picks (archival copy: https://web.archive.org/web/20200229062652/http://www.gutenberg.org/wiki/Category:Emmy's_Picks). We should try to recreate the more granular list found here: https://web.archive.org/web/20200229034611/http://www.gutenberg.org/wiki/Category:Bookshelf .. Are books on multiple booklists being presented with multiple entries? Status: Not yet investigated.
+5. Bookshelves: We found at least two are missing, Emmy's Picks (archival copy: https://web.archive.org/web/20200229062652/http://www.gutenberg.org/wiki/Category:Emmy's_Picks). We should try to recreate the more granular list found here: https://web.archive.org/web/20200229034611/http://www.gutenberg.org/wiki/Category:Bookshelf .. Are books on multiple booklists being presented with multiple entries? Status: Not yet investigated.
+6. Bookshelves: Bring back the granularity of the old site. For example "Science Fiction" is available (http://www.gutenberg.org/ebooks/bookshelf/68), but not on the main page at https://www.gutenberg.org/ebooks/bookshelf/ .. the old site had many more items on this main bookshelf page, which would be good to recover. Status: Working on it.
 
 ### User interface and user experience issues
-None currently
+1. OPDS results have a heading, "All Books (sorted by popularity)" regardless of what it is showing. Instead this should be something more generic, like, "<title>Project Gutenberg</title>." Status: Working on it.
+2. Author links hide the author name. This is similar to a CSS issue we fixed for other search results. When browsing by author, for example http://www.gutenberg.org/browse/authors/w#a9379 , the name of the author (Wilson, in this example) is hidden behind the menu. It needs to be moved down a bit. Status: Working on it.
 
 ### Search-related issues
 
@@ -43,6 +46,7 @@ None currently
 1. Bookshelf sorting by author. For example, https://www.gutenberg.org/ebooks/bookshelf/16?sort_order=title&start_index=26 can sort alphabetically by title, but not by author. The sort field is already part of the request (sort_order=title), so sorting by other fields seem viable. Status: Not yet investigated.
 2. Long lists should have "Last" as well as First and Next. For example, http://www.gutenberg.org/ebooks/bookshelf/68. Status: Not yet investigated.
 3. The "new books" pane at https://www.gutenberg.org has a pop-up tooltip that mentions the title. Please also mention the author.
+4. Fielded search and ordering. If results were presented in a table where any field could be included, such as Author, Title, Language, LC code, subject, bookshelf, release date, most recent update... THEN people could select a column and have results sorted by that column. Status: This is of interest, and non-trivial to implement. 
 
 ### Items that will not be fixed
 1. Wiki "user" pages. These have not been maintained, and are no longer part of the site. Archived pages are likely available at the Wayback machine, https://wayback.archive.org -- first enter the URL (such as https://www.gutenberg.org or a more specific link), then select the date of the archive snapshot to view the removed page.
