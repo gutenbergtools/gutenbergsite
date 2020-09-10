@@ -9,7 +9,7 @@ Category: Bookshelf
 
 Please click on the subcategories for more bookshelves. Some bookshelves have not been updated. Another way to find related eBooks is to use the "bibrec" tab in an eBook's landing page, to find other eBooks with the same subject.
 
-If you want a full list of all pages in bookshelf, click [here](/ebooks/bookshelf/pages)
+If you want a full list of pages in bookshelf, click [here](/ebooks/bookshelf/pages)
 
 ## Subcategories
 

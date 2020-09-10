@@ -7,7 +7,7 @@ permalink: /ebooks/bookshelf/pages
 Pages in Bookshelves
 ==================================================
 
-These are all specific bookshelves existing in Project Gutenberg
+These are all specific bookshelves existing in Project Gutenberg.(Still keep adding more bookshelves)
 
 
  <div class="bookshelves ">
