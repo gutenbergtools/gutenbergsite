@@ -58,52 +58,6 @@ These are all specific bookshelves existing in Project Gutenberg.(Current link i
 <li><a href="/ebooks/bookshelf/207" title="Bulletin de Lille">Bulletin de Lille</a></li>
 <li><a href="/ebooks/bookshelf/336" title="Banned Books from Anne Haight's list">Banned Books from Anne Haight's list</a></li>
 <li><a href="/ebooks/bookshelf/422" title="Banned Books List from the American Library Association">Banned Books List from the American Library Association</a></li>
-<h2>A</h2>
-<li><a href="/ebooks/bookshelf/112" title="Argentina">Argentina</a></li>
-<li><a href="/ebooks/bookshelf/113" title="Australia">Australia</a></li>
-<li><a href="/ebooks/bookshelf/150" title="Animal">Animal</a></li>
-<li><a href="/ebooks/bookshelf/151" title="Animals-Domestic">Animals-Domestic</a></li>
-<li><a href="/ebooks/bookshelf/152" title="Animals-Wild">Animals-Wild</a></li>
-<li><a href="/ebooks/bookshelf/153" title="Animals-Wild-Trapping">Animals-Wild-Trapping</a></li>
-<li><a href="/ebooks/bookshelf/154" title="Animals-Wild-Birds">Animals-Wild-Birds</a></li>
-<li><a href="/ebooks/bookshelf/155" title="Animals-Wild-Insects">Animals-Wild-Insects</a></li>
-<li><a href="/ebooks/bookshelf/156" title="Animals-Wild-Mammals">Animals-Wild-Mammals</a></li>
-<li><a href="/ebooks/bookshelf/157" title="Animals-Wild-Reptiles and Amphibians">Animals-Wild-Reptiles and Amphibians</a></li>
-<li><a href="/ebooks/bookshelf/10" title="Architecture">Architecture</a></li>
-<li><a href="/ebooks/bookshelf/9" title="Archaeology">Archaeology</a></li>
-<li><a href="/ebooks/bookshelf/82" title="Adventure">Adventure</a></li>
-<li><a href="/ebooks/bookshelf/11" title="Art">Art</a></li>
-<li><a href="/ebooks/bookshelf/5" title="Africa">Africa</a></li>
-<li><a href="/ebooks/bookshelf/7" title="Anarchism">Anarchism</a></li>
-<li><a href="/ebooks/bookshelf/8" title="Anthropology">Anthropology</a></li>
-<li><a href="/ebooks/bookshelf/6" title="African American Writers">African American Writers</a></li>
-<li><a href="/ebooks/bookshelf/101" title="Astronomy">Astronomy</a></li>
-<li><a href="/ebooks/bookshelf/160" title="Arthurian Legends">Arthurian Legends</a></li>
-<li><a href="/ebooks/bookshelf/195" title="Ainslee's">Ainslee's</a></li>
-<li><a href="/ebooks/bookshelf/196" title="American Revolutionary War">American Revolutionary War</a></li>
-<li><a href="/ebooks/bookshelf/197" title="Armour's Monthly Cook Book">Armour's Monthly Cook Book</a></li>
-<li><a href="/ebooks/bookshelf/198" title="Astounding Stories">Astounding Stories</a></li>
-<li><a href="/ebooks/bookshelf/199" title="Atheism">Atheism</a></li>
-<h2>B</h2>
-<li><a href="/ebooks/bookshelf/114" title="Bahá'í Faith">Bahá'í Faith</a></li>
-<li><a href="/ebooks/bookshelf/115" title="Botany">Botany</a></li>
-<li><a href="/ebooks/bookshelf/116" title="Buddhism">Buddhism</a></li>
-<li><a href="/ebooks/bookshelf/117" title="Bulgaria">Bulgaria</a></li>
-<li><a href="/ebooks/bookshelf/137" title="Boer War">Boer War</a></li>
-<li><a href="/ebooks/bookshelf/15" title="Bibliomania">Bibliomania</a></li>
-<li><a href="/ebooks/bookshelf/13" title="Best Books Ever Listings">Best Books Ever Listings</a></li>
-<li><a href="/ebooks/bookshelf/16" title="Biographies">Biographies</a></li>
-<li><a href="/ebooks/bookshelf/159" title="Bestsellers, American, 1895-1923">Bestsellers, American, 1895-1923</a></li>
-<li><a href="/ebooks/bookshelf/200" title="Barnavännen">Barnavännen</a></li>
-<li><a href="/ebooks/bookshelf/201" title="Biology">Biology</a></li>
-<li><a href="/ebooks/bookshelf/202" title="Bird-Lore">Bird-Lore</a></li>
-<li><a href="/ebooks/bookshelf/203" title="Birds, Illustrated by Color Photography">Birds, Illustrated by Color Photography</a></li>
-<li><a href="/ebooks/bookshelf/204" title="Blackwood's Edinburgh Magazine">Blackwood's Edinburgh Magazine</a></li>
-<li><a href="/ebooks/bookshelf/205" title="British Law">British Law</a></li>
-<li><a href="/ebooks/bookshelf/206" title="Buchanan's Journal of Man">Buchanan's Journal of Man</a></li>
-<li><a href="/ebooks/bookshelf/207" title="Bulletin de Lille">Bulletin de Lille</a></li>
-<li><a href="/ebooks/bookshelf/336" title="Banned Books from Anne Haight's list">Banned Books from Anne Haight's list</a></li>
-<li><a href="/ebooks/bookshelf/422" title="Banned Books List from the American Library Association">Banned Books List from the American Library Association</a></li>
 <h2>C</h2>
 <li><a href="/ebooks/bookshelf/118" title="Canada">Canada</a></li>
 <li><a href="/ebooks/bookshelf/119" title="Christianity">Christianity</a></li>
@@ -135,6 +89,16 @@ These are all specific bookshelves existing in Project Gutenberg.(Current link i
 <li><a href="/ebooks/bookshelf/218" title="Children's Verse">Children's Verse</a></li>
 <li><a href="/ebooks/bookshelf/219" title="Continental Monthly">Continental Monthly</a></li>
 <li><a href="/ebooks/bookshelf/220" title="Current History">Current History</a></li>
+<h2>D</h2>
+<li><a href="/ebooks/bookshelf/30" title="Detective Fiction">Detective Fiction</a></li>
+<li><a href="/ebooks/bookshelf/221" title="De Aarde en haar Volken">De Aarde en haar Volken</a></li>
+<li><a href="/ebooks/bookshelf/222" title="Dew Drops">Dew Drops</a></li>
+<li><a href="/ebooks/bookshelf/223" title="Donahoe's Magazine">Donahoe's Magazine</a></li>
+<li><a href="/ebooks/bookshelf/374" title="DE Prosa">DE Prosa</a></li>
+<li><a href="/ebooks/bookshelf/375" title="DE Lyrik">DE Lyrik</a></li>
+<li><a href="/ebooks/bookshelf/376" title="DE Kinderbuch">DE Kinderbuch</a></li>
+<li><a href="/ebooks/bookshelf/377" title="DE Drama">DE Drama</a></li>
+<li><a href="/ebooks/bookshelf/378" title="DE Sachbuch">DE Sachbuch</a></li>
 <h2>E</h2>
 <li><a href="/ebooks/bookshelf/121" title="Egypt">Egypt</a></li>
 <li><a href="/ebooks/bookshelf/138" title="Education">Education</a></li>
@@ -253,6 +217,14 @@ These are all specific bookshelves existing in Project Gutenberg.(Current link i
 <h2>J</h2>
 <li><a href="/ebooks/bookshelf/128" title="Judaism">Judaism</a></li>
 <li><a href="/ebooks/bookshelf/234" title="Journal of Entomology and Zoology">Journal of Entomology and Zoology</a></li>
+<h2>L</h2>
+<li><a href="/ebooks/bookshelf/47" title="Love">Love</a></li>
+<li><a href="/ebooks/bookshelf/46" title="Language Education">Language Education</a></li>
+<li><a href="/ebooks/bookshelf/235" title="L'Illustration">L'Illustration</a></li>
+<li><a href="/ebooks/bookshelf/236" title="Lippincott's Magazine">Lippincott's Magazine</a></li>
+<li><a href="/ebooks/bookshelf/237" title="Little Folks">Little Folks</a></li>
+<li><a href="/ebooks/bookshelf/404" title="Latter Day Saints">Latter Day Saints</a></li>
+<li><a href="/ebooks/bookshelf/414" title="London Medical Gazette">London Medical Gazette</a></li>
 <h2>M</h2>
 <li><a href="/ebooks/bookshelf/129" title="Mycology">Mycology</a></li>
 <li><a href="/ebooks/bookshelf/146" title="Manufacturing">Manufacturing</a></li>
@@ -279,6 +251,10 @@ These are all specific bookshelves existing in Project Gutenberg.(Current link i
 <li><a href="/ebooks/bookshelf/244" title="Northern Nut Growers Association">Northern Nut Growers Association</a></li>
 <li><a href="/ebooks/bookshelf/245" title="Notes and Queries">Notes and Queries</a></li>
 <li><a href="/ebooks/bookshelf/246" title="Noteworthy Trials(Bookshelf)">Noteworthy Trials(Bookshelf)</a></li>
+<h2>O</h2>
+<li><a href="/ebooks/bookshelf/55" title="One Act Plays">One Act Plays</a></li>
+<li><a href="/ebooks/bookshelf/56" title="Opera">Opera</a></li>
+<li><a href="/ebooks/bookshelf/247" title="Our Young Folks">Our Young Folks</a></li>
 <h2>P</h2>
 <li><a href="/ebooks/bookshelf/132" title="Paganism">Paganism</a></li>
 <li><a href="/ebooks/bookshelf/158" title="Photography">Photography</a></li>
@@ -310,6 +286,10 @@ These are all specific bookshelves existing in Project Gutenberg.(Current link i
 <li><a href="/ebooks/bookshelf/250" title="Prairie Farmer">Prairie Farmer</a></li>
 <li><a href="/ebooks/bookshelf/252" title="Punch">Punch</a></li>
 <li><a href="/ebooks/bookshelf/253" title="Punchinello">Punchinello</a></li>
+<h2>R</h2>
+<li><a href="/ebooks/bookshelf/65" title="Racism">Racism</a></li>
+<li><a href="/ebooks/bookshelf/66" title="Reference">Reference</a></li>
+<li><a href="/ebooks/bookshelf/412" title="Romantic Fiction">Romantic Fiction</a></li>
 <h2>S</h2>
 <li><a href="/ebooks/bookshelf/134" title="Sociology">Sociology</a></li>
 <li><a href="/ebooks/bookshelf/135" title="South Africa">South Africa</a></li>
@@ -326,11 +306,6 @@ These are all specific bookshelves existing in Project Gutenberg.(Current link i
 <li><a href="/ebooks/bookshelf/257" title="Scribner's Magazine">Scribner's Magazine</a></li>
 <li><a href="/ebooks/bookshelf/258" title="St. Nicholas Magazine for Boys and Girls">St. Nicholas Magazine for Boys and Girls</a></li>
 <li><a href="/ebooks/bookshelf/403" title="Science Fiction by Women">Science Fiction by Women</a></li>
-<h2>U</h2>
-<li><a href="/ebooks/bookshelf/136" title="United States">United States</a></li>
-<li><a href="/ebooks/bookshelf/141" title="US Civil War">US Civil War</a></li>
-<li><a href="/ebooks/bookshelf/76" title="United Kingdom">United Kingdom</a></li>
-<li><a href="/ebooks/bookshelf/302" title="United States Law">United States Law</a></li>
 <h2>T</h2>
 <li><a href="/ebooks/bookshelf/143" title="Technology">Technology</a></li>
 <li><a href="/ebooks/bookshelf/74" title="Transportation">Transportation</a></li>
@@ -381,6 +356,11 @@ These are all specific bookshelves existing in Project Gutenberg.(Current link i
 <li><a href="/ebooks/bookshelf/301" title="The Yellow Book">The Yellow Book</a></li>
 <li><a href="/ebooks/bookshelf/423" title="The American Bee Journal">The American Bee Journal</a></li>
 <li><a href="/ebooks/bookshelf/413" title="The Haslemere Museum Gazette">The Haslemere Museum Gazette</a></li>
+<h2>U</h2>
+<li><a href="/ebooks/bookshelf/136" title="United States">United States</a></li>
+<li><a href="/ebooks/bookshelf/141" title="US Civil War">US Civil War</a></li>
+<li><a href="/ebooks/bookshelf/76" title="United Kingdom">United Kingdom</a></li>
+<li><a href="/ebooks/bookshelf/302" title="United States Law">United States Law</a></li>
 <h2>W</h2>
 <li><a href="/ebooks/bookshelf/147" title="Woodwork">Woodwork</a></li>
 <li><a href="/ebooks/bookshelf/142" title="World War I">World War I</a></li>
@@ -388,32 +368,6 @@ These are all specific bookshelves existing in Project Gutenberg.(Current link i
 <li><a href="/ebooks/bookshelf/77" title="Western">Western</a></li>
 <li><a href="/ebooks/bookshelf/80" title="Women's Travel Journals">Women's Travel Journals</a></li>
 <li><a href="/ebooks/bookshelf/325" title="World War II">World War II</a></li>
-<h2>D</h2>
-<li><a href="/ebooks/bookshelf/30" title="Detective Fiction">Detective Fiction</a></li>
-<li><a href="/ebooks/bookshelf/221" title="De Aarde en haar Volken">De Aarde en haar Volken</a></li>
-<li><a href="/ebooks/bookshelf/222" title="Dew Drops">Dew Drops</a></li>
-<li><a href="/ebooks/bookshelf/223" title="Donahoe's Magazine">Donahoe's Magazine</a></li>
-<li><a href="/ebooks/bookshelf/374" title="DE Prosa">DE Prosa</a></li>
-<li><a href="/ebooks/bookshelf/375" title="DE Lyrik">DE Lyrik</a></li>
-<li><a href="/ebooks/bookshelf/376" title="DE Kinderbuch">DE Kinderbuch</a></li>
-<li><a href="/ebooks/bookshelf/377" title="DE Drama">DE Drama</a></li>
-<li><a href="/ebooks/bookshelf/378" title="DE Sachbuch">DE Sachbuch</a></li>
-<h2>O</h2>
-<li><a href="/ebooks/bookshelf/55" title="One Act Plays">One Act Plays</a></li>
-<li><a href="/ebooks/bookshelf/56" title="Opera">Opera</a></li>
-<li><a href="/ebooks/bookshelf/247" title="Our Young Folks">Our Young Folks</a></li>
-<h2>R</h2>
-<li><a href="/ebooks/bookshelf/65" title="Racism">Racism</a></li>
-<li><a href="/ebooks/bookshelf/66" title="Reference">Reference</a></li>
-<li><a href="/ebooks/bookshelf/412" title="Romantic Fiction">Romantic Fiction</a></li>
-<h2>L</h2>
-<li><a href="/ebooks/bookshelf/47" title="Love">Love</a></li>
-<li><a href="/ebooks/bookshelf/46" title="Language Education">Language Education</a></li>
-<li><a href="/ebooks/bookshelf/235" title="L'Illustration">L'Illustration</a></li>
-<li><a href="/ebooks/bookshelf/236" title="Lippincott's Magazine">Lippincott's Magazine</a></li>
-<li><a href="/ebooks/bookshelf/237" title="Little Folks">Little Folks</a></li>
-<li><a href="/ebooks/bookshelf/404" title="Latter Day Saints">Latter Day Saints</a></li>
-<li><a href="/ebooks/bookshelf/414" title="London Medical Gazette">London Medical Gazette</a></li>
 <h2>Z</h2>
 <li><a href="/ebooks/bookshelf/303" title="Zoology">Zoology</a></li>
 </div>
