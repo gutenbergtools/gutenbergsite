@@ -118,5 +118,5 @@ If you encounter something that doesn't work for you, or could be better, please
 
 It is especially important that we can understand what you are experiencing, and what could be improved. To help with this, please provide a description of how you accessed the website, and the problems encountered. If you know of external testing sites, or standards, or software that we should look into, please let us know.
 
-*Most recently updated: September 4, 2020*
+*Most recently updated: September 5, 2020*
 
