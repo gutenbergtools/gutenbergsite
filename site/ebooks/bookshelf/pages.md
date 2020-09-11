@@ -58,16 +58,6 @@ These are all specific bookshelves existing in Project Gutenberg.(Current link i
 <li><a href="/ebooks/bookshelf/207" title="Bulletin de Lille">Bulletin de Lille</a></li>
 <li><a href="/ebooks/bookshelf/336" title="Banned Books from Anne Haight's list">Banned Books from Anne Haight's list</a></li>
 <li><a href="/ebooks/bookshelf/422" title="Banned Books List from the American Library Association">Banned Books List from the American Library Association</a></li>
-
-hczhao@barbell:~/Desktop$  cd /home/hczhao/Desktop ; /usr/bin/env /usr/bin/python3 /home/hczhao/.vscode-server/extensions/ms-python.python-2020.8.108011/pythonFiles/lib/python/debugpy/launcher 41083 -- /home/hczhao/Desktop/test/orm.py 
-/home/hczhao/.local/lib/python3.6/site-packages/sqlalchemy/dialects/postgresql/base.py:3359: SAWarning: Skipped unsupported reflection of expression-based index ix_authors_lower_author
-  "expression-based index %s" % idx_name
-/home/hczhao/.local/lib/python3.6/site-packages/sqlalchemy/dialects/postgresql/base.py:3359: SAWarning: Skipped unsupported reflection of expression-based index ix_books_filing
-  "expression-based index %s" % idx_name
-/home/hczhao/.local/lib/python3.6/site-packages/sqlalchemy/dialects/postgresql/base.py:3359: SAWarning: Skipped unsupported reflection of expression-based index ix_aliases_lower_alias
-  "expression-based index %s" % idx_name
-/home/hczhao/.local/lib/python3.6/site-packages/sqlalchemy/dialects/postgresql/base.py:3359: SAWarning: Skipped unsupported reflection of expression-based index ix_attributes_fk_books_fk_attriblist_text
-  "expression-based index %s" % idx_name
 <h2>A</h2>
 <li><a href="/ebooks/bookshelf/112" title="Argentina">Argentina</a></li>
 <li><a href="/ebooks/bookshelf/113" title="Australia">Australia</a></li>
