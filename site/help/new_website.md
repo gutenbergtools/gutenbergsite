@@ -22,13 +22,20 @@ THANK YOU for your patience as we continue to update the website to fix remainin
 
 ### Functionality issues
 1. Redirected pages go from https to http inappropriately. For example, https://www.gutenberg.org/catalog redirects properly but changes to http://www.gutenberg.org/ebooks .. this seems to happen with some search pages, also. Status: Investigating. This looks like an issue with redirect syntax or server config.
-2. Kindle issues. Kindles are getting an outdated version of the web page, which has invalid/ill-formed HTML or CSS. Status: The issue has been identified, and a fix is expected soon.
+2. Kindle issues. Kindles were getting an outdated version of the web page, which has invalid/ill-formed HTML or CSS. Status: We believe the issue, which was caused by an incorrect content-type header, is fixed.
 3. The OPDS feed still has some issues. "Search for 'science fiction' yields: Subjects 24 found, Bookshelves 4 found. Clicking on either yields 404 not found." 
+4. OPDS feed references the following images which are not present in the new website:
+ - /pics/24/bookmark.png
+ - /pics/24/date.png
+ - /pics/24/roll.png
+ - /pics/favicon.png
+ - /pics/24/kdict.png
+ - /pics/24/applixware.png
 
 ### Content issues
 1. Bookshelf editing is not currently available. Bookshelves only have older entries. Most bookshelves had not been updated recently anyway, and we hope to add bookshelf editing capabilities soon. Status: Under development.
 2. Need to create a new version of the mention of https://www.gutenberg.org/wiki/Gutenberg:Help_on_Bibliographic_Record_Page from bibrec (help text, appears 4x on each bibrec page linked with the question mark from the dropbox, gdrive and onedrive icons). Also a description of epub, mobi, and other formats. Status: Under development.
-3. OPDS catalog (for offline readers) was not ported to the new site, because it was never listed in Offline Catalogs (https://www.gutenberg.org/ebooks/offline_catalogs.html) like it should have been. It used to be available via m.gutenberg.org, which would respond to requests with HTML if the user agent was a browser, and with OPDS if the user agent was a reader app such as FBReader. Status: We might have this fixed now.
+3. OPDS catalog (for offline readers) was not ported to the new site, because it was never listed in Offline Catalogs (https://www.gutenberg.org/ebooks/offline_catalogs.html) like it should have been. It used to be available via m.gutenberg.org, which would respond to requests with HTML if the user agent was a browser, and with OPDS if the user agent was a reader app such as FBReader. Status: Feed was still there, just blocked by a missing access rule. Should be fixed.
 4. "Top" lists are not being updated. https://www.gutenberg.org/browse/scores/top .. this is likely due to changes in the logfiles. Status: Logfiles from the new servers are not being made available automatically; iBiblio needs to help with this.
 5. Bookshelves: We found at least two are missing, Emmy's Picks (archival copy: https://web.archive.org/web/20200229062652/http://www.gutenberg.org/wiki/Category:Emmy's_Picks). We should try to recreate the more granular list found here: https://web.archive.org/web/20200229034611/http://www.gutenberg.org/wiki/Category:Bookshelf .. Are books on multiple booklists being presented with multiple entries? Status: Not yet investigated.
 6. Bookshelves: Bring back the granularity of the old site. For example "Science Fiction" is available (http://www.gutenberg.org/ebooks/bookshelf/68), but not on the main page at https://www.gutenberg.org/ebooks/bookshelf/ .. the old site had many more items on this main bookshelf page, which would be good to recover. Status: Working on it.
@@ -52,7 +59,7 @@ THANK YOU for your patience as we continue to update the website to fix remainin
 1. Wiki "user" pages. These have not been maintained, and are no longer part of the site. Archived pages are likely available at the Wayback machine, https://wayback.archive.org -- first enter the URL (such as https://www.gutenberg.org or a more specific link), then select the date of the archive snapshot to view the removed page.
 2. Translated pages. These have not been maintained, and are no longer part of the site. The Wayback machine, again, likely has archived copies.
 3. Mobile site (http://m.gutenberg.org) was retired, since the new website is responsive for smaller screens and has all the same functionality. This retirement was originally planned to happen later, but the site was unmaintained and had some issues that forced early retirement. We apologize there was not adequate notice for this change.
-4. "Your app is broken." Project Gutenberg does not have, and has never had, an app. Project Gutenberg eBooks require no special apps to read, just the regular Web browsers or eBook readers that are included with computers and mobile devices. No app is required to enjoy Project Gutenberg eBooks. IF YOU ARE HAVING TROUBLE WITH AN APP, it is not an app from Project Gutenberg. Any support/fixes will need to come from whoever made the app.
+4. "Your app is broken." Project Gutenberg does not have, and has never had, an app. Project Gutenberg eBooks require no special apps to read, just the regular Web browsers or eBook readers that are included with computers and mobile devices. No app is required to enjoy Project Gutenberg eBooks. IF YOU ARE HAVING TROUBLE WITH AN APP, it is not an app from Project Gutenberg. Any support/fixes will need to come from whoever made the app. Note that some apps used our OPDS feed, which had some problems that have been fixed.
 
 
 # New Website Overview
