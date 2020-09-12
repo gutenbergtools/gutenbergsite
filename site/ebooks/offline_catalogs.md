@@ -27,9 +27,9 @@ The "[posted](https://lists.pglaf.org/mailman/listinfo/posted)" list is where ev
 ### Social media
 
 * [Facebook group](https://www.facebook.com/project.gutenberg)
-* [Facebook news feed of new eBooks](https://www.facebook.com/gutenberg.new)
-* [Twitter](https://twitter.com/gutenberg_org @gutenberg_org)
-* [Twitter news feed of new eBooks](https://twitter.com/gutenberg_new @gutenberg_new)
+* [Facebook](https://www.facebook.com/gutenberg.new), news feed of new eBooks
+* [Twitter @gutenberg_org](https://twitter.com/gutenberg_org)
+* [Twitter @gutenberg_new](https://twitter.com/gutenberg_new), news feed of new eBooks
 
 ## List of Sites Hosting Project Gutenberg EBooks
 
