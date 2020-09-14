@@ -7,29 +7,6 @@ permalink: /policy/permission.html
 Project Gutenberg Permissions, Licensing and other Common Requests
 ==================================================================
 
-<div class="contents">
-<ol>
-<li><a href="#overview">Overview</a></li>
-<li><a href="#most-permissions-not-needed">Most permissions not needed</a></li>
-<li><a href="#terms-of-use">Terms of Use</a></li>
-<li><a href="#trademark-permission-to-.22Trade-On.22-the-Project-Gutenberg-name">Trademark Permission to "Trade On" the Project Gutenberg name</a></li>
-<li><a href="#crediting">Crediting</a></li>
-<li><a href="#linking">Linking</a></li>
-<li><a href="#project-gutenberg-as-publisher">Project Gutenberg as Publisher</a></li>
-<li><a href="#quotes-and-extracts-from-Project-Gutenberg-items">Quotes and extracts from Project Gutenberg items</a></li>
-<li><a href="#copyright-page-and-trademarks-from-source">Copyright page and trademarks from Source</a></li>
-<li><a href="#citing-project-gutenberg">Citing Project Gutenberg</a></li>
-<li><a href="#no-paperwork">No paperwork</a></li>
-<li><a href="#us-only">US only</a></li>
-<li><a href="#no-.22sweat-of-the-brow.22">No "sweat of the brow"</a></li>
-<li><a href="#for-copyrighted-content">For copyrighted content</a></li>
-<li><a href="#commercial-use-of-Project-Gutenberg-trademark">Commercial use of Project Gutenberg trademark</a></li>
-<li><a href="#higher-resolution-images">Higher resolution images</a></li>
-<li><a href="#more-details-on-items">More details on items</a></li>
-<li><a href="#reporting-errata">Reporting errata</a></li>
-</ol>
-</div>
-
 ## Overview
 
 Project Gutenberg receives many requests for permissions to use eBooks, images from eBooks, or extracts. Most such requests do not need a custom response, since permission is included in the items themselves (even for commercial use), or in the narrative below.
@@ -100,7 +77,7 @@ We also do not process forms that somehow confirm non-copyright status. If you d
 PG is entirely based in the US, and we follow the United States laws for copyright. Not all items that are public domain in the US are public domain in other countries, and vice versa. If you are operating outside of the US, you should get professional guidance on how to proceed for things like redistributing Project Gutenberg's content. For basic information about copyright elsewhere, try this link to the [Online books page](http://onlinebooks.library.upenn.edu/okbooks.html). 
 
 ## No "sweat of the brow"
-Project Gutenberg claims no copyright for markup, formatting, spelling modernization, etc., and neither can you (at least in the United States). See our [No Sweat of the Brow How-To](/policy/no_sweat_copyright.html)
+Project Gutenberg claims no copyright for markup, formatting, spelling modernization, etc., and neither can you (at least in the United States). See our [No Sweat of the Brow How-To](/help/no_sweat_copyright.html)
 
 ## For copyrighted content
 There are thousands of items in the Project Gutenberg collection which are still under copyright protection. Each copyrighted item is clearly indicated as copyrighted in the eBook's header. Unless there is an included license with the copyrighted item (such as a creative commons license), you will need to contact the copyright holder for any needed permission. Project Gutenberg cannot do this on your behalf, and does not have any ability to sublicense copyrighted works.
