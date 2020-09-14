@@ -4,8 +4,21 @@ title: Emmy's Picks Bookshelf | Project Gutenberg
 permalink: /ebooks/bookshelf/emmys
 ---
 
-All books in Emmy's Picks
+Emmy's Picks
 ==================================================
+
+On the first page of many Project Gutenberg books, you might see the following notice:
+
+Produced by Emmy, ... and the Online Distributed
+Proofreading Team at https://www.pgdp.net
+
+Emmy (M) Miller was a volunteer at [Distributed Proofreaders](https://www.pgdp.net), a non-profit organization that converts public domain/out-of-copyright books into "electronic texts" and provides them to Project Gutenberg for free distribution.
+
+Emmy died in February 2017 and is deeply missed by everybody at Distributed Proofreaders.
+
+In her work at Distributed Proofreaders, she was directly responsible for adding more than 1,000 e-books, many in the realm of Children's Literature, to Project Gutenberg. Emmy loved her work and was loved and respected in turn by everyone in the Distributed Proofreaders community.
+
+Here is a listing of the books Emmy provided to Project Gutenberg:
 
 <div class="bookshelf_pages">
 <li><a href="/ebooks/51244">The Livestock Producer and Armour</a> -- by Unknown</li>
