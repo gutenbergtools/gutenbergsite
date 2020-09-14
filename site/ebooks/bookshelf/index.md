@@ -26,7 +26,7 @@ Please click on the subcategories for more bookshelves. Some bookshelves have no
       <h2>E</h2>
        <!-- Extra one in results-->
        <li><a href="/ebooks/bookshelves/search/?query=education">Education Bookshelf</a></li>
-       <li><a href="/ebooks/bookshelf/emmys">Emmy's Pick</a></li>
+       <li><a href="/ebooks/bookshelf/emmys">Emmy's Picks</a></li>
       <h2>F</h2>
        <li><a href="/ebooks/bookshelves/search/?query=fiction|adventure|fantasy|humor|horror|western">Fiction Bookshelf</a></li>
        <li><a href="/ebooks/bookshelves/search/?query=architecture.|art.%20!storia%20!international%20!%20FR%20!%20PT%20!%20varia">Fine arts Bookshelf</a></li>

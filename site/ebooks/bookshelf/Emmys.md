@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Emmy's Pick Bookshelf | Project Gutenberg
+title: Emmy's Picks Bookshelf | Project Gutenberg
 permalink: /ebooks/bookshelf/emmys
 ---
 
-All books in Emmy's Pick
+All books in Emmy's Picks
 ==================================================
 
 <div class="bookshelf_pages">
