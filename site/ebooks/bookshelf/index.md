@@ -57,11 +57,12 @@ If you want a full list of pages in bookshelf, click [here](/ebooks/bookshelf/pa
     </ul>
   </div>
 
+
+
 ## Detailed listings of all Bookshelves
 
-==================================================
 
-These are all specific bookshelves existing in Project Gutenberg.(Current link is not available.)
+These are all specific bookshelves existing in Project Gutenberg.
 
 <div class="bookshelf_pages">
 <h2>6</h2>
