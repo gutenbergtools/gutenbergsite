@@ -32,8 +32,7 @@ Let us know if you are still having trouble with these:
 
 ### Content issues
 1. Need to create a new version of the mention of https://www.gutenberg.org/wiki/Gutenberg:Help_on_Bibliographic_Record_Page from bibrec (help text, appears 4x on each bibrec page linked with the question mark from the dropbox, gdrive and onedrive icons). Also a description of epub, mobi, and other formats. Status: Under development.
-2. Bookshelves: One is missing, Emmy's Picks (archival copy: https://web.archive.org/web/20200229062652/http://www.gutenberg.org/wiki/Category:Emmy's_Picks). Status: Recreation depends on the bookshelf editing tool, mentioned under Feature Requests below.
-3. PDF blank or broken pages. Automated PDF is a new feature that is not fully functional yet. If you find a broken PDF, it should be fixed during upcoming weeks. Meanwhile, use the HTML or other formats - this is the same content as will eventually be in PDF. Status: Fixes ongoing.
+2. PDF blank or broken pages. Automated PDF is a new feature that is not fully functional yet. If you find a broken PDF, it should be fixed during upcoming weeks. Meanwhile, use the HTML or other formats - this is the same content as will eventually be in PDF. Status: Fixes ongoing.
 
 ### User interface and user experience issues
 1. OPDS results have a heading, "All Books (sorted by popularity)" regardless of what it is showing. Instead this should be something more generic, like, "<title>Project Gutenberg</title>." Status: Working on it.
@@ -120,5 +119,4 @@ If you encounter something that doesn't work for you, or could be better, please
 
 It is especially important that we can understand what you are experiencing, and what could be improved. To help with this, please provide a description of how you accessed the website, and the problems encountered. If you know of external testing sites, or standards, or software that we should look into, please let us know.
 
-*Most recently updated: September 13, 2020*
-
+*Most recently updated: September 18, 2020*
