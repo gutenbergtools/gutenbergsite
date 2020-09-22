@@ -4,6 +4,10 @@ title: Free eBooks | Project Gutenberg
 permalink: /
 ---
 
+<div class="box_announce">
+<p><strong>September 21, 11pm EDT: There is an ongoing problem with searching - many searches are failing and the site is slow overall. This will be fixed on September 22. Apologies for the temporary partial outage.</strong></p>
+</div>
+
 Welcome to Project Gutenberg
 ====================================================
 <h2 class="subtitle">Project Gutenberg is a library of over 60,000 free eBooks</h2>
