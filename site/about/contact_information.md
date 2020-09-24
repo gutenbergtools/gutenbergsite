@@ -35,7 +35,7 @@ Please select the most appropriate address from this list.
 
 4. copyright2020 (at) pglaf.org
 
-    Copyright inquiries. Project Gutenberg copyright inquiries. But see [cand.pglaf.org](http://cand.pglaf.org) before reporting potential misuse of copyrighted materials. For licensing questions, permissions and other such inquiries, the answer is probably in our [Permission How-To](). Please don't send email without first checking the How-To. Responses are typically sent within two days.
+    Copyright inquiries. Project Gutenberg copyright inquiries. But see [cand.pglaf.org](http://cand.pglaf.org) before reporting potential misuse of copyrighted materials. For licensing questions, permissions and other such inquiries, the answer is probably in our [Permission How-To](/policy/permission.html). Please don't send email without first checking the How-To. Responses are typically sent within two days.
 
 5. gbnewby (at) pglaf.org
 

@@ -11,7 +11,7 @@ Project Gutenberg Permissions, Licensing and other Common Requests
 
 Project Gutenberg receives many requests for permissions to use eBooks, images from eBooks, or extracts. Most such requests do not need a custom response, since permission is included in the items themselves (even for commercial use), or in the narrative below.
 
-This How-To provides responses to the most common inquiries. If your inquiry is not addressed, please email [Prof. Newby](/about/contact_information.html) with your permission requests. Responses are typically received within a day or so (or, re-send your request!). 
+This How-To provides responses to the most common inquiries. If your inquiry is not addressed, please email [Dr. Newby](/about/contact_information.html) with your permission requests. Responses are typically received within a day or so (or, re-send your request!). 
 
 ## Most permissions not needed
 
