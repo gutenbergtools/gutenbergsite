@@ -7,37 +7,6 @@ permalink: /help/faq.html
 Frequently Asked Questions about Project Gutenberg
 ==================================================
 
-<div class="contents">      
-Contents
-<ol>
-<li><a href="#about-project-gutenberg">About Project Gutenberg</a>
-<ol class="inner_1">
-<li><a href="#what-is-project-gutenberg">What is Project Gutenberg?</a></li>
-<li><a href="#where-did-project-gutenberg-come-from">Where did Project Gutenberg come from?</a></li>
-<li><a href="#tell-me-about-project-gutenbergs-longevity">Tell me about Project Gutenberg's Longevity</a></li>
-<li><a href="#who-runs-project-gutenberg">Who runs Project Gutenberg?</a></li>
-<li><a href="#how-many-people-are-in-project-gutenberg">How many people are in Project Gutenberg?</a></li>
-<li><a href="#how-can-i-contact-project-gutenberg">How can I contact Project Gutenberg?</a></li>
-<li><a href="#how can-i-help-project-gutenberg">How can I help Project Gutenberg?</a></li>
-<li><a href="#how-can-i-keep-in-touch-with-what-project-gutenberg-is-doing">How can I keep in touch with what Project Gutenberg is doing?</a></li>
-<li><a href="#what-is-the-relationship-between-project-gutenberg-project-gutenberg-of-europe-projekt-gutenberg-de-project-gutenberg-of-australia-and-project-runeberg">What is the relationship between Project Gutenberg, Project Gutenberg of Europe, Projekt Gutenberg-DE, Project Gutenberg of Australia, and Project Runeberg?</a></li>
-</ol>
-</li>
-<li><a href="#about-project-gutenberg-publications">About Project Gutenberg publications</a>
-<ol class="inner_1">
-<li><a href="#does-project-gutenberg-publish-only-books">Does Project Gutenberg publish only books?</a></li>
-<li><a href="#what-books-does-project-gutenberg-publish">What books does Project Gutenberg publish?</a></li>
-<li><a href="#what-other-things-does-project-gutenberg-publish">What other things does Project Gutenberg publish?</a></li>
-<li><a href="#how-does-project-gutenberg-choose-books-to-publish">How does Project Gutenberg choose books to publish?</a></li>
-<li><a href="#what-languages-does-project-gutenberg-publish-in">What languages does Project Gutenberg publish in?</a></li>
-<li><a href="#why-dont-you-have-any--many-books-about-history-geography-science-biography-etc-why-arent-there-any--more-pg-books-available-in-french-spanish-german-etc">Why don't you have any / many books about history, geography, science, biography, etc.? Why aren't there any / more PG books available in French, Spanish, German, etc.?</a></li>
-<li><a href="#why-dont-you-have-any-books-by-stephen-king-tom-clancy-tolkien-etc">Why don't you have any books by Stephen King, Tom Clancy, Tolkien, etc.?</a></li>
-<li><a href="#why-is-project-gutenberg-so-set-on-using-plain-vanilla-ascii">Why is Project Gutenberg so set on using Plain Vanilla ASCII?</a></li>
-</ol>
-</li>
-</ol>
-</div>
-
 ## About Project Gutenberg
 
 ### What is Project Gutenberg?
@@ -54,9 +23,9 @@ In 1971, Michael Hart was given $100,000,000 worth of computer time on a mainfra
 
 During the 1970s, Michael added some more classic American texts, and through the 80s worked on the Bible and the collected works of Shakespeare. That edition of Shakespeare was never released, due to copyright law changes, but others followed.
 
-Starting in 1991, Project Gutenberg began to take its current form, with many different texts and defined production targets for new eBooks. The target for 1991 was one book a month. 1992's target was two books a month. This target doubled every year through 1996, when it hit 32 books a month.
+Starting in 1991, Project Gutenberg began to take its current form, with many different texts and defined production targets for new eBooks. The target for 1991 was one book per month. 1992's target was two books each month. This target doubled every year through 1996, when it hit 32 books a month.
 
-There is more history and background in the [Background, History and Philosophy](/background/) section.
+There is more history and background in the [Background, History and Philosophy](/about/background/) section.
 
 ### Tell me about Project Gutenberg's longevity
 
@@ -77,13 +46,13 @@ Produce a new eBook! The easiest way to get started is with [Distributed Proofre
 
 Donate money! We're an all-volunteer project, and we don't have much to spend, so even a little goes a long way. [Read more about donating to Project Gutenberg.](/donate/)
 
-Help improve our eBooks! If you find an error, or something missing - or perhaps you have a suggestion for our website - please get in touch.
+Help improve our eBooks! If you find an error, or something missing - or perhaps you have a suggestion for our website - please [get in touch](/about/contact_information.html).
 
-Spread the word! Invite your friends and colleagues to visit Project Gutenberg. When you find something you like, share it! See the [Terms of Use](/about/terms_of_use.html) for details and limitations.
+Spread the word! Invite your friends and colleagues to visit Project Gutenberg. When you find something you like, share it! See the [Terms of Use](/policy/terms_of_use.html) for details and limitations.
 
 ### What is the relationship between Project Gutenberg, Project Gutenberg of Canada, Project Gutenberg of Europe, Projekt Gutenberg-DE, Project Gutenberg of Australia, and Project Runeberg?
 
-These are all entirely separate organizations. In many cases, Michael Hart gave permission for them to use the "Project Gutenberg" name, which is a registered trademark.
+Those are all entirely separate organizations. In many cases, Michael Hart gave permission for them to use the "Project Gutenberg" name, which is a registered trademark.
 
 These site operate within the copyright rules of their respective countries, and may have specific focus on particular types of national works or languages.
 
@@ -100,7 +69,7 @@ For more details, see the [collection development](/policy/collection_developmen
 ### What books does Project Gutenberg publish?
 Any books that meet our collection development policy, and that our volunteers want to work on.
 
-We do not publish any books that still have copyright protection. This generally means that our texts are taken from books published 95+ years ago. (It's more complicated than that, as our [Copyright FAQ](/how_to/copyright_faq.html) explains, but 95+ criterion is a good first rule-of-thumb.)
+We do not publish any books that still have copyright protection. This generally means that our texts are taken from books published 95+ years ago. (It's more complicated than that, as our [Copyright FAQ](/help/copyright.html) explains, but 95+ criterion is a good first rule-of-thumb.)
 
 This means that you won't find the latest bestsellers or modern computer books here. You will find the classic books from the start of the 20th century and previous centuries, from authors like Shakespeare, Poe, Dante, as well as well-loved favorites like the Sherlock Holmes stories by Sir Arthur Conan Doyle, the Tarzan and Mars books of Edgar Rice Burroughs, Alice's adventures in Wonderland as told by Lewis Carroll, and thousands of others.
 
@@ -110,7 +79,7 @@ Two websites have a description of the copyright process, and the various checks
 
 ### What other things has Project Gutenberg published in the past?
 
-We have published some music files, in MIDI and MUS formats. We have published the Human Genome. We have published pictures of the prehistoric cave painting from the south of France. We have published some video files and some audio files, including a Janis Ian track and readings from public domain books.
+We have published some music files, in MIDI and MUS formats. We have published the Human Genome. We have published pictures of the prehistoric cave painting from the south of France. We have published some video files and some audio files, including tracks by award-winning singer/songwriter Janis Ian and readings from public domain books.
 
 Now, however, we only publish literary works that were previously published. The [collection development](/policy/collection_development.html) policy has details.
 
@@ -129,9 +98,11 @@ If a book meets our collection development policy, and it isn't in the library, 
 We're always looking for new languages and topics, and always delighted to see people producing them. If we don't have enough of the types of books you would like to see, why don't you help us out by contributing one? If the people interested in a particular area don't contribute, we'll always be short in that area.
 
 ### Why don't you have any books by Stephen King, Tom Clancy, Tolkien, etc.?
+
 Project Gutenberg can publish only books that are in the public domain in the United States. Current bestsellers have not yet entered the public domain.
 
 ### Why is Project Gutenberg so set on using plain text
+
 Project Gutenberg supports and publishes many open formats, but, yes, we do want to have a plain text version of everything possible.
 
 We're looking at our history, and we're planning for the long term--the very long term.
