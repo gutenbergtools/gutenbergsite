@@ -44,9 +44,9 @@ Let us know if you are still having trouble with these:
 
 ### Feature requests (things that are not really broken, but would be good to have)
 1. Bookshelf editing is not currently available. Bookshelves only have older entries. Most bookshelves had not been updated recently anyway, and we hope to add bookshelf editing capabilities soon. Status: Under development.
-2. Bookshelf sorting by author. For example, https://www.gutenberg.org/ebooks/bookshelf/16?sort_order=title&start_index=26 can sort alphabetically by title, but not by author. The sort field is already part of the request (sort_order=title), so sorting by other fields seem viable. Status: Not yet investigated.
+2. Bookshelf sorting by author. For example, https://www.gutenberg.org/ebooks/bookshelf/16?sort_order=title&start_index=26 can sort alphabetically by title, but not by author. The sort field is already part of the request (sort_order=title), so sorting by other fields seem viable. Status: Working on it.
 3. Long lists should have "Last" as well as First and Next. For example, http://www.gutenberg.org/ebooks/bookshelf/68. Status: Should be possible for bounded lists such as bookshelves, but an attempt to implement this for all lists resulted in severely degraded website performance.
-4. The "new books" pane at https://www.gutenberg.org has a pop-up tooltip that mentions the title. Please also mention the author.
+4. The "new books" pane at https://www.gutenberg.org has a pop-up tooltip that mentions the title. Status: Working on it.
 5. Fielded search and ordering. If results were presented in a table where any field could be included, such as Author, Title, Language, LC code, subject, bookshelf, release date, most recent update... THEN people could select a column and have results sorted by that column. Status: This is of interest, and non-trivial to implement. 
 
 ### Items that will not be fixed
