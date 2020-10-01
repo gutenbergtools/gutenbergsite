@@ -97,9 +97,6 @@ nav {
       display: inline-block;
       padding: 5px;
     }
-    #main_logo{
-      padding-left: 5vw;
-    }
     #tm:checked + .main-menu {
       margin-top: 80px;
     }
