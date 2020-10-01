@@ -5,7 +5,6 @@ nav {
     position: fixed;
     right: 0;
     top: 0;
-    min-height: 80px;
     z-index: 999;
     height: 40px;
     font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
@@ -51,11 +50,6 @@ nav {
     display: inline-block;
     border: none;
   }
-  .hamburger-menu{
-    margin: 20px;
-    width: 30px;
-    height: 30px;
-  }
   nav .donate {
     color: black;
     font-size: 16px;
@@ -86,7 +80,6 @@ nav {
       height: auto;
       font-size: 12px;
       position: absolute;
-      overflow: hidden;
     }
     nav .donate {
       display: none;
@@ -96,9 +89,6 @@ nav {
       float: left;
       display: inline-block;
       padding: 5px;
-    }
-    #tm:checked + .main-menu {
-      margin-top: 80px;
     }
   }
   
@@ -191,7 +181,7 @@ nav {
   }
   
   #menu label.drop-icon, #toggle-menu span.drop-icon {
-    padding: 0em 1em 1em 1em;
+    padding: 1em;
     font-size: 1em;
     text-align: center;
     background-color: rgba(0, 0, 0, .125);
