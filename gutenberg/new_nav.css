@@ -85,10 +85,10 @@ nav {
       display: none;
     }
     nav .searchbox {
-      margin-left: 65px;
+      margin-left: 2em;
       float: left;
       display: inline-block;
-      padding: 5px;
+      padding: 0.2em;
     }
   }
   
