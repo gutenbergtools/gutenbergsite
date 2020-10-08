@@ -6,7 +6,7 @@ nav {
     right: 0;
     top: 0;
     z-index: 999;
-    height: 40px;
+    height: 3.6em;
     font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
   }
   #main_logo {
@@ -54,10 +54,10 @@ nav {
     color: black;
     font-size: 0.7em;
     width: 115%;
-    margin-top: 40px;
+    margin-top: 3.6em;
     margin-left: 129px;
-    height: 40px;
-  }
+    height: 3.6em;
+}
   nav .donate p {
     margin-top: 0px;
     margin-left: 10px;
