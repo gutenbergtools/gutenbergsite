@@ -57,12 +57,14 @@ nav {
     margin-top: 3.6em;
     margin-left: 129px;
     height: 3.6em;
-}
-  nav .donate p {
-    margin-top: 0px;
-    margin-left: 10px;
-    display: inline;
   }
+  nav .donate p {
+  margin: 0px 10px 0px 15px;
+  display: inline;
+  font-size: 1.39em;
+  position: relative;
+  top: 0.2em;
+}
   nav .donate .donbtn {
     display: inline-block;
     cursor: pointer;
