@@ -42,6 +42,6 @@ Hand-crafted epub and mobi files are not accepted, currently. This limitation is
 A small number of new eBooks utilize LaTeX or TEI as the master format - mostly those including lots of mathematical notation. Other less frequently utilized formats include ReSstructured Text (RST), Rich Data Format (RDF), and a few others. Note that PDF, Word, and other word processor formats are not utilized as master formats, because they do not convert easily to valid HTML. In addition, they are much more challenging to fix/update than HTML and plain text.
 
 ## Creating an eBook
-The [Volunteer's FAQ](/how_to/volunteers_faq.html) has extensive guidance on best practices for Project Gutenberg eBooks. Some of this information is outdated, and the focus is on solo eBook producers. Get in touch, if you need additional guidance. 
+The [Volunteer's FAQ](/help/volunteers_faq.html) has extensive guidance on best practices for Project Gutenberg eBooks. Some of this information is outdated, and the focus is on solo eBook producers. Get in touch, if you need additional guidance. 
 
 Turning a physical book into an eBook is a wonderful way to preserve the book, and to make it more widely available. Historically, eBook creation was usually by a single person typing in the physical book, a page at a time. This technique still works, of course, and is sometimes necessary (for example, if the book is damaged or extremely fragile). 
