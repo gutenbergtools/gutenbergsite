@@ -7,52 +7,68 @@ permalink: /ebooks/bookshelf/
 Category: Bookshelf
 ==================================================
 
-Please click on the subcategories for more bookshelves. Some bookshelves have not been updated. Another way to find related eBooks is to use the "bibrec" tab in an eBook's landing page, to find other eBooks with the same subject.
+Project Gutenberg's bookshelves are hand-curated collections of eBooks that have similar topics. Bookshelf listings were created by volunteers, and many have not been updated or may otherwise be incomplete.
 
+Following a server upgrade in 2020, bookshelf listings are presented in the "flat" display below. Previously, there was a hierarchy, which has not yet been recreated.
 
-## Subcategories
+Another way to find eBooks related to a topic is by browsing the Bibliographic Record section of any eBook's page. Most have one or more selectable Subject and LOC Class entries, which take you to other books in the same category.
+
+## Main categories
 
  <div class="bookshelves ">
     <ul>
-      <h2>A</h2>
+      
+<h2>A</h2>
        <li><a href="/ebooks/bookshelves/search/?query=animal">Animal</a></li>
-      <h2>C</h2>
+      
+<h2>C</h2>
        <!-- Missing Children's Periodicals-->
        <li><a href="/ebooks/bookshelves/search/?query=canada">Canada Bookshelf</a></li>
        <li><a href="/ebooks/bookshelves/search/?query=children|christmas|child|school">Children's Bookshelf</a></li>
        <li><a href="/ebooks/bookshelves/search/?query=classic">Classics Bookshelf</a></li>
        <li><a href="/ebooks/bookshelves/search/?query=africa.|Argentina.|Australia|Bulgaria|Canada|Czech|egypt|france.|germany.|greece.|india|italy|zealand|norway|south%20america|.travel.|United%20Kingdom|.united%20states.!law">Countries Bookshelf</a></li>
        <li><a href="/ebooks/bookshelves/search/?query=crime|detective|mystery">Crime Bookshelf</a></li>
-      <h2>E</h2>
+      
+<h2>E</h2>
        <!-- Extra one in results-->
        <li><a href="/ebooks/bookshelves/search/?query=education">Education Bookshelf</a></li>
        <li><a href="/ebooks/bookshelf/emmys">Emmy's Picks</a></li>
-      <h2>F</h2>
+      
+<h2>F</h2>
        <li><a href="/ebooks/bookshelves/search/?query=fiction|adventure|fantasy|humor|horror|western">Fiction Bookshelf</a></li>
        <li><a href="/ebooks/bookshelves/search/?query=architecture.|art.%20!storia%20!international%20!%20FR%20!%20PT%20!%20varia">Fine arts Bookshelf</a></li>
-      <h2>G</h2>
+      
+<h2>G</h2>
        <li><a href="/ebooks/bookshelves/search/?query=reference">General Works Bookshelf</a></li>
        <li><a href="/ebooks/bookshelves/search/?query=africa.|Anthropology|Argentina.|Australia|Bulgaria|camp|canada|CIA|Czech|Egypt|Folklore|France|germany|india|greece|itatly|zealand|Maps%20and%20Cartography%20.|norway|south%20america|united%20states|%20united%20kingdom|Women%27s%20Travel%20Journals">Geography Bookshelf</a></li>
-      <h2>H</h2>
+      
+<h2>H</h2>
        <li><a href="/ebooks/bookshelves/search/?query=history|Archaeology%20.|Biographies">History Bookshelf</a></li>
-      <h2>L</h2>
+      
+<h2>L</h2>
        <li><a href="/ebooks/bookshelves/search/?query=language|literature">Language and Literature Bookshelf</a></li>
        <li><a href="/ebooks/bookshelves/search/?query=law|Noteworthy%20Trials">Law Bookshelf</a></li>
-      <h2>M</h2>
+      
+<h2>M</h2>
        <li><a href="/ebooks/bookshelves/search/?query=music|opera">Music Bookshelf</a></li>
-      <h2>P</h2>
+      
+<h2>P</h2>
       <!-- cannot find this bookshelf-->
        <!--<li><a href="/ebooks/bookshelves/search/?query=periodical">Periodicals Bookshelf</a></li>-->
        <!--<li><a href="/ebooks/bookshelves/search/?query=pornography">Pornography</a></li> -->
        <li><a href="/ebooks/bookshelves/search/?query=Bibliomania%20|%20Philosophy%20|%20Psychology%20|%20Witchcraft">Psychology and Philosophy Bookshelf</a></li>
-      <h2>R</h2>
+      
+<h2>R</h2>
        <li><a href="/ebooks/bookshelves/search/?query=Atheism%20|%20Buddhism%20|%20Christianity%20|%20Hinduism%20|%20Islam%20|%20Judaism%20|%20Latter%20Day%20Saints%20|%20Mythology%20|Paganism%20|%20Bahá%27í%20Faith">Religion Bookshelf</a></li>
-      <h2>S</h2>
+      
+<h2>S</h2>
        <li><a href="/ebooks/bookshelves/search/?query=Astronomy%20|%20Biology%20|%20Botany%20|%20Chemistry%20|%20Ecology%20|%20Geology%20|%20Mathematics%20|%20Microbiology%20|%20Microscopy%20|%20Mycology%20|%20Science%20Fiction%20|%20Natural%20History%20|%20Physics%20|%20Physiology%20|Scientific%20American%20|%20Zoology">Science Bookshelf</a></li>
        <li><a href="/ebooks/bookshelves/search/?query=Anarchism%20|%20Crime%20Nonfiction%20.%20|%20Racism%20|%20Slavery%20|%20sociology%20.%20|%20Suffrage%20|%20Transportation">Social Sciences Bookshelf</a></li>
-      <h2>T</h2>
+      
+<h2>T</h2>
        <li><a href="/ebooks/bookshelves/search/?query=technology%20|%20Cookbooks%20and%20Cooking%20|%20Crafts%20|%20Engineering%20|%20Manufacturing%20|%20Woodwork">Technology Bookshelf</a></li>
-      <h2>W</h2>
+      
+<h2>W</h2>
        <li><a href="/ebooks/bookshelves/search/?query=war">Wars Bookshelf</a></li>
     </ul>
   </div>
@@ -65,8 +81,10 @@ Please click on the subcategories for more bookshelves. Some bookshelves have no
 These are all specific bookshelves existing in Project Gutenberg.
 
 <div class="bookshelf_pages">
+
 <h2>6</h2>
 <li><a href="/ebooks/bookshelf/420" title="6 Best Loved Spanish Literary Classics">6 Best Loved Spanish Literary Classics</a></li>
+
 <h2>A</h2>
 <li><a href="/ebooks/bookshelf/112" title="Argentina">Argentina</a></li>
 <li><a href="/ebooks/bookshelf/113" title="Australia">Australia</a></li>
@@ -93,6 +111,7 @@ These are all specific bookshelves existing in Project Gutenberg.
 <li><a href="/ebooks/bookshelf/197" title="Armour's Monthly Cook Book">Armour's Monthly Cook Book</a></li>
 <li><a href="/ebooks/bookshelf/198" title="Astounding Stories">Astounding Stories</a></li>
 <li><a href="/ebooks/bookshelf/199" title="Atheism">Atheism</a></li>
+
 <h2>B</h2>
 <li><a href="/ebooks/bookshelf/114" title="Bahá'í Faith">Bahá'í Faith</a></li>
 <li><a href="/ebooks/bookshelf/115" title="Botany">Botany</a></li>
@@ -113,6 +132,7 @@ These are all specific bookshelves existing in Project Gutenberg.
 <li><a href="/ebooks/bookshelf/207" title="Bulletin de Lille">Bulletin de Lille</a></li>
 <li><a href="/ebooks/bookshelf/336" title="Banned Books from Anne Haight's list">Banned Books from Anne Haight's list</a></li>
 <li><a href="/ebooks/bookshelf/422" title="Banned Books List from the American Library Association">Banned Books List from the American Library Association</a></li>
+
 <h2>C</h2>
 <li><a href="/ebooks/bookshelf/118" title="Canada">Canada</a></li>
 <li><a href="/ebooks/bookshelf/119" title="Christianity">Christianity</a></li>
@@ -144,6 +164,7 @@ These are all specific bookshelves existing in Project Gutenberg.
 <li><a href="/ebooks/bookshelf/218" title="Children's Verse">Children's Verse</a></li>
 <li><a href="/ebooks/bookshelf/219" title="Continental Monthly">Continental Monthly</a></li>
 <li><a href="/ebooks/bookshelf/220" title="Current History">Current History</a></li>
+
 <h2>D</h2>
 <li><a href="/ebooks/bookshelf/30" title="Detective Fiction">Detective Fiction</a></li>
 <li><a href="/ebooks/bookshelf/221" title="De Aarde en haar Volken">De Aarde en haar Volken</a></li>
@@ -154,6 +175,7 @@ These are all specific bookshelves existing in Project Gutenberg.
 <li><a href="/ebooks/bookshelf/376" title="DE Kinderbuch">DE Kinderbuch</a></li>
 <li><a href="/ebooks/bookshelf/377" title="DE Drama">DE Drama</a></li>
 <li><a href="/ebooks/bookshelf/378" title="DE Sachbuch">DE Sachbuch</a></li>
+
 <h2>E</h2>
 <li><a href="/ebooks/bookshelf/121" title="Egypt">Egypt</a></li>
 <li><a href="/ebooks/bookshelf/138" title="Education">Education</a></li>
@@ -163,6 +185,7 @@ These are all specific bookshelves existing in Project Gutenberg.
 <li><a href="/ebooks/bookshelf/33" title="Erotic Fiction">Erotic Fiction</a></li>
 <li><a href="/ebooks/bookshelf/34" title="Esperanto">Esperanto</a></li>
 <li><a href="/ebooks/bookshelf/224" title="Ecology">Ecology</a></li>
+
 <h2>F</h2>
 <li><a href="/ebooks/bookshelf/122" title="France">France</a></li>
 <li><a href="/ebooks/bookshelf/383" title="FR Occultisme">FR Occultisme</a></li>
@@ -207,6 +230,7 @@ These are all specific bookshelves existing in Project Gutenberg.
 <li><a href="/ebooks/bookshelf/408" title="FR Chroniques">FR Chroniques</a></li>
 <li><a href="/ebooks/bookshelf/416" title="FR Livres, Collections et Bibliophilie">FR Livres, Collections et Bibliophilie</a></li>
 <li><a href="/ebooks/bookshelf/417" title="FR Métiers et Artisanat">FR Métiers et Artisanat</a></li>
+
 <h2>G</h2>
 <li><a href="/ebooks/bookshelf/123" title="Germany">Germany</a></li>
 <li><a href="/ebooks/bookshelf/124" title="Greece">Greece</a></li>
@@ -218,6 +242,7 @@ These are all specific bookshelves existing in Project Gutenberg.
 <li><a href="/ebooks/bookshelf/229" title="Golden Days for Boys and Girls">Golden Days for Boys and Girls</a></li>
 <li><a href="/ebooks/bookshelf/230" title="Graham's Magazine">Graham's Magazine</a></li>
 <li><a href="/ebooks/bookshelf/411" title="General Fiction">General Fiction</a></li>
+
 <h2>H</h2>
 <li><a href="/ebooks/bookshelf/125" title="Hinduism">Hinduism</a></li>
 <li><a href="/ebooks/bookshelf/41" title="Historical Fiction">Historical Fiction</a></li>
@@ -227,6 +252,7 @@ These are all specific bookshelves existing in Project Gutenberg.
 <li><a href="/ebooks/bookshelf/44" title="Humor">Humor</a></li>
 <li><a href="/ebooks/bookshelf/231" title="Harper's New Monthly Magazine">Harper's New Monthly Magazine</a></li>
 <li><a href="/ebooks/bookshelf/232" title="Harper's Young People">Harper's Young People</a></li>
+
 <h2>I</h2>
 <li><a href="/ebooks/bookshelf/126" title="Islam">Islam</a></li>
 <li><a href="/ebooks/bookshelf/127" title="Italy">Italy</a></li>
@@ -269,9 +295,11 @@ These are all specific bookshelves existing in Project Gutenberg.
 <li><a href="/ebooks/bookshelf/399" title="IT Miscellanea">IT Miscellanea</a></li>
 <li><a href="/ebooks/bookshelf/409" title="IT Architettura">IT Architettura</a></li>
 <li><a href="/ebooks/bookshelf/410" title="IT Archeologia e Storia dell'arte">IT Archeologia e Storia dell'arte</a></li>
+
 <h2>J</h2>
 <li><a href="/ebooks/bookshelf/128" title="Judaism">Judaism</a></li>
 <li><a href="/ebooks/bookshelf/234" title="Journal of Entomology and Zoology">Journal of Entomology and Zoology</a></li>
+
 <h2>L</h2>
 <li><a href="/ebooks/bookshelf/47" title="Love">Love</a></li>
 <li><a href="/ebooks/bookshelf/46" title="Language Education">Language Education</a></li>
@@ -280,6 +308,7 @@ These are all specific bookshelves existing in Project Gutenberg.
 <li><a href="/ebooks/bookshelf/237" title="Little Folks">Little Folks</a></li>
 <li><a href="/ebooks/bookshelf/404" title="Latter Day Saints">Latter Day Saints</a></li>
 <li><a href="/ebooks/bookshelf/414" title="London Medical Gazette">London Medical Gazette</a></li>
+
 <h2>M</h2>
 <li><a href="/ebooks/bookshelf/129" title="Mycology">Mycology</a></li>
 <li><a href="/ebooks/bookshelf/146" title="Manufacturing">Manufacturing</a></li>
@@ -297,6 +326,7 @@ These are all specific bookshelves existing in Project Gutenberg.
 <li><a href="/ebooks/bookshelf/401" title="Mediæval Town Series">Mediæval Town Series</a></li>
 <li><a href="/ebooks/bookshelf/402" title="Masterpieces in Colour">Masterpieces in Colour</a></li>
 <li><a href="/ebooks/bookshelf/415" title="Maps and Cartography">Maps and Cartography</a></li>
+
 <h2>N</h2>
 <li><a href="/ebooks/bookshelf/130" title="New Zealand">New Zealand</a></li>
 <li><a href="/ebooks/bookshelf/131" title="Norway">Norway</a></li>
@@ -306,10 +336,12 @@ These are all specific bookshelves existing in Project Gutenberg.
 <li><a href="/ebooks/bookshelf/244" title="Northern Nut Growers Association">Northern Nut Growers Association</a></li>
 <li><a href="/ebooks/bookshelf/245" title="Notes and Queries">Notes and Queries</a></li>
 <li><a href="/ebooks/bookshelf/246" title="Noteworthy Trials(Bookshelf)">Noteworthy Trials(Bookshelf)</a></li>
+
 <h2>O</h2>
 <li><a href="/ebooks/bookshelf/55" title="One Act Plays">One Act Plays</a></li>
 <li><a href="/ebooks/bookshelf/56" title="Opera">Opera</a></li>
 <li><a href="/ebooks/bookshelf/247" title="Our Young Folks">Our Young Folks</a></li>
+
 <h2>P</h2>
 <li><a href="/ebooks/bookshelf/132" title="Paganism">Paganism</a></li>
 <li><a href="/ebooks/bookshelf/158" title="Photography">Photography</a></li>
@@ -341,10 +373,12 @@ These are all specific bookshelves existing in Project Gutenberg.
 <li><a href="/ebooks/bookshelf/250" title="Prairie Farmer">Prairie Farmer</a></li>
 <li><a href="/ebooks/bookshelf/252" title="Punch">Punch</a></li>
 <li><a href="/ebooks/bookshelf/253" title="Punchinello">Punchinello</a></li>
+
 <h2>R</h2>
 <li><a href="/ebooks/bookshelf/65" title="Racism">Racism</a></li>
 <li><a href="/ebooks/bookshelf/66" title="Reference">Reference</a></li>
 <li><a href="/ebooks/bookshelf/412" title="Romantic Fiction">Romantic Fiction</a></li>
+
 <h2>S</h2>
 <li><a href="/ebooks/bookshelf/134" title="Sociology">Sociology</a></li>
 <li><a href="/ebooks/bookshelf/135" title="South Africa">South Africa</a></li>
@@ -361,6 +395,7 @@ These are all specific bookshelves existing in Project Gutenberg.
 <li><a href="/ebooks/bookshelf/257" title="Scribner's Magazine">Scribner's Magazine</a></li>
 <li><a href="/ebooks/bookshelf/258" title="St. Nicholas Magazine for Boys and Girls">St. Nicholas Magazine for Boys and Girls</a></li>
 <li><a href="/ebooks/bookshelf/403" title="Science Fiction by Women">Science Fiction by Women</a></li>
+
 <h2>T</h2>
 <li><a href="/ebooks/bookshelf/143" title="Technology">Technology</a></li>
 <li><a href="/ebooks/bookshelf/74" title="Transportation">Transportation</a></li>
@@ -411,20 +446,22 @@ These are all specific bookshelves existing in Project Gutenberg.
 <li><a href="/ebooks/bookshelf/301" title="The Yellow Book">The Yellow Book</a></li>
 <li><a href="/ebooks/bookshelf/423" title="The American Bee Journal">The American Bee Journal</a></li>
 <li><a href="/ebooks/bookshelf/413" title="The Haslemere Museum Gazette">The Haslemere Museum Gazette</a></li>
+
 <h2>U</h2>
-<li><a href="/ebooks/bookshelf/136" title="United States">United States</a></li>
-<li><a href="/ebooks/bookshelf/141" title="US Civil War">US Civil War</a></li>
 <li><a href="/ebooks/bookshelf/76" title="United Kingdom">United Kingdom</a></li>
-<li><a href="/ebooks/bookshelf/302" title="United States Law">United States Law</a></li>
+<li><a href="/ebooks/bookshelf/136" title="United States">United States</a></li>
+<li><a href="/ebooks/bookshelf/302" title="United States Law">United States Law</a>
+<li><a href="/ebooks/bookshelf/141" title="US Civil War">US Civil War</a></li>
+</li>
+
 <h2>W</h2>
+<li><a href="/ebooks/bookshelf/77" title="Western">Western</a></li>
+<li><a href="/ebooks/bookshelf/78" title="Witchcraft">Witchcraft</a></li>
+<li><a href="/ebooks/bookshelf/80" title="Women's Travel Journals">Women's Travel Journals</a></li>
 <li><a href="/ebooks/bookshelf/147" title="Woodwork">Woodwork</a></li>
 <li><a href="/ebooks/bookshelf/142" title="World War I">World War I</a></li>
-<li><a href="/ebooks/bookshelf/78" title="Witchcraft">Witchcraft</a></li>
-<li><a href="/ebooks/bookshelf/77" title="Western">Western</a></li>
-<li><a href="/ebooks/bookshelf/80" title="Women's Travel Journals">Women's Travel Journals</a></li>
 <li><a href="/ebooks/bookshelf/325" title="World War II">World War II</a></li>
+
 <h2>Z</h2>
 <li><a href="/ebooks/bookshelf/303" title="Zoology">Zoology</a></li>
 </div>
-
-
