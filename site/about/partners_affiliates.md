@@ -1,4 +1,3 @@
----
 layout: default
 title: Partners and Affiliates | Project Gutenberg
 permalink: /about/partners_affiliates.html
@@ -29,7 +28,7 @@ Project Gutenberg of Australia also provides a list all of the Project Gutenberg
 [Project Gutenberg of Canada](http://www.gutenberg.ca) specializes in Canadiana literature in English and French, in the public domain in Canada. [help proofread](http://www.pgdpcanada.net/) through Distributed Proofreaders of Canada.
 
 ### Projekt Gutenberg DE
-[Projekt Gutenberg-DE](http://gutenberg.spiegel.de). German literature. This was the second site to ask Michael Hart to use the Project Gutenberg name and concept, for German-language content. Currently run by a for-profit organization (Hille + Partner GbR), PG-DE provides free eBooks via their Web site, as well as selling eBooks on CD or DVD. For more information about PG-DE, read this German [Wikipedia article](http://de.wikipedia.org/wiki/Projekt_Gutenberg-DE). PG-DE runs their own Distributed Proofreaders site for content they distribute, but claims copyright on their work. The content from the central [Distributed Proofreaders](http://www.pgdp.net) does not have such restrictions, and is intended for unlimited redistribution.
+[Projekt Gutenberg-DE](http://www.projekt-gutenberg.org/). German literature. This was the second site to ask Michael Hart to use the Project Gutenberg name and concept, for German-language content. Currently run by a for-profit organization (Hille + Partner GbR), PG-DE provides free eBooks via their Web site, as well as selling eBooks on CD or DVD. For more information about PG-DE, read this German [Wikipedia article](http://de.wikipedia.org/wiki/Projekt_Gutenberg-DE). PG-DE runs their own Distributed Proofreaders site for content they distribute, but claims copyright on their work. The content from the central [Distributed Proofreaders](http://www.pgdp.net) does not have such restrictions, and is intended for unlimited redistribution.
 
 ### Project Gutenberg Self Publishing Portal
 The Project Gutenberg self publishing portal is available at [self.gutenberg.org](http://self.gutenberg.org). It is provided by the Project Gutenberg Consortia Center, and is intended as a highly usable alternative to the main Project Gutenberg site for contemporary authors.  Self-published works are welcome, as are works published previously.

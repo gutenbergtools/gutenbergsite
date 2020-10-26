@@ -4,7 +4,7 @@ title: Mission Statement | Project Gutenberg
 permalink: /about/background/mission_statement.html
 ---
 
-The Project Gutenberg Mission Statement, by Micheal Hart
+The Project Gutenberg Mission Statement, by Michael Hart
 ========================================================
 
 The mission of Project Gutenberg is simple:
