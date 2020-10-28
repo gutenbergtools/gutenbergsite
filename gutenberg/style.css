@@ -579,6 +579,9 @@ only screen and (max-device-width: 1200px) {
 .page_content	a:active {
 	color: brown;
 }
+.page_content	input[type="checkbox"] {
+        display: block;
+}
 .page-body {
 	padding-top: 1px;
 }
