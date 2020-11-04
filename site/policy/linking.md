@@ -50,4 +50,4 @@ Our servers are configured not to serve images to third-party websites. Therefor
 
 Some sites provide their own search engine for Project Gutenberg eBooks. Some of them are dedicated to Project Gutenberg only, other include books from a variety of free collections in their database.
 
-Note that the Project Gutenberg Catalog is now [available in machine-readable format](/ebooks/offline_catalog.html). Please use one of those files to feed your database instead of [roboting our site](/policy/robot_access.html).
+Note that the Project Gutenberg Catalog is now [available in machine-readable format](/ebooks/offline_catalogs.html). Please use one of those files to feed your database instead of [roboting our site](/policy/robot_access.html).
