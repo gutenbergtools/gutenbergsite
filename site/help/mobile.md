@@ -105,7 +105,7 @@ Beware that there are many Barnes &amp; Noble titles in print and eBooks that ar
 
 ## Kobo Reader
 Kobo has had positive reviews, and is less restrictive about where it gets content than devices from B&amp;N and Amazon.
-The \[Kobo| http://www.kobo.com/ [https://www.kobo.com/](http://www.kobo.com/)\] reader online store includes free access to 100 of the most popular Project Gutenberg titles.  You need to go through the registration process to get access to the store.  Direct transfer of downloaded eBooks from a computer to the Kobo did not immediately work for us, but is supposed to be supported.  The Kobo supports PDF and EPUB formats, and has a simple built-in Web browser that can be used to read eBooks online.  Project Gutenberg would like to thank Kobo for providing free evaluation readers in 2010.
+The [Kobo](https://www.kobo.com/) reader online store includes free access to 100 of the most popular Project Gutenberg titles.  You need to go through the registration process to get access to the store.  Direct transfer of downloaded eBooks from a computer to the Kobo did not immediately work for us, but is supposed to be supported.  The Kobo supports PDF and EPUB formats, and has a simple built-in Web browser that can be used to read eBooks online.  Project Gutenberg would like to thank Kobo for providing free evaluation readers in 2010.
 
 ## Android
 The Android operating system is found on many phones and tablets.  The specific features and applications varies, and there are often customizations to Android that change functionality.  Android devices include Web browsers that can be used to read Project Gutenberg's text and HTML eBooks online.  

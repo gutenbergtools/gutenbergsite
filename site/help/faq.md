@@ -101,7 +101,7 @@ We're always looking for new languages and topics, and always delighted to see p
 
 Project Gutenberg can publish only books that are in the public domain in the United States. Current bestsellers have not yet entered the public domain.
 
-### Why is Project Gutenberg so set on using plain text
+### Why is Project Gutenberg so set on using plain text?
 
 Project Gutenberg supports and publishes many open formats, but, yes, we do want to have a plain text version of everything possible.
 

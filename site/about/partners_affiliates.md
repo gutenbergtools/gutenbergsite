@@ -1,3 +1,4 @@
+---
 layout: default
 title: Partners and Affiliates | Project Gutenberg
 permalink: /about/partners_affiliates.html
