@@ -8,6 +8,28 @@ Partners, Affiliates and Resources
 ==================================
 
 Project Gutenberg is happy to be a part of other organizations' efforts. On these pages, we list some of our affiliates. In addition, we are aware of some products or services which seek to promote the distribution of free or low-cost literature, or which otherwise distribute Project Gutenberg eBooks.
+<div class="contents">
+Contents
+<ol>
+<li><a href="#partners">Partners</a></li>
+<li><a href="#sister-projects">Sister Projects</a>
+<ol class="inner_1">
+<li><a href="#project-gutenberg-of-australia">Project Gutenberg of Australia</a></li>
+<li><a href="#project-gutenberg-of-canada">Project Gutenberg of Canada</a></li>
+<li><a href="#projekt-gutenberg-de">Projekt Gutenberg DE</a></li>
+<li><a href="#project-gutenberg-self-publishing-portal">Project Gutenberg Self Publishing Portal</a></li>
+<li><a href="#projekt-runeberg">Projekt Runeberg</a></li>
+<li><a href="#readingrooms">ReadingRoo.ms</a></li>
+</ol>
+</li>
+<li><a href="#affiliates">Affiliates</a>
+<ol class="inner_1">
+<li><a href="#the-internet-archive">The Internet Archive</a></li>
+<li><a href="#librivoxorg">Librivox.org</a></li>
+</ol>
+</li>
+</ol>
+</div>
 
 ## Partners
 - [Distributed Proofreaders](http://www.pgdp.net). DP allows people to share in the tasks of proofreading, verifying and formatting eBooks for Project Gutenberg.
