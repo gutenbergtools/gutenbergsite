@@ -8,6 +8,17 @@ The History and Philosophy of Project Gutenberg, by Michael Hart
 ================================================================
 
 © August 1992
+<div class="contents">
+Contents
+<ol>
+<li><a href="#the-beginning">The Beginning</a></li>
+<li><a href="#the-beginning-of-the-gutenberg-philosophy">The Beginning of the Gutenberg Philosophy</a></li>
+<li><a href="#the-project-gutenberg-philosophy-continued">The Project Gutenberg Philosophy (continued)</a></li>
+<li><a href="#the-project-gutenberg-philosophy-continued-1">The Project Gutenberg Philosophy (continued)</a></li>
+<li><a href="#the-project-gutenberg-philosophy-continued-2">The Project Gutenberg Philosophy (continued, 2)</a></li>
+<li><a href="#the-selection-of-project-gutenberg-etexts">The Selection of Project Gutenberg Etexts</a></li>
+</ol>
+</div>
 
 ## The Beginning
 

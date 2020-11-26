@@ -14,12 +14,13 @@ Project Gutenberg eBooks are created by volunteers. This How-To contains some of
 Contents
 <ol>
 <li><a href="#what-types-of-ebooks-may-be-submitted-to-project-gutenberg">What types of eBooks may be submitted to Project Gutenberg?</a></li>
-<li><a href="#copyright">Who should submit an eBook?</a></li>
-<li><a href="#trademark-permission-to-trade-on-the-project-gutenberg-name">Copyright</a></li>
+<li><a href="#who-should-submit-an-ebook">Who should submit an eBook?</a></li>
+<li><a href="#copyright">Copyright</a></li>
 <li><a href="#file-formats">File Formats</a></li>
 <li><a href="#creating-an-ebook">Creating an eBook</a></li>
 </ol>
 </div>
+
 ## What types of eBooks may be submitted to Project Gutenberg?
 Project Gutenberg only accepts works that are in the public domain in the United States. Generally, new submissions to Project Gutenberg are digitized versions of printed books, most of which were published at least 95 years ago (see the Copyright How-To for details). Confirmation of public domain status is via the [copy.pglaf.org](https://copy.pglaf.org) site.
 
