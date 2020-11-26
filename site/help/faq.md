@@ -34,8 +34,7 @@ Contents
 <li><a href="#why-dont-you-have-any--many-books-about-history-geography-science-biography-etc-why-arent-there-any--more-pg-books-available-in-french-spanish-german-etc">Why don’t you have any / many books about history, geography, science, biography, etc.? Why aren’t there any / more PG books available in French, Spanish, German, etc.?</a></li>
 <li><a href="#why-dont-you-have-any-books-by-stephen-king-tom-clancy-tolkien-etc">Why don’t you have any books by Stephen King, Tom Clancy, Tolkien, etc.?</a></li>
 <li><a href="#why-is-project-gutenberg-so-set-on-using-plain-text">Why is Project Gutenberg so set on using plain text?</a></li>
-</ol>
-</li>
+
 </ol>
 </div>
 
