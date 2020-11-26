@@ -13,6 +13,17 @@ volunteers who, over many years, have selected and digitized a variety
 of written and other works. The collection continues to grow, as new
 works are submitted.
 
+<div class="contents">
+Contents
+<ol>
+<li><a href="#what-types-of-works-are-eligible">What types of works are eligible?</a></li>
+<li><a href="#how-is-a-project-gutenberg-ebook-related-to-the-sources-it-was-based-on">How is a Project Gutenberg eBook related to the source(s) it was based on?</a></li>
+<li><a href="#what-topics-and-subject-matter-are-accepted">What topics and subject matter are accepted?</a></li>
+<li><a href="#historical-context">Historical context</a></li>
+<li><a href="#status-of-this-policy">Status of this policy</a></li>
+</ol>
+</div>
+
 ## What types of works are eligible?
 
 Project Gutenberg accepts only donations of eBooks (i.e., written
