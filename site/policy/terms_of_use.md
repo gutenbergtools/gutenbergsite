@@ -11,6 +11,23 @@ Project Gutenberg's target audience is United States persons over 13 years of ag
 
 Non-US persons are advised to check copyright laws of their country before accessing any eBooks or other content from Project Gutenberg. Some content may be copyrighted, or otherwise restricted, for use in other countries. Project Gutenberg offers no warranty or assurances about copyright status or freedom to access or use its materials outside of the United States.
 
+<div class="contents">
+Contents
+<ol>
+<li><a href="#trademark-license">Trademark License</a></li>
+<li><a href="#website-terms-of-use">Website Terms of Use</a>
+<ol class="inner_1">
+<li><a href="#audience">Audience</a></li>
+<li><a href="#deep-linking">Deep Linking</a></li>
+<li><a href="#embedding-or-wrapping-our-site-or-contents">Embedding or Wrapping our Site or Contents</a></li>
+<li><a href="#opds-feed">OPDS Feed</a></li>
+<li><a href="#automated-blocks">Automated Blocks</a></li>
+</ol>
+</li>
+<li><a href="#footnotes">Footnotes</a></li>
+</ol>
+</div>
+
 ## Trademark License
 What you are allowed to do with our eBooks once you download them:
 See: [the Project Gutenberg License](/policy/license.html) and the [Permission How-To](/policy/permission.html)
