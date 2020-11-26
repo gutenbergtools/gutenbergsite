@@ -11,6 +11,27 @@ Thank you for considering a donation to Project Gutenberg.
 
 Think of this as a contribution to later generations. These are remarkable times, and it is good to include you as part of the story.  The [Project Gutenberg Literary Archive Foundation](/about/pglaf.html) is registered as a 501(c)(3) charity under the United States Internal Revenue Code, so your donation is tax-deductible to the extent permitted by law.
 
+<div class="contents">
+Contents
+<ol>
+<li><a href="#easy-ways-to-donate">Easy ways to Donate</a>
+<ol class="inner_1">
+<li><a href="#ausing-paypal">Using PayPal</a></li>
+<li><a href="#using-flattr">Using Flattr</a></li>
+<li><a href="#by-check-or-money-order">By Check or Money Order</a></li>
+</ol>
+</li>
+<li><a href="#additional-detail-on-how-to-donate">Additional Detail on How To Donate</a>
+<ol class="inner_1">
+<li><a href="#about-donations-by-paypal">About donations by PayPal</a></li>
+<li><a href="#about-donating-by-check-or-money-order">About donating by Check or Money Order</a></li>
+<li><a href="#about-donating-by-non-us-funds-check-or-money-order">About donating by Non-US Funds Check or Money Order</a></li>
+</ol>
+</li>
+<li><a href="#privacy-policy-for-donations">Privacy Policy For Donations</a></li>
+</ol>
+</div>
+
 ## Easy ways to Donate
 
 ### Using PayPal
