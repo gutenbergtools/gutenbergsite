@@ -14,6 +14,35 @@ This page tells you how to find and get Project Gutenberg eBooks if:
 - you'd rather have a handy book catalog to consult offline, or
 - you would like to make your own listings or derivatives from this information.
 
+<div class="contents">
+Contents
+<ol>
+<li><a href="#feeds-of-new-books">Feeds of new books</a>
+<ol class="inner_1">
+<li><a href="#rss">RSS</a></li>
+<li><a href="#email">Email</a></li>
+<li><a href="#social-media">Social media</a></li>
+</ol>
+</li>
+<li><a href="#list-of-sites-hosting-project-gutenberg-ebooks">List of Sites Hosting Project Gutenberg EBooks</a></li>
+<li><a href="#the-gutindex-listings-of-ebooks">The GUTINDEX Listings of EBooks</a>
+<ol class="inner_1">
+<li><a href="#gutindex-listings-by-year">GUTINDEX Listings by Year</a></li>
+</ol>
+</li>
+<li><a href="#affiliate-sites">Affiliate sites</a></li>
+<li><a href="#directoryfolder-listings">Directory/Folder Listings</a></li>
+<li><a href="#the-project-gutenberg-catalog-metadata-in-machine-readable-format">The Project Gutenberg Catalog Metadata in Machine-Readable Format</a>
+<ol class="inner_1">
+<li><a href="#xmlrdf">XML/RDF</a></li>
+<li><a href="#marc-records-machine-readable-cataloging">MARC Records (MAchine Readable Cataloging)</a></li>
+</ol>
+</li>
+<li><a href="#a-local-browsable-copy-on-your-own-computer-or-mobile-device">A Local, Browsable Copy on your own Computer or Mobile Device</a></li>
+
+</ol>
+</div>
+
 ## Feeds of new books
 
 ### RSS
