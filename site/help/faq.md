@@ -18,7 +18,7 @@ Contents
 <li><a href="#who-runs-project-gutenberg">Who runs Project Gutenberg?</a></li>
 <li><a href="#how-many-people-are-in-project-gutenberg">How many people are in Project Gutenberg?</a></li>
 <li><a href="#how-can-i-help-project-gutenberg">How can I help Project Gutenberg?</a></li>
-<li><a href="#what-is-the-relationship-between-project-gutenberg-project-gutenberg-of-canada-project-gutenberg-of-europe-projekt-gutenberg-de-project-gutenberg-of-australia-and-project-runeberg">What is the relationship between Project Gutenberg, Project Gutenberg of Canada, Project Gutenberg of Europe, Projekt Gutenberg-DE, Project Gutenberg of Australia, and Project Runeberg?</a>
+<li><a href="#what-is-the-relationship-between-project-gutenberg-project-gutenberg-of-canada-project-gutenberg-of-europe-projekt-gutenberg-de-project-gutenberg-of-australia-and-project-runeberg">What is the relationship between Project Gutenberg, Project Gutenberg of Canada, Project Gutenberg of Europe, Projekt Gutenberg-DE, Project Gutenberg of Australia, and Project Runeberg?</a></li>
 </ol>
 </li>
 
@@ -30,10 +30,10 @@ Contents
 </ol>
 </li>
 <li><a href="#how-does-project-gutenberg-choose-books-to-publish">How does Project Gutenberg choose books to publish?</a></li>
-<li><a href="#what-languages-does-project-gutenberg-publish-in"></a>What languages does Project Gutenberg publish in?</li>
+<li><a href="#what-languages-does-project-gutenberg-publish-in">What languages does Project Gutenberg publish in?</a></li>
 <li><a href="#why-dont-you-have-any--many-books-about-history-geography-science-biography-etc-why-arent-there-any--more-pg-books-available-in-french-spanish-german-etc">Why don’t you have any / many books about history, geography, science, biography, etc.? Why aren’t there any / more PG books available in French, Spanish, German, etc.?</a></li>
 <li><a href="#why-dont-you-have-any-books-by-stephen-king-tom-clancy-tolkien-etc">Why don’t you have any books by Stephen King, Tom Clancy, Tolkien, etc.?</a></li>
-<li><a href="#why-is-project-gutenberg-so-set-on-using-plain-text"></a>Why is Project Gutenberg so set on using plain text?</li>
+<li><a href="#why-is-project-gutenberg-so-set-on-using-plain-text">Why is Project Gutenberg so set on using plain text?</a></li>
 </ol>
 </li>
 </ol>
