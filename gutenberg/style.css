@@ -781,17 +781,17 @@ ul.results li::before {
 #standard {
 	display: block;
   }
-  #mobile {
+#mobile {
 	display: none;
   }
-  @media screen and /*(orientation: portrait)*/(max-width : 1024px) {
+@media screen and /*(orientation: portrait)*/(max-width : 1024px) {
 	#standard {
-	  display: none;
+		display: none;
+    }
+    #mobile {
+		display: block !important;
 	}
-	#mobile {
-	  display: block !important;
-	}
-  }
+}
 
 /* Put theme-specific colors here to make it easy to switch between themes */
 /* ORIGINAL THEME */
