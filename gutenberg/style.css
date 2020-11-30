@@ -776,6 +776,23 @@ ul.results li::before {
     padding: 0em 1em;
 }
 
+/* Different HTML for mobile and Desktop display */
+
+#standard {
+	display: block;
+  }
+  #mobile {
+	display: none;
+  }
+  @media screen and /*(orientation: portrait)*/(max-width : 1024px) {
+	#standard {
+	  display: none;
+	}
+	#mobile {
+	  display: block !important;
+	}
+  }
+
 /* Put theme-specific colors here to make it easy to switch between themes */
 /* ORIGINAL THEME */
 /*
