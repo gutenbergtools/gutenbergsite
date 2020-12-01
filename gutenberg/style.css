@@ -782,7 +782,7 @@ ul.results li::before {
 	display: block;
   }
 #mobile {
-	display: none;
+	display: block;
   }
 @media screen and /*(orientation: portrait)*/(max-width : 1024px) {
 	#standard {
