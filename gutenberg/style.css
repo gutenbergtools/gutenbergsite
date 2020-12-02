@@ -582,6 +582,11 @@ only screen and (max-device-width: 1200px) {
 .page_content	input[type="checkbox"] {
         display: block;
 }
+
+.page_content .toggle	input[type="checkbox"] {
+	display: none;
+}
+
 .page-body {
 	padding-top: 1px;
 }
