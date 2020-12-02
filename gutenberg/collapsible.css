@@ -52,7 +52,8 @@
   transition: max-height .25s ease-in-out;
 }
 
-input[type='checkbox'] {
+/* only hide checkbox using id start with "collapsible" (on search page) */
+input[id^="collapsible"] {
   display: none;
 }
 
