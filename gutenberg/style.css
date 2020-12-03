@@ -817,7 +817,7 @@ library .latest h1 {
 
 /* BLUE THEME */
 
-library .latest h1 {
+.library .latest h1 {
 	color: #A01F13;
 	border-bottom: 2px solid #A01F13;
 }
