@@ -1099,6 +1099,7 @@ nav {
       margin-top: 15px;
       margin-bottom: 15px;
       width: 100%;
+      text-align:left;
   }
   
   .page_content h3::before {
@@ -1462,9 +1463,196 @@ nav {
       color: #006479;
   }
   */
+
+  /* CSS from pg-desktop-one.css------------------------------------------------------------------ */
   
+  /* search page */
   
-  
+  #search{padding:0.5em 0.5em;}
+  .icon {
+    display:inline-block;
+    vertical-align:middle;
+  }
+  li.navlink{
+    display: inline-block; 
+    padding: 0.1em 1.5em;
+  }
+  .cell{padding: 0.2em 1.2em;}
+  .cell.leftcell{float:left;vertical-align:top;}
+  .cell.content{display:block;margin-left:50px;padding-left:1em;color:#a01f13;}
+  .cell.content:hover{color:#8d770b;}
+  span.title{display:block;font-weight:bold;}
+  a span.title{text-decoration:underline;}
+  span.subtitle{display:block;color:black;}
+
+/* all icons dislpay */
+
+.icon_flattr{background-position:0px 0px;width:93px;height:20px;}
+.icon_paypal{background-position:0px -21px;width:92px;height:26px;}
+.icon_logo{background-position:0px -48px;width:72px;height:72px;}
+.icon_logo_yellow{background-position:0px -121px;width:72px;height:72px;}
+.icon_gdrive{background-position:0px -194px;width:24px;height:21px;}
+.icon_msdrive{background-position:-25px -194px;width:24px;height:24px;}
+.icon_random{background-position:-50px -194px;width:22px;height:22px;}
+.icon_subject{background-position:0px -219px;width:22px;height:22px;}
+.icon_back{background-position:-23px -219px;width:22px;height:22px;}
+.icon_bibrec{background-position:-46px -219px;width:22px;height:22px;}
+.icon_date{background-position:-69px -219px;width:22px;height:22px;}
+.icon_external{background-position:0px -242px;width:22px;height:22px;}
+.icon_book_no_images{background-position:-23px -242px;width:22px;height:22px;}
+.icon_home{background-position:-46px -242px;width:22px;height:22px;}
+.icon_bookshelf{background-position:-69px -242px;width:22px;height:22px;}
+.icon_alpha{background-position:0px -265px;width:22px;height:22px;}
+.icon_download{background-position:-23px -265px;width:22px;height:22px;}
+.icon_rss{background-position:-46px -265px;width:22px;height:22px;}
+.icon_search{background-position:-69px -265px;width:22px;height:22px;}
+.icon_language{background-position:0px -288px;width:22px;height:22px;}
+.icon_author{background-position:-23px -288px;width:22px;height:22px;}
+.icon_print{background-position:-46px -288px;width:22px;height:22px;}
+.icon_audiobook{background-position:-69px -288px;width:22px;height:22px;}
+.icon_alias{background-position:0px -311px;width:22px;height:22px;}
+.icon_dropbox{background-position:-23px -311px;width:22px;height:22px;}
+.icon_internal{background-position:-46px -311px;width:22px;height:22px;}
+.icon_suggestion{background-position:-69px -311px;width:22px;height:22px;}
+ .icon_popular{background-position:0px -334px;width:22px;height:22px;}
+.icon_folder{background-position:-23px -334px;width:22px;height:22px;}
+.icon_quantity{background-position:-46px -334px;width:22px;height:22px;}
+.icon_book{background-position:-69px -334px;width:22px;height:22px;}
+.icon_more{background-position:0px -357px;width:22px;height:22px;}
+.icon_gplus{background-position:-23px -357px;width:20px;height:20px;}
+.icon_facebook{background-position:-44px -357px;width:20px;height:20px;}
+.icon_twitter{background-position:-65px -357px;width:20px;height:20px;}
+.icon_help{background-position:0px -380px;width:16px;height:16px;}
+.icon_next{background-position:-17px -380px;width:16px;height:16px;}
+.icon_smsearch{background-position:-34px -380px;width:16px;height:16px;}
+.icon_cancel{background-position:-51px -380px;width:16px;height:16px;}
+.icon_qrtab{background-position:-68px -380px;width:14px;height:14px;}
+.icon_external_link{background-position:-83px -380px;width:10px;height:10px;}
+
+/* Autocat result page */
+
+h1 .icon{
+  float:left;
+  margin-left:20px
+}
+
+ul.results{
+  display:block;
+  margin: 3em 0.5em 0 0.5em;
+  list-style-type:none;
+  padding-left:0;
+  column-width:20em;
+  column-gap:1em;
+  column-rule:1px solid #cfcaaf;
+}  
+ul.results li{
+  break-inside:avoid-column;
+  display:table;
+  width:100%;
+}
+ul.results li.h2,ul.results li.statusline{
+  background:#eceadf;
+  color:inherit;
+  background-color:#eceadf;
+}
+ul.results li .padded{
+  padding:0.5em 0.5em;
+}
+ul.results li a.link{
+  display:block;
+  text-decoration:none;
+}
+div.breadcrumbs,div.header,div.footer{
+  clear:both;
+}
+
+/* Bibrec page---------------------------------------------------------------------------------------- */
+ 
+div.breadcrumbs > ul{
+  padding:0;
+  list-style:none outside none;
+}
+div.breadcrumbs > ul > li{display:inline-block;}
+div.breadcrumbs > ul > li.next:before{content:"›";}
+#cover-social-wrapper{/*left:0;*/width:200px;float:left;/*margin:0 1em;*/}
+#cover{width:200px;}#cover img{box-shadow:5px 5px 5px rgba(0,0,0,0.7);}
+#no-cover{width:200px;height:300px;border:1px solid gray;}
+#no-cover > div.icon{position:relative;top:139px;left:89px;}
+#no-cover > div.text{text-align:center;}
+#social{margin-top:2em;}
+#social > ul{padding:0;list-style:none outside none;}
+#social > ul > li{display:inline-block;}
+#qr{margin-top:2em;}
+.qrcode{display:inline-block;width:116px;height:116px;}
+.qrcode.qrcode-desktop{background-position:0 0;}
+.qrcode.qrcode-mobile{background-position:-120px 0;}
+#tabs-wrapper{margin:0 1em 0 200px;}
+#tabs{margin-left:2em;}
+
+/* download table style */
+.ui-corner-all,.ui-corner-top,.ui-corner-left,.ui-corner-tl{border-top-left-radius:0.5em;}
+.ui-corner-all,.ui-corner-top,.ui-corner-right,.ui-corner-tr{border-top-right-radius:0.5em;}
+.ui-corner-all,.ui-corner-bottom,.ui-corner-left,.ui-corner-bl{border-bottom-left-radius:0.5em;}
+.ui-corner-all,.ui-corner-bottom,.ui-corner-right,.ui-corner-br{border-bottom-right-radius:0.5em;}
+.ui-widget{font-size:inherit;font-family:inherit;}
+.ui-widget input,.ui-widget select,.ui-widget textarea,.ui-widget button{font-size:inherit;font-family:inherit;}
+.ui-widget-header{border:none;background:transparent;}
+.ui-widget-content{background:#eceadf;}.ui-tabs{border:none;background:transparent;}
+.ui-tabs a:focus{outline:none;}
+.ui-tabs a:active{outline:none;}
+.ui-tabs ul.ui-tabs-nav{margin-left:1em;}
+.ui-tabs ul.ui-tabs-nav li{margin-right:1em;text-decoration:underline;overflow:hidden;}
+.ui-tabs ul.ui-tabs-nav li.ui-tabs-selected
+{background:#eceadf;
+  color:inherit;
+  background-color:#eceadf;
+  top:1px;
+  text-decoration:none;
+}
+.ui-tabs ul.ui-tabs-nav li a{display:block;background-color:transparent;text-decoration:inherit;}
+.ui-tabs ul.ui-tabs-nav li a span.icon{margin-right:0.5em;}
+.ui-tabs div.ui-tabs-panel{
+  border:1px solid #d9d6c4;
+  background:#eceadf;
+  color:inherit;
+  background-color:#eceadf;
+  padding:0 1em 1em 1em;
+  border-radius:0.5em;}
+.ui-autocomplete{border-radius:0;}
+.ui-autocomplete .ui-menu-item a{border-radius:0;}
+
+.hstrut{
+  /* clear:both; */
+  content:".";
+  display:block;
+  height:0;
+  visibility:hidden;
+}
+
+/* Bibrec table style */
+
+table.bibrec,table.files,table.results,table.helpbox,table.pg_social,table.social{
+  width:100%;
+  background-color:white;
+  border:1px solid #d9d6c4;
+  padding:0;
+}
+table{border-collapse:collapse;border-spacing:0;empty-cells:show;}
+.narrow{width:1%;}
+
+table.bibrec caption,table.files caption,table.results caption,table.helpbox caption,table.pg_social caption,table.social caption,table.bibrec th,table.files th,table.results th,table.helpbox th,table.pg_social th,table.social th,table.bibrec td,table.files td,table.results td,table.helpbox td,table.pg_social td,table.social td
+{border:1px solid #d9d6c4;padding:0.5em;}
+table.bibrec caption,table.files caption,table.results caption,table.helpbox caption,table.pg_social caption,table.social caption
+{border-width:2px 2px 0 2px;font-weight:bold;}
+table.bibrec th,table.files th,table.results th,table.helpbox th,table.pg_social th,table.social th,table.bibrec td,table.files td,table.results td,table.helpbox td,table.pg_social td,table.social td
+{text-align:left;}
+table.bibrec th,table.files th,table.results th,table.helpbox th,table.pg_social th,table.social th
+{font-weight:bold;}
+table.social td{width:33%;vertical-align:middle;}
+table.helpbox{display:inline-table;width:auto;margin:0 1em 1em 0;}
+
+
+
   
   
   
