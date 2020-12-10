@@ -463,4 +463,3 @@ These are all specific bookshelves existing in Project Gutenberg.
 
 <h2>Z</h2>
 <li><a href="/ebooks/bookshelf/303" title="Zoology">Zoology</a></li>
-</div>
