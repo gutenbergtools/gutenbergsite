@@ -49,4 +49,4 @@ destination: /public/vhost/g/gutenberg/dev/html/
 timezone: America/New_York
 encoding: utf-8 # default
 incremental: TRUE # doesn't seem to work... all files are being built
-keep_files: [.htaccess,cache,robots.txt,google3c00b5891470e2e3.html,catalog,browse,dirs,files,.acl.gutenwebdev,.acl.gutenwebprod,MIRRORS.ALL.utf8,internal,"0","1","2","3","4","5","6","7","8","9"]
+keep_files: [cache,robots.txt,google3c00b5891470e2e3.html,catalog,browse,dirs,files,.acl.gutenwebdev,.acl.gutenwebprod,MIRRORS.ALL.utf8,internal,"0","1","2","3","4","5","6","7","8","9"]
