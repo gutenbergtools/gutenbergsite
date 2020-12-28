@@ -29,7 +29,7 @@ PGLAF has been granted tax exempt status by the IRS under section 501(c)(3) of t
 
 ## Employees
 
-PGLAF employs Anne Wingate and T. Wingate as part-time Project Coordinators and office managers.  T. Wingate also serves as PGLAF's Chief Financial Officer.
+PGLAF employs Anne Wingate as a part-time project coordinator and office manager. There are no other employees at this time.
 
 ## Board Members
 
