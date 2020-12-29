@@ -11,7 +11,7 @@ Policies
 
 [Linking](linking.html): Policy and advice on linking to Project Gutenberg.
 
-[Permissions how-to](permission.html): Almost everything is allowed, without asking permission!
+[Permissions and licensing how-to](permission.html): Almost everything is allowed, without asking permission!
 
 [Privacy policy](privacy_policy.html).
 
