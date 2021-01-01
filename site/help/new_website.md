@@ -15,7 +15,7 @@ Please use the navigation menus at the top of the page to find what you were loo
 
 Below, find a description of the motivation behind the changes. Also find a description of known issues, and the items that were not brought to the new website (and how to find archived copies).
 
-THANK YOU for your patience as we continue to update the website to fix remaining problems, and maintain all the functionality and content that visitors expect. If you encounter an issue not described below, or have a suggestion, please email help2020@pglaf.org (details below on other ways of reporting issues).
+THANK YOU for your patience as we continue to update the website to fix remaining problems, and maintain all the functionality and content that visitors expect. If you encounter an issue not described below, or have a suggestion, please email help2021@pglaf.org (details below on other ways of reporting issues).
 
 
 ## Known issues and "TO DO" items
@@ -82,13 +82,13 @@ Please first check above in case your suggestion is already being worked on.
 
 First, if you find an error, typo, etc. within an eBook you can report it using the [regular mechanisms](/help/errata.html). The eBooks themselves are exactly the same on this new site as on the old (i.e., the exact same files).
 
-If you are not sure how to report a problem you find, it's fine to just email help2020@pglaf.org. It will get to the right person.
+If you are not sure how to report a problem you find, it's fine to just email help2021@pglaf.org. It will get to the right person.
 
 ### Layout and design
 
 If you have suggestions or find problems with the website pages (i.e., not the eBooks, but the various other items like the "help" and "about" pages), please report them.
 
-Easiest might be email help2020@pglaf.org. Or, you could join the [gutvol-d](https://lists.pglaf.org) mailing list to bring up your suggestions.
+Easiest might be email help2021@pglaf.org. Or, you could join the [gutvol-d](https://lists.pglaf.org) mailing list to bring up your suggestions.
 
 ### Typos, wording changes, etc.
 
@@ -113,8 +113,8 @@ The new website utilizes HTML5 and CSS to provide a single location intended to 
 * Text-to-speech and text-to-Braille screen readers.
 * Suitable for persons with visual impairments, including low vision and color blindness
 
-If you encounter something that doesn't work for you, or could be better, please let us know using one of the methods above. Email help2020@pglaf.org or use one of the other reporting methods described on this page.
+If you encounter something that doesn't work for you, or could be better, please let us know using one of the methods above. Email help2021@pglaf.org or use one of the other reporting methods described on this page.
 
 It is especially important that we can understand what you are experiencing, and what could be improved. To help with this, please provide a description of how you accessed the website, and the problems encountered. If you know of external testing sites, or standards, or software that we should look into, please let us know.
 
-*Most recently updated: December 17, 2020*
+*Most recently updated: January 1, 2021*

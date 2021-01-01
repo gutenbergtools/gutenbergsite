@@ -79,7 +79,7 @@ There is an historical anomaly with the generated content. In the main collectio
 </pre>
 
 ## Getting Your Mirror Listed
-Once you have successfully installed and tested your configuration, we'll add your site to the list of mirrors, so people can find you. Email *help2020 @ pglaf.org* and we'll announce it in our next newsletters. After a month or so (to confirm stability) we'll add you to the mirror list and to the mirror selection page of each eBook. 
+Once you have successfully installed and tested your configuration, we'll add your site to the list of mirrors, so people can find you. Email *help2021 @ pglaf.org* and we'll announce it in our next newsletters. After a month or so (to confirm stability) we'll add you to the mirror list and to the mirror selection page of each eBook. 
 
 Before you start you might want to view our [mirror list](//www.gutenberg.org/MIRRORS.ALL) to check whether the geographical location of your server would be a good addition to the list.
 

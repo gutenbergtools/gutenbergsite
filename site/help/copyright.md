@@ -80,7 +80,7 @@ A "U.S. Work" is a work where (i) one or more of the authors was a national or d
 
 ### Rule 1: Works First Published Before 95 Years Ago and Before 1977
 
-Summary: As of 2020, qualifying Works published in 1924 or earlier do not have copyright protection in the U.S.
+Summary: As of 2021, qualifying Works published in 1925 or earlier do not have copyright protection in the U.S.
 
 Detail: For Works published prior to January 1, 1977, the maximum term of copyright protection is 95 years from the date of first publication. This is regardless of whether the Work complied with U.S. requirements for notice, registration and renewal. This is regardless of where the Work was published.
 
