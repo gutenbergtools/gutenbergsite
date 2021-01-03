@@ -35,9 +35,7 @@ Contents
 <li><a href="#the-project-gutenberg-catalog-metadata-in-machine-readable-format">The Project Gutenberg Catalog Metadata in Machine-Readable Format</a>
 <ol class="inner_1">
 <li><a href="#xmlrdf">XML/RDF</a></li>
-<li><a href="#marc-records-machine-readable-cataloging">MARC Records (MAchine Readable Cataloging)</a></li>
-</ol>
-</li>
+<li><a href="#marc-records-machine-readable-cataloging">MARC Records (MAchine Readable Cataloging)</a>: No longer available</li>
 <li><a href="#a-local-browsable-copy-on-your-own-computer-or-mobile-device">A Local, Browsable Copy on your own Computer or Mobile Device</a></li>
 
 </ol>
@@ -128,15 +126,9 @@ All Project Gutenberg metadata are [available digitally](/cache/epub/feeds/) in 
 
 Note that the exact same metadata is available as a *per-eBook* .rdf file. These are found in the cache/epub (i.e., cache/generated) directory, accessible by mirroring or by the directory/folder listings above. The large XML/RDF file is simply a concatenation of all the per-eBook metadata.
 
-### MARC Records (MAchine Readable Cataloging)
+### MARC Records (MAchine Readable Cataloging): No longer available
 
-MARC is a common metadata format utilized by library card catalog databases. Steve Thomas of the University of Adelaide provided a Perl script to generate MARC records from the XML/RDF catalog files. Find it here: [pgrdf2marc.pl](/gutenberg/pgrdf2marc.pl.txt). You will need to rename it, and make any necessary changes to run on your own system. This is unsupported software, provided without warranty or guarantee.
-
-These instructions were provided to Project Gutenberg, and are listed here in the hopes they may be useful. 
-
-- Download the XML/RDF file (i.e., [/cache/epub/feeds/rdf-files.tar.zip](/cache/epub/feeds/rdf-files.tar.zip).
-- Unzip, untar
-- Run your modified copy of the Adelaide script above, pgrdf2marc.pl, against the untarred/unzipped RDF files to generate MARC records (there may be a few RDF records that do not convert, perhaps as many as 100)
+Project Gutenberg distributed the catalog in MARC format, and then discontinued when server upgrades left our software non-functional. In addition, a legacy program prepared by a volunteer, [pgrdf2marc.pl](/gutenberg/pgrdf2marc.pl.txt), worked with a previous version of the XML/RDF data, but does not work with the currrent version.
 
 ## A Local, Browsable Copy on your own Computer or Mobile Device
 [Kiwix](https://wiki.kiwix.org/wiki/Content) is an application that lets you download a large collection and use it locally.  A copy of the Project Gutenberg content was made available in November 2018, and may be updated periodically.
