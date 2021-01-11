@@ -14,7 +14,7 @@ Choose among free epub and Kindle eBooks, download them or read them online. You
 
 {% include latest_books_template.html %}
 
-**Planned service change** In April 2020, www.gutenberg.org plans to remove unencrypted access (http), and will only offer https. The collection remains available from mirrors, as well as via unencrypted ftp and rsync.
+**Planned service change** In April 2021, www.gutenberg.org plans to remove unencrypted access (http), and will only offer https. The collection remains available from mirrors, as well as via unencrypted ftp and rsync.
 
 **No fee or registration!** Everything from Project Gutenberg is gratis, libre, and completely without cost to readers. If you find Project Gutenberg useful, please consider a small donation, to help Project Gutenberg digitize more books, maintain its online presence, and improve Project Gutenberg programs and offerings. Other ways to help include digitizing, proofreading and formatting, or reporting errors.
 
