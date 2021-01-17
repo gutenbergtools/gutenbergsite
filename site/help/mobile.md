@@ -69,11 +69,13 @@ There are a few different challenges that many people face. Here are some of the
 
 For HTML, make sure you save the complete page. Some Web browsers just download the HTML (the text), and link back to the images at the www.gutenberg.org site. This won't work, since viewing the book will require you to be online, and link "inline" to those images. Project Gutenberg wants you to have the WHOLE eBook - download the complete HTML with images. All Web browsers offer this as a menu option, but it might not be the default choice.
 
-2. Where is the file?  If you simply click a file to download, you might get a dialog box or something similar, asking whether you want to save the file. But where did it go?  It seems there are many different places your computer might save the file, and they can be hard to find later. Use the "save as..." method mentioned above to choose a specific location. Also, keep in mind that the Project Gutenberg files might have names that don't related to the book's title (we use a numeric file naming scheme based on the eBook number). You can rename the files to anything you'd like, but you will first need to know where they are saved.
+2. Where is the file?  If you simply click a file to download, you might get a dialog box or something similar, asking whether you want to save the file. But where did it go?  It seems there are many different places your computer or reader might save the file, and they can be hard to find later. Use the "save as..." method mentioned above to choose a specific location. Also, keep in mind that the Project Gutenberg files might have names that don't related to the book's title (we use a numeric file naming scheme based on the eBook number). You can rename the files to anything you'd like, but you will first need to know where they are saved.
 
-3. How to get the file to my device?  This varies quite a bit, but the first step is to find where you saved the file (sometimes you can save directly to your device, if it is connected). One common variation is to connect your device to your computer, often with a USB cable. This is called "tethering."  Then, just drag and drop (or use another method for copying files) to put the file on your device. Another common variation is to use a separate program that manages your device's content, and to open the file and transfer it from within that program (iTunes is a common example of this that comes bundled with many Apple devices. Calibre is a good example of free software that works on many different devices).
+On tablets and ereaders, you might not be prompted for where to save your file, and we have had reports of different locations being used from time to time, or by different software. You might need to look around in your downloaded files areas.
 
-4. Hey, it doesn't look right!  Project Gutenberg relies on several automated steps to create EPUB, MOBI, and some other specialized eBook reader formats. For a variety of reasons, this automation sometimes yields files that don't look right on every device, particularly those with small screens. One common problem is to have lots of white space at the top of an eBook, or very wide margins. Also, it might be that images (from the HTML version of the book) are not included in the automatically-generated version. If you got the right file, but it doesn't look right, it's probably not something you can fix. Try another file format, especially HTML or plain text. HTML and plain text can be viewed by many of the specialized eBook reader devices and mobile phones.
+3. How to get the file to my device?  This varies quite a bit, but the first step is to find where you saved the file (sometimes you can save directly to your device, if it is connected). One common variation is to connect your device to your computer, often with a USB cable. This is called "tethering."  Then, just drag and drop (or use another method for copying files) to put the file on your device - this is often called "side loading." Another common variation is to use a separate program that manages your device's content, and to open the file and transfer it from within that program (iTunes is a common example of this that comes bundled with many Apple devices. Calibre is a good example of free software that works on many different devices).
+
+4. Hey, it doesn't look right! Project Gutenberg relies on several automated steps to create EPUB, MOBI, and some other specialized eBook reader formats. For a variety of reasons, this automation sometimes yields files that don't look right on every device, particularly those with small screens. One common problem is to have lots of white space at the top of an eBook, or very wide margins. Also, it might be that images (from the HTML version of the book) are not included in the automatically-generated version. If you got the right file, but it doesn't look right, it's probably not something you can fix. Try another file format, especially HTML or plain text. HTML and plain text can be viewed by many of the specialized eBook reader devices and mobile phones.
 
 5. I get an error that the file is protected by DRM (Digital Rights Management, which is a way that some publishers use to prevent you from doing what you want with files they produce). Nothing in Project Gutenberg has DRM. But we've found that if a file is corrupted or changed, some devices mistakenly think they are protected by DRM. Try downloading again, or try different reading software (if possible), or try another file format.
 
@@ -116,6 +118,8 @@ Putting a Project Gutenberg epub file onto a Kobo couldn't be easier. Connect yo
 
 The [Kobo](https://www.kobo.com/) reader online store includes free access to 100 of the most popular Project Gutenberg titles. You need to go through the registration process to get access to the store. Direct transfer of downloaded eBooks from a computer to the Kobo did not immediately work for us, but is supposed to be supported. The Kobo supports PDF and EPUB formats, and has a simple built-in Web browser that can be used to read eBooks online. Project Gutenberg would like to thank Kobo for providing free evaluation readers in 2010.
 
+We have had reports that the Project Gutenberg website does not work well with the web browser found on some new Kobo devices.
+
 ## Android
 The Android operating system is found on many phones and tablets. The specific features and applications varies, and there are often customizations to Android that change functionality. Android devices include Web browsers that can be used to read Project Gutenberg's text and HTML eBooks online. 
 
@@ -132,28 +136,27 @@ You can also get Project Gutenberg's eBook files onto the iPad using iTunes or o
 Project Gutenberg would like to thank Apple for providing devices for evaluation in 2009 and 2010.
 
 ## Suggestions from Project Gutenberg Founder Michael Hart
-Michael Hart was a proponent of eBooks on mobile devices. He offered these ideas in February 2010. This guidance might not be directly applicable to all of today's portable devices. Michael Hart wanted to encourage you to try the [QiOO Mobile format](/wiki/Gutenberg:Help_on_Bibliographic_Record_Page#QiOO_Mobile) for mobile phones.
-
-I'm writing this because 90% of the questions we receive
-at *help @ pglaf.org* are about buying dedicated eReaders at
-prices from $200 to over $1,000.
-
-Before actually plunking down that much money, I suggest trying reading Project Gutenberg and other eBooks on the
-laptops, notebooks, netbooks, cellphones or PDAs already in your collection of devices. I have known many people
-who have read very lengthy works on their cellphone, PDA or whatever while standing in lines over a period of one or two weeks and are have thus doubled their book number per year without taking any extra time.
-
-If you adjust the font, color, size, etc., you should be able to find a decent reading experience for yourself.
-
-WARNING:  DO NOT BUY A CELLPHONE WITHOUT WIFI, they will just jack up your bill but wifi costs little or nothing.
-
-If you insist on getting a dedicated ereader, I'm afraid we don't ever get into recommending specific products on Project Gutenberg, even those we like the best/use most.
-However, we do sometimes post reviews.
-In my own experiences in electronics over some 55 years, it has been obvious that the greatest value lies in some products that include multiple functions, such as what a hifi person would call a "receiver" which includes amps, preamps, equalizers, tuners and various other functions. Each amp, preamp, equalizer and tuner could be had quite readily as a separate box with a separate power supply-- complete with it's own transformer, AC cord, box, panels and and decorations, knobs, lights, etc.
-Believe it or not, if you look at the inventory of parts of any of these items it is the pretty front panel costs the most, then the knobs, then the ugly box with the big clunky power supply that converts the AC to DC, etc.
-
-I apologize, but I can't remember all the details, but I was totally astounded at finding out that was quite true in whole general hifi world. . .the actual parts that in 
-reality created the "value" cost the least.
-As a result, the first computer I ever bought was like a hifi receiver in respects, as it had everything in a big chassis that held the monitor, drives, printer, cards in one with the keyboard above the motherboard. It did not take as much space, it did not require as many cables or other interfaces, it took only one AC socket, and, every single part was completely adjusted to the system.
-
-I have built computers totally from parts many time, and done the same with many other electronics and I've never been a fan of having all the separate boxes. However, I must admit that the very best, if you are going to spend as much on each box as I was spending on entire systems, are available only in separate boxes. . .but one connect that doesn't work right can ruin the whole thing.
-
+>Michael Hart was a proponent of eBooks on mobile devices. He offered these ideas in February 2010. This guidance might not be directly applicable to all of today's portable devices. 
+>
+>I'm writing this because 90% of the questions we receive at *help @ pglaf.org* are about buying dedicated eReaders at prices from $200 to over $1,000.
+>
+>Before actually plunking down that much money, I suggest trying reading Project Gutenberg and other eBooks on the laptops, notebooks, netbooks, cellphones or PDAs already in your collection of devices. I have known many people who have read very lengthy works on their cellphone, PDA or whatever while standing in lines over a period of one or two weeks and are have thus doubled their book number per year without taking any extra time.
+>
+>If you adjust the font, color, size, etc., you should be able to find a decent reading experience for yourself.
+>
+>WARNING: DO NOT BUY A CELLPHONE WITHOUT WIFI, they will just jack up your bill but wifi costs little or nothing.
+>
+>If you insist on getting a dedicated ereader, I'm afraid we don't ever get into recommending specific products on Project Gutenberg, even those we like the best/use most.
+>
+>However, we do sometimes post reviews.
+>
+>In my own experiences in electronics over some 55 years, it has been obvious that the greatest value lies in some products that include multiple functions, such as what a hifi person would call a "receiver" which includes amps, preamps, equalizers, tuners and various other functions. Each amp, preamp, equalizer and tuner could be had quite readily as a separate box with a separate power supply-- complete with it's own transformer, AC cord, box, panels and and decorations, knobs, lights, etc.
+>
+>Believe it or not, if you look at the inventory of parts of any of these items it is the pretty front panel costs the most, then the knobs, then the ugly box with the big clunky power supply that converts the AC to DC, etc.
+>
+>I apologize, but I can't remember all the details, but I was totally astounded at finding out that was quite true in whole general hifi world. . .the actual parts that in reality created the "value" cost the least.
+>
+>As a result, the first computer I ever bought was like a hifi receiver in respects, as it had everything in a big chassis that held the monitor, drives, printer, cards in one with the keyboard above the motherboard. It did not take as much space, it did not require as many cables or other interfaces, it took only one AC socket, and, every single part was completely adjusted to the system.
+>
+>I have built computers totally from parts many time, and done the same with many other electronics and I've never been a fan of having all the separate boxes. However, I must admit that the very best, if you are going to spend as much on each box as I was spending on entire systems, are available only in separate boxes. . .but one connect that doesn't work right can ruin the whole thing.
+>
