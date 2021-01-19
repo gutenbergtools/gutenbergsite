@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Project Gutenberg
-email: webmaster2019@gutenberg.org
+email: webmaster@gutenberg.org
 description: >- # this means to ignore newlines until "baseurl:"
   Project Gutenberg is a library of free eBooks.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dev.gutenberg.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.gutenberg.org/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gutenberg_org
 github_username:  gbnewby
 
@@ -45,7 +45,12 @@ exclude:
    - README.md
    - to_delete
 
-destination: /public/vhost/g/gutenberg/dev/html/
+# Development:
+# destination: /public/vhost/g/gutenberg/dev/html/
+# 
+# Production:
+destination: /public/vhost/g/gutenberg/html/
+
 timezone: America/New_York
 encoding: utf-8 # default
 incremental: TRUE # doesn't seem to work... all files are being built
