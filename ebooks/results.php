@@ -6,7 +6,7 @@ $max_results = 1000;
 $max_ft_results = 5000;
 
 // gbn 20200203: Need to set this differently than the old site:
-set_include_path(get_include_path() . PATH_SEPARATOR . "/public/vhost/g/gutenberg/dev/private/lib/php");
+set_include_path(get_include_path() . PATH_SEPARATOR . "/public/vhost/g/gutenberg/private/lib/php");
 include_once ("pgcat.phh");
 
 $db = $config->db ();
