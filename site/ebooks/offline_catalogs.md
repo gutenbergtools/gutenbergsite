@@ -15,30 +15,31 @@ This page tells you how to find and get Project Gutenberg eBooks if:
 - you would like to make your own listings or derivatives from this information.
 
 <div class="contents">
-Contents
-<ol>
-<li><a href="#feeds-of-new-books">Feeds of new books</a>
-<ol class="inner_1">
-<li><a href="#rss">RSS</a></li>
-<li><a href="#email">Email</a></li>
-<li><a href="#social-media">Social media</a></li>
-</ol>
-</li>
-<li><a href="#list-of-sites-hosting-project-gutenberg-ebooks">List of Sites Hosting Project Gutenberg EBooks</a></li>
-<li><a href="#the-gutindex-listings-of-ebooks">The GUTINDEX Listings of EBooks</a>
-<ol class="inner_1">
-<li><a href="#gutindex-listings-by-year">GUTINDEX Listings by Year</a></li>
-</ol>
-</li>
-<li><a href="#affiliate-sites">Affiliate sites</a></li>
-<li><a href="#directoryfolder-listings">Directory/Folder Listings</a></li>
-<li><a href="#the-project-gutenberg-catalog-metadata-in-machine-readable-format">The Project Gutenberg Catalog Metadata in Machine-Readable Format</a>
-<ol class="inner_1">
-<li><a href="#xmlrdf">XML/RDF</a></li>
-<li><a href="#marc-records-machine-readable-cataloging">MARC Records (MAchine Readable Cataloging)</a>: No longer available</li>
-<li><a href="#a-local-browsable-copy-on-your-own-computer-or-mobile-device">A Local, Browsable Copy on your own Computer or Mobile Device</a></li>
-
-</ol>
+  Contents
+  <ol>
+    <li><a href="#feeds-of-new-books">Feeds of new books</a>
+      <ol class="inner_1">
+	<li><a href="#rss">RSS</a></li>
+	<li><a href="#email">Email</a></li>
+	<li><a href="#social-media">Social media</a></li>
+      </ol>
+    </li>
+    <li><a href="#list-of-sites-hosting-project-gutenberg-ebooks">List of Sites Hosting Project Gutenberg EBooks</a></li>
+    <li><a href="#the-gutindex-listings-of-ebooks">The GUTINDEX Listings of EBooks</a>
+      <ol class="inner_1">
+	<li><a href="#gutindex-listings-by-year">GUTINDEX Listings by Year</a></li>
+      </ol>
+    </li>
+    <li><a href="#affiliate-sites">Affiliate sites</a></li>
+    <li><a href="#directoryfolder-listings">Directory/Folder Listings</a></li>
+    <li><a href="#the-project-gutenberg-catalog-metadata-in-machine-readable-format">The Project Gutenberg Catalog Metadata in Machine-Readable Format</a>
+      <ol class="inner_1">
+	<li><a href="#xmlrdf">XML/RDF</a></li>
+	<li><a href="#marc-records-machine-readable-cataloging">MARC Records (MAchine Readable Cataloging)</a>: No longer available</li>
+	<li><a href="#a-local-browsable-copy-on-your-own-computer-or-mobile-device">A Local, Browsable Copy on your own Computer or Mobile Device</a></li>
+      </ol>
+    </li>
+  </ol>
 </div>
 
 ## Feeds of new books
@@ -74,34 +75,34 @@ Updated at least monthly.  These plain text files provide the basic information 
 If GUTINDEX.ALL is too big for you or you prefer separate annual lists, you can download GUTINDEX files by year.
 
 <div class="search_category">
- <ul>
-  <li><a href="/dirs/GUTINDEX.2020">GUTINDEX.2021</a></li>
-  <li><a href="/dirs/GUTINDEX.2020">GUTINDEX.2020</a></li>
-  <li><a href="/dirs/GUTINDEX.2019">GUTINDEX.2019</a></li>
-  <li><a href="/dirs/GUTINDEX.2018">GUTINDEX.2018</a></li>
-  <li><a href="/dirs/GUTINDEX.2017">GUTINDEX.2017</a></li>
-  <li><a href="/dirs/GUTINDEX.2016">GUTINDEX.2016</a></li>
-  <li><a href="/dirs/GUTINDEX.2015">GUTINDEX.2015</a></li>
-  <li><a href="/dirs/GUTINDEX.2014">GUTINDEX.2014</a></li>
-  <li><a href="/dirs/GUTINDEX.2013">GUTINDEX.2013</a></li>
-  <li><a href="/dirs/GUTINDEX.2012">GUTINDEX.2012</a></li>
-  <li><a href="/dirs/GUTINDEX.2011">GUTINDEX.2011</a></li>
-  <li><a href="/dirs/GUTINDEX.2010">GUTINDEX.2010</a></li>
-  <li><a href="/dirs/GUTINDEX.2009">GUTINDEX.2009</a></li>
-  <li><a href="/dirs/GUTINDEX.2008">GUTINDEX.2008</a></li>
-  <li><a href="/dirs/GUTINDEX.2007">GUTINDEX.2007</a></li>
-  <li><a href="/dirs/GUTINDEX.2006">GUTINDEX.2006</a></li>
-  <li><a href="/dirs/GUTINDEX.2005">GUTINDEX.2005</a></li>
-  <li><a href="/dirs/GUTINDEX.2004">GUTINDEX.2004</a></li>
-  <li><a href="/dirs/GUTINDEX.2003">GUTINDEX.2003</a></li>
-  <li><a href="/dirs/GUTINDEX.2002">GUTINDEX.2002</a></li>
-  <li><a href="/dirs/GUTINDEX.2001">GUTINDEX.2001</a></li>
-  <li><a href="/dirs/GUTINDEX.2000">GUTINDEX.2000</a></li>
-  <li><a href="/dirs/GUTINDEX.1999">GUTINDEX.1999</a></li>
-  <li><a href="/dirs/GUTINDEX.1998">GUTINDEX.1998</a></li>
-  <li><a href="/dirs/GUTINDEX.1997">GUTINDEX.1997</a></li>
-  <li><a href="/dirs/GUTINDEX.1996">GUTINDEX.1996</a> (and earlier)</li>
- </ul>
+  <ul>
+    <li><a href="/dirs/GUTINDEX.2021">GUTINDEX.2021</a></li>
+    <li><a href="/dirs/GUTINDEX.2020">GUTINDEX.2020</a></li>
+    <li><a href="/dirs/GUTINDEX.2019">GUTINDEX.2019</a></li>
+    <li><a href="/dirs/GUTINDEX.2018">GUTINDEX.2018</a></li>
+    <li><a href="/dirs/GUTINDEX.2017">GUTINDEX.2017</a></li>
+    <li><a href="/dirs/GUTINDEX.2016">GUTINDEX.2016</a></li>
+    <li><a href="/dirs/GUTINDEX.2015">GUTINDEX.2015</a></li>
+    <li><a href="/dirs/GUTINDEX.2014">GUTINDEX.2014</a></li>
+    <li><a href="/dirs/GUTINDEX.2013">GUTINDEX.2013</a></li>
+    <li><a href="/dirs/GUTINDEX.2012">GUTINDEX.2012</a></li>
+    <li><a href="/dirs/GUTINDEX.2011">GUTINDEX.2011</a></li>
+    <li><a href="/dirs/GUTINDEX.2010">GUTINDEX.2010</a></li>
+    <li><a href="/dirs/GUTINDEX.2009">GUTINDEX.2009</a></li>
+    <li><a href="/dirs/GUTINDEX.2008">GUTINDEX.2008</a></li>
+    <li><a href="/dirs/GUTINDEX.2007">GUTINDEX.2007</a></li>
+    <li><a href="/dirs/GUTINDEX.2006">GUTINDEX.2006</a></li>
+    <li><a href="/dirs/GUTINDEX.2005">GUTINDEX.2005</a></li>
+    <li><a href="/dirs/GUTINDEX.2004">GUTINDEX.2004</a></li>
+    <li><a href="/dirs/GUTINDEX.2003">GUTINDEX.2003</a></li>
+    <li><a href="/dirs/GUTINDEX.2002">GUTINDEX.2002</a></li>
+    <li><a href="/dirs/GUTINDEX.2001">GUTINDEX.2001</a></li>
+    <li><a href="/dirs/GUTINDEX.2000">GUTINDEX.2000</a></li>
+    <li><a href="/dirs/GUTINDEX.1999">GUTINDEX.1999</a></li>
+    <li><a href="/dirs/GUTINDEX.1998">GUTINDEX.1998</a></li>
+    <li><a href="/dirs/GUTINDEX.1997">GUTINDEX.1997</a></li>
+    <li><a href="/dirs/GUTINDEX.1996">GUTINDEX.1996</a> (and earlier)</li>
+  </ul>
 </div>
 
 ## Affiliate sites
@@ -109,9 +110,9 @@ If GUTINDEX.ALL is too big for you or you prefer separate annual lists, you can 
 Not part of Project Gutenberg - check laws of the country where you are, before accessing or redistributing any eBooks.
 
 <div class="search_category">
- <ul>
-  <li><a href="/dirs/GUTINDEX.AUS">GUTINDEX.AUS, Project Gutenberg of Australia</a></li>
- </ul>
+  <ul>
+    <li><a href="/dirs/GUTINDEX.AUS">GUTINDEX.AUS, Project Gutenberg of Australia</a></li>
+  </ul>
 </div>
 
 ## Directory/Folder Listings
