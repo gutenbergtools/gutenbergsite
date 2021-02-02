@@ -48,6 +48,4 @@ Here are pages that give background about Project Gutenberg, including how new i
        <li><a href="/help/volunteers_faq.html">Volunteers' FAQ</a>: Ways to help with producing new eBooks</li>
       <h2>W</h2>
        <li><a href="/help/new_website.html">Website redesign 2020</a></li>
-    </ul>
-  </div>
 
