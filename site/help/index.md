@@ -42,7 +42,7 @@ Here are pages that give background about Project Gutenberg, including how new i
        <li><a href="/help/subscribe_how_to.html">Subscribe how-to</a>, for email lists</li>
       <h2>T</h2>
        <li><a href="/help/mobile.html">Tablets, phones and eReaders how-to</a>, including Android, iPad/iPhone, Kindle, Kobo and others</li>
-       <li><a href="/policy/terms_of_use.html">"Terms of Use" for website and contents</li>
+       <li><a href="/policy/terms_of_use.html">"Terms of Use"</a> for website and contents</li>
        <li><a href="/policy/license.html">Trademark license</a></li>
       <h2>V</h2>
        <li><a href="/help/volunteers_faq.html">Volunteers' FAQ</a>: Ways to help with producing new eBooks</li>
