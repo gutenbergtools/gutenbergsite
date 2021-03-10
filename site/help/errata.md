@@ -9,7 +9,7 @@ Submitting Errata, Fixes and Bug Reports
 
 Errata reports, typos, etc. are welcome and appreciated. Please visit the [contact information](/about/contact_information.html) page for the current correct email address to send reports to.
 
-It is necessary to report the full title, author, and eBook number of the text you are correcting. We have multiple editions of some texts, like Homer's "Odyssey", and unless you tell us exactly what eBook you mean we have to spend much time searching and guessing which file you were reading. It is important to specify that you are reporting errors found in the text, html, .mobi or .epub file.
+It is important to report the full title, author, and eBook number of the text you are correcting. We have multiple editions of some texts, like Homer's "Odyssey," and unless you tell us exactly what eBook you mean we have to spend much time searching and guessing which file you were reading. It is important to specify that you are reporting errors found in the text, html, .mobi or .epub file.
 
 It is usually easiest to cut and paste the line where the error is into your e-mail, with your comment.
 
@@ -55,7 +55,7 @@ But the following gets the job done:
 </pre>
 Or, even shorter and easiest to use: 
 <pre>
-      In Homer's "Odyssey", EBook #1728, I found the
+      In Homer's "Odyssey," EBook #1728, I found the
       following errors:
 
       Telemachus, who bas now resided
@@ -87,6 +87,6 @@ Experienced Project Gutenberg contributors may find that when there are a great 
 
 If you are a regular, and have used any of the standard Gutenberg tools like "Gutcheck" or "Jeebies" to find errors, you might mention something like: "Gutcheck finds a lot of bad quotes".
 
-When you are able to find the eBook's title in an online eBook such as "The Internet Archive", it is a great help to us if you verify your suggested changes and in your report let us know you have done so and the source used.
+When you are able to find the eBook's title in an online eBook such as "The Internet Archive," it is a great help to us if you verify your suggested changes and in your report let us know you have done so and the source used.
 
 Any errata submissions are freely made, without obligation, and are entirely in the public domain. 
