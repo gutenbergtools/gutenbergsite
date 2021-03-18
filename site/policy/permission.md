@@ -106,7 +106,7 @@ Project Gutenberg claims no copyright for markup, formatting, spelling moderniza
 There are thousands of items in the Project Gutenberg collection which are still under copyright protection. Each copyrighted item is clearly indicated as copyrighted in the eBook's header. Unless there is an included license with the copyrighted item (such as a creative commons license), you will need to contact the copyright holder for any needed permission. Project Gutenberg cannot do this on your behalf, and does not have any ability to sublicense copyrighted works.
 
 ## Commercial use of Project Gutenberg trademark
-If you use the Project Gutenberg name, which is a registered trademark, you need to pay royalties for any commercial use (i.e., where you are trading on the Project Gutenberg trademarked name). Terms are spelled out clearly in the license included with each eBook, or read it here: License How-To
+If you use the Project Gutenberg name, which is a registered trademark, you need to pay royalties for any commercial use (i.e., where you are trading on the Project Gutenberg trademarked name). Terms are spelled out clearly in the license included with each eBook, or read it here: [License How-To](/policy/license.html)
 
 If your commercial project has only a minor use of the Project Gutenberg trademark (for example, one PG eBook, and 9 from another source), then royalties are proportional. In this example of one in ten items from PG, you would pay only 1/10th of the royalties that would normally be due. 
 
