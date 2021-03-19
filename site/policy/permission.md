@@ -47,7 +47,7 @@ Most permission requests we receive do not require a custom response. The vast m
 All use of the web site and content at www.gutenberg.org is subject to its Terms of Use. Find them on the main page of [www.gutenberg.org](/). 
 
 ## Trademark Permission to "Trade On" the Project Gutenberg name
-The name "Project Gutenberg" is a registered trademark. The [/license](Small Print License) guides terms of use. Basically, you need to pay royalties for commercial use (mentioned below). This restriction is mainly to prevent you selling things that might be mis-perceived as being sold and/or supported by Project Gutenberg, when Project Gutenberg has no involvement. It is intended to recognize the value of the Project Gutenberg name.
+The name "Project Gutenberg" is a registered trademark. The [Small Print License](/license) guides terms of use. Basically, you need to pay royalties for commercial use (mentioned below). This restriction is mainly to prevent you selling things that might be mis-perceived as being sold and/or supported by Project Gutenberg, when Project Gutenberg has no involvement. It is intended to recognize the value of the Project Gutenberg name.
 
 No permission is needed for non-commercial use. So, for example, you can freely redistribute any eBook, anywhere, any time, with or without the "Project Gutenberg" trademark included. The Small Print has more details. Note that if you are not in the US, you must confirm yourself whether an item is free to redistribute where you are. 
 

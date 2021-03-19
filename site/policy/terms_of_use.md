@@ -30,13 +30,13 @@ Contents
 
 ## Trademark License
 What you are allowed to do with our eBooks once you download them:
-See: [the Project Gutenberg License](/policy/license.html) and the [Permission How-To](/policy/permission.html)
+See: [the Project Gutenberg License](/policy/license.html) and the [Permission How-To](/policy/permission.html).
 
 ## Website Terms of Use
 
 ### Audience
 **This website is intended for human users only.** Any perceived use of automated tools to access this website will result in a temporary or permanent block of your IP address. 
-- If you want to **download many books<sup>[\[1\]](#footnotes)</sup>** manually or using an automated download software, download them from one of our mirrors, not from the main site. See the [list of PG mirrors](//www.gutenberg.org/MIRRORS.ALL) and the [roboting guidelines](/policy/robot_access.html").
+- If you want to **download many books<sup>[\[1\]](#footnotes)</sup>** manually or using an automated download software, download them from one of our mirrors, not from the main site. See the [list of PG mirrors](//www.gutenberg.org/MIRRORS.ALL) and the [roboting guidelines](/policy/robot_access.html).
 -  If you want a **list of all our books**, download and save the [Gutenberg index file](//www.gutenberg.org/dirs/GUTINDEX.ALL) It can be opened with any browser or word processor.
 - If you want a **machine-readable database** of all our books, read the [Offline Catalogs and Feeds](/ebooks/offline_catalogs.html) page.
 - If you are behind a proxy or VPN because you want anonymity or because of company or school policy, you may be blocked because other users of the same address are misbehaving. Try turning the proxy or VPN off.
@@ -58,7 +58,7 @@ while leaving the cost of actually serving the files to us.
 Every application that uses our OPDS feed must:
 - Use a proper user-agent, like: *calibre/1.1.0 (+http://www.calibre.org)*. Always include a contact address like a web page or email, so we can reach you. Applications without contact address and application developers that do not respond to our inquiries will be blocked from using our OPDS feed.
 - Make no more requests to our servers than a user with a browser typically would make (eg. for every search, request only one page of results, and automatically request the next page only if the users scrolls to the bottom of the previous page). If your application makes lots of requests, your users will be blocked at the IP level. 
-For high-volume OPDS applications consider downloading our [catalog database] (/ebooks/offline_catalogs.html) and hosting your own OPDS feed.
+For high-volume OPDS applications consider downloading our [catalog database](/ebooks/offline_catalogs.html) and hosting your own OPDS feed.
 If you have special needs, [contact us](/about/contact_information.html), don't try to `hack around´.
 
 ### Automated Blocks

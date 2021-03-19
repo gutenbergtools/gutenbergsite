@@ -7,7 +7,7 @@ permalink: /policy/license.html
 The Project Gutenberg License
 =============================
 
-Also see the [/policy/permission.html](permissions) page, which provides additional detail on use of the license, and additional related topics.
+Also see the [/policy/permission.html](permission) page, which provides additional detail on use of the license, and additional related topics.
 
 <div class="contents">
 <ol>
