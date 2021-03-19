@@ -27,7 +27,7 @@ Another way to find eBooks related to a topic is by browsing the Bibliographic R
   <!-- Missing Children's Periodicals-->
    <li><a href="/ebooks/bookshelves/search/?query=canada">Canada Bookshelf</a></li>
    <li><a href="/ebooks/bookshelves/search/?query=children%7Cchristmas%7Cchild%7Cschool">Children's Bookshelf</a></li>
-   <li><a href="/ebooks/bookshelves/search/?query=classic">Classics Bookshelf</a></li>
+   <li><a href="/ebooks/bookshelves/search/?query=classics">Classics Bookshelf</a></li>
    <li><a href="/ebooks/bookshelves/search/?query=africa.%7CArgentina.%7CAustralia%7CBulgaria%7CCanada%7CCzech%7Cegypt%7Cfrance.%7Cgermany.%7Cgreece.%7Cindia%7Citaly%7Czealand%7Cnorway%7Csouth%20america%7C.travel.%7CUnited%20Kingdom%7C.united%20states.!law">Countries Bookshelf</a></li>
    <li><a href="/ebooks/bookshelves/search/?query=crime%7Cdetective%7Cmystery">Crime Bookshelf</a></li>
   </ul>
