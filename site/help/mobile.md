@@ -133,12 +133,12 @@ to download the EPUB format and then "open in" the preferred application.
 
 You can also get Project Gutenberg's eBook files onto the iPad using iTunes or other programs that transfer files to your device. This works for EPUB files, and it also works well for Project Gutenberg's MP3 audio eBooks.
 
-We have received this specific set of instructions from a reader. They might not work exactly on your iPad, and are intended to illustrate the general process:
+We have received this specific set of instructions from a reader. They might not work exactly on your iPad, and are intended to illustrate the general process. They assume you have installed the Amazon Kindle app from Apple's app store - this is only one of many applications that can display Kindle (MOBI) or EPUB-formatted files - different applications would utilize similar steps:
 
 1. Choose "Kindle" (MOBI) option for book download from Project Gutenberg
 2. Click on "More"
 3. Choose "Save to Files"
-4. Choose "On my iPad" and select a document app such as File Explorer.
+4. Choose "On my iPad" and select a document app such as File Explorer (available in Apple's app store)
 5. Click "Add" (at this point you can then disconnect from the Internet)
 6. Open the "Files" app
 7. Select "On my iPad"
