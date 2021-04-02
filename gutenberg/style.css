@@ -386,36 +386,6 @@ book */
 }
 
 
-/* ==================================================
-about */
-.about {
-	column-count: 2;
-	column-gap: 0px;
-	margin: 0 auto;
-}
-
-.about p,
-.about a {
-	color: #808080;
-	display: inline-block;
-	font-size: 15px;
-	font-weight: 200;
-	margin-bottom: 0px;
-	padding-right: 10%;
-	width: 90%;
-}
-
-.about p.quote {
-	color: #000000;
-	font-style: italic;
-	font-weight: 500;
-	padding-left: 5%;
-	width: 85%;
-}
-
-.about a {
-	text-decoration: underline;
-}
 
 /*@media only screen and (max-width: 1200px),
 only screen and (max-device-width: 1200px) {
