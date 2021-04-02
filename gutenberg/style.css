@@ -651,9 +651,6 @@ ul.results li::before {
 	/*.content {
 		margin-top: 180px;
 	}*/
-	.library .latest h1 {
-		font-size: 18px;
-	}
 	.page_content {
 		margin-top: 60px;
 		height: auto;
