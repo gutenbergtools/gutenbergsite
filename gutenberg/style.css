@@ -309,10 +309,6 @@ book */
 	transition: box-shadow 0.2s ease-in-out, background-color 0.5s ease-in-out;
 }
 
-.book .section {
-	display: table-cell;
-	padding: 10px;
-}
 
 .book .cover img {
 	box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.1);
