@@ -324,10 +324,7 @@ book */
 .book .details .id {
 	font-family: Consolas, Courier, monospace;
 }
-.book .bib_rec li h4 {
-	font-size: 15px;
-	display: inline;
-}
+
 .book .bib_rec ul {
 	list-style: square inside;
 }
