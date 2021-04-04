@@ -22,7 +22,8 @@ THANK YOU for your patience as we continue to update the website to fix remainin
 
 ### Content issues
 1. Need to create a new version of the mention of https://www.gutenberg.org/wiki/Gutenberg:Help_on_Bibliographic_Record_Page from bibrec (help text, appears 4x on each bibrec page linked with the question mark from the dropbox, gdrive and onedrive icons). Also a description of epub, mobi, and other formats. Status: Under development.
-2. New mobile bibrec page display. We will move content table below book cover and social links when it's displayed on mobile device. (Working on it)
+2. New mobile bibrec page display. We will move content table below book cover and social links when it's displayed on mobile device. Status: Working on it.
+3. Improve and augment information about PG, including the "why" and benefits. Give a short overview of the broader social purpose of PG on the main page. Update the About pages to give more background, including on the people behind the effort (other than Michael). On the Donate page, add more about why, and what will be done with donations. Describe the purpose, not only the actions and outcomes. The social responsibility. Hopes for the future. Communities served. The modern history (2000-present). Writing a purpose statement will be a good start - strange that PG didn't already have this. Status: Under development.
 
 ### User interface and user experience issues
 1. OPDS results have a heading, "All Books (sorted by popularity)" regardless of what it is showing. Instead this should be something more generic, like, "<title>Project Gutenberg</title>." Status: Working on it.
