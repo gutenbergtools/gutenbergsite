@@ -101,7 +101,7 @@ In summary, PayPal is usually the easiest and most flexible payment method.  We 
 
 PayPal is a Web site that accepts credit cards, checks, and bank transfer payments.  You need to set up a PayPal account to donate via PayPal (in the past, you could donate without setting up an account.  This doesn't seem to be possible any more). Visa, MasterCard, Amex and Discover are accepted.  Because of PayPal's fees, any donation of under 32 cents or so doesn't reach PGLAF.  Instead, consider letting your small donations add up to a dollar or more before sending it with PayPal.
 
-Rather than using the quick donation links above, you can login to PayPal and select "Send Money." When prompted, specify 'donate2020@pglaf.org' as the recipient, and you will be presented with PGLAF's information. Send the payment as you would any other payment. Funds go directly to PGLAF via PayPal.  Any national currency is OK.
+Rather than using the quick donation links above, you can login to PayPal and select "Send Money." When prompted, specify 'donate2021@pglaf.org' as the recipient, and you will be presented with PGLAF's information. Send the payment as you would any other payment. Funds go directly to PGLAF via PayPal.  Any national currency is OK.
 
 PayPal does not provide any information about you to PGLAF, other than your return email address.  Your postal address, country, phone number, etc. are not provided.  This is because PayPal knows PGLAF is a registered charity, so there is no need for shipping or billing addresses to be transmitted with the donation.
 
