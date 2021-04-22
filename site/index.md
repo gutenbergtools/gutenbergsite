@@ -6,6 +6,9 @@ permalink: /
 
 Welcome to Project Gutenberg
 ====================================================
+
+**Known issue with slow searching and page loads** Apologies that the system has been quite slow, including for searching and for viewing book landing pages. We are working with our hosting provider to identify and mitigate the issues. 
+
 <h2 class="subtitle">Project Gutenberg is a library of over 60,000 free eBooks</h2>
 
 Choose among free epub and Kindle eBooks, download them or read them online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for you to enjoy. 
