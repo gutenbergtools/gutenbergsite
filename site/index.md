@@ -7,17 +7,13 @@ permalink: /
 Welcome to Project Gutenberg
 ====================================================
 
-**Known issue with slow searching and page loads** Apologies that the system has been quite slow, including for searching and for viewing book landing pages. We are working with our hosting provider to identify and mitigate the issues. 
-
 <h2 class="subtitle">Project Gutenberg is a library of over 60,000 free eBooks</h2>
 
 Choose among free epub and Kindle eBooks, download them or read them online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for you to enjoy. 
 
 {% include latest_books_template.html %}
 
-**Planned outage** Search performance, and page loads for book landing pages, has been problematic. There will be a brief outage on Thursday April 29 to transition to an upgraded database server, as part of the effort to improve performance.
-
-**Planned service change** In April 2021, www.gutenberg.org plans to remove unencrypted access (http), and will only offer https. The collection remains available from mirrors, as well as via unencrypted ftp and rsync.
+**Planned service change** In late April 2021, www.gutenberg.org plans to remove unencrypted access (http), and will only offer https. The collection remains available from mirrors, as well as via unencrypted ftp and rsync.
 
 **No fee or registration!** Everything from Project Gutenberg is gratis, libre, and completely without cost to readers. If you find Project Gutenberg useful, please consider a small donation, to help Project Gutenberg digitize more books, maintain its online presence, and improve Project Gutenberg programs and offerings. Other ways to help include digitizing, proofreading and formatting, or reporting errors.
 
