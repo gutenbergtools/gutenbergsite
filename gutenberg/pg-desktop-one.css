@@ -108,6 +108,7 @@ h2{text-align:left;font-size:130%;}
 .shaded{color:inherit;}
 #content{}
 div.breadcrumbs,div.header,div.footer{clear:both;}
+div.breadcrumbs{margin-top: 4em;}
 #print-head{position:absolute;left:0;right:0;top:0;}
 #screen-head{position:absolute;left:0;right:0;top:0;}
 #screen-head > table{border-collapse:collapse;width:100%;}
