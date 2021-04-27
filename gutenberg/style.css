@@ -504,6 +504,7 @@ only screen and (max-device-width: 1200px) {
 	font-weight: bold;
 	margin-top: 2em;
 	width: 100%;
+	line-height: 1em;
 }
 .page_content .header h1{
 	margin-top: 3.5em;
