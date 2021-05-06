@@ -127,6 +127,10 @@ All Project Gutenberg metadata are [available digitally](/cache/epub/feeds/) in 
 
 Note that the exact same metadata is available as a *per-eBook* .rdf file. These are found in the cache/epub (i.e., cache/generated) directory, accessible by mirroring or by the directory/folder listings above. The large XML/RDF file is simply a concatenation of all the per-eBook metadata.
 
+Project Gutenberg metadata does not include the original print source publication date(s). Because Project Gutenberg eBooks are substantially different from the source book(s), we track the Project Gutenberg publication date ("release date"), but do not include print source information in the metadata. Differences almost always include dehyphenation, removing page headers/footers, changes to typography during markup, and sometimes relocation of images, footnotes, captions, etc. In addition, Project Gutenberg eBooks sometimes come from multiple print editions.
+
+Many eBooks include scans of the title page or other pages, which may indicate original print publication. If matching a Project Gutenberg eBook to a particular print edition is important to you, it is likely this will need to be done by direct comparison of a print source with the eBook.
+
 ### MARC Records (MAchine Readable Cataloging): No longer available
 
 Project Gutenberg distributed the catalog in MARC format, and then discontinued when server upgrades left our software non-functional. In addition, a legacy program prepared by a volunteer, [pgrdf2marc.pl](/gutenberg/pgrdf2marc.pl.txt), worked with a previous version of the XML/RDF data, but does not work with the currrent version.
