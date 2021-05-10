@@ -231,7 +231,7 @@ Avoid punctuation except as indicated below:</p>
 <div class="box">
  <a class="button" href="#popup2">Help</a>
  <!-- Advanced search form begins here -->
-  <form method="post" action="results" accept-charset="utf-8" enctype="multipart/form-data">
+  <form method="post" action="/ebooks/results/" accept-charset="utf-8" enctype="multipart/form-data">
    <input id="collapsible1" class="toggle" type="checkbox">
    <label for="collapsible1" class="lbl-toggle">Advanced Search</label>
     <div class="collapsible-content">
