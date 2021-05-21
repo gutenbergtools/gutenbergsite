@@ -24,7 +24,7 @@ function init_search_dropdown() {
     function extractLast(term) {
         return term.split(/\s+/).pop();
     }
-    var search = $("#search-input");
+    var search = $("#menu-book-search");
     search.attr("placeholder", search.attr("title")), search.autocomplete({
         minLength: 4,
         delay: 500,
