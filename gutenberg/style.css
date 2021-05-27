@@ -170,12 +170,6 @@ container */
 }*/
 
 
-.desc {
-	color: #808080;
-	font-size: 20px;
-	font-weight: 200;
-}
-
 ul {
 	list-style-type: "\2022";
 	margin: 0;
@@ -209,13 +203,6 @@ library */
 	padding: 10px
 }
 
-.library .latest h1 {
-	/*font-size: 30px;
-	font-weight: bold;*/
-	margin-top: 15px;
-	margin-bottom: 15px;
-	width: 100%;
-	}
 .library .latest a:hover {
 	background-color: transparent;
 }
@@ -322,10 +309,6 @@ book */
 	transition: box-shadow 0.2s ease-in-out, background-color 0.5s ease-in-out;
 }
 
-.book .section {
-	display: table-cell;
-	padding: 10px;
-}
 
 .book .cover img {
 	box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.1);
@@ -337,10 +320,7 @@ book */
 .book .details .id {
 	font-family: Consolas, Courier, monospace;
 }
-.book .bib_rec li h4 {
-	font-size: 15px;
-	display: inline;
-}
+
 .book .bib_rec ul {
 	list-style: square inside;
 }
@@ -395,15 +375,6 @@ book */
 	}
 }
 
-.book .share a {
-	background: #000000;
-	border-radius: 50%;
-	color: #ffffff;
-	font-size: 13px;
-	height: 20px;
-	text-align: center;
-	width: 20px;
-}
 
 .share-icon img {
 	height: 20px;
@@ -411,36 +382,6 @@ book */
 }
 
 
-/* ==================================================
-about */
-.about {
-	column-count: 2;
-	column-gap: 0px;
-	margin: 0 auto;
-}
-
-.about p,
-.about a {
-	color: #808080;
-	display: inline-block;
-	font-size: 15px;
-	font-weight: 200;
-	margin-bottom: 0px;
-	padding-right: 10%;
-	width: 90%;
-}
-
-.about p.quote {
-	color: #000000;
-	font-style: italic;
-	font-weight: 500;
-	padding-left: 5%;
-	width: 85%;
-}
-
-.about a {
-	text-decoration: underline;
-}
 
 /*@media only screen and (max-width: 1200px),
 only screen and (max-device-width: 1200px) {
@@ -707,9 +648,6 @@ ul.results li::before {
 	/*.content {
 		margin-top: 180px;
 	}*/
-	.library .latest h1 {
-		font-size: 18px;
-	}
 	.page_content {
 		margin-top: 60px;
 		height: auto;

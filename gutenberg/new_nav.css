@@ -80,7 +80,7 @@ nav {
   @media screen and /*(orientation: portrait)*/(max-width : 1024px) {
     nav {
       height: auto;
-      font-size: 12px;
+      font-size: 0.55em;
       position: absolute;
     }
     nav .donate {
