@@ -18,6 +18,3 @@ Policies
 [Roboting our site](robot_access.html) for automated bulk downloads.
 
 [Terms of Use](terms_of_use.html) for website and contents.
-
-[Trademark license](license.html): the "small print" of how the Project Gutenberg name may be used.
-
