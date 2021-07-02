@@ -180,7 +180,7 @@ input[id^="collapsible"] {
   top: 20px;
   right: 30px;
   transition: all 200ms;
-  font-size: 30px;
+  font-size: 1.4rem;
   font-weight: bold;
   text-decoration: none;
   color: #333;
