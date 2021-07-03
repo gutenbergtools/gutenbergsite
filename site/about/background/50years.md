@@ -44,17 +44,19 @@ Project Gutenberg was built by volunteers, and all new eBooks are the result of 
 
 - [The History and Philosophy of Project Gutenberg by Michael Hart](/about/background/history_and_philosophy.html) (1992)
 
-- Project Gutenberg Book: [Project Gutenberg (1971-2008)](https://www.gutenberg.org/ebooks/27045) by Marie Lebert (2008), covering the history of Project Gutenberg. Other titles by Marie Lebert cover other aspects of eBooks, in English, French and Spanish. Two of these are translations. A third is an album celebrating Project Gutenberg's 40th anniversary:
-  - [Le Projet Gutenberg (1971-2008)](https://www.gutenberg.org/ebooks/27046), in French (2008).
-  - [El Proyecto Gutenberg (1971-2009)](https://www.gutenberg.org/ebooks/31633), in Spanish (2008).
-  - [Project Gutenberg 4 July 1971 - 4 July 2011](https://www.gutenberg.org/ebooks/36616). Album with pictures in PDF (2011).
+- Project Gutenberg Books by Marie Lebert covering the history of Project
+Gutenberg:
+  - in English (2008): [Project Gutenberg (1971-2008)](https://www.gutenberg.org/ebooks/27045).
+  - in French (2008): [Le Projet Gutenberg (1971-2008)](https://www.gutenberg.org/ebooks/27046), in French (2008).
+  - in Spanish (2009): [El Proyecto Gutenberg (1971-2009)](https://www.gutenberg.org/ebooks/31633), in Spanish (2008).
+- album with pictures (PDF) for Project Gutenberg's 40th anniversary: [Project Gutenberg 4 July 1971 - 4 July 2011](https://www.gutenberg.org/ebooks/36616).
 
 - Project Gutenberg eBook: [Forty-Five Years of Digitizing Ebooks: Project Gutenberg's Practices](https://www.gutenberg.org/ebooks/60600) by Greg Newby, describing how eBooks are selected and digitized (2019).
 
 - Project Gutenberg web page: [Collection Development Policy](https://www.gutenberg.org/policy/collection_development.html), which describes what is currently being added to the collection, and why. It also includes some background on items collected previously (2020).
 
 - External resources:
-  - [A Timeline for Project Gutenberg and Distributed Proofreaders](https://archive.org/details/history-ebooks/mode/2up) by Marie Lebert (2021).
+  - [A Timeline for Project Gutenberg and Distributed Proofreaders](https://archive.org/details/history-ebooks/mode/2up) by Marie Lebert (2021). This is Chapter 2 of "A short history of ebooks," at the same link.
   - [TBD](50 Years at Project Gutenberg), a blog post by Distributed Proofreaders (2021).
   - Visualizations of the Project Gutenberg collection over time: [subjects from 1971-2021](https://public.tableau.com/views/ProjectGutenbergat50/Dashareachartbysubject?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no) and [Project Gutenberg eBooks issued over time](https://public.tableau.com/views/ProjectGutenbergebooksIssuedOverTime/Dashheatmap?:language=en-US&:display_count=n&:origin=viz_share_link:showVizHome=no) by Joshua Preston (2021). 
   - [Greg Newby @ Project Gutenberg: The Professor Who Gives Away Books](https://share.transistor.fm/s/667f33b9), a podcast in which Dr. Newby describes his 30 years as a Project Gutenberg volunteer, and how Project Gutenberg has evolved over time.
