@@ -49,7 +49,7 @@ Gutenberg:
   - in English (2008): [Project Gutenberg (1971-2008)](https://www.gutenberg.org/ebooks/27045).
   - in French (2008): [Le Projet Gutenberg (1971-2008)](https://www.gutenberg.org/ebooks/27046), in French (2008).
   - in Spanish (2009): [El Proyecto Gutenberg (1971-2009)](https://www.gutenberg.org/ebooks/31633), in Spanish (2008).
-- album with pictures (PDF) for Project Gutenberg's 40th anniversary: [Project Gutenberg 4 July 1971 - 4 July 2011](https://www.gutenberg.org/ebooks/36616).
+  - album with pictures (PDF) for Project Gutenberg's 40th anniversary: [Project Gutenberg 4 July 1971 - 4 July 2011](https://www.gutenberg.org/ebooks/36616).
 
 - Project Gutenberg eBook: [Forty-Five Years of Digitizing Ebooks: Project Gutenberg's Practices](https://www.gutenberg.org/ebooks/60600) by Greg Newby, describing how eBooks are selected and digitized (2019).
 
