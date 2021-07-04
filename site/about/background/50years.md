@@ -15,7 +15,7 @@ What Michael envisioned in 1971 was eBooks for reading enjoyment. This was the i
 
 For the two decades from 1971-1991, Hart evangelized the idea of eBooks, and worked on the first 100 or so titles. These included historical documents - famously starting with the US Declaration of Independence. Also reference works, literary works, a few donated contemporary works, mathematical constants, and more. Subsequent years saw issuance of short videos and longer movies, graphical collections, sheet music, audio files, and eBooks in dozens of languages and formats.
 
-Like the movable type printing press, the modern digital computer was a machine usable for many different purposes: all types of content, suitable for a wide range of interests. This was the vision and genius of Michael Hart.
+Like the movable type printing press, the modern digital computer was a machine usable for many different purposes: all types of content, suitable for a wide range of interests. This inspired the vision and genius of Michael Hart.
 
 Project Gutenberg evolved from a concept to become an organization. Volunteers would identity printed books to digitize, and create an eBook for Project Gutenberg to publish and redistribute.
 
@@ -27,7 +27,7 @@ Project Gutenberg has kept up with the times, offering e-reader friendly formats
 
 Everyone should have free, unlimited access to the world's literature. Whenever they want, with a variety of formatting and delivery choices. "Literature," said Hart, "should be as free as the air we breathe."
 
-On the occasion of the 50th birthday of Michael Hart's invention, Project Gutenberg remains vibrant and relevant. The efforts of thousands of volunteers have created a library of literature, reference and more, with over 60 languages and dialects.
+On the occasion of the 50th anniversary of Michael Hart's invention, Project Gutenberg remains vibrant and relevant. The efforts of thousands of volunteers have created a library of literature, reference and more, with over 60 languages and dialects.
 
 Project Gutenberg celebrates 50 years of eBooks, and of continuously improving methods for creating and distributing them. The enduring gift of literary works to the people of the world is the outcome of the spirit of innovation and devotion to the common good.
 
@@ -47,17 +47,17 @@ Project Gutenberg was built by volunteers, and all new eBooks are the result of 
 - Project Gutenberg eBooks by Marie Lebert covering the history of Project
 Gutenberg:
   - in English (2008): [Project Gutenberg (1971-2008)](https://www.gutenberg.org/ebooks/27045).
-  - in French (2008): [Le Projet Gutenberg (1971-2008)](https://www.gutenberg.org/ebooks/27046), in French (2008).
-  - in Spanish (2009): [El Proyecto Gutenberg (1971-2009)](https://www.gutenberg.org/ebooks/31633), in Spanish (2008).
+  - in French (2008): [Le Projet Gutenberg (1971-2008)](https://www.gutenberg.org/ebooks/27046).
+  - in Spanish (2009): [El Proyecto Gutenberg (1971-2009)](https://www.gutenberg.org/ebooks/31633).
   - album with pictures (PDF) for Project Gutenberg's 40th anniversary: [Project Gutenberg 4 July 1971 - 4 July 2011](https://www.gutenberg.org/ebooks/36616).
 
 - Project Gutenberg eBook: [Forty-Five Years of Digitizing Ebooks: Project Gutenberg's Practices](https://www.gutenberg.org/ebooks/60600) by Greg Newby, describing how eBooks are selected and digitized (2019).
 
-- Project Gutenberg web page: [Collection Development Policy](https://www.gutenberg.org/policy/collection_development.html), which describes what is currently being added to the collection, and why. It also includes some background on items collected previously (2020).
+- Project Gutenberg web page: [Collection Development Policy](https://www.gutenberg.org/policy/collection_development.html), which describes what is currently being added to the collection, and why. It also includes some background on some types of items collected previously (2020).
 
 - External resources:
   - [A Timeline for Project Gutenberg and Distributed Proofreaders](https://archive.org/details/history-ebooks/mode/2up) by Marie Lebert (2021). This is Chapter 2 of "A short history of ebooks," at the same link.
-  - [TBD](50 Years at Project Gutenberg), a blog post by Distributed Proofreaders (2021).
+  - [https://blog.pgdp.net/](50 Years at Project Gutenberg), a blog post by Distributed Proofreaders (2021).
   - Visualizations of the Project Gutenberg collection over time: [subjects from 1971-2021](https://public.tableau.com/views/ProjectGutenbergat50/Dashareachartbysubject?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no) and [Project Gutenberg eBooks issued over time](https://public.tableau.com/views/ProjectGutenbergebooksIssuedOverTime/Dashheatmap?:language=en-US&:display_count=n&:origin=viz_share_link:showVizHome=no) by Joshua Preston (2021). 
   - [Greg Newby @ Project Gutenberg: The Professor Who Gives Away Books](https://share.transistor.fm/s/667f33b9), a podcast in which Dr. Newby describes his 30 years as a Project Gutenberg volunteer, and how Project Gutenberg has evolved over time.
 

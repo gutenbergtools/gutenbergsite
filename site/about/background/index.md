@@ -7,13 +7,15 @@ permalink: /about/background/
 Background, History and Philosophy of Project Gutenberg
 =======================================================
 
-How did Project Gutenberg begin, and grow? What motivated
-its founder, Michael Hart? What are some of the core beliefs?
+How did Project Gutenberg begin, and grow? What motivated its founder,
+Michael Hart? What are some of the core beliefs?
 
 Project Gutenberg has a long history, which predates the modern
 Internet and continues until today. The essays and documents in this
 section provide some of the background of Project Gutenberg, and also
 describe the basis for how Project Gutenberg operates.
+
+[50 years of eBooks: 1971-2021](50years.html), celebrating the 50th anniversary of the first for reading enjoyment and unlimited free redistribution (2021).
 
 [The History and Philosophy of Project Gutenberg by Michael Hart](/about/background/history_and_philosophy.html) (1992)
 

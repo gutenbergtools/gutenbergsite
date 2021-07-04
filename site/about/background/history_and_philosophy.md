@@ -38,27 +38,28 @@ they would learn more for their job proficiency.
 At any rate, Michael decided there was nothing he could do, in the way
 of "normal computing," that would repay the huge value of the computer
 time he had been given ... so he had to create $100,000,000 worth of
-value in some other ma nner. An hour and 47 minutes later, he
-announced that the greatest value created by computers would not be
-computing, but would be the storage, retrieval, and s earching of what
-was stored in our libraries.  </p><p>He then proceeded to type in the
-"Declaration of Independence" and tried to send it to everyone on the
-networks ... which can only be described today as a not so narrow miss
-at creating an early version of what was later called the "Internet
-Virus."
+value in some other manner. An hour and 47 minutes later, he announced
+that the greatest value created by computers would not be computing,
+but would be the storage, retrieval, and searching of what was stored
+in our libraries.
+
+He then proceeded to type in the "Declaration of Independence" and
+tried to send it to everyone on the networks ... which can only be
+described today as a not so narrow miss at creating an early version
+of what was later called the "Internet Virus."
 
 A friendly dissuasion from this yielded the first posting of a
-document i n electronic text, and Project Gutenberg was born as
-Michael stated that he had "earned" the $100,000,000 because a copy of
-the Declaration of Independence woul d eventually be an electronic
-fixture in the computer libraries of 100,000,000 o f the computer
-users of the future.
+document in electronic text, and Project Gutenberg was born as Michael
+stated that he had "earned" the $100,000,000 because a copy of the
+Declaration of Independence would eventually be an electronic fixture
+in the computer libraries of 100,000,000 of the computer users of the
+future.
 
 ## The Beginning of the Gutenberg Philosophy
 
 The premise on which Micheal Hart based Project Gutenberg was:
 anything that can be entered into a computer can be reproduced
-indefinitely ... what Micheal termed "Replicator Technology" The
+indefinitely ... what Micheal termed "Replicator Technology." The
 concept of Replicator Technology is simple; once a book or any other
 item (including pictures, sounds, and even 3-D items can be stored in
 a computer), then any number of copies can and will be
@@ -66,14 +67,14 @@ available. Everyone in the world, or even not in this world (given
 satellite transmission) can have a copy of a book that has been
 entered into a computer.
 
-This philosophical premise has created several offshoots: 1.Electronic
+This philosophical premise has created several offshoots: Electronic
 Texts (Etexts) created by Project Gutenberg are to be made available
 in the simplest, easiest to use forms available.
 
 Suggestions to make them less readily available are not to be treated
 lightly.  Therefore, Project Gutenberg Etexts are made available in
 what has become known as "Plain Vanilla ASCII," meaning the low set of
-the American Standard Code for Information Interchange: ie the same
+the American Standard Code for Information Interchange: i.e., the same
 kind of character you read on a normal printed page — italics,
 underlines, and bolds have been capitalized.
 
@@ -133,7 +134,7 @@ the new law it is impossible to predict the length of a copyright, and
 the likelihood of a new book entering the Public Domain during the
 lifetime of the average reader is minimal. (Suppose you might be 25
 when you read a new book and the author is 50: wait the average 25
-years for the author to die (what a thought!*) Now you have to wait
+years for the author to die (what a thought!) Now you have to wait
 another 50 years to have access to that book; it doesn't matter when
 it was written (unless it is an old one ... before the period the law
 retroacted to) ... so you would have to wait (on the average) until
@@ -313,7 +314,7 @@ With Plain Vanilla ASCII you will be easily able to search an entire
 library, without any program more sophisticated than a plain search
 program. In fact, these Project Gutenberg Etext files are so plain
 that you can do a search on them without even using an intermediate
-search program (i.e. a program between you and the disk) Norton's and
+search program (i.e., a program between you and the disk) Norton's and
 other direct disk access programs can search every one of your files
 without you even naming them, pointing to an etext directory, or
 whatever. You can simply search a raw output from the disk ... I do
