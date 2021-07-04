@@ -57,7 +57,7 @@ Gutenberg:
 
 - External resources:
   - [A Timeline for Project Gutenberg and Distributed Proofreaders](https://archive.org/details/history-ebooks/mode/2up) by Marie Lebert (2021). This is Chapter 2 of "A short history of ebooks," at the same link.
-  - [https://blog.pgdp.net/](50 Years at Project Gutenberg), a blog post by Distributed Proofreaders (2021).
+  - [https://blog.pgdp.net/2021/07/04/50-years-at-project-gutenberg/](50 Years at Project Gutenberg), a blog post by Distributed Proofreaders (2021).
   - Visualizations of the Project Gutenberg collection over time: [subjects from 1971-2021](https://public.tableau.com/views/ProjectGutenbergat50/Dashareachartbysubject?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no) and [Project Gutenberg eBooks issued over time](https://public.tableau.com/views/ProjectGutenbergebooksIssuedOverTime/Dashheatmap?:language=en-US&:display_count=n&:origin=viz_share_link:showVizHome=no) by Joshua Preston (2021). 
   - [Greg Newby @ Project Gutenberg: The Professor Who Gives Away Books](https://share.transistor.fm/s/667f33b9), a podcast in which Dr. Newby describes his 30 years as a Project Gutenberg volunteer, and how Project Gutenberg has evolved over time.
 
