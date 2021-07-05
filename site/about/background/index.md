@@ -30,10 +30,13 @@ describe the basis for how Project Gutenberg operates.
 [No Cost, or Freedom?](/about/background/free_ebook.html) (2012)
 
 ### Other items about Project Gutenberg
-- eBook: [Project Gutenberg (1971-2008)](https://www.gutenberg.org/ebooks/27045) by Marie Lebert, covering the history of Project Gutenberg. Other titles by Marie Lebert cover other aspects of eBooks, in English, French and Spanish. Two of these are translations. A third is an album celebrating Project Gutenberg's 40th anniversary:
-  - [Le Projet Gutenberg (1971-2008)](https://www.gutenberg.org/ebooks/27046) [in French]
-  - [El Proyecto Gutenberg (1971-2009)](https://www.gutenberg.org/ebooks/31633) [in Spanish]
-  - [Project Gutenberg 4 July 1971 - 4 July 2011](https://www.gutenberg.org/ebooks/36616). Album with pictures in PDF.
+- Project Gutenberg eBooks by Marie Lebert covering the history of Project
+Gutenberg:
+  - in English (2008): [Project Gutenberg (1971-2008)](https://www.gutenberg.org/ebooks/27045).
+  - in French (2008): [Le Projet Gutenberg (1971-2008)](https://www.gutenberg.org/ebooks/27046).
+  - in Spanish (2009): [El Proyecto Gutenberg (1971-2009)](https://www.gutenberg.org/ebooks/31633).
+  - album with pictures (PDF) for Project Gutenberg's 40th anniversary: [Project Gutenberg 4 July 1971 - 4 July 2011](https://www.gutenberg.org/ebooks/36616).
+
 - Article: [The Second Gutenberg Interview with Michael Hart](http://samvak.tripod.com/busiweb29.html) by Sam Vaknin, Ph.D. (May 2002).
 - Article: [Project Gutenberg's Anabasis](http://samvak.tripod.com/busiweb39.html) by Sam Vaknin, Ph.D. (January 5, 2004).
 - Interview: [The Ubiquitous Project Gutenberg Interview](http://samvak.tripod.com/busiweb46.html) with Michael Hart, its Founder by Sam Vaknin, Ph.D. (November 11, 2005).
