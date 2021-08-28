@@ -261,7 +261,7 @@ Avoid punctuation except as indicated below:</p>
       <option value="brx">Bodo</option>
       <option value="br">Breton</option>
       <option value="bg">Bulgarian</option>
-      <option value="rmr">Caló</option>
+      <option value="rmq">Caló</option>
       <option value="ca">Catalan</option>
       <option value="ceb">Cebuano</option>
       <option value="zh">Chinese</option>
