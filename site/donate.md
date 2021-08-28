@@ -73,7 +73,7 @@ Make a <strong>monthly donation</strong> (cancel any time):
 ### Using Flattr
 
 <div>
-  <a href="https://flattr.com/thing/509045/Project-Gutenberg" target="_blank">
+  <a href="https://flattr.com/@gbnewby" target="_blank">
     <img src="/pics/flattr-badge-large.png" 
          alt="Flattr this" title="Donate by Flattr" border="0" />
   </a>
