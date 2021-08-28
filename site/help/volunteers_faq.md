@@ -31,7 +31,7 @@ See especially:
 
 * [The Post-Processing FAQ](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Post-Processing_FAQ)
 * [Easy Epub](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy_Epub). This is a guide to how best to handle the HTML that goes through epubmaker to lead to passable epubs/mobis files.
-* [HTML Best Practices](https://www.pgdp.org/~jana/best-practices/). This was written a while back but DP tries to keep it up-to-date.
+* [HTML Best Practices](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/DP_HTML_Best_Practices). Examples and explanations of recommended HTML coding practices.
 
 Being a Solo Producer
 ---------------------
@@ -45,34 +45,42 @@ In a nutshell, the production process typically involves the following:
 collection, or in process by other volunteers. Use the [Collection 
 Development Policy](/policy/collection_development.html) to guide
 you on eligibility.
+- Obtain scans of the book. This may be done using your own scanner,
+or there might be online scans available. Scans
+must come from the exact same print edition as your copyright
+clearance.
 - Obtain a copyright clearance for the printed book. Usually this is
 based on scanned title page and verso page demonstrating the printed
 book was published more than 95 years ago. See the [Copyright
 How-To](/help/copyright.html).
-- Obtain scans of the book. This may be done using your own scanner,
-or there might be online scans available for reuse. Scans
-must come from the exact same print edition as your copyright
-clearance.
 - Perform optical character recognition (OCR) on the scans, to make an
-approximate representation of the book in plain text.
+approximate representation of the book in plain text. Depending on the
+quality and availability of OCR, you may choose to "type in" all or part
+of a text.
 - Proofread, proofread, proofread: "Fix" the OCR output by carefully
-fixing any errors it made. Remove page headers &
+fixing any errors it made. Remove page headers and 
 footers. De-hyphenate. Add back italics or other formatting.
-- Format: Generate valid and well-formed HTML source. Different tools
+- Format: a text version of your book is almost always required. UTF-8 encoding is preferred.
+An HTML version is also required if there are any images present, if only a cover. 
+For HTML, generate valid and well-formed HTML source. Different tools
 are available for this, and usually involve editing the HTML source
 code directly. Note that many tools produce convoluted, non-standard,
-or non-valid HTML, which can be very difficult to clean up for Project
-Gutenberg: poor HTML is not accepted, even if it is valid.
+or non-valid HTML.  Poor HTML is not accepted, even if it is valid.
+Your submitted HTML and text should be ready-to-post as submitted.
 - Check, and recheck. The upload site has various tools, including to
 test proper conversion to derived formats.
-- Upload your work, using the copyright clearance key generated
-earlier.
-- Coordinate with the Project Gutenberg production volunteers (known
-as "whitewashers," after the Mark Twain book) on final formatting and
-presentation.
+- Upload your work using the copyright clearance key obtained
+earlier. The "Preview Submission" capability during upload runs several tests; review
+those results before choosing "Submit eBook." 
+- A Project Gutenberg production volunteer (known
+as a "whitewasher," after the Mark Twain book) will check your upload prior to posting.
+Uploads with major problems
+(invalid HTML/CSS, non-working or incorrect links, etc.) will be rejected and must be
+corrected by the submitter.
 - Once the eBook is added to the Project Gutenberg collection, confirm
 it is appearing correctly, and all metadata are correct.
 - If possible, stay in touch into the future. If we receive errata
 reports that require access to source material, or are stylistic or
 subjective in nature, we might get in touch to discuss potential
 changes.
+
