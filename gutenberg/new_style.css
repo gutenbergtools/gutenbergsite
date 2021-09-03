@@ -97,7 +97,7 @@ nav .donate a:hover {
 (max-width : 1024px) {
   nav {
     height: auto;
-    font-size: 12px;
+    font-size: 0.55em;
     position: absolute;
   }
 
@@ -358,7 +358,7 @@ nav .donate {
 
 
 /* GOLD THEME */
-/*  
+/*
   nav {
     background-color: #edd194;
     color: #000000;
@@ -386,228 +386,8 @@ nav .donate {
   nav .donate {
     background-color: #f3e8be;
   }
-  
+
   */
-
-
-/* CSS from collapisble.css------------------------------------------------------------------------------------------- */
-
-.lbl-toggle {
-  display: block;
-
-  font-weight: bold;
-  font-size: 1.2rem;
-  text-transform: uppercase;
-  text-align: left;
-
-  padding: 1rem;
-
-  color: #9b8053;
-  /*background: #FAE042;*/
-
-  cursor: pointer;
-
-  border-radius: 7px;
-  transition: all 0.25s ease-out;
-}
-
-.lbl-toggle:hover {
-  color: #7C5A0B;
-}
-
-.lbl-toggle::before {
-  content: ' ';
-  display: inline-block;
-
-  border-top: 5px solid transparent;
-  border-bottom: 5px solid transparent;
-  border-left: 5px solid currentColor;
-
-  vertical-align: middle;
-  margin-right: .7rem;
-  transform: translateY(-2px);
-
-  transition: transform .2s ease-out;
-}
-
-.collapsible-content .content-inner {
-  background: #F5ECDB;
-  border-bottom: 1px solid rgba(250, 224, 66, .45);
-
-  border-bottom-left-radius: 7px;
-  border-bottom-right-radius: 7px;
-  padding: .5rem 1rem;
-}
-
-.collapsible-content {
-  max-height: 0px;
-  overflow: hidden;
-
-  transition: max-height .25s ease-in-out;
-}
-
-/* only hide checkbox using id start with "collapsible" (on search page) */
-input[id^="collapsible"] {
-  display: none;
-}
-
-.toggle:checked+.lbl-toggle+.collapsible-content {
-  max-height: 500px;
-}
-
-.toggle:checked+.lbl-toggle::before {
-  transform: rotate(90deg) translateX(-3px);
-}
-
-.toggle:checked+.lbl-toggle {
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-}
-
-.content-inner input[type="text"] {
-  width: 400px;
-}
-
-.content-inner p {
-  display: table-row;
-}
-
-.content-inner label {
-  display: table-cell;
-
-}
-
-.content-inner input {
-  display: table-cell;
-  margin-bottom: 20px;
-}
-
-.content-inner select {
-  display: table-cell;
-  margin-bottom: 20px;
-  width: 400px;
-}
-
-.search {
-  display: table;
-}
-
-.search p {
-  display: table-row;
-}
-
-.search label {
-  display: table-cell;
-}
-
-/*.search input{
-    display: table-cell;
-  }*/
-.search input[type="text"] {
-  height: 28px;
-  width: 250px;
-  border-radius: 8px;
-  color: #0d0908;
-  background-color: #60a3bc30;
-  padding-right: 10px;
-  padding-left: 10px;
-  border: none;
-}
-
-.box {
-  /*width: 40%;
-    margin: 0 auto;
-    background: rgba(255,255,255,0.2);
-    padding: 35px;
-    border: 2px solid #fff;
-    border-radius: 20px/50px;
-    background-clip: padding-box;
-    text-align: center;*/
-}
-
-/*!!!!!!!!!!!! Should be more specific. This is the help button on search page */
-.page_content a.button {
-  font-size: 1em;
-  font-weight: bold;
-  padding: 10px;
-  color: #b1635d;
-  /*border: 2px solid #a28961;*/
-  border-radius: 50px/50px;
-  /*border-radius: 25px;*/
-  text-decoration: none;
-  background: #f4eee3;
-  cursor: pointer;
-  transition: all 0.3s ease-out;
-  display: inline;
-  float: right;
-}
-
-.page_content a.button:hover {
-  /*background: #06D85F;*/
-  background: #cbb582;
-  text-decoration: none;
-  color: #954645;
-}
-
-.overlay {
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: rgba(0, 0, 0, 0.7);
-  transition: opacity 500ms;
-  visibility: hidden;
-  opacity: 0;
-}
-
-.overlay:target {
-  visibility: visible;
-  opacity: 1;
-  overflow: auto;
-}
-
-.popup {
-  margin: 150px auto;
-  padding: 20px;
-  background: #fff;
-  border-radius: 5px;
-  width: 30%;
-  position: relative;
-
-  transition: all 5s ease-in-out;
-}
-
-
-.popup .close {
-  position: absolute;
-  top: 20px;
-  right: 30px;
-  transition: all 200ms;
-  font-size: 30px;
-  font-weight: bold;
-  text-decoration: none;
-  color: #333;
-}
-
-.popup .close:hover {
-  color: #06D85F;
-}
-
-.popup .content {
-  max-height: 30%;
-  overflow: auto;
-}
-
-@media screen and (max-width: 700px) {
-  .box {
-    width: 70%;
-  }
-
-  .popup {
-    width: 70%;
-  }
-}
 
 /* CSS from style.css ---------------------------------------------------------------------------------------------------------- */
 
@@ -678,7 +458,7 @@ a:active {
       background-color: #0a0a0a;
       color: #ffffff;
   }
-  
+
   ::selection {
       background-color: #0a0a0a;
       color: #ffffff;
@@ -692,71 +472,71 @@ a:active {
 /* .fadein {
       animation: fadein 1s;
   }
-  
+
   @-moz-keyframes fadein {
       from {
           opacity: 0;
       }
-  
+
       to {
           opacity: 1;
       }
   }
-  
+
   @-webkit-keyframes fadein {
       from {
           opacity: 0;
       }
-  
+
       to {
           opacity: 1;
       }
   }
-  
+
   @keyframes fadein {
       from {
           opacity: 0;
       }
-  
+
       to {
           opacity: 1;
       }
   }
-  
+
   .fadeinup {
       animation: fadeInUp 1s both ease;
   }
-  
+
   @-moz-keyframes fadeInUp {
       from {
           opacity: 0;
           transform: translate3d(0, 40px, 0);
       }
-  
+
       to {
           opacity: 1;
           transform: translate3d(0, 0, 0);
       }
   }
-  
+
   @-webkit-keyframes fadeInUp {
       from {
           opacity: 0;
           transform: translate3d(0, 40px, 0);
       }
-  
+
       to {
           opacity: 1;
           transform: translate3d(0, 0, 0);
       }
   }
-  
+
   @keyframes fadeInUp {
       from {
           opacity: 0;
           transform: translate3d(0, 50px, 0);
       }
-  
+
       to {
           opacity: 1;
           transform: translate3d(0, 0, 0);
@@ -792,12 +572,7 @@ a:active {
       margin-top:40px;
   }*/
 
-/*   
-  .desc {
-      color: #808080;
-      font-size: 20px;
-      font-weight: 200;
-  } */
+/*
 
 ul {
   list-style-type: "\2022";
@@ -833,8 +608,7 @@ ul {
 }
 
 .library .latest h1 {
-  /*font-size: 30px;
-      font-weight: bold;*/
+  /*font-weight: bold;*/
   margin-top: 15px;
   margin-bottom: 15px;
   width: 100%;
@@ -849,7 +623,7 @@ ul {
       padding: 0;
       width: 100%;
   }
-  
+
   .bookshelves ul {
   column-count: 3;
       column-gap: 0px;
@@ -904,7 +678,7 @@ ul {
           column-gap: 0px;
       }
   }
-  
+
   @media only screen and (max-width: 1000px),
   only screen and (max-device-width: 1000px) {
       .library .bookshelves ul {
@@ -915,7 +689,7 @@ ul {
           column-count: 1;
           column-gap: 0px;
       }
-  
+
       .library .bookshelves ul li {
           padding-right: 0;
           width: 100%;
@@ -930,49 +704,49 @@ ul {
       margin: 50px;
       max-width: 1000px;
   }
-  
+
   @media only screen and (min-width: 1001px) {
       .book-container {
           display: flex;
       }
   }
-  
+
   .book.page_content {
       background-color: #f5f5f5;
       box-shadow: none;
       padding: 50px;
       transition: box-shadow 0.2s ease-in-out, background-color 0.5s ease-in-out;
   }
-  
+
   .book.page_content:hover {
       background-color: #ffffff;
       box-shadow: 0 25px 75px rgba(0, 0, 0, 0.1);
       transition: box-shadow 0.2s ease-in-out, background-color 0.5s ease-in-out;
   }
-  
+
   .book .section {
       display: table-cell;
       padding: 10px;
   }
-  
+
   .book .cover img {
       box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.1);
       max-height: 200px;
       max-width: 150px;
       vertical-align: top;
   }
-  
+
   .book .details .id {
       font-family: Consolas, Courier, monospace;
   }
   .book .bib_rec li h4 {
-      font-size: 15px;
+      font-size: 15px; *change units from px to em
       display: inline;
   }
   .book .bib_rec ul {
       list-style: square inside;
   }
-  
+
   @media only screen and (min-width: 1001px) {
       .book .download {
           width: 75px;
@@ -987,52 +761,52 @@ ul {
       .book .download ul{
           list-style: square inside;
       }
-  
+
       .book .share {
           line-height:25px;
           width: 20px;
           word-wrap: break-word;
       }
-  
+
       .book .share a {
           display: block;
           margin: 10px 0;
       }
   }
-  
+
   @media only screen and (max-width: 1000px) {
       .book .section {
           display: block;
           text-align: center;
       }
-  
+
       .book h1 {
           text-align: center;
       }
-  
+
       .book .download a {
           display: inline-block;
           text-align: center;
           width: 20%;
           max-width: 75px;
       }
-  
+
       .book .share a {
           display: inline-block;
           margin: 5px;
       }
   }
-  
+
   .book .share a {
       background: #000000;
       border-radius: 50%;
       color: #ffffff;
-      font-size: 13px;
+      font-size: 13px; *change units from px to em
       height: 20px;
       text-align: center;
       width: 20px;
   }
-  
+
   .share-icon img {
       height: 20px;
       width: 20px;
@@ -1046,18 +820,18 @@ ul {
       column-gap: 0px;
       margin: 0 auto;
   }
-  
+
   .about p,
   .about a {
       color: #808080;
       display: inline-block;
-      font-size: 15px;
+      font-size: 15px; *change units from px to em
       font-weight: 200;
       margin-bottom: 0px;
       padding-right: 10%;
       width: 90%;
   }
-  
+
   .about p.quote {
       color: #000000;
       font-style: italic;
@@ -1065,7 +839,7 @@ ul {
       padding-left: 5%;
       width: 85%;
   }
-  
+
   .about a {
       text-decoration: underline;
   } */
@@ -1080,12 +854,12 @@ ul {
           column-count: 1;
           column-gap: 0px;
       }
-  
+
       .about p {
           width: 100%;
           padding-right: 0;
       }
-  
+
       .about p.quote {
           width: 95%;
       }
@@ -1117,11 +891,6 @@ ul {
   padding: 1ex 1em;
 }
 
-/*.page_content .page_heading {
-      font-size: 30px;
-      font-weight: bold;
-      color:#A01F13;
-  }*/
 .page_content h1::before {
   display: block;
   content: "";
@@ -1228,7 +997,7 @@ ul {
 
 /* .anchor a {
       top:-80px;
-  
+
   } */
 /* .contents {
       background-color: #f9f9f9;
@@ -1236,7 +1005,7 @@ ul {
       padding: 5px;
       display: inline-block;
   }
-  
+
   .contents ol .inner_1 {
       list-style-type: lower-roman;
   }
@@ -1360,9 +1129,6 @@ ul.results li::before {
   /*.content {
           margin-top: 180px;
       }*/
-  .library .latest h1 {
-    font-size: 18px;
-  }
 
   .page_content {
     margin-top: 60px;
