@@ -100,5 +100,9 @@ Each eBook is different. Generally, though, the time spent in
 formatting and proofreading far exceeds the time spent in scanning+OCR
 or typing.
 
+If you have questions, get in touch! The [contact
+information](/about/contact_information.html) page can put you in
+touch with the helpdesk.
+
 Thank you for your help and interest in creating new Project Gutenberg
 eBooks!
