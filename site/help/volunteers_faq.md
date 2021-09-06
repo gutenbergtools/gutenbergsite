@@ -43,7 +43,7 @@ including the DP links.
 In a nutshell, the production process typically involves the following:
 
 - Identify a candidate printed book. Confirm it is not already in the
-collection, or [in process](https://www.pglaf.org/~ccx074/gutip.html)
+collection, or [in process](https://www.pgdp.net/noncvs/in_progress_check.php)
 by other volunteers. Use the [Collection Development
 Policy](/policy/collection_development.html) to guide you on
 eligibility.
