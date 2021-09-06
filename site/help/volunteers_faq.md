@@ -89,3 +89,16 @@ reports that require access to source material, or are stylistic or
 subjective in nature, we might get in touch to discuss potential
 changes.
 
+The importance of using the online tools at the [upload
+site](https://upload.pglaf.org) cannot be overstated. Use these tools
+on early versions of your new eBook -- even before you are done with
+more than a few pages. It is much easier to meet the requirements for
+accuracy, validity and quality from the beginning of your work, than
+to need to spend hours and days fixing it later.
+
+Each eBook is different. Generally, though, the time spent in
+formatting and proofreading far exceeds the time spent in scanning+OCR
+or typing.
+
+Thank you for your help and interest in creating new Project Gutenberg
+eBooks!
