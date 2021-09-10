@@ -26,10 +26,8 @@ THANK YOU for your patience as we continue to update the website to fix remainin
 
 ### User interface and user experience issues
 1. OPDS results have a heading, "All Books (sorted by popularity)" regardless of what it is showing. Instead this should be something more generic, like, "<title>Project Gutenberg</title>." Status: Working on it.
-2. Delay for menus. For touchscreens, it's easy to mistakenly trigger a pop-up menu while aiming for another menu or for an input area like Quick Search. We intend to introduce a short delay (250-500 msecs) to make unintended pop-ups less likely. We found this is how some tablet-based browsers already function. Status: Working on it.
-3. Font specifications in pages. Current CSS sometimes specifies specific fonts, such as Times New Roman. Instead, only font families should be specified, such as serif and sans-serif. Similarly, sizes are sometimes presented absolutely (such as 16 point), rather than relative (such as 115%). These sometimes have hte impact of overriding, or partially ignoring, choices that people make in their browser for font size and legibility, zooming in or out, or other preferences. We will be making these display specifications more generic. Status: Working on it.
-4. The "new books" pane at https://www.gutenberg.org has a pop-up tooltip that mentions the title, and we would also like to add the author. Status: Working on it.
-5. The "new books" pane at https://www.gutenberg.org has a pop-up tooltip that truncates long titles. Can we improve display, and perhaps just display the whole title? Status: Considering.
+2. The "new books" pane at https://www.gutenberg.org has a pop-up tooltip that mentions the title, and we would also like to add the author. Status: Working on it.
+3. The "new books" pane at https://www.gutenberg.org has a pop-up tooltip that truncates long titles. Can we improve display, and perhaps just display the whole title? Status: Considering.
 
 ### Search-related issues
 1. UI/Search: Search output order seems random. Status: Defer. Search is handled by PostgreSQL, and unchanged from the old site.
