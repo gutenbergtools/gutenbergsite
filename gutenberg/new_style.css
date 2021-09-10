@@ -1112,6 +1112,12 @@ ul.icon-list li {
   }*/
 
 /*=====CLASS RULES IMPLEMENTED in pg-desktop-one.css========*/
+ul.booklist {
+  list-style-type: "\2022";
+  margin: 0;
+  padding-left: 10px;
+} 
+
 ul.results li::before {
   content: unset;
 }
@@ -1897,6 +1903,10 @@ table {
 
 .narrow {
   width: 1%;
+}
+
+caption {
+  font-weight: bold;
 }
 
 table.bibrec caption,
