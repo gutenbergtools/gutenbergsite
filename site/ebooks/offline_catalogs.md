@@ -121,7 +121,7 @@ You can navigate the directory/folder contents starting at [/dirs](/dirs), howev
 
 ## The Project Gutenberg Catalog Metadata in Machine-Readable Format
 
-### XML/RDF 
+### XML/RDF/CSV
 
 All Project Gutenberg metadata are [available digitally](/cache/epub/feeds/) in the XML/RDF format. This is updated daily (other than the legacy format mentioned below). Please use one of these files as input to a database or other tools you may be developing, instead of [crawling or roboting](/policy/robot_access.html) the website.
 
@@ -130,6 +130,8 @@ Note that the exact same metadata is available as a *per-eBook* .rdf file. These
 Project Gutenberg metadata does not include the original print source publication date(s). Because Project Gutenberg eBooks are substantially different from the source book(s), we track the Project Gutenberg publication date ("release date"), but do not include print source information in the metadata. Differences almost always include dehyphenation, removing page headers/footers, changes to typography during markup, and sometimes relocation of images, footnotes, captions, etc. In addition, Project Gutenberg eBooks sometimes come from multiple print editions.
 
 Many eBooks include scans of the title page or other pages, which may indicate original print publication. If matching a Project Gutenberg eBook to a particular print edition is important to you, it is likely this will need to be done by direct comparison of a print source with the eBook.
+
+An Excel-compatible CSV spreadsheet of eBook metadata is also available [here](/cache/epub/feeds/pg_catalog.csv). This file is updated once a week.
 
 ### MARC Records (MAchine Readable Cataloging): No longer available
 
