@@ -104,7 +104,7 @@ If a substantial number of copies of a U.S. Work were printed and distributed in
 Rule 6 copyright research is only accepted from known volunteers with demonstrated competency in the required evidence steps to provide non-renewal evidence. 
 
 #### Preamble
-Project Gutenberg's "Rule 6" from the Copyright How-To provides a mechanism for demonstrating that items no longer have copyright protection, due to non-renewal of copyright. Rule 6 may only be used for items first published in the US between 95 years ago and December 31, 1964.
+Project Gutenberg's "Rule 6" from the Copyright How-To provides a mechanism for demonstrating that items no longer have copyright protection, due to non-renewal of copyright. Rule 6 may only be used for items first published in the US between 95 years ago and December 31, 1963.
 
 Based on review of the US Library of Congress' historical renewal records, Project Gutenberg has estimated that over 85% of all registered books and monographs are never renewed. The procedures described here are intended to identify whether a particular item is among those that were not renewed.
 
@@ -255,7 +255,7 @@ NOTE THAT PROJECT GUTENBERG COPYRIGHT RESEARCH IS ONLY FOR PROJECT GUTENBERG, AN
 </div>
 
 ## More Copyright Law
-Project Gutenberg has a [Copyright FAQ](/how_to/copyright_faq.html) page that addresses some common questions about copyright. Below is a little more background and detail on U.S. copyright law as it pertains to Project Gutenberg: 
+Below is a little more background and detail on U.S. copyright law as it pertains to Project Gutenberg: 
 
 **Caveat:** Each edition of a work may have its own period of copyright protection (this depends on whether the new edition involves "authorship" or simply corrects punctuation). Every translation has independent copyright protection. A new edition does not extend the protection of the original edition.
 
