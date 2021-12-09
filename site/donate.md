@@ -84,7 +84,7 @@ Make a <strong>monthly donation</strong> (cancel any time):
 Send a check or money order (any currency) to:
 
 <dl><dd>  Project Gutenberg Literary Archive Foundation</dd>
-<dd>  809 North 1500 West</dd>
+<dd>  PO Box 16327</dd>
 <dd>  Salt Lake City, UT 84116</dd></dl>
 
 ## Additional Detail on How To Donate
@@ -113,7 +113,7 @@ The fee charged by PayPal for payments is their discounted rate for registered c
 Send a check or money order in US funds. Our address is:
 
 <dl><dd> Project Gutenberg Literary Archive Foundation<br /></dd>
-<dd> 809 North 1500 West<br /></dd>
+<dd> PO Box 16327<br /></dd>
 <dd> Salt Lake City, UT 84116</dd></dl>
 
 The bank we utilize, Wells Fargo, does not charge any fees for our use of the bank account, or per-check processing fees. 100% of your intended donation amount goes to PGLAF.  Donations of $100 or over will receive a written "thank you" via postal mail, unless you do not provide a return address.
