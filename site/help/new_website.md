@@ -31,6 +31,7 @@ THANK YOU for your patience as we continue to update the website to fix remainin
 
 ### Search-related issues
 1. UI/Search: Search output order seems random. Status: Defer. Search is handled by PostgreSQL, and unchanged from the old site.
+2. UI/search: Can we display the # of hits with search results, rather than just Next/Back/etc.? Status: Considering.
 
 ### Feature requests (things that are not really broken, but would be good to have)
 1. Bookshelf editing is not currently available. Bookshelves only have older entries. Most bookshelves had not been updated recently anyway, and we hope to add bookshelf editing capabilities soon. Status: Under development.
