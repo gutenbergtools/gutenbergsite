@@ -103,9 +103,9 @@ PayPal is a Web site that accepts credit cards, checks, and bank transfer paymen
 
 Rather than using the quick donation links above, you can login to PayPal and select "Send Money." When prompted, specify 'donate2021@pglaf.org' as the recipient, and you will be presented with PGLAF's information. Send the payment as you would any other payment. Funds go directly to PGLAF via PayPal.  Any national currency is OK.
 
-PayPal does not provide any information about you to PGLAF, other than your return email address.  Your postal address, country, phone number, etc. are not provided.  This is because PayPal knows PGLAF is a registered charity, so there is no need for shipping or billing addresses to be transmitted with the donation.
+As of early 2022, PayPal includes your postal address in its notification of your donation, as well as your name and email address. Be assured that you will not be added to any postal or email address list, or solicited further. You will get a "thank you" email from the CEO, and that is all. You are invited to subscribe to the email lists, but we do not subscribe you directly.
 
-The fee charged by PayPal for payments is their discounted rate for registered charities.  This is 2.2% of the transaction plus 30 cents per transaction. (For a $100 payment, this amounts to $1.90 or 1.9%. For $10, the fee is $0.52 or 5.2%). PayPal accepts non-US accounts and funds.  For donations over $1, we will send a "thank-you" email when your donation is received.
+The fee charged by PayPal for payments is their discounted rate for registered charities.  This is 2.2% of the transaction plus 30 cents per transaction. (For a $100 payment, this amounts to $1.90 or 1.9%. For $10, the fee is $0.52 or 5.2%). PayPal accepts non-US accounts and funds.
 
 
 ### About donating by Check or Money Order
