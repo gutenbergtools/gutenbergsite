@@ -40,7 +40,7 @@ Replace html with the file type you are interested in.
 If you want only files in a given language say: 
 <pre>wget -w 2 -m -H "http://www.gutenberg.org/robot/harvest?filetypes[]=html&langs[]=de"</pre>
 
-Replace de with the ISO language code you are interested in. Tip: you can learn the language code of any language in the Project Gutenberg catalog by looking at the status window of your browser while moving your cursor over the language at [this page](/https://dev.gutenberg.org/ebooks/)
+Replace de with the ISO language code you are interested in. Tip: you can learn the language code of any language in the Project Gutenberg catalog by looking at the status window of your browser while moving your cursor over the language at [this page](/https://www.gutenberg.org/ebooks/)
 
 ## How to Mirror Project Gutenberg
 If you want to setup a mirror of Project Gutenberg, read the [Mirroring How-To](/help/mirroring.html)
