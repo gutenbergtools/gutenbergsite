@@ -405,7 +405,7 @@ Here is a listing of the books Emmy provided to Project Gutenberg:
 <li><a href="/ebooks/46145">The Book of Princes and Princesses</a> -- by Mrs. Lang</li>
 <li><a href="/ebooks/25478">The Boy Artist.</a> -- by F.M. S.</li>
 <li><a href="/ebooks/26671">The Boy Crusaders</a> -- by Edgar, John G.</li>
-<li><a href="/ebooks/54822">The Boy Scouts of Woodcraft Camp</a> -- by Burgess, Thornton W.</li>
+<li><a href="/ebooks/54755">The Boy Scouts of Woodcraft Camp</a> -- by Burgess, Thornton W.</li>
 <li><a href="/ebooks/50510">The Boys' Book of Famous Rulers</a> -- by Farmer, Lydia Hoyt</li>
 <li><a href="/ebooks/34864">The Boys of Old Monmouth</a> -- by Tomlinson, Everett T.</li>
 <li><a href="/ebooks/41677">The British Navy Book</a> -- by Field, Cyril</li>
