@@ -80,13 +80,13 @@ A "U.S. Work" is a work where (i) one or more of the authors was a national or d
 
 ### Rule 1: Works First Published Before 95 Years Ago and Before 1977
 
-Summary: As of 2021, qualifying Works published in 1925 or earlier do not have copyright protection in the U.S.
+Summary: As of 2022, qualifying Works published in 1926 or earlier do not have copyright protection in the U.S.
 
 Detail: For Works published prior to January 1, 1977, the maximum term of copyright protection is 95 years from the date of first publication. This is regardless of whether the Work complied with U.S. requirements for notice, registration and renewal. This is regardless of where the Work was published.
 
-Historical detail: For Works first published before January 1, 1923, the maximum term of copyright protection was 75 years from the date of first publication. This is regardless of whether the Work complied with U.S. requirements for notice, registration and renewal. This is regardless of where the Work was published. Thus, any such Works published prior to 1923 have been in the public domain in the U.S. since 1998 or earlier.
+Historical detail: For Works first published before January 1, 1923, the maximum term of copyright protection was 75 years from the date of first publication. This was regardless of whether the Work complied with U.S. requirements for notice, registration and renewal. This was regardless of where the Work was published. Thus, any such Works published prior to 1923 have been in the public domain in the U.S. since 1998 or earlier.
 
-This is the rule we use the most, and it may be utilized for Works published before 1977. Works published in 1977 or later are not subject to Rule 1.
+Rule 1 is the rule we use the most, and it may be utilized for Works published before 1977. Works published in 1977 or later are not subject to Rule 1.
 
 ### Rule 2: Works first created by natural persons on or after January 1, 1978
 Works first created on or after January 1, 1978 are protected under U.S. copyright law until 70 years after the death of the author if the author is a natural person. (Copyright protection will not expire for any works under this rule until at least January 1, 2049.) 
