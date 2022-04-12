@@ -182,4 +182,4 @@ Day-to-day operation of the Project Gutenberg website, along with
 associated workflows and procedures, is by volunteers. The specific
 mechanisms applied to grow the Project Gutenberg collection are
 subject to change over time, within the guidance included in
-collection development policy.
+the collection development policy.
