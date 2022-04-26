@@ -7,17 +7,15 @@ permalink: /policy/privacy_policy.html
 Privacy Policy
 ==============
 
-If you read the Gutenberg website, no more information is collected than is typically collected in server logs by websites in general.
+When you use the Gutenberg website, no personally identifiable information is collected about you except for the IP address from which you accessed the website. Project Gutenberg does NOT use third-party data collection tools such as Google Analytics, and does NOT allow web trackers of any kind.
 
-Specifically, all usage of www.gutenberg.org or any domain in PGLAF.org is intended to be anonymous. Your name, or any other identifying information, is never requested. However, your IP address and requests from that address are recorded by our servers, for periodic analysis of website traffic, quality assurance, and aggregate reporting. All website access logs are automatically and permanently deleted after 60 days.
-
-Note that Project Gutenberg does not control any mirrors except those at www.gutenberg.org and any domain in PGLAF.org, and those mirrors might have different procedures. 
+Project Gutenberg processes data from its access logs, including your IP address, for periodic  analysis of website usage, quality assurance, and [/browse/scores/pretty-pictures](aggregate reporting). All access log data, _including_ your IP address, are _automatically_ and _permanently_ deleted after 60 days. 
 
 ## Uses of Cookies and Captchas
-In order to assure the site is available for human users, not robots or third-party sites, this site may make use of cookies, captchas, and related techniques to apply our [Terms of Use](/policy/terms_of_use.html). See the Terms of Use for alternate means to acquire Project Gutenberg content and metadata (i.e., mirrors, offline catalogs, and OPDS) if you cannot abide by these techniques. 
+In order to assure the site is available for human users, not robots or third-party sites, this site may make use of cookies, captchas, and related techniques to apply our [Terms of Use](/policy/terms_of_use.html). See these Terms of Use for alternate means to acquire Project Gutenberg content and metadata (i.e., mirrors, offline catalogs, and OPDS) for automate use of Project Gutenberg content and metadata. 
 
-## Contributing Authors
-Any content, including errata reports and fixes, are donated to the public domain. If you write something, assume that it will be retained forever. This includes articles, user pages and talk pages. 
+## Contributors
+Content contributed to Project Gutenberg, including errata reports and fixes, must be dedicated in the Public Domain. Dedications to the Public Domain may not be revoked.
 
-## Linkes to Third Party Websites
-The Project Gutenbeg website has links to external sites that it does not control and has no relationship to. Some of those sites are notorious wholesale collectors of private data, and it has been reported that such data are freely shared with national spy organizations and others. We strive to link in a manner that does not allow those third party websites to see what you are doing on Project Gutenberg unless you explicitly select one of those links. When you select a third party link, you will leave the Project Gutenberg website, and we cannot tell you what the other site will do with your data.
+## Links to Third Party Websites
+The Project Gutenbeg website has links to external sites that it does not control and has no relationship to. Some of those sites, such as Facebook, are notorious wholesale collectors of private data, and it has been reported that such data are freely shared with national spy organizations and others. We strive to link in a manner that does not allow those third party websites to see what you are doing on Project Gutenberg unless you explicitly select one of those links. When you select a third party link, you will leave the Project Gutenberg website, and we cannot tell you what the other site will do with your data.
