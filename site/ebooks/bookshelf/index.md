@@ -513,7 +513,7 @@ These are all specific bookshelves existing in Project Gutenberg.
    <li><a href="/ebooks/bookshelf/141" title="US Civil War">US Civil War</a></li>
    <li><a href="/ebooks/bookshelf/76" title="United Kingdom">United Kingdom</a></li>
    <li><a href="/ebooks/bookshelf/136" title="United States">United States</a></li>
-   <li><a href="/ebooks/bookshelf/302" title="United States Law">United States Law</a>
+   <li><a href="/ebooks/bookshelf/302" title="United States Law">United States Law</a></li>
   </ul>
 
 <h2>W</h2>
@@ -523,13 +523,12 @@ These are all specific bookshelves existing in Project Gutenberg.
    <li><a href="/ebooks/bookshelf/80" title="Women's Travel Journals">Women's Travel Journals</a></li>
    <li><a href="/ebooks/bookshelf/147" title="Woodwork">Woodwork</a></li>
    <li><a href="/ebooks/bookshelf/142" title="World War I">World War I</a></li>
-   <li><a href="/ebooks/bookshelf/325" title="World War II">World War II</a></li> 
-  </ul>
+   <li><a href="/ebooks/bookshelf/325" title="World War II">World War II</a></li>  </ul>
 
 <h2>Z</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/303" title="Zoology">Zoology</a></li>
  </ul>
- 
- </div>
- 
+
+</div>
+
