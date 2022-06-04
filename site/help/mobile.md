@@ -25,6 +25,7 @@ Tablets, Phones and eReaders How-To
  <li><a href="#kobo-reader">Kobo Reader</a></li>
  <li><a href="#android">Android</a></li>
  <li><a href="#ipad-iphone-and-ipod-touch">iPad, iPhone and iPod Touch</a></li>
+ <li><a href="#remarkable2">Remarkable 2</a></li>
  <li><a href="#suggestions-from-project-gutenberg-founder-michael-hart">Suggestions from Project Gutenberg Founder Michael Hart</a></li>
 </ol>
 </div>
@@ -147,6 +148,23 @@ We have received this specific set of instructions from a reader. They might not
 10. Select "Copy to Kindle," and the book will now be in your library.
 
 Project Gutenberg would like to thank Apple for providing devices for evaluation in 2009 and 2010.
+
+## reMarkable2
+
+The reMarkable 2 is an ereader that became commonly available in 2022. Capabilities for adding Project Gutenberg eBooks, or content from other sources, may improve in the future.
+
+A reader reported that these steps worked. This is assuming you are using a smartphone for website navigation, and the smartphone is paired or connected to the reMarkable 2 device, with the reMarkable app installed; this would probably also work with a tablet, rather than a phone:
+1. Select an eBook from Project Gutenberg.
+2. Choose the EPUB format (with or without images).
+3. Send to your Google Drive username (using the green/yellow/blue triangle icon in the book landing page, to the right of the EPUB link).
+4. Open the "Google Drive" app on the phone.
+5. Select "Open with..." (i.e., three horizontal dots under the book image in Google Drive, or similar).
+6. Select the reMarkable app
+7. The EPUB should then appear within the phone's reMarkable app, and on the reMarkable 2 device itself.
+
+The Google Drive and Open/Share process is a little different on Android versus iPhone.
+
+There are some Project Gutenberg eBooks that, mysteriously, do not display properly on the reMarkable 2. We have had similar reports with some Kindle devices, and are contantly making improvements to the software that Project Gutenberg utilizes to make these formats. Contact us (link at the bottom of this page) to report any specific anomalies - these reports are really valuable for knowing what to fix!
 
 ## Suggestions from Project Gutenberg Founder Michael Hart
 >Michael Hart was a proponent of eBooks on mobile devices. He offered these ideas in February 2010. This guidance might not be directly applicable to all of today's portable devices. 
