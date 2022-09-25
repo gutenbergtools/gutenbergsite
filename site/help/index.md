@@ -23,11 +23,10 @@ Here are pages that give background about Project Gutenberg, including how new i
        <li><a href="/help/file_formats.html">File Formats FAQ</a></li>
        <li><a href="/help/faq.html">FAQs: Frequently asked questions</a></li>
       <h2>L</h2>
-       <li><a href="/policy/linking.html">Linking to Project Gutenberg<li>
+       <li><a href="/policy/linking.html">Linking to Project Gutenberg</li>
       <h2>M</h2>
        <li><a href="/help/mirroring.html">Mirroring how-to</a></li>
       <h2>N</h2>
-       <li><a href="/help/new_website.html">New website 2020</a></li>
        <li><a href="/help/no_sweat_copyright.html">"No Sweat of the Brow Copyright" how-to</a></li>
       <h2>O</h2>
        <li><a href="/ebooks/offline_catalogs.html">Offline catalogs</a>, including metadata and eBook listings.</li>
