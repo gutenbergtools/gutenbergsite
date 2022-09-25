@@ -82,7 +82,13 @@ On tablets and ereaders, you might not be prompted for where to save your file, 
 
 ## Kindle
 ### General Kindle Help
-Consider using EPUB rather than Mobi or K8. The EPUB files are smaller and supported by the Kindle app and most Kindle devices. You can also "send to Kindle" using the standard methods.
+Amazon makes it challenging to know what transfer method, and which file formats, are supported for your specific setup. During 2022, Amazon has shifted to prefer the new K8 or AZW format rather than MOBI, and has also increased support for the EPUB format.
+
+First consider using EPUB rather than Kindle (Mobi) or K8 formats. The EPUB files are smaller and supported by the Kindle app and most Kindle devices. You can also "send to Kindle" using the standard methods.
+
+As of September 2022, Amazon has been changing how the Kindle devices, Kindle app, and "send to Kindle" functionality works. This has been challenging to keep track of, and we suggest using online documentation, or trying the different methods of getting Project Gutenberg eBooks onto your Kindle device or software.
+
+Once there is greater clarity on the long-term functionality, we will update this section. We suggest starting with epub format, rather than the Mobi (Kindle) format. Meanwhile, the following is advice we have collected over the years. 
 
 Visit the Amazon help pages for your specific Kindle model. The help pages for the devices we looked all have a page describing how to transfer files from your computer to your Kindle, which is sometimes called "sideloading."  Sideloading usually seems to work most reliably: save to your computer, and then copy to your device. Here is [Amazon's device help page] (http://www.amazon.com/gp/help/customer/display.html?nodeId=200127470).
 
@@ -91,7 +97,7 @@ There are too many different products, with sometimes differing software or feat
 Beware that Amazon sells many titles in print and digital format that you can get freely from Project Gutenberg. In addition, we have found that Amazon outsources many of their own digital imprints, and sometimes their non-free titles violate the Project Gutenberg trademark. **Project Gutenberg has never received any trademark royalty payments from Amazon or Amazon resellers or imprints**. For older content that is in the public domain in the U.S., there is a good chance that Project Gutenberg has it free of charge, but Amazon will charge money for it. Of course there might be advantages to the non-free version (such as better formatting). Be aware, and make an informed choice.
 
 ### Alternate Apps and Formats
-Many or all Kindles allow you to install alternate eBook reader software. Advice we have received (which might need adjustment for your specific device, or if some versions of software are updated from when these instructions were written):  **install a third party EPUB reader** and start downloading the EPUB files instead of the Kindle files from this site. You may want to read up on installing third party apps on the Kindle Fire. Advantages of EPUB files over Kindle files include: that they are much smaller than Kindle files and that they work on the Apple iPad too.
+Many or all Kindles allow you to install alternate eBook reader software. Advice we have received (which might need adjustment for your specific device, or if some versions of software are updated from when these instructions were written):  **install a third party EPUB reader** and start downloading the EPUB files instead of the Kindle files from Project Gutenberg. You may want to read up on installing third party apps on the Kindle you have. Advantages of EPUB files over Kindle files include: that they are much smaller than Kindle files and that they work on the Apple iPad too.
 
 ## Nook
 The Barnes &amp; Noble "Nook" devices seem to work well with Project Gutenberg titles, including the different versions (Color etc.). Note that to connect for tethering and sideloading, your Nook needs to be awake (use the on-screen slider to do this, you'll get a message that it is connected to your computer). Other points for the Nook:
