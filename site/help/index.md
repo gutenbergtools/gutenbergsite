@@ -17,6 +17,8 @@ Here are pages that give background about Project Gutenberg, including how new i
       <h2>C</h2>
        <li><a href="/policy/collection_development.html">Collection development policy</a></li>
        <li><a href="/help/copyright.html">Copyright how-To</a></li>
+      <h2>D</h2>
+       <li><a href="/help/bibliographic_record.html">Download Formats and Bibliographic Record</a></li>
       <h2>E</h2>
        <li><a href="/help/errata.html">Errata, fixes and bug reports</a></li>
       <h2>F</h2>
