@@ -74,7 +74,7 @@ function screen_mode() {
 
 function doc_ready(jquery) {
     jquery(document).ready(function() {
-        if (get_logo_token(), screen_mode(), (), init_search_dropdown(), 
+        if (get_logo_token(), screen_mode(), init_search_dropdown(), 
         "" !== dialog_message) {
             var dlg = jquery("#dialog");
             dlg && (dlg.append("<p>" + dialog_message + "</p>"), dlg.dialog({
