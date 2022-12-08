@@ -29,7 +29,7 @@ PGLAF has been granted tax exempt status by the IRS under section 501(c)(3) of t
 
 ## Employees
 
-PGLAF employs Anne Wingate as a part-time project coordinator and office manager. There are no other employees at this time.
+PGLAF employs Patrick Webb as a part-time project coordinator and office manager. There are no other employees at this time.
 
 ## Board Members
 
@@ -39,8 +39,11 @@ There are currently six board members:
 * Dr. Douglas Bowman, Illinois
 * Dr. John Guagliardo, Hawaii
 * Maitri Erwin, Texas
-* Dr. Harry H. Hilton, Illinois
 * Mark Zinzow, Illinois
+
+Past board members:
+
+* [Dr. Harry H. Hilton, Illinois](https://aerospace.illinois.edu/news/46217), who was a board member from PGLAF's inception in 2000 until his death in 2022.
 
 ## Bylaws, Articles of Incorporation and Other Documents
 
