@@ -20,7 +20,7 @@ To:
 PGLAF is a not-for-profit corporation registered in the state of Mississippi. The business office address of the corporation is:
 
 <dl><dd>  Project Gutenberg Literary Archive Foundation</dd>
-<dd>  809 North 1500 West</dd>
+<dd>  PO Box 16327</dd>
 <dd>  Salt Lake City, UT 84116</dd></dl>
 
 ## Tax Status
@@ -45,8 +45,7 @@ Past board members:
 
 * [Dr. Harry H. Hilton, Illinois](https://aerospace.illinois.edu/news/46217), who was a board member from PGLAF's inception in 2000 until his death in 2022.
 
-## Bylaws, Articles of Incorporation and Other Documents
+## Bylaws and Articles of Incorporation
 
 * [PGLAF Bylaws](/gutenberg/pglaf_bylaws)
 * [PGLAF Articles of Incorporation](/gutenberg/pglaf_articles_of_incorporation.pdf)
-* [Board Resolution on Signatory Authority](/gutenberg/pglaf_resolutionsignatory.pdf) (August 16, 2010)
