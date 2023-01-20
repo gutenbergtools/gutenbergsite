@@ -13,7 +13,7 @@ Contents
 <li><a href="#project-gutenbergs-copyright-rules">Project Gutenberg's Copyright Rules</a>
 <ol class="inner_1">
 <li><a href="#definitions">Definitions</a></li>
-<li><a href="#rule-1-works-first-published-before-95-years-ago-and-before-1977">Rule 1: Works First Published Before 95 Years Ago and Before 1977</a></li>
+<li><a href="#rule-1-works-first-published-before-95-years-ago-and-before-1978">Rule 1: Works First Published Before 95 Years Ago and Before 1978</a></li>
 <li><a href="#rule-2-works-first-created-by-natural-persons-on-or-after-january-1-1978">Rule 2: Works first created by natural persons on or after January 1, 1978</a></li>
 <li><a href="#rule-3-works-first-created-by-corporate-authors-on-or-after-january-1-1978">Rule 3: Works first created by corporate authors on or after January 1, 1978</a></li>
 <li><a href="#rule-4-works-first-created-before-january-1-1978-but-not-published-before-that-date">Rule 4: Works first created before January 1, 1978 but not published before that date</a></li>
@@ -40,7 +40,7 @@ Contents
 <li><a href="#additional-definitions-for-foreign-works">Additional Definitions for Foreign Works</a></li>
 <li><a href="#rule-10a---unpublished-works-of-foreign-authors">Rule 10(a) - Unpublished Works of Foreign Authors</a></li>
 <li><a href="#rule-10b---works-of-treaty-parties-and-proclamation-countries-first-published-before-1923">Rule 10(b) - Works of Treaty Parties and Proclamation Countries First Published Before 1923  </a></li>
-<li><a href="#rule-10c---works-of-treaty-parties-and-proclamation-countries-first-published-between-1923-and-1977">Rule 10(c) - Works of Treaty Parties and Proclamation Countries First Published Between 1923 and 1977</a></li>
+<li><a href="#rule-10c---works-of-treaty-parties-and-proclamation-countries-first-published-between-1923-and-1978">Rule 10(c) - Works of Treaty Parties and Proclamation Countries First Published Between 1923 and 1978</a></li>
 <li><a href="#rule-10d---works-of-treaty-parties-and-proclamation-countries-first-published-on-or-after-january-1-1978">Rule 10(d) - Works of Treaty Parties and Proclamation Countries First Published On or After January 1, 1978</a></li>
 <li><a href="#rule-10e---published-works-from-countries-who-do-not-qualify-as-treaty-parties-or-proclamation-countries">Rule 10(e) - Published Works From Countries Who Do Not Qualify as Treaty Parties or Proclamation Countries</a></li>
 </ol>
@@ -62,7 +62,7 @@ Contents
 We have seven active rules under which an item may be copyright-cleared for inclusion in the Project Gutenberg collection. If you are uncertain about whether a rule applies, or whether more than one rule
 applies, please [submit the item](https://copy.pglaf.org) for our consideration. This is safer and easier than addressing hypothetical questions about potential items.
 
-- [Rule 1. Works First Published Before 95 Years Ago and Before 1977](#rule-1-works-first-published-before-95-years-ago-and-before-1977)
+- [Rule 1. Works First Published Before 95 Years Ago and Before 1978](#rule-1-works-first-published-before-95-years-ago-and-before-1978)
 - [Rule 2. Post-1978 life+70](#rule-2-works-first-created-by-natural-persons-on-or-after-january-1-1978)
 - [Rule 3. Post-1978 publication+120](#rule-3-works-first-created-by-corporate-authors-on-or-after-january-1-1978)
 - [Rule 4. Manuscripts created pre-1978 but published post-1978](#rule-4-works-first-created-before-january-1-1978-but-not-published-before-that-date)
@@ -78,15 +78,15 @@ applies, please [submit the item](https://copy.pglaf.org) for our consideration.
 
 A "U.S. Work" is a work where (i) one or more of the authors was a national or domiciliary of the United States at the time of first publication, (ii) the work was first published in the United States, (iii) the work was first published by the United Nations or the Organization of American States, (iv) an architectural work embodied in a building located in the United States, or (v) a pictorial, graphic, or sculptural work incorporated into a building located in the United States. 
 
-### Rule 1: Works First Published Before 95 Years Ago and Before 1977
+### Rule 1: Works First Published Before 95 Years Ago and Before 1978
 
-Summary: As of 2022, qualifying Works published in 1926 or earlier do not have copyright protection in the U.S.
+Summary: As of 2023, qualifying Works published in 1927 or earlier do not have copyright protection in the U.S.
 
-Detail: For Works published prior to January 1, 1977, the maximum term of copyright protection is 95 years from the date of first publication. This is regardless of whether the Work complied with U.S. requirements for notice, registration and renewal. This is regardless of where the Work was published.
+Detail: For Works published prior to January 1, 1978, the maximum term of copyright protection is 95 years from the date of first publication. This is regardless of whether the Work complied with U.S. requirements for notice, registration and renewal. This is regardless of where the Work was published or the nationality of the authors.
 
 Historical detail: For Works first published before January 1, 1923, the maximum term of copyright protection was 75 years from the date of first publication. This was regardless of whether the Work complied with U.S. requirements for notice, registration and renewal. This was regardless of where the Work was published. Thus, any such Works published prior to 1923 have been in the public domain in the U.S. since 1998 or earlier.
 
-Rule 1 is the rule we use the most, and it may be utilized for Works published before 1977. Works published in 1977 or later are not subject to Rule 1.
+Rule 1 is the rule we use the most, and it may be utilized for Works published before 1978. Works published in 1978 or later are not subject to Rule 1.
 
 ### Rule 2: Works first created by natural persons on or after January 1, 1978
 Works first created on or after January 1, 1978 are protected under U.S. copyright law until 70 years after the death of the author if the author is a natural person. (Copyright protection will not expire for any works under this rule until at least January 1, 2049.) 
@@ -95,7 +95,7 @@ Works first created on or after January 1, 1978 are protected under U.S. copyrig
 Works first created on or after January 1, 1978 that are created by a corporate author are protected under U.S. copyright law until 95 years after publication or 120 years after creation whichever occurs first. (Copyright protection will not expire for any works under this rule until at least January 1, 2074.)
 
 ### Rule 4: Works first created before January 1, 1978 but not published before that date
-Works created before January 1, 1978 but not published before that date are copyrighted under rules similar to rules 2 and 3 above, except that in no case will the copyright on a work not published prior to January 1, 1978 expire before December 31, 2002. If the work **is** published before December 31, 2002, its copyright will not expire before December 31, 2047. (This rule extends copyright protection to a lot of manuscripts that we would otherwise think of as not protected by U.S. copyright law because of their age.) 
+Works created before January 1, 1978 but not published before that date are copyrighted under rules similar to rules 2 and 3 above, except that in no case will the copyright on a work not published prior to January 1, 1978 expire before December 31, 2002. If the work was published before December 31, 2002, its copyright will not expire before December 31, 2047. (This rule extends copyright protection to a lot of manuscripts that we would otherwise think of as not protected by U.S. copyright law because of their age.) 
 
 ### Rule 5: Publication and Distribution of U.S. Works Prior to March 1, 1989 Without Proper Notice
 If a substantial number of copies of a U.S. Work were printed and distributed in the U.S. prior to March 1, 1989 without a copyright notice, and the work is of entirely American authorship or is considered to be first published in the United States, the work is not protected under U.S. copyright law. (Note that we cannot clear items printed/published outside of the U.S. under this rule.) 
@@ -123,7 +123,7 @@ Rule 6 copyright clearances are challenging to complete. Project Gutenberg insis
 
 #### Phase 1: Biographical Research
 - Was the item first published in the United States? If not, Rule 6 cannot be applied.
-- Was the author (all authors) U.S. residents or citizens at the time of publication? If not, Rule 6 cannot be applied. A resident, for our purposes, is someone who lives in the U.S. -- not a visitor.
+- Was the author (all authors or other creators such as illustrators) U.S. residents or citizens at the time of publication? If not, Rule 6 cannot be applied. A resident, for our purposes, is someone who lives in the U.S. -- not a visitor.
 - What aliases, variations or pseudonyms did this author use, if any? Include maiden or married names, if they are different. These need to be searched as part of the renewal research.
 - If the author was deceased during the renewal period, what heirs or other parties might have had the right to renew?
 
@@ -158,7 +158,7 @@ Renewal by someone other than the author may occur for a variety of reasons. Pro
 - Too late for serial parts: If a complete work was reprinted, and the reprint was renewed more than 30 years after the original (28+2), then the renewal does not apply to the original.
 
 #### What to Submit
-Documentation of your research must accompany a Rule 6 clearance request, as submitted at copy.pglaf.org. Include your responses as an additional .txt or .htm file with the clearance data.
+Documentation of your research must accompany a Rule 6 clearance request, as submitted at copy.pglaf.org. Include your responses as an additional .txt file with the clearance data.
 
 <pre>Basic Information</pre>
 - The original title, original publication date, and author(s) name. Include a scan of the title page, verso page, and other pages as appropriate from the original publication
@@ -237,8 +237,8 @@ U.S. law grants exactly the same protection to unpublished works created by fore
 #### Rule 10(b) - Works of Treaty Parties and Proclamation Countries First Published Before 1923
 The maximum term of protection under U.S. copyright law for eligible foreign works first published before January 1, 1923 expired no more than 75 years from the date of first publication. Hence, all works which would otherwise qualify as eligible foreign works first published before 1923 are no longer protected by U.S. copyright law, regardless of where they were published. 
 
-#### Rule 10(c) - Works of Treaty Parties and Proclamation Countries First Published Between 1923 and 1977
-The maximum term of copyright protection for eligible foreign works first published between 1923-1977 expires 95 years from the date of first publication. 2019 was the first year in which works could be cleared under this rule. 
+#### Rule 10(c) - Works of Treaty Parties and Proclamation Countries First Published Between 1923 and 1978
+The maximum term of copyright protection for eligible foreign works first published between 1923-1978 expires 95 years from the date of first publication. 2019 was the first year in which works could be cleared under this rule. 
 
 #### Rule 10(d) - Works of Treaty Parties and Proclamation Countries First Published On or After January 1, 1978
 1. Eligible foreign work first created by authors who are natural persons on or after January 1, 1978 are protected under U.S. copyright law until 70 years after the death of the author. ( Copyright protection will not expire for any works under this rule until at least January 1, 2049.).
