@@ -14,6 +14,8 @@ Choose among free epub and Kindle eBooks, download them or read them online. You
 {% include latest_books_template.html %}
 
 
+**Survey for Project Gutenberg visitors.** You are invited to participate in a Visitor Experience Survey to gather information about the people who use Project Gutenberg. After the survey, you are invited to consider participating in an optional visitor experience research project interview to help guide changes to the Project Gutenberg website. Everyone who offers to participate in the interview is eligible for a raffle for a chance to win a $15 gift card. Find the survey [here](https://docs.google.com/forms/d/e/1FAIpQLSehMw7R_V6gPNTSnmQIM8SO6TkxhBOCkTJJlpdiYOIUOKZqgQ/viewform).
+
 **50 years of eBooks 1971-2021.** In 2021, Project Gutenberg celebrated the [first eBook](/ebooks/1) for reading enjoyment and unlimited free redistribution. This eBook was created on July 4, 1971 by Project Gutenberg's founder, Michael S. Hart. [Read more about this lasting innovation](/about/background/50years.html). Project Gutenberg is grateful to all volunteers who helped to reach this milestone anniversary. Project Gutenberg offers a vibrant and growing collection of the world's great literature. Read, enjoy, and share! 
 
 **No fee or registration!** Everything from Project Gutenberg is gratis, libre, and completely without cost to readers. If you find Project Gutenberg useful, please consider a small donation to help Project Gutenberg digitize more books, maintain its online presence, and improve Project Gutenberg programs and offerings. Other ways to help include digitizing, proofreading and formatting, or reporting errors.
