@@ -237,7 +237,7 @@ $dir_categories = "$dir/categories";
 $dir_recent     = "$dir/recent";
 $dir_feeds      = "cache/epub/feeds";
 $dir_etext      = "ebooks";
-$base_url       = "http://$config->domain";
+$base_url       = "https://$config->domain";
 
 @mkdir ("$config->documentroot/$dir",            0755);
 @mkdir ("$config->documentroot/$dir_authors",    0755);
@@ -551,7 +551,7 @@ foreach ($spans as $span => $caption) {
     uksort ($lines, 'strcoll');
   }
 
-  $config->htmlheaderlinks[] = "<link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS-Feed of Project Gutenberg Recently Posted or Updated EBooks\" href=\"http://www.gutenberg.org/$dir_feeds/today.rss\">";
+  $config->htmlheaderlinks[] = "<link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS-Feed of Project Gutenberg Recently Posted or Updated EBooks\" href=\"https://www.gutenberg.org/$dir_feeds/today.rss\">";
   pageheader ("Books Posted or Updated Since: $cutoff");
   echo (navbar ());
   echo ("<div class=\"pgdbrecent\">\n\n");
@@ -603,7 +603,7 @@ if ($hd = fopen ($file = "$config->documentroot/$dir_feeds/today.rss", "w")) {
        This feed is regenerated every night.
     </description>
     <language>en-us</language>
-    <webMaster>webmaster@gutenberg.org (Marcello Perathoner)</webMaster>
+    <webMaster>webmaster2023@pglaf.org</webMaster>
     <pubDate>$pubdate</pubDate>
     <lastBuildDate>$pubdate</lastBuildDate>
 
