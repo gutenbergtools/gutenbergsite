@@ -109,7 +109,9 @@ In summary, BuyMeACoffee or PayPal are usually the easiest and most flexible pay
 
 You can donate in any increment of $5. Five American dollars is envisioned the nominal cost of a (rather fancy) cup of coffee. You can learn more about this donation platform on their <a href="https://www.buymeacoffee.com/faq">FAQ page</a>.
 
-We will send an email "thank you" note if we receive your email contact information along with notification of donation. This serves as your tax receipt.
+Project Gutenberg is provided with your name and the donation amount, but is not provided your contact information (email, Twitter, or any other identification that you might have submitted. So, we cannot send a "thank you" note.
+
+If you need a tax receipt, be sure to save the payment information from the Buy Me A Coffee website.
 
 ### About donations by PayPal
 <a name="about-donations-by-paypal"></a>PayPal is a Web site that accepts credit cards, checks, and bank transfer payments.  You need to set up a PayPal account to donate via PayPal (in the past, you could donate without setting up an account.  This doesn't seem to be possible any more). Visa, MasterCard, Amex and Discover are accepted.  Because of PayPal's fees, any donation of under 32 cents or so doesn't reach PGLAF.  Instead, consider letting your small donations add up to a dollar or more before sending it with PayPal.
