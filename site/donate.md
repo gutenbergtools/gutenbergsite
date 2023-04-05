@@ -16,6 +16,7 @@ Contents
 <ol>
 <li><a href="#easy-ways-to-donate">Easy ways to Donate</a>
 <ol class="inner_1">
+<li><a href="#ausing-buymeacoffee">Using BuyMeACoffee</a></li>
 <li><a href="#ausing-paypal">Using PayPal</a></li>
 <li><a href="#using-flattr">Using Flattr</a></li>
 <li><a href="#by-check-or-money-order">By Check or Money Order</a></li>
@@ -23,6 +24,7 @@ Contents
 </li>
 <li><a href="#additional-detail-on-how-to-donate">Additional Detail on How To Donate</a>
 <ol class="inner_1">
+<li><a href="#about-donations-by-buymeacoffee">About donations by BuyMeACoffee</a></li>
 <li><a href="#about-donations-by-paypal">About donations by PayPal</a></li>
 <li><a href="#about-donating-by-check-or-money-order">About donating by Check or Money Order</a></li>
 <li><a href="#about-donating-by-non-us-funds-check-or-money-order">About donating by Non-US Funds Check or Money Order</a></li>
@@ -33,6 +35,11 @@ Contents
 </div>
 
 ## Easy ways to Donate
+
+
+### Using BuyMeACoffee
+
+Visit <a href="https://BuyMeACoffee.com/projgutenberg">BuyMeACoffee.com/projgutenberg</a> to donate in $5 increments. You can make a one-time donation, or sign up for monthly donations. Cancel any time.
 
 ### Using PayPal
 
@@ -97,7 +104,17 @@ There are several ways to donate. We want you to make a donation in the best way
 
 In summary, PayPal is usually the easiest and most flexible payment method.  We can also accept mailed checks or money orders in any national currency, and a few other methods.  If you want to make a donation in a way that's not specified below, please contact us!  PGLAF has participated in some employee matching programs, Benevity, and others.
 
+### About donations by BuyMeACoffee
+<a name="about-donations-by-buymeacoffee"></a>
+
+BuyMeACoffee (or Buy Me A Coffee) is a website for donations that provides 100% of all donations to the Project Gutenberg Literary Archive Foundation. It requires no registration for donors.
+
+You can donate in any increment of $5. Five American dollars is envisioned the nominal cost of a (rather fancy) cup of coffee. You can learn more about this donation platform on their <a href="https://www.buymeacoffee.com/faq">FAQ page</a>.
+
+We will send an email "thank you" note if we receive your email contact information along with notification of donation. This serves as your tax receipt.
+
 ### About donations by PayPal
+<a name="about-donations-by-paypal"></a>
 
 PayPal is a Web site that accepts credit cards, checks, and bank transfer payments.  You need to set up a PayPal account to donate via PayPal (in the past, you could donate without setting up an account.  This doesn't seem to be possible any more). Visa, MasterCard, Amex and Discover are accepted.  Because of PayPal's fees, any donation of under 32 cents or so doesn't reach PGLAF.  Instead, consider letting your small donations add up to a dollar or more before sending it with PayPal.
 
@@ -105,10 +122,13 @@ Rather than using the quick donation links above, you can login to PayPal and se
 
 As of early 2022, PayPal includes your postal address in its notification of your donation, as well as your name and email address. Be assured that you will not be added to any postal or email address list, or solicited further. You will get a "thank you" email from the CEO, and that is all. You are invited to subscribe to the email lists, but we do not subscribe you directly.
 
+This emailed thank you serves as your tax receipt for your donation. 
+
 The fee charged by PayPal for payments is their discounted rate for registered charities.  This is 2.2% of the transaction plus 30 cents per transaction. (For a $100 payment, this amounts to $1.90 or 1.9%. For $10, the fee is $0.52 or 5.2%). PayPal accepts non-US accounts and funds.
 
 
 ### About donating by Check or Money Order
+<a name="about-donating-by-check-or-money-order"></a>
 
 Send a check or money order in US funds. Our address is:
 
@@ -116,13 +136,16 @@ Send a check or money order in US funds. Our address is:
 <dd> PO Box 16327<br /></dd>
 <dd> Salt Lake City, UT 84116</dd></dl>
 
-The bank we utilize, Wells Fargo, does not charge any fees for our use of the bank account, or per-check processing fees. 100% of your intended donation amount goes to PGLAF.  Donations of $100 or over will receive a written "thank you" via postal mail, unless you do not provide a return address.
+The bank we utilize, Wells Fargo, does not charge any fees for our use of the bank account. They do charge a fee of at least $5 for depositing checks from outside the US. Any donation of $100 or over will receive a written "thank you" via postal mail, unless you do not provide a return address.
+
+This written thank you serves as your tax receipt for your donation. 
 
 ### About donating by Non-US Funds Check or Money Order
 
 Send a check or money order in non-US funds. This can go to the same address as above. The bank might charge a small fee for processing non-US funds. This fee is difficult to know in advance, but usually seems to be a few dollars. The exchange rate to US funds is at market value.
 
 ## Privacy Policy For Donations
+<a name="privacy-policy-for-donations"></a>
 
 In order to meet IRS tax regulations, PGLAF keeps track of the names, addresses, donation amounts and donation methods of non-anonymous donors. We normally send a postal or email "thank you" letter when we receive your donation over $100.
 
