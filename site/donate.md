@@ -96,27 +96,23 @@ Send a check or money order (any currency) to:
 
 ## Additional Detail on How To Donate
 
-Project Gutenberg's success is due to the hard work of thousands of volunteers over more than 45 years. Your donations make it possible to support these volunteers, and pay our few expenses to continue the creation of free electronic texts.
+Project Gutenberg's success is due to the hard work of thousands of volunteers over more than 50 years. Your donations make it possible to support these volunteers, and pay our few expenses to continue the creation of free electronic texts.
 
 Donations are made to the [Project Gutenberg Literary Archive Foundation](/about/pglaf.html), a non-profit corporation registered in the US State of Mississippi. PGLAF is approved as a charitable 501(c)(3) organization by the US Internal Revenue Service, and has the Federal Employee Information Number (EIN) 64-6221541.
 
 There are several ways to donate. We want you to make a donation in the best way for you, so have tried to make it easy.
 
-In summary, PayPal is usually the easiest and most flexible payment method.  We can also accept mailed checks or money orders in any national currency, and a few other methods.  If you want to make a donation in a way that's not specified below, please contact us!  PGLAF has participated in some employee matching programs, Benevity, and others.
+In summary, BuyMeACoffee or PayPal are usually the easiest and most flexible payment methods.  We can also accept mailed checks or money orders in any national currency, and a few other methods.  If you want to make a donation in a way that's not specified below, please contact us!  PGLAF has participated in some employee matching programs, Benevity, and others.
 
 ### About donations by BuyMeACoffee
-<a name="about-donations-by-buymeacoffee"></a>
-
-BuyMeACoffee (or Buy Me A Coffee) is a website for donations that provides 100% of all donations to the Project Gutenberg Literary Archive Foundation. It requires no registration for donors.
+<a name="about-donations-by-buymeacoffee"></a>BuyMeACoffee (or Buy Me A Coffee) is a website for donations that provides 100% of all donations to the Project Gutenberg Literary Archive Foundation. It requires no registration for donors.
 
 You can donate in any increment of $5. Five American dollars is envisioned the nominal cost of a (rather fancy) cup of coffee. You can learn more about this donation platform on their <a href="https://www.buymeacoffee.com/faq">FAQ page</a>.
 
 We will send an email "thank you" note if we receive your email contact information along with notification of donation. This serves as your tax receipt.
 
 ### About donations by PayPal
-<a name="about-donations-by-paypal"></a>
-
-PayPal is a Web site that accepts credit cards, checks, and bank transfer payments.  You need to set up a PayPal account to donate via PayPal (in the past, you could donate without setting up an account.  This doesn't seem to be possible any more). Visa, MasterCard, Amex and Discover are accepted.  Because of PayPal's fees, any donation of under 32 cents or so doesn't reach PGLAF.  Instead, consider letting your small donations add up to a dollar or more before sending it with PayPal.
+<a name="about-donations-by-paypal"></a>PayPal is a Web site that accepts credit cards, checks, and bank transfer payments.  You need to set up a PayPal account to donate via PayPal (in the past, you could donate without setting up an account.  This doesn't seem to be possible any more). Visa, MasterCard, Amex and Discover are accepted.  Because of PayPal's fees, any donation of under 32 cents or so doesn't reach PGLAF.  Instead, consider letting your small donations add up to a dollar or more before sending it with PayPal.
 
 Rather than using the quick donation links above, you can login to PayPal and select "Send Money." When prompted, specify 'donate2021@pglaf.org' as the recipient, and you will be presented with PGLAF's information. Send the payment as you would any other payment. Funds go directly to PGLAF via PayPal.  Any national currency is OK.
 
@@ -128,9 +124,7 @@ The fee charged by PayPal for payments is their discounted rate for registered c
 
 
 ### About donating by Check or Money Order
-<a name="about-donating-by-check-or-money-order"></a>
-
-Send a check or money order in US funds. Our address is:
+<a name="about-donating-by-check-or-money-order"></a>Send a check or money order in US funds. Our address is:
 
 <dl><dd> Project Gutenberg Literary Archive Foundation<br /></dd>
 <dd> PO Box 16327<br /></dd>
@@ -141,12 +135,9 @@ The bank we utilize, Wells Fargo, does not charge any fees for our use of the ba
 This written thank you serves as your tax receipt for your donation. 
 
 ### About donating by Non-US Funds Check or Money Order
-
-Send a check or money order in non-US funds. This can go to the same address as above. The bank might charge a small fee for processing non-US funds. This fee is difficult to know in advance, but usually seems to be a few dollars. The exchange rate to US funds is at market value.
+<a name="about-donating-by-non-us-funds-check-or-money-order"></a>Send a check or money order in non-US funds. This can go to the same address as above. The bank charges a fee for processing non-US funds. This fee is difficult to know in advance, but usually seems to be around five. The exchange rate to US funds is at market value.
 
 ## Privacy Policy For Donations
-<a name="privacy-policy-for-donations"></a>
-
-In order to meet IRS tax regulations, PGLAF keeps track of the names, addresses, donation amounts and donation methods of non-anonymous donors. We normally send a postal or email "thank you" letter when we receive your donation over $100.
+<a name="privacy-policy-for-donations"></a>In order to meet IRS tax regulations, PGLAF keeps track of the names, addresses, donation amounts and donation methods of non-anonymous donors. We normally send a postal or email "thank you" letter when we receive your donation over $100.
 
 We do not provide any information about donors to any party outside of PGLAF and its employees and contractors for any purpose, except if required by law. We will not send subsequent postal or electronic mail or attempt to phone you. We do not add you to any mailing list. If you would like to subscribe to one of the Project Gutenberg email lists, to receive the monthly newsletter, please visit [our mailing list pages](https://lists.pglaf.org) for instructions.
