@@ -16,7 +16,7 @@ Here are pages that give background about Project Gutenberg, including how new i
        <li><a href="/about">About Project Gutenberg</a> (main page)</li>
       <h2>C</h2>
        <li><a href="/policy/collection_development.html">Collection development policy</a></li>
-       <li><a href="/help/copyright.html">Copyright how-To</a></li>
+       <li><a href="/help/copyright.html">Copyright How-To</a></li>
       <h2>D</h2>
        <li><a href="/help/bibliographic_record.html">Download Formats and Bibliographic Record</a></li>
       <h2>E</h2>
@@ -25,7 +25,7 @@ Here are pages that give background about Project Gutenberg, including how new i
        <li><a href="/help/file_formats.html">File Formats FAQ</a></li>
        <li><a href="/help/faq.html">FAQs: Frequently asked questions</a></li>
       <h2>L</h2>
-       <li><a href="/policy/linking.html">Linking to Project Gutenberg</li>
+       <li><a href="/policy/linking.html">Linking to Project Gutenberg</a></li>
       <h2>M</h2>
        <li><a href="/help/mirroring.html">Mirroring how-to</a></li>
       <h2>N</h2>
