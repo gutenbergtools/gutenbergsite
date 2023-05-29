@@ -70,6 +70,9 @@ Choose among free epub and Kindle eBooks, download them or read them online. You
     <li><a href="https://twitter.com/gutenberg_org">
       <img src="/gutenberg/t_icon.png" alt="Twitter Icon" />
     </a></li>
+    <li><a href="https://mastodon.social/@gutenberg_org" rel="me">
+      <img src="/gutenberg/m_icon.png" alt="Mastodon Icon" />
+    </a></li>
     <li>News feeds of new eBooks</li>
     <li><a href="https://www.facebook.com/gutenberg.new">
       <img src="/gutenberg/f_news_icon.png" alt="Facebook News Feed Icon" />
