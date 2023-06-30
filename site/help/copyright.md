@@ -33,7 +33,7 @@ Contents
 <li><a href="#renewal-resources">Renewal resources</a></li>
 </ol>
 </li>
-<li><a href="#rule-8-ius-government-works">Rule 8: U.S. Government Works</a></li>
+<li><a href="#rule-8-us-government-works">Rule 8: U.S. Government Works</a></li>
 <li><a href="#rule-10-protection-of-foreign-works-in-the-us-under-us-copyright-law">Rule 10: Protection of Foreign Works in the U.S. Under U.S. Copyright Law</a>
 <ol class="inner_2">
 <li><a href="#preamble-1">Preamble</a></li>
