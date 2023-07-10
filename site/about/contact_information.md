@@ -46,13 +46,13 @@ Please select the most appropriate address from this list.
 
 5. gbnewby (at) pglaf.org
 
-    Contact the CEO of the Project Gutenberg Literary Archive Foundation, Dr. Gregory Newby. If you don't get a response within a few days, please first check your spam filters & similar for a response. Resend your message, if no response is received within a few days.
+Contact the CEO of the Project Gutenberg Literary Archive Foundation, Dr. Gregory Newby. If you don't get a response within a few days, please first check your spam filters & similar for a response. Resend your message, if no response is received within a few days.
 
 ## Postal Mail
 If you need to send printed mail, please consider instead scanning and emailing to the appropriate address above. But if you really need to send something physical, send to this address:
 
 <dl><dd>  Project Gutenberg Literary Archive Foundation</dd>
-<dd>  809 North 1500 West</dd>
+<dd>  PO Box 16327</dd>
 <dd>  Salt Lake City, UT 84116</dd></dl>
 
 ## Newsletter and Discussion Lists
