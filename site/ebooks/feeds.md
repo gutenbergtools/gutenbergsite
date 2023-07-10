@@ -15,9 +15,11 @@ You can keep updated on new publications in a few different ways.
 
 ### Social media
 
-*Twitter:* Follow [@gutenberg_new](https://twitter.com/gutenberg_new). *Freshness:* within an hour after a new eBook is posted, or whenever an eBook is updated.
+Feeds of new eBooks are updated within an hour or so after publication or update.
 
-*Facebook:* "Like" [gutenberg.new](https://www.facebook.com/gutenberg.new) to have us post new books to your Facebook feed. *Freshness:* within an hour after a new eBook is posted, or whenever an eBook is updated.
+*Facebook:* "Like" [gutenberg.new](https://www.facebook.com/gutenberg.new) to have us post new books to your Facebook feed.
+
+*Mastodon:* "Follow" [gutenberg_new](https://mastodon.social/@gutenberg_new") to see postings of new eBooks.
 
 ## RSS
 

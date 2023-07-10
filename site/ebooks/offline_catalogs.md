@@ -53,11 +53,25 @@ Find our RSS feed in the [cache/feeds](/cache/epub/feeds/today.rss) location. Up
 The "[posted](https://lists.pglaf.org/mailman/listinfo/posted)" list is where every new eBook is announced as it is being uploaded to the Project Gutenberg servers. New books are then available for download, typically within 2 hours. The list has a once-daily digest option, and also online public archives.
 
 ### Social media
-
-* [Facebook group](https://www.facebook.com/project.gutenberg)
-* [Facebook](https://www.facebook.com/gutenberg.new), news feed of new eBooks
-* [Twitter @gutenberg_org](https://twitter.com/gutenberg_org)
-* [Twitter @gutenberg_new](https://twitter.com/gutenberg_new), news feed of new eBooks
+## Social Media
+<ul class="icon-list">
+    <li><a href="https://www.facebook.com/project.gutenberg">
+      <img src="/gutenberg/f_icon.png" alt="Facebook Icon" />
+    </a></li>
+    <li><a href="https://twitter.com/gutenberg_org">
+      <img src="/gutenberg/t_icon.png" alt="Twitter Icon" />
+    </a></li>
+    <li><a href="https://mastodon.social/@gutenberg_org" rel="me">
+      <img src="/gutenberg/m_icon.png" alt="Mastodon Icon" />
+    </a></li>
+    <li>News feeds of new eBooks</li>
+    <li><a href="https://www.facebook.com/gutenberg.new">
+      <img src="/gutenberg/f_news_icon.png" alt="Facebook News Feed Icon" />
+    </a></li>
+    <li><a href="https://mastodon.social/@gutenberg_new" rel="me">
+      <img src="/gutenberg/m_news_icon.png" alt="Mastodon Icon" />
+    </a></li>
+  </ul>
 
 ## List of Sites Hosting Project Gutenberg EBooks
 
