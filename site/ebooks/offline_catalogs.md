@@ -22,6 +22,7 @@ This page tells you how to find and get Project Gutenberg eBooks if:
 	<li><a href="#rss">RSS</a></li>
 	<li><a href="#email">Email</a></li>
 	<li><a href="#social-media">Social media</a></li>
+	<li><a href="#opds">OPDS</a></li>
       </ol>
     </li>
     <li><a href="#list-of-sites-hosting-project-gutenberg-ebooks">List of Sites Hosting Project Gutenberg EBooks</a></li>
@@ -72,6 +73,12 @@ The "[posted](https://lists.pglaf.org/mailman/listinfo/posted)" list is where ev
       <img src="/gutenberg/m_news_icon.png" alt="Mastodon Icon" />
     </a></li>
   </ul>
+
+### OPDS
+
+The Open Publiation Distribution System is a method Project Gutenberg makes available to discover new eBooks. OPDS is primarily intended for machine-to-machine communication for use in applications that can present or manage the lists of content.
+
+To use Project Gutenberg's OPDS feed, start at [https://www.gutenberg.org/ebooks/search.opds/](https://www.gutenberg.org/ebooks/search.opds/).
 
 ## List of Sites Hosting Project Gutenberg EBooks
 
