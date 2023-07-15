@@ -18,7 +18,6 @@ Contents
 <ol class="inner_1">
 <li><a href="#ausing-buymeacoffee">Using BuyMeACoffee</a></li>
 <li><a href="#ausing-paypal">Using PayPal</a></li>
-<li><a href="#using-flattr">Using Flattr</a></li>
 <li><a href="#by-check-or-money-order">By Check or Money Order</a></li>
 </ol>
 </li>
@@ -76,15 +75,6 @@ Make a <strong>monthly donation</strong> (cancel any time):
        style="vertical-align: middle" />
 
 </form>
-
-### Using Flattr
-
-<div>
-  <a href="https://flattr.com/@gbnewby" target="_blank">
-    <img src="/pics/flattr-badge-large.png" 
-         alt="Flattr this" title="Donate by Flattr" border="0" />
-  </a>
-</div>
 
 ### By Check or Money Order
 
