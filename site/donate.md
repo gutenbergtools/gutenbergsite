@@ -127,9 +127,9 @@ The bank we utilize, Wells Fargo, does not charge any fees for our use of the ba
 This written thank you serves as your tax receipt for your donation. 
 
 ### About donating by Non-US Funds Check or Money Order
-<a name="about-donating-by-non-us-funds-check-or-money-order"></a>Send a check or money order in non-US funds. This can go to the same address as above. The bank charges a fee for processing non-US funds. This fee is difficult to know in advance, but usually seems to be around five. The exchange rate to US funds is at market value.
+<a name="about-donating-by-non-us-funds-check-or-money-order"></a>Send a check or money order in non-US funds. This can go to the same address as above. The bank charges a fee for processing non-US funds. This fee is difficult to know in advance, but usually seems to be around five dollars. The exchange rate to US funds is at market value.
 
 ## Privacy Policy For Donations
 <a name="privacy-policy-for-donations"></a>In order to meet IRS tax regulations, PGLAF keeps track of the names, addresses, donation amounts and donation methods of non-anonymous donors. We normally send a postal or email "thank you" letter when we receive your donation over $100.
 
-We do not provide any information about donors to any party outside of PGLAF and its employees and contractors for any purpose, except if required by law. We will not send subsequent postal or electronic mail or attempt to phone you. We do not add you to any mailing list. If you would like to subscribe to one of the Project Gutenberg email lists, to receive the monthly newsletter, please visit [our mailing list pages](https://lists.pglaf.org) for instructions.
+We do not provide any information about donors to any party outside of PGLAF and its employees and contractors for any purpose, except if required by law. We will not send subsequent postal or electronic mail or attempt to phone you. We do not add you to any mailing list. If you would like to subscribe to one of the Project Gutenberg email lists, to receive the monthly newsletter or immediate notificaions of new eBooks, please visit [our mailing list pages](https://lists.pglaf.org) for instructions.
