@@ -16,11 +16,14 @@ File Formats Utilized by Project Gutenberg
 <li><a href="#big-5-character-set">Big-5 (Character Set)</a></li>
 <li><a href="#codepage-437-850-1252-etc-character-sets">Codepage 437, 850, 1252, etc. (Character Sets)</a></li>
 <li><a href="#dvi">DVI</a></li>
+<li><a href="#epub">EPUB</a></li>
 <li><a href="#htmlhtm-format">HTML/HTM (Format)</a></li>
 <li><a href="#iso-8859iso-latin-character-sets">ISO-8859/ISO-Latin (Character Sets)</a></li>
+<li><a href="#kf8">KF8</a></li>
 <li><a href="#lit-format-for-pda-based-ebooks">LIT (Format for PDA-based eBooks)</a></li>
 <li><a href="#macroman-character-set">MacRoman (Character Set)</a></li>
 <li><a href="#midmidi-format-for-music">MID/MIDI (Format for music)</a></li>
+<li><a href="#mobi">MOBI</a></li>
 <li><a href="#mp3-format-for-any-audio-file">MP3 (Format for any audio file)</a></li>
 <li><a href="#mpegmpg-format-for-moving-pictures">MPEG/MPG (Format for moving pictures)</a></li>
 <li><a href="#mus-format-for-sheet-music">MUS (Format for sheet music)</a></li>
@@ -62,11 +65,17 @@ These codepages are Microsoft-specific character sets which allow the display of
 ### DVI
 DVI stands for DeVice Independent, and is commonly used to store text and instructions for displaying it involving complex mathematical symbols and expressions, though it can be used for any content. Given a DVI file, you need a viewer to render it on the specific device you're using. Specifically, DVI is used as the standard output format for TeX, discussed below.
 
+### EPUB
+**This is the format compatible with almost all eBook readers (ereaders), smartphones and tablets**. The EPUB format is very similar to HTML, but has additional components that enable added functionality on the many types of devices that can use EPUB. This is now the recommended format for all ereader devices. See [the tablets and ereaders help page](/help/mobile.html) for additional detail.
+
 ### HTML/HTM (Format)
 **This is the most frequently used master format**. HyperText Markup Language defines the standard format of web pages. You should be able to view these with any web browser, and edit them with any text editor or a specialized HTML editor. [www.w3.org](https://www.w3.org) is the definitive reference.
 
 ### ISO-8859/ISO-Latin (Character Sets)
 ISO-8859 is a series of character sets used to represent the accented characters most commonly used in European languages. There's ISO-8859-1, ISO-8859-2, and so on. ISO-Latin is just another name for the same thing. You can read the overview at [aspell.net/charsets/codepages.html](http://aspell.net/charsets/codepages.html).
+
+### KF8
+This is a new format for Amazon Kindle ereaders. Generally, Kindle with up-to-date software can handle KF8 and EPUB equally well.
 
 ### LIT (Format for PDA-based eBooks)
 This is a proprietary, closed format for files that can be displayed only by the Microsoft Reader. Search [www.microsoft.com](https://www.microsoft.com) for more information. It is not possible to edit or correct files in this format; it is not possible to export files from this format; they have to be made in another format and converted.
@@ -76,6 +85,9 @@ MacRoman is an 8-bit Apple Mac-specific character set which allows the display o
 
 ### MID/MIDI (Format for music)
 Musical Instrument Digital Interface is a music description language, encompassing not only file formats but definitions of interfaces. A MIDI file contains instructions for sending messages to a musical instrument to recreate the sounds. [www.midi.org](https://www.midi.org/) has much more on this.
+
+### MOBI
+This was the major format for Amazon's Kindle ereaders, but was replaced in late 2022 by EPUB and KF8. You probably only need MOBI if you are using an older Kindle that has not had its software updated.
 
 ### MP3 (Format for any audio file)
 MPEG-1, Level 3, was defined by the Moving Pictures Expert Group as a means for encoding sounds. Many, many MP3 players exist for all platforms, and can be found easily with a Net search. The official home page of the MPEG is [www.mpegstandards.org](https://www.mpegstandards.org/) and copies of the specification can be purchased from the ISO at [www.iso.org](https://www.iso.org).
