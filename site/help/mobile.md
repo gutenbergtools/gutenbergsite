@@ -118,7 +118,7 @@ The [Kobo](https://www.kobo.com/) reader online store includes free access to 10
 ## Android
 The Android operating system is found on many phones and tablets. The specific features and applications vary, and there are often customizations to Android that change functionality. Android devices include Web browsers that can be used to read Project Gutenberg's text and HTML eBooks online. 
 
-For other file types, you can try copying from your computer to the device as described above. Or, you might be able to download or view directly on your Android. Use the Google Play Store or a similar source for searching for apps, to find ways to download and display EPUB or other files. We have had many positive reports of the app [Calibre](https://calibre-ebook.com]. 
+For other file types, you can try copying from your computer to the device as described above. Or, you might be able to download or view directly on your Android. Use the Google Play Store or a similar source for searching for apps, to find ways to download and display EPUB or other files. We have had many positive reports of the app [Calibre](https://calibre-ebook.com).
 
 ## iPad, iPhone and iPod Touch
 Your regular Web browser (Safari, etc.) can read Project Gutenberg eBooks online.
