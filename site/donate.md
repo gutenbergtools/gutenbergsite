@@ -108,7 +108,7 @@ If you need a tax receipt, be sure to save the payment information from the Buy 
 
 Rather than using the quick donation links above, you can login to PayPal and select "Send Money." When prompted, specify 'donate2023@pglaf.org' as the recipient, and you will be presented with PGLAF's information. Send the payment as you would any other payment. Funds go directly to PGLAF via PayPal.  Any national currency is OK.
 
-As of early 2022, PayPal includes your postal address in its notification of your donation, as well as your name and email address. Be assured that you will not be added to any postal or email address list, or solicited further. You will get a "thank you" email from the CEO, and that is all. You are invited to subscribe to the email lists, but we do not subscribe you directly.
+Be assured that you will not be added to any postal or email address list, or solicited further. You will get a "thank you" email from the CEO, and that is all. You are invited to subscribe to the email lists, but we do not subscribe you directly.
 
 This emailed thank you serves as your tax receipt for your donation. 
 

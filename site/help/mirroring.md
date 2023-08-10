@@ -79,11 +79,11 @@ There is an historical anomaly with the generated content. In the main collectio
 </pre>
 
 ## Getting Your Mirror Listed
-Once you have successfully installed and tested your configuration, we'll add your site to the list of mirrors, so people can find you. Email *help2021 @ pglaf.org* and we'll announce it in our next newsletters. After a month or so (to confirm stability) we'll add you to the mirror list and to the mirror selection page of each eBook. 
+Once you have successfully installed and tested your configuration, we'll add your site to the list of mirrors, so people can find you. Email *help2022 @ pglaf.org* and we'll announce it in our next newsletters. After a month or so (to confirm stability) we'll add you to the mirror list and to the mirror selection page of each eBook. 
 
 Before you start you might want to view our [mirror list](//www.gutenberg.org/MIRRORS.ALL) to check whether the geographical location of your server would be a good addition to the list.
 
-The book directories are the only part we offer for mirror. The Project Gutenberg catalog in XML/RDF is in the root directory of the generated content, if you would like to make your own search software. We do not distribute the central search software or Web pages used at www.gutenberg.org, however. Also, note that we only currently link to mirrors for the main collection, not the generated content.
+The book directories are the only part we offer for mirror. The Project Gutenberg catalog in XML/RDF is in the root directory of the generated content, if you would like to make your own search software. We do not package the central search software or Web pages used at www.gutenberg.org for reuse, however you may see most tools on [github](https://github.com/gutenbergtools).
 
 You may distribute our books by any means you choose: HTTP, FTP, rsync, TOR, BitTorrent, p2p or others.
 
