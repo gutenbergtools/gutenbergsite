@@ -15,7 +15,6 @@ Tablets, Phones and eReaders How-To
  <li><a href="#kindle">Kindle</a>
   <ol class="inner_1">
    <li><a href="#general-kindle-help">General Kindle help</a></li>
-   <li><a href="#blocked-users">Blocked Users</a></li>
    <li><a href="#alternate-apps-and-formats">Alternate Apps and Formats</a></li>
    <li><a href="#kindle-3">Kindle 3</a></li>
    <li><a href="#amazons-newer-file-format">Amazon's new File Format</a></li>
@@ -88,22 +87,22 @@ First consider using EPUB (specifically, EPUB version 3 or EPUB3), rather than K
 
 Visit the Amazon help pages for your specific Kindle model. The help pages for the devices we looked all have a page describing how to transfer files from your computer to your Kindle, which is sometimes called "side loading."  Side loading usually seems to work most reliably: save to your computer, and then copy to your device. Here is [Amazon's device help page](http://www.amazon.com/gp/help/customer/display.html?nodeId=200127470).
 
-There are too many different products, with sometimes differing software or features, for us to keep up. Your best solution will be to look for guidance for your specific situation.
+There are too many different products, with sometimes differing software or features, for us to keep up. Your best solution will be to look for guidance for your specific situation. Amazon seems to remove support for some capabilities from older Kindles, including web browser support for the modern secure web (https).
 
-The alternative to side loading is to use Amazon's "Send to Kindle" functionality. You can find Amazon's informatino about this at [amazon.com/sendtokindle](https://www.amazon.com/sendtokindle).
+An alternative to side loading is to use Amazon's "Send to Kindle" functionality. You can find Amazon's informatino about this at [amazon.com/sendtokindle](https://www.amazon.com/sendtokindle).
 
-To send a Project Gutenberg eBook to your Kindle using this method, you must first visit the site above and tell Amazon what email address(es) you want to enable to email content to your Kindle. You also need to determine your personal Kindle email address from the site above or your Kindle's setting screen.
+To send a Project Gutenberg eBook to your Kindle using this method, you must first visit the site above and tell Amazon what email address(es) you want to enable to email content to your Kindle. You also need to determine your personal Kindle email address from the site above or your Kindle's settings page.
 
 Then, download the Project Gutenberg eBook to a computer or tablet that you can send email from. The EPUB and Kindle (KF8) formats work fine, and you can also send PDF, plain text, and some other formats found at Project Gutenberg. Just email that file to your send to Kindle address. You then need to visit the Amazon page again to authorize receiving the file. It will then be automatically processed and will soon arrive on your wifi-connected Kindle.
 
 Beware that Amazon sells many titles in print and digital format that you can get freely from Project Gutenberg. In addition, we have found that Amazon outsources many of their own digital imprints, and sometimes their non-free titles violate the Project Gutenberg trademark. **Project Gutenberg has never received any trademark royalty payments from Amazon or Amazon resellers or imprints**. For older content that is in the public domain in the U.S., there is a good chance that Project Gutenberg has it free of charge, but Amazon will charge money for it. Of course there might be advantages to the non-free version (such as better formatting). Be aware, and make an informed choice.
 
 ### Alternate Apps and Formats
-Many or all Kindles allow you to install alternate eBook reader software. Advice we have received (which might need adjustment for your specific device, or if some versions of software are updated from when these instructions were written):  **install a third party EPUB reader** and start downloading the EPUB files instead of the Kindle files from Project Gutenberg. You may want to read up on installing third party apps on the Kindle you have. Advantages of EPUB files over Kindle files include: that they are much smaller than Kindle files and that they work on the Apple iPad too.
+Many or all Kindles allow you to install alternate eBook reader software. Advice we have received (which might need adjustment for your specific device, or if some versions of software are updated from when these instructions were written):  **you may be able to install a third party EPUB reader** and start downloading the EPUB files instead of the Kindle files from Project Gutenberg. You may want to read up on installing third party apps on the Kindle you have. Advantages of EPUB files over Kindle files include: that they are much smaller than Kindle files and that they work on many other types of ereaders.
 
 ## Nook
 The Barnes &amp; Noble "Nook" devices seem to work well with Project Gutenberg titles, including the different versions (Color etc.). Note that to connect for tethering and side loading, your Nook needs to be awake (use the on-screen slider to do this, you'll get a message that it is connected to your computer). Other points for the Nook:
-- You can use the built-in Web browser to look at Project Gutenberg eBooks in text and HTML format, but the browser will not display EPUB or the other common Project Gutenberg download formats
+- You can use the built-in Web browser to look at Project Gutenberg eBooks in text and HTML format, but the browser will not display EPUB or the other common Project Gutenberg download formats.
 - Instead, use your computer's Web browser to find and download EPUB or other formats. Use the techniques described elsewhere on this page. There does not seem to be a way to download those formats to your Nook without going through your computer or the online Nook store. 
 
 Beware that there are many Barnes &amp; Noble titles in print and eBooks that are not free from them, but are free from Project Gutenberg. B&amp;N often adds a "Copyright" statement to such old books (for example, Pride and Prejudice, which actually was included with the Nook we tried), but only things like the cover and introduction are copyrighted, the main text is not. For older content (95+ years since publication), there is a good chance that Project Gutenberg has it for free, but B&amp;N will charge money for it. Of course there might be advantages to the non-free version (such as better formatting). Be aware, and make an informed choice.
