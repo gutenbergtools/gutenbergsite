@@ -192,6 +192,7 @@ if (isupdatemode ("delete")) {
   $db->Exec ("delete from mn_books_loccs      where fk_books = $fk_books");
   $db->Exec ("delete from mn_books_subjects   where fk_books = $fk_books");
   $db->Exec ("delete from mn_books_categories where fk_books = $fk_books");
+  $db->Exec ("delete from tweets              where fk_books = $fk_books");
   if ($db->Exec ("delete from books where pk = $fk_books")) {
     msg ("Book deleted !");
   } else {
