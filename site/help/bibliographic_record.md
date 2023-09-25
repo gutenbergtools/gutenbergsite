@@ -69,14 +69,14 @@ A file hosting service allows you to store files and access them over the Intern
 
 Project Gutenberg provides file hosting service transfer as a convenience to readers, but does not operate, provide support for, or have any relationships with these services.
 
-Dropbox
-: Dropbox is a service that helps you keep files synchronized on your PC and your mobile devices. We will send the eBook to the Apps/gutenberg folder in your Dropbox folder. It will then be copied to all your devices on which you have installed the Dropbox client software.
+Dropbox 
+: {: #Dropbox} Dropbox is a service that helps you keep files synchronized on your PC and your mobile devices. We will send the eBook to the Apps/gutenberg folder in your Dropbox folder. It will then be copied to all your devices on which you have installed the Dropbox client software.
 
-Google Drive
-: Google Drive is a file hosting service by Google. We will upload the eBook to your Google Drive. You can then download it from anywhere you have an internet connection.
+Google Drive 
+: {: #Google_Drive} Google Drive is a file hosting service by Google. We will upload the eBook to your Google Drive. You can then download it from anywhere you have an internet connection.
 
-OneDrive
-: OneDrive is a file hosting service by Microsoft. We will upload the eBook to your OneDrive. You can then download it from anywhere you have an internet connection.
+OneDrive 
+: {: #OneDrive} OneDrive is a file hosting service by Microsoft. We will upload the eBook to your OneDrive. You can then download it from anywhere you have an internet connection.
 
 
 Help on the Bibliographic Record
