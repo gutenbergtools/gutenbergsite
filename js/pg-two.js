@@ -65,7 +65,7 @@ function init_search_dropdown() {
 }
 
 function printpage() {
-    $("#tabs").tabs("destroy"), $(".noprint").hide(), $(".noscreen").show(), window.print();
+    $(".noprint").hide(), $(".noscreen").show(), window.print();
 }
 
 function screen_mode() {
