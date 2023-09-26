@@ -160,9 +160,9 @@ div.copyright{margin:2em 1em;font-size:70%;}
 .fb-js-button{display:none;}
 .fb-js-like-button{width:90px;height:20px;}
 .fb-js-share-button{height:21px;}
-.gplus-js-button{display:none;}
-.gplus-js-plus1-button{width:90px;height:20px;}
-.gplus-js-share-button{width:90px;height:20px;}
+.masto-js-button{display:none;}
+.masto-js-plus1-button{width:90px;height:20px;}
+.masto-js-share-button{width:90px;height:20px;}
 .twitter-js-button{display:none;}
 .twitter-js-share-button{width:170px;height:20px;}
 .twitter-js-follow-button{width:170px;height:20px;}
@@ -255,7 +255,7 @@ h1 .icon{float:left;margin-left:20px}
 .icon_quantity{background-position:-46px -334px;width:22px;height:22px;}
 .icon_book{background-position:-69px -334px;width:22px;height:22px;}
 .icon_more{background-position:0px -357px;width:22px;height:22px;}
-.icon_gplus{background-position:-23px -357px;width:20px;height:20px;}
+.icon_masto{background-position:-23px -357px;width:20px;height:20px;}
 .icon_facebook{background-position:-44px -357px;width:20px;height:20px;}
 .icon_twitter{background-position:-65px -357px;width:20px;height:20px;}
 .icon_help{background-position:0px -380px;width:16px;height:16px;}
