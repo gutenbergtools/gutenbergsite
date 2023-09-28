@@ -28,6 +28,15 @@ Choose among free epub and Kindle eBooks, download them or read them online. You
 - [Recently added](/ebooks/search/?query=&submit_search=Search&sort_order=release_date). The latest new and updated eBooks.
 - Visit [self.gutenberg.org](http://self.gutenberg.org) for free eBooks by contemporary authors.
 
+## Audio books
+
+Audio books are a great way to enjoy and share literature. Project Gutenberg no longer adds new audio books to the collection, and suggests these audio book resources. These audio books are all freely available and in the public domain in the US. They may be easily played back on computers, tablets, mobile phones, and other devices. They may be shared non-commercially, without limitation except in countries where the printed source is still copyrighted. All of the sources listed below are digitizations of texts from Project Gutenberg.
+
+- Project Gutenberg's [human-read audio books](/browse/categories/1). 662 titles read by people, sometimes with sound effects or other enhancements. These are from a few different contributors.
+- Project Gutenberg's [computer-generated audio books](/browse/categories/2). 386 titles from 2003, using text-to-speech automation. These are listenable but relatively low quality compared to today's technology.
+- Human-read audio books from [LibriVox](https://librivox.org). LibriVox is a volunteer community that produces high-quality performances that are done by many different volunteers. Follow the link to find audio books, and also to help create new audio books.
+- [The Project Gutenberg Open Audiobook Collection](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html). Almost 5,000 titles from 2023, via a Project Gutenberg collaboration with Microsoft and MIT. These use neural text-to-speech technology for more natural-sounding computer-generated audio books. These audio books are also available on major music/podcast platforms as well as [The Internet Archive](https://archive.org/details/@project_gutenberg_and_microsoft?tab=uploads).
+
 ## Get Help
   <div class="box_shadow">
     <ul>
