@@ -46,10 +46,10 @@ exclude:
    - to_delete
 
 # Development:
-destination: /public/vhost/g/gutenberg/dev/html/
+# destination: /public/vhost/g/gutenberg/dev/html/
 # 
 # Production:
-# destination: /public/vhost/g/gutenberg/html/
+destination: /public/vhost/g/gutenberg/html/
 
 timezone: America/New_York
 encoding: utf-8 # default
