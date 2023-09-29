@@ -13,6 +13,8 @@ Choose among free epub and Kindle eBooks, download them or read them online. You
 
 {% include latest_books_template.html %}
 
+**Trouble downloading?** In late September 2023 we began getting reports from people using Google Chrome who could no longer download EPUB or other formats. This seems to be due to a change in Chrome. Instead, try right-clicking then use the "Save as..." or similar menu to save to your computer.
+
 **No fee or registration!** Everything from Project Gutenberg is gratis, libre, and completely without cost to readers. If you find Project Gutenberg useful, please consider a small donation to help Project Gutenberg digitize more books, maintain its online presence, and improve Project Gutenberg programs and offerings. Other ways to help include digitizing, proofreading and formatting, or reporting errors.
 
 **No special apps needed!** Project Gutenberg eBooks require no special apps to read, just the regular Web browsers or eBook readers that are included with computers and mobile devices. There have been reports of sites that charge fees for custom apps, or for the same eBooks that are freely available from Project Gutenberg. Some of the apps might have worthwhile features, but none are required to enjoy Project Gutenberg eBooks. 

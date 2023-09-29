@@ -29,6 +29,8 @@ Tablets, Phones and eReaders How-To
 </ol>
 </div>
 
+**Trouble downloading?** In late September 2023 we began getting reports from people using Google Chrome who could no longer download EPUB or other formats. This seems to be due to a change in Chrome. Instead, try right-clicking then use the "Save as..." or similar menu to save to your computer.
+
 ## Project Gutenberg is not just for your desktop or notebook computer!
 All modern tablets, smartphones, and eBook readers we know about can
 display Project Gutenberg eBooks. We are not going to try to list them
