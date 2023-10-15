@@ -4,7 +4,7 @@ title: Help on Download Options and Bibliographic Record | Project Gutenberg
 permalink: /help/bibliographic_record.html
 ---
 
-Every Project Gutenberg eBook has a landing page. For example, this link is the landing page for eBook #1: <a href="/eBooks/1">www.gutenberg.org/ebooks/1</a>. That is where you can find links to download or view the various formats, and also information about the eBook.  
+Every Project Gutenberg eBook has a landing page. For example, this link is the landing page for eBook #1: <a href="/ebooks/1">www.gutenberg.org/ebooks/1</a>. That is where you can find links to download or view the various formats, and also information about the eBook.  
 
 Project Gutenberg offers several different download options for most eBooks, as well as some information about each eBook. This information is called "metadata," presented in the Bibliographic Record section of an eBook's landing page.
 
