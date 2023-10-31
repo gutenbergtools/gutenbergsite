@@ -189,7 +189,7 @@ The First Folio is, as the title implies, from the 1623 printing.
 The 1700 and 2200 series are near-duplicates of each other. These
 Project Gutenberg books were originally created by different
 volunteers and had somewhat different layout, but since then they have
-been updated and each pair of titles are, or will be, identical.
+been updated and each pair of titles is, or will be, identical.
 
 These have mostly not had errata reports applied (as of late 2023),
 and are mostly only available as plain text.
@@ -250,7 +250,7 @@ we have updated metadata for these to indicate they are in the public
 domain in the US. The metadata changes were made in October 2023 to these
 Shakespeare versions:
 
-* The First Folio in the #1100 series, which appears <a name="#specialized">above</a>
+* The First Folio in the #1100 series, which appears <a href="#specialized">above</a>
 
 The 1700 series:
 * [A Midsummer Night's Dream, by William Shakespeare](/ebooks/1778)
