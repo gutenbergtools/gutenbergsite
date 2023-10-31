@@ -18,7 +18,8 @@ of William Shakespeare.
 * <a href="copyright">About copyright status</a>
 
 
-** <a name="first">Project Gutenberg's first Shakespeare in 1994
+<a name="first">Project Gutenberg's first Shakespeare in 1994
+=============================================================
 
 The works of William Shakespeare have a special role for the Project
 Gutenberg collection. Founder Michael Hart's father was a Shakespeare
@@ -50,13 +51,13 @@ Gutenberg assigns a unique accession number to every book. #100 was
 the 100th book, for example. 
 
 Groups of Shakespeare books were published by Project Gutenberg over
-the years. For simplicity, we refer below to the 1100 series, the 1500
-series, the 1700 series, and the 2200 series. You can hover over every
-link to see which series it was part of. 
+the years. For simplicity, we refer in this document to the 1100
+series, the 1500 series, the 1700 series, and the 2200 series. You can
+hover over every link to see which series it was part of.
 
 Some titles were maintained over the years such that they are best
 grouped with another series, such as Venus and Adonis which, while its
-book number is 1045, we group with teh 1500 series.
+book number is 1045, we group with the 1500 series.
 
 
 
@@ -68,7 +69,7 @@ starting points. They are the #1500 series, along with #1041 and #1045.
 
 The #1500 series is generally the most complete. It contains Pericles,
 The Two Noble Kinsmen, and the five longer poems.  Note that in this
-document we present titles in the sorted order including words like
+document we present titles in sorted order including words like
 "A" and "The."
 
 * [A Lover's Complaint, by William Shakespeare](/ebooks/1543)
@@ -129,14 +130,14 @@ changes/updates to those are also update in #100).
 
 * [The Complete Works of William Shakespeare](/ebooks/100)
 
-Note that the 1500 series has covers taken from the first folio,
-though they are not First Folio versions.
+The 1500 series has covers taken from the First Folio, although they are
+not First Folio versions.
 
 
 <a name="specialized">For scholars and others with specialized interests</a>
 ============================================================================
 
-The 1100 series are taken from The Shakespeare First Folio.  
+The 1100 series books are taken from The Shakespeare First Folio.  
 
 * [A Lover's Complaint, by William Shakespeare](/ebooks/1137)
 * [A Midsummer Night's Dream, by William Shakespeare](/ebooks/1113)
@@ -157,7 +158,7 @@ The 1100 series are taken from The Shakespeare First Folio.
 * [King John, by William Shakespeare](/ebooks/1110)
 * [King Lear, by William Shakespeare](/ebooks/1128)
 * [King Richard II, by William Shakespeare](/ebooks/1111)
-* [King Richard III, by William Shakespeare][/ebooks/1103)
+* [King Richard III, by William Shakespeare](/ebooks/1103)
 * [Love's Labour's Lost, by William Shakespeare](/ebooks/1109)
 * [Macbeth, by William Shakespeare](/ebooks/1129)
 * [Measure for Measure, by William Shakespeare](/ebooks/1126)
@@ -185,17 +186,17 @@ The First Folio is, as the title implies, from the 1623 printing.
 <a name="other">Other versions</a>
 ==================================
 
-The 1700 and 2200 series are duplicates. They were originally created
-by different volunteers and had somewhat different layout, but since
-then they have been improved and each pair of titles are, or will be,
-identical.
+The 1700 and 2200 series are near-duplicates of each other. These
+Project Gutenberg books were originally created by different
+volunteers and had somewhat different layout, but since then they have
+been updated and each pair of titles are, or will be, identical.
 
 These have mostly not had errata reports applied (as of late 2023),
 and are mostly only available as plain text.
 
-The 1700 series (below) and 2200 titles have not been updated much, if
-at all.  Generally, readers are advised to instead choose from the
-1500 series or #100.
+The 1700 series (<a href="copyright">below</a>) and 2200 titles have
+not been updated as much as the 1500 series and #100.  Generally,
+readers are advised to instead choose from the 1500 series or #100.
 
 The 2200 series:
 * [A Midsummer Night,s Dream, by William Shakespeare](/ebooks/2242)
@@ -235,8 +236,8 @@ The 2200 series:
 * [Twelfe-Night, by William Shakespeare](/ebooks/2247)
 
 Note that #2270, The Shakespeare First Folio, is listed among the
-recommended titles above. This has been kept consistent with the #1500
-series.
+recommended titles <a href="#where">above</a>. This has been kept
+consistent with the #1500 series.
 
 <a name="copyright">About copyright status</a>
 ==============================================
@@ -249,7 +250,7 @@ we have updated metadata for these to indicate they are in the public
 domain in the US. The metadata changes were made in October 2023 to these
 Shakespeare versions:
 
-* The #1100 series, which appears above 
+* The First Folio in the #1100 series, which appears <a name="#specialized">above</a>
 
 The 1700 series:
 * [A Midsummer Night's Dream, by William Shakespeare](/ebooks/1778)
