@@ -180,7 +180,7 @@ The 1100 series books are taken from The Shakespeare First Folio.
 
 The First Folio is, as the title implies, from the 1623 printing.
 
-* [The Complete Shakespeare's First Folio, 35 Plays](/ebooks/2270)
+* [The Complete Shakespeare's First Folio, 36 Plays](/ebooks/2270)
 
 
 <a name="other">Other versions</a>
