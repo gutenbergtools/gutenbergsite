@@ -100,10 +100,10 @@ Similar books
 This information is not usually available for our newest eBooks, since download patterns have not yet been made.
 
 Readers also downloaded...
-:A link to eBooks that were downloaded by previous visitors.
+: A link to eBooks that were downloaded by previous visitors.
 
 In ...
-:Links to this eBook's subject heading(s) or bookshelf listings, listing other eBooks with the same subject. Bookshelf listings are human-curated topical collections, but are outdated and not currently maintained.
+: Links to this eBook's subject heading(s) or bookshelf listings, listing other eBooks with the same subject. Bookshelf listings are human-curated topical collections, but are outdated and not currently maintained.
 
 ## Metadata fields
 Commonly utilized metadata fields are:
