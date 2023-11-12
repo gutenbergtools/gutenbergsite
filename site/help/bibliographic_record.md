@@ -19,14 +19,14 @@ For more information about tablets and ereaders, see our [help page](/help/mobil
 The main file formats offered by Project Gutenberg are: 
 
 Read online (web)
-: The standard format of the Internet. Legacy formats are automatically updated to the current version, HTML5. Use any web browser to display this file format.
+: The standard format of the Internet. Legacy HTML or XHTML formats are automatically updated to HTML5, which is the current version. Use any web browser to display this file format.
 
-: To save a copy, use your Browser's "Save as.." or similar menu. Be sure to save the "complete" eBook, including images. CSS (cascading style sheets) are usually included within Project Gutenberg HTML files. Occasionally, CSS files are listed separately. HTML may include images in GIF, JPEG, PNG or SVG formats.
+: To save a copy, use your Browser's "Save as.." or a similar menu item. Be sure to save the "complete" eBook, including images. CSS (cascading style sheets) are usually included within Project Gutenberg HTML files. Occasionally, CSS files are listed separately. HTML may include images in GIF, JPEG, PNG or SVG formats as well as music (MP3, MIDI...) and other content types.
 
 EPUB3
 : EPUB version 3 (electronic publication) is the current e-book standard, by the International Digital Publishing Forum (IDPF). EPUB files have the extension <i>.epub</i>. This is the file format most tablets and ereaders use.
 
-: Project Gutenberg EPUB files are free from DRM (Digital Restrictions Management). We automatically generate the EPUB files from the HTML file if there is one, otherwise from the plain text file. If the source file is a plain text file, the program must guess at the structure of the text. Thus EPUB files may contain formatting errors like verse lines run together or paragraphs wrongfully marked as headers.
+: Project Gutenberg EPUB and Kindle files are free from DRM (Digital Restrictions Management). We automatically generate the EPUB files from the HTML file if there is one, otherwise from the plain text file. If the source file is a plain text file, the program must guess at the structure of the text. Thus EPUB files may contain formatting errors like verse lines run together or paragraphs wrongfully marked as headers.
 
 EPUB (older E-readers)
 : EPUB version 2 is offered for older eBook readers or software that cannot use EPUB3. We also offer "EPUB (no images, older E-readers)" which decreases the size of the file by omitting images.
@@ -73,7 +73,7 @@ The approximate file size.
 ### File Hosting Services
 A file hosting service allows you to store files and access them over the Internet from your PC, tablet or smart phone. You must already have an account on those services before you can use them. Many providers offer a free starter package with limited storage that may be upgraded later.
 
-When you save to these services, you may see a notice that some details of your username or who you are will be provided to Project Gutenberg. That doesn't actually happen: we "push" files to these services, without receiving or storing anything about you other than your browser fingerprint, which is part of any page visit to www.gutenberg.org. The (privacy policy)[/policy/privacy_policy.html] has additional information.
+When you save to these services, you may see a notice that some details of your username or who you are will be provided to Project Gutenberg. That doesn't actually happen: we "push" files to these services, without receiving or storing anything about you other than your browser fingerprint, which is part of any page visit to www.gutenberg.org. The [privacy policy](/policy/privacy_policy.html) has additional information.
 
 Project Gutenberg provides file hosting service transfer as a convenience to readers, but does not operate, provide support for, or have any relationships with these services.
 
@@ -123,7 +123,7 @@ Note
 Original publication
 : Publication information from the print source(s) we used for digitization, when known. Project Gutenberg does not seek to exactly match print sources, and might use multiple sources for any given eBook. If knowing the exact provenance of an eBook is important to you, you might need to do your own comparison of the Project Gutenberg eBook to known print sources to identify what is different. You may also be able to get in touch with the producers of the eBook via information in the Credit line.
 
-: Original publication metadata is only available for items published by Project Gutenberg since approximately 2022.
+: Original publication metadata entries are only available for items published by Project Gutenberg since approximately 2022.
 
 Credits
 : Typically this mentions who produced this eBook, and what resource(s) provided the original publication for digitization. 
@@ -150,4 +150,4 @@ Copyright Status
 : Whether the eBook is copyrighted in the U.S. If you don't live in the U.S. you have to check the copyright laws of your country before downloading an eBook! PG does not know the copyright status of any of its ebooks in any country except the U.S. You may download a copyrighted ebook for your personal use but have to contact the copyright owner if you want to redistribute it.
 
 Downloads
-: The approximate number of downloads in the last 30 days.
+: The approximate number of downloads in the last 30 days (updated daily).
