@@ -112,7 +112,7 @@ Be assured that you will not be added to any postal or email address list, or so
 
 This emailed thank you serves as your tax receipt for your donation. 
 
-The fee charged by PayPal for payments is their discounted rate for registered charities.  This is 2.2% of the transaction plus 30 cents per transaction. (For a $100 payment, this amounts to $1.90 or 1.9%. For $10, the fee is $0.52 or 5.2%). PayPal accepts non-US accounts and funds.
+The fee charged by PayPal for payments is their discounted rate for registered charities.  This is 2.2% of the transaction plus 30 cents per transaction. For a $100 payment, this amounts to $2.50 or 2.5%. For $10, the fee is $0.52 or 5.2%. PayPal accepts non-US accounts and funds.
 
 
 ### About donating by Check or Money Order
