@@ -1,0 +1,112 @@
+---
+layout: default
+title: Help on Download Options and Bibliographic Record | Project Gutenberg
+permalink: /help/bibliographic_record.html
+---
+
+Help on Bibliographic Record
+============================
+
+This page is to provide some details on the sections of an eBook's download page (also known as a landing page). There are there are three major sections to the landing page:
+
+1. <a href="#bibrec">"Bibliographic Record" section</a>
+2. <a href="#download">"Download this eBook" section</a>
+3. <a href="#also">"Similar Books" section</a>
+
+## <a name="bibrec"></a>Bibliographic Record section
+
+This table contains all information we collected about the book.
+
+Creator
+: The person or entity that wrote the book.
+
+Title
+: The title of the book.
+
+Language
+: All languages used in the book for main bodies of text. A foreign citation alone does not get a language tag.
+
+Category
+: Text or Sound.
+
+LoC Class
+: Library of Congress Classification. Project Gutenberg only uses the first 2 letters. This classification may help you find books in a special area of interest. The LoC class records are usually added to new eBooks within a few weeks of their publication by Project Gutenberg.
+
+Subject
+: One or more subjects. The subject headings are usually added to new eBooks within a few weeks of their publication by Project Gutenberg.
+
+Ebook-No.
+: This is the Project Gutenberg catalog number (or assession number). Every PG ebook has a different one.
+
+Release Date
+: This is the date the eBook was published by Project Gutenberg.
+
+Copyright Status
+: Whether the eBook is copyrighted in the U.S. If you don't live in the U.S. you have to check the copyright laws of your country before downloading an eBook! PG does not know the copyright status of any of its ebooks in any country except the U.S. You may download a copyrighted ebook for your personal use but have to contact the copyright owner if you want to redistribute it.
+
+Downloads
+: The approximate number of downloads in the last 30 days.
+
+## <a name="download"></a> Download This eBook
+
+### Format
+The file format of the eBook. Main formats are:
+
+HTML ("Read this book online")
+: The standard format of the Internet. Use any web browser to display this file format. To save a copy, use your Browser's "Save as.." or similar menu. Be sure to save the "complete" eBook, including images. CSS (cascading style sheets) are usually included within Project Gutenberg HTML files. Occasionally, CSS files are listed separately. HTML may include images in GIF, JPEG, PNG or SVG formats.
+
+Generated HTML
+: This HTML was computer-generated because we don't have a hand-crafted HTML version of this ebook. This format may contain formatting errors.
+
+EPUB
+: EPUB (electronic publication) is an e-book standard, by the International Digital Publishing Forum (IDPF). EPUB files have the extension <i>.epub</i>. If the eBook contains images, we offer two versions: one with and one without images. Project Gutenberg EPUB files are free from DRM (Digital Restrictions Management). We automatically generate the EPUB files from the HTML file if there is one, else from the plain text file. If the source file is a plain text file, the program must guess at the structure of the text. Thus EPUB files may contain formatting errors like verse lines run together or paragraphs wrongfully marked as headers etc.
+
+Kindle
+: "Kindle" means the MOBI format, which is used by the Amazon Kindle series of mobile ebook readers. If the ebook contains images, we offer two versions: one with and one without images.
+
+Plain text
+: A text file formatted with a fixed line length. Can be viewed in any browser or with an editor like Windows Notepad. For best results set a monospaced font like Courier. Nearly every ebook is available in plain text format. UTF-8 (a.k.a., Unicode) is almost always available and should work with any modern program. Latin1 (ISO-8859-1), plain vanilla ASCII, and a few other text encodings may also be available.
+
+AVI
+: (Older items only) AVI files can contain both audio and video. They can generally be played with some media players
+
+DVI
+: (Older items only) The output format of a typesetting system called TeX.
+
+EPS
+: (Older items only) Short for "Encapsulated PostScript," it can generally be viewed with any PostScript viewer.
+
+ISO
+: (Older items only) A logical copy of a CD-ROM, DVD or other optical media. Most CD/DVD authoring utilities can deal with ISO images.
+
+Plucker
+: (Older items only) A plucker ebook as viewed on a Palm smartphone. A plucker ebook is generated from the HTML file if there is one, else from the plain text file. These do not include images.
+
+QiOO Mobile
+: (Older items only) QiOO Mobile eBook is a proprietary format which is viewable on older mobile phones (Java required). These QiOO Mobile eBook files do not contain images or hyperlinks - they are text only.
+
+### Size
+The approximate file size.
+
+### File Hosting Services
+A file hosting service allows you to store files and access them over the *nternet from your PC, tablet or smart phone. You have to already have an account on those services before you can use them. Many providers offer a free starter package with limited storage that may be upgraded later.
+
+Project Gutenberg provides file hosting service transfer as a convenience to readers, but does not operate, provide support for, or have any relationships with these services.
+
+Dropbox
+: Dropbox is a service that helps you keep files synchronized on your PC and your mobile devices. We will send the ebook to the Apps/gutenberg folder in your Dropbox folder. It will then be copied to all your devices on which you have installed the Dropbox client software.
+
+Google Drive
+: Google Drive is a file hosting service by Google. We will upload the ebook to your Google Drive. You can then download it from anywhere you have an internet connection.
+
+OneDrive
+: OneDrive is a file hosting service by Microsoft. We will upload the ebook to your OneDrive. You can then download it from anywhere you have an internet connection.
+
+## <a name="also"></a> Similar Books
+Download patterns help to automatically identify similar eBooks. Note that Project Gutenberg usage is anonymous, as described in our (privacy policy)[/policy/privacy_policy.html]. Logs from our web server and database are the only sources utilized to identify similar eBooks.
+
+### Readers also downloaded...
+A link to eBooks that were downloaded by previous visitors.
+
+### In ...
+Links to this eBook's subject heading(s), listing other eBooks with the same subject. 
