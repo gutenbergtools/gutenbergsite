@@ -97,6 +97,7 @@ If GUTINDEX.ALL is too big for you or you prefer separate annual lists, you can 
 
 <div class="search_category">
   <ul>
+    <li><a href="/dirs/GUTINDEX.2023">GUTINDEX.2024</a></li>
     <li><a href="/dirs/GUTINDEX.2023">GUTINDEX.2023</a></li>
     <li><a href="/dirs/GUTINDEX.2022">GUTINDEX.2022</a></li>
     <li><a href="/dirs/GUTINDEX.2021">GUTINDEX.2021</a></li>
