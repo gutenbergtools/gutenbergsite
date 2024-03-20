@@ -30,6 +30,7 @@ describe the basis for how Project Gutenberg operates.
 [No Cost, or Freedom?](/about/background/free_ebook.html) (2012)
 
 ### Other items about Project Gutenberg
+- [Forty-Five Years of Digitizing Ebooks: Project Gutenberg's Practices](https://www.gutenberg.org/ebooks/60600), by Dr. Gregory Newby, CEO of the Project Gutenberg Literary Archive Foundation (2019). 
 - Project Gutenberg eBooks by Marie Lebert covering the history of Project
 Gutenberg:
   - in English (2008): [Project Gutenberg (1971-2008)](https://www.gutenberg.org/ebooks/27045).
