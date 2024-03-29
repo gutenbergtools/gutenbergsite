@@ -42,9 +42,9 @@ Project Gutenberg is working with <a href="https://givefreely.com/" target="_bla
 
 The Give Freely model is to install a browser extension that automatically tracks when you visit a participating online merchant, and then channels donations from that merchant to your selected charity when you make a purchase. There is no cost to the individual donors. The browser extension also helps to find coupons in the merchant's online stores.
 
-Give Freely has a mission and philosophy that emphasizes <a href="https://givefreely.com/transparency" target="_blank" rel="noopener noreferrer">transparancy</a> and accountability.
+Give Freely has a mission and philosophy that emphasizes <a href="https://givefreely.com/transparency" target="_blank" rel="noopener noreferrer">transparency</a> and accountability.
 
-This donation method is currently only available for people in the United States, using the Chrome or Edge browser.
+This donation method is currently only available for people in the United States who are using the Chrome or Edge browser. Project Gutenberg has a (Google-hosted) <a href="https://docs.google.com/forms/d/e/1FAIpQLSdvk_QEXMmSWr042oJJ-HQf9JxGFJADEh5HJxTfOldQ-k0vLg/viewform?usp=sf_link" rel="noopener noreferrer">feedback form</a> for any input you might have about using the Give Freely donation platform.
 
 ## Easy ways to Donate
 
@@ -77,6 +77,7 @@ Make a <strong>monthly donation</strong> (cancel any time):
 
 <select name="os0">
       <option value="One dollar">One dollar : $1.00USD</option>
+      <option value="Five dollars">Five dollars : $5.00USD</option>
       <option value="Ten dollars">Ten dollars : $10.00USD</option>
       <option value="Twenty-five dollars">Twenty-five dollars : $25.00USD</option>
       <option value="One hundred dollars">One hundred dollars : $100.00USD</option>
@@ -98,7 +99,7 @@ Send a check or money order (any currency) to:
 
 ## <a name="#additional-detail-on-how-to-donate"></a>Additional Detail on How To Donate
 
-Project Gutenberg's success is due to the hard work of thousands of volunteers over more than 50 years. Your donations make it possible to support these volunteers, and pay our few expenses to continue the creation of free electronic texts.
+Project Gutenberg's success is due to the hard work of thousands of volunteers over more than 50 years. Your donations make it possible to support these volunteers, and pay our expenses to continue the creation of free electronic texts.
 
 Donations are made to the [Project Gutenberg Literary Archive Foundation](/about/pglaf.html), a non-profit corporation registered in the US State of Mississippi. PGLAF is approved as a charitable 501(c)(3) organization by the US Internal Revenue Service, and has the Federal Employee Information Number (EIN) 64-6221541.
 
@@ -109,7 +110,7 @@ In summary, BuyMeACoffee or PayPal are usually the easiest and most flexible pay
 ### <a name="using-buymeacoffee"></a>About donations by BuyMeACoffee
 <a name="about-donations-by-buymeacoffee"></a>BuyMeACoffee (or Buy Me A Coffee) is a website for donations that provides 100% of all donations to the Project Gutenberg Literary Archive Foundation. It requires no registration for donors.
 
-You can donate in any increment of $5. Five American dollars is envisioned the nominal cost of a (rather fancy) cup of coffee. You can learn more about this donation platform on their <a href="https://www.buymeacoffee.com/faq">FAQ page</a>.
+You can donate in any increment of $5. Five American dollars is envisioned as the nominal cost of a (rather fancy) cup of coffee. You can learn more about this donation platform on their <a href="https://www.buymeacoffee.com/faq">FAQ page</a>.
 
 Project Gutenberg is provided with your name and the donation amount, but is not provided your contact information (email, Twitter, or any other identification that you might have submitted. So, we cannot send a "thank you" note.
 
@@ -118,13 +119,13 @@ If you need a tax receipt, be sure to save the payment information from the Buy 
 ### <a name="about-donations-by-paypal"></a>About donations by PayPal
 <a name="about-donations-by-paypal"></a>PayPal is a Web site that accepts credit cards, checks, and bank transfer payments.  You need to set up a PayPal account to donate via PayPal (in the past, you could donate without setting up an account.  This doesn't seem to be possible any more). Visa, MasterCard, Amex and Discover are accepted.  Because of PayPal's fees, any donation of under 32 cents or so doesn't reach PGLAF.  Instead, consider letting your small donations add up to a dollar or more before sending it with PayPal.
 
-Rather than using the quick donation links above, you can login to PayPal and select "Send Money." When prompted, specify 'donate2023@pglaf.org' as the recipient, and you will be presented with PGLAF's information. Send the payment as you would any other payment. Funds go directly to PGLAF via PayPal.  Any national currency is OK.
+In addition to using the quick donation links above, you can also login to PayPal and select "Send Money." When prompted, specify 'donate2024@pglaf.org' as the recipient, and you will be presented with PGLAF's information. Send the payment as you would any other payment. Funds go directly to PGLAF via PayPal.  Any national currency is OK.
 
-Be assured that you will not be added to any postal or email address list, or solicited further. You will get a "thank you" email from the CEO, and that is all. You are invited to subscribe to the email lists, but we do not subscribe you directly.
+Be assured that you will not be added to any postal or email list or solicited further. You will get a "thank you" email from the CEO, and that is all. You are invited to subscribe to the email lists, but we do not subscribe you directly.
 
-This emailed thank you serves as your tax receipt for your donation. 
+This emailed thank you and your PayPal transaction record serve as your tax receipt for your donation. 
 
-The fee charged by PayPal for payments is their discounted rate for registered charities.  This is 2.2% of the transaction plus 30 cents per transaction. For a $100 payment, this amounts to $2.50 or 2.5%. For $10, the fee is $0.52 or 5.2%. PayPal accepts non-US accounts and funds.
+The fee charged by PayPal for your donation is their discounted rate for registered charities.  This is 2.2% of the transaction plus 30 cents per transaction. For a $100 payment, this amounts to $2.50 or 2.5%. For $10, the fee is $0.52 or 5.2%. PayPal accepts non-US accounts and funds.
 
 
 ### <a name="about-donating-by-check-or-money-order"></a>About donating by Check or Money Order
@@ -134,14 +135,14 @@ The fee charged by PayPal for payments is their discounted rate for registered c
 <dd> PO Box 16327<br /></dd>
 <dd> Salt Lake City, UT 84116</dd></dl>
 
-The bank we utilize, Wells Fargo, does not charge any fees for our use of the bank account. They do charge a fee of at least $5 for depositing checks from outside the US. Any donation of $100 or over will receive a written "thank you" via postal mail, unless you do not provide a return address.
+The bank we utilize, Wells Fargo, does not charge any fees for our use of the bank account. They do charge a fee of at least $5 for depositing checks from outside the US or in non-US currency. Any donation of $100 or over will receive a written "thank you" via postal mail, unless you do not provide a return address.
 
-This written thank you serves as your tax receipt for your donation. 
+This written thank you and your cancelled check serve as your tax receipt for your donation. 
 
 ### <a name="about-donating-by-non-us-funds-check-or-money-order"></a>About donating by Non-US Funds Check or Money Order
-<a name="about-donating-by-non-us-funds-check-or-money-order"></a>Send a check or money order in non-US funds. This can go to the same address as above. The bank charges a fee for processing non-US funds. This fee is difficult to know in advance, but usually seems to be around five dollars. The exchange rate to US funds is at market value.
+<a name="about-donating-by-non-us-funds-check-or-money-order"></a>Send a check or money order in non-US funds. This can go to the same address as above. The bank charges a fee for processing non-US funds. This fee is difficult to know in advance, but usually seems to be five dollars or slightly more for checks of at least $USD 100 in value. The exchange rate to US funds is at market value.
 
 ## <a name="about-donating-by-non-us-funds-check-or-money-order"></a>Privacy Policy For Donations
 <a name="privacy-policy-for-donations"></a>In order to meet IRS tax regulations, PGLAF keeps track of the names, addresses, donation amounts and donation methods of non-anonymous donors. We normally send a postal or email "thank you" letter when we receive your donation over $100.
 
-We do not provide any information about donors to any party outside of PGLAF and its employees and contractors for any purpose, except if required by law. We will not send subsequent postal or electronic mail or attempt to phone you. We do not add you to any mailing list. If you would like to subscribe to one of the Project Gutenberg email lists, to receive the monthly newsletter or immediate notificaions of new eBooks, please visit [our mailing list pages](https://lists.pglaf.org) for instructions.
+We do not provide any information about donors to any party outside of PGLAF and its employees and contractors for any purpose, except if required by law. We will not send subsequent postal or electronic mail or attempt to phone you. We do not add you to any mailing list or email list. If you would like to subscribe to one of the Project Gutenberg email lists to receive the monthly newsletter or immediate notificaions of new eBooks, please visit [our mailing list pages](https://lists.pglaf.org) for instructions.

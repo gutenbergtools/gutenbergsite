@@ -1,0 +1,26 @@
+{%- include head1.html -%}
+
+ <title>{{ page.title }}</title>
+
+{%- include head2.html -%}
+ <script type="module" src="https://cdn.givefreely.com/gutenberg-popup/index.js"></script>
+
+ <body>
+  <div class="container"><!-- start body -->
+
+   {%- include menu.html -%}
+
+   <div class="page_content"><!-- start content -->
+
+        {{ content }}
+
+   </div><!--content ending-->
+  </div><!-- body ending -->
+   <div class="footer"><!-- start footer -->
+
+    {%- include footer.html -%}
+
+   </div><!-- footer ending-->
+
+ </body>
+</html>
