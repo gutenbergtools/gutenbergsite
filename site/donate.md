@@ -15,6 +15,7 @@ Think of this as a contribution to later generations. These are remarkable times
 Contents
 <ol>
 
+ <li><a href="#experiment">Give Freely fundraising experiment</a></li>
  <li><a href="#easy-ways-to-donate">Easy ways to Donate</a></li>
   <ol class="inner_1">
    <li><a href="#using-buymeacoffee">Using BuyMeACoffee</a></li>
@@ -34,6 +35,16 @@ Contents
  <li><a href="#privacy-policy-for-donations">Privacy Policy For Donations</a></li>
 </ol>
 </div>
+
+## <a name="experiment"></a>Fundraising Experiment with Give Freely
+
+Project Gutenberg is working with <a href="https://givefreely.com/" target="_blank">Give Freely</a> to provide options for readers to generate donations of funds.
+
+The Give Freely model is to install a browser extension that automatically tracks when you visit a participating online merchant, and then channels donations from that merchant to your selected charity when you make a purchase. There is no cost to the individual donors. The browser extension also helps to find coupons in the merchant's online stores.
+
+Give Freely has a mission and philosophy that emphasizes <a href="https://givefreely.com/transparency" target="_blank">transparancy</a> and accountability.
+
+This donation method is currently only available for people in the United States, using the Chrome or Edge browser.
 
 ## Easy ways to Donate
 
