@@ -40,7 +40,7 @@ Contents
 
 Project Gutenberg is working with <a href="https://givefreely.com/" target="_blank" rel="noopener noreferrer">Give Freely</a> to provide options for readers to generate donations of funds.
 
-The Give Freely model is to install a browser extension that automatically tracks when you visit a participating online merchant, and then channels donations from that merchant to your selected charity when you make a purchase. There is no cost to the individual donors. The browser extension also helps to find coupons in the merchant's online stores.
+The Give Freely model is to install a browser extension. The extension automatically detects when you visit a participating online merchant. Then, if you make a purchase, a donation is channeled from that merchant to your selected charity. There is no cost to you. The browser extension also helps to find coupons in the online merchant sites.
 
 Give Freely has a mission and philosophy that emphasizes <a href="https://givefreely.com/transparency" target="_blank" rel="noopener noreferrer">transparency</a> and accountability.
 
