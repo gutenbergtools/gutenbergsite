@@ -91,7 +91,7 @@ Visit the Amazon help pages for your specific Kindle model. The help pages for t
 
 There are too many different products, with sometimes differing software or features, for us to keep up. Your best solution will be to look for guidance for your specific situation. Amazon seems to remove support for some capabilities from older Kindles, including web browser support for the modern secure web (https).
 
-An alternative to side loading is to use Amazon's "Send to Kindle" functionality. You can find Amazon's informatino about this at [amazon.com/sendtokindle](https://www.amazon.com/sendtokindle).
+An alternative to side loading is to use Amazon's "Send to Kindle" functionality. You can find Amazon's information about this at [amazon.com/sendtokindle](https://www.amazon.com/sendtokindle).
 
 To send a Project Gutenberg eBook to your Kindle using this method, you must first visit the site above and tell Amazon what email address(es) you want to enable to email content to your Kindle. You also need to determine your personal Kindle email address from the site above or your Kindle's settings page.
 
