@@ -58,6 +58,8 @@ Give Freely has a mission and philosophy that emphasizes <a href="https://givefr
 
 This donation method is currently only available for people in the United States who are using the Chrome or Edge browser. Project Gutenberg has a (Google-hosted) <a href="https://docs.google.com/forms/d/e/1FAIpQLSdvk_QEXMmSWr042oJJ-HQf9JxGFJADEh5HJxTfOldQ-k0vLg/viewform?usp=sf_link" rel="noopener noreferrer">feedback form</a> for any input you might have about using the Give Freely donation platform.
 
+The Give freely browser extension can be disabled or uninstalled at any time.
+
 ## Easy ways to Donate
 
 ### Using  <a name="using-buymeacoffee"></a>BuyMeACoffee
