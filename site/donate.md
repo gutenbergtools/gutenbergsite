@@ -14,7 +14,7 @@ Think of this as a contribution to later generations. These are remarkable times
 <div class="contents">
 Contents
 <ol>
-
+ <li><a href="#free">Project Gutenberg is always free!</a></li>
  <li><a href="#experiment">Give Freely fundraising experiment</a></li>
  <li><a href="#easy-ways-to-donate">Easy ways to Donate</a></li>
   <ol class="inner_1">
@@ -35,6 +35,18 @@ Contents
  <li><a href="#privacy-policy-for-donations">Privacy Policy For Donations</a></li>
 </ol>
 </div>
+
+
+## <a name="free"></a>Project Gutenberg is always free!
+
+Project Gutenberg appreciates donations. They help to operate our minimalist infrastructure and pay our tiny staff, and most importantly to support volunteers who create new eBooks.
+
+The design of Project Gutenberg is that it will always be free: the content is available for unlimited free redistribution, and the main website is hosted without fees by <a href="https://www.ibiblio.org" target="_blank">iBiblio</a>.
+
+Project Gutenberg's founder, Michael Hart, was notoriously frugal. He never wanted to be dependent on specific funding levels, and instead insisted that Project Gutenberg would continue even if it had no funds. In support of this, he went for years without reliable income.
+
+Donations help Project Gutenberg to support its activity and augment its message, and to maintain the pace of around 200 new titles per month. There will never be a cost to access Project Gutenberg's content, and everything at www.gutenberg.org will always be available for unlimited free redistribution.
+
 
 ## <a name="experiment"></a>Fundraising Experiment with Give Freely
 
