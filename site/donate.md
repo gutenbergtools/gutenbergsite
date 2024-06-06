@@ -15,11 +15,11 @@ Think of this as a contribution to later generations. These are remarkable times
 Contents
 <ol>
  <li><a href="#free">Project Gutenberg is always free!</a></li>
- <li><a href="#experiment">Give Freely fundraising experiment</a></li>
  <li><a href="#easy-ways-to-donate">Easy ways to Donate</a></li>
   <ol class="inner_1">
    <li><a href="#using-buymeacoffee">Using BuyMeACoffee</a></li>
    <li><a href="#using-paypal">Using PayPal</a></li>
+   <li><a href="#givefreely">Using the Give Freely browser extension</a></li>
    <li><a href="#by-check-or-money-order">By Check or Money Order</a></li>
   </ol>
   
@@ -47,18 +47,6 @@ Project Gutenberg's founder, Michael Hart, was notoriously frugal. He never want
 
 Donations help Project Gutenberg to support its activity and augment its message, and to maintain the pace of around 200 new titles per month. There will never be a cost to access Project Gutenberg's content, and everything at www.gutenberg.org will always be available for unlimited free redistribution.
 
-
-## <a name="experiment"></a>Fundraising Experiment with Give Freely
-
-Project Gutenberg is working with <a href="https://givefreely.com/" target="_blank" rel="noopener noreferrer">Give Freely</a> to provide options for readers to generate donations of funds.
-
-The Give Freely model is to install a browser extension. The extension automatically detects when you visit a participating online merchant. Then, if you make a purchase, a donation is channeled from that merchant to your selected charity. There is no cost to you. The browser extension also helps to find coupons in the online merchant sites.
-
-Give Freely has a mission and philosophy that emphasizes <a href="https://givefreely.com/transparency" target="_blank" rel="noopener noreferrer">transparency</a> and accountability.
-
-This donation method is currently only available for people in the United States who are using the Chrome or Edge browser. Project Gutenberg has a (Google-hosted) <a href="https://docs.google.com/forms/d/e/1FAIpQLSdvk_QEXMmSWr042oJJ-HQf9JxGFJADEh5HJxTfOldQ-k0vLg/viewform?usp=sf_link" rel="noopener noreferrer">feedback form</a> for any input you might have about using the Give Freely donation platform.
-
-The Give freely browser extension can be disabled or uninstalled at any time.
 
 ## Easy ways to Donate
 
@@ -102,6 +90,20 @@ Make a <strong>monthly donation</strong> (cancel any time):
        style="vertical-align: middle" />
 
 </form>
+
+### <a name="givefreely"></a>Using the Give Freely browser extension
+
+Project Gutenberg has subscribed to <a href="https://givefreely.com/" target="_blank" rel="noopener noreferrer">Give Freely</a> to provide options for readers to generate donations of funds.
+
+The Give Freely approach is to install a browser extension. The extension automatically detects when you visit a participating online merchant. Then, if you make a purchase, a donation is channeled from that merchant to your selected charity. There is no cost to you. The browser extension also helps to find coupons in the online merchant sites.
+
+Give Freely has a mission and philosophy that emphasizes <a href="https://givefreely.com/transparency" target="_blank" rel="noopener noreferrer">transparency</a> and accountability.
+
+This donation method is currently only available for people in the United States, Canada or the UK who are using the Chrome or Edge browser. Additional browser support is coming in summer 2024. Give Freely may not work for you if you already have ad blocker software installed.
+
+Project Gutenberg has a (Google-hosted) <a href="https://docs.google.com/forms/d/e/1FAIpQLSdvk_QEXMmSWr042oJJ-HQf9JxGFJADEh5HJxTfOldQ-k0vLg/viewform?usp=sf_link" rel="noopener noreferrer">feedback form</a> for any input you might have about using the Give Freely donation platform.
+
+The Give freely browser extension can be disabled or uninstalled at any time.
 
 ### <a name="by-check-or-money-order"></a> By Check or Money Order
 

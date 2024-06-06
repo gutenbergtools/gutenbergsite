@@ -1,5 +1,5 @@
 ---
-layout: default_gf
+layout: default
 title: Free eBooks | Project Gutenberg
 permalink: /
 ---
@@ -15,7 +15,7 @@ Choose among free epub and Kindle eBooks, download them or read them online. You
 
 **No fee or registration!** Everything from Project Gutenberg is gratis, libre, and completely without cost to readers. If you find Project Gutenberg useful, please consider a small donation to help Project Gutenberg digitize more books, maintain its online presence, and improve Project Gutenberg programs and offerings. Other ways to help include digitizing, proofreading and formatting, or reporting errors.
 
-**Fundraising experiment** with Give Freely. US-based visitors using the Chrome and Edge browsers get an occasional pop-up invitation to install a browser extension to generate donations to Project Gutenberg. Read more about this fundraising experiment, including how to send your input about it, on Project Gutenberg's <a href="/donate/">donation page</a>.
+**New donation option** with Give Freely. You might have seen a pop-up or footer about this. <a href="/donate/index.html#givefreely">More information...</a>.
 
 **No special apps needed!** Project Gutenberg eBooks require no special apps to read, just the regular Web browsers or eBook readers that are included with computers and mobile devices. There have been reports of sites that charge fees for custom apps, or for the same eBooks that are freely available from Project Gutenberg. Some of the apps might have worthwhile features, but none are required to enjoy Project Gutenberg eBooks. 
 
