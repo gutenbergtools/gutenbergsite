@@ -109,9 +109,11 @@ The Give freely browser extension can be disabled or uninstalled at any time.
 
 Send a check or money order (any currency) to:
 
-<dl><dd>  Project Gutenberg Literary Archive Foundation</dd>
-<dd>  PO Box 16327</dd>
-<dd>  Salt Lake City, UT 84116</dd></dl>
+<dl><dd>Project Gutenberg Literary Archive Foundation</dd>
+<dd>PO Box 16327</dd>
+<dd>Salt Lake City, UT 84116</dd></dl>
+
+Note that since fall 2023 we have had problems with some mail sent to our USPS post office box being delayed significantly. Delays of up to 6 months have occurred. This has been frustrating for donors, as well as for Project Gutenberg, and has resulted in check deposits being delayed.
 
 ## <a name="#additional-detail-on-how-to-donate"></a>Additional Detail on How To Donate
 
