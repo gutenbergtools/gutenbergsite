@@ -13,6 +13,8 @@ Choose among free epub and Kindle eBooks, download them or read them online. You
 
 {% include latest_books_template.html %}
 
+** Alert!** As of midnight (EDT) Monday June 17 search results are ourdated. Due to a service failure, we are using a backup system that is not full synchronized. This will be fixed by mid-day.
+
 **No fee or registration!** Everything from Project Gutenberg is gratis, libre, and completely without cost to readers. If you find Project Gutenberg useful, please consider a small donation to help Project Gutenberg digitize more books, maintain its online presence, and improve Project Gutenberg programs and offerings. Other ways to help include digitizing, proofreading and formatting, or reporting errors.
 
 **New donation option** with Give Freely. You might have seen a pop-up or footer about this. <a href="/donate/index.html#givefreely">More information...</a>.
