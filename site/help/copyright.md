@@ -98,7 +98,8 @@ Works first created on or after January 1, 1978 that are created by a corporate 
 Works created before January 1, 1978 but not published before that date are copyrighted under rules similar to rules 2 and 3 above, except that in no case will the copyright on a work not published prior to January 1, 1978 expire before December 31, 2002. If the work was published before December 31, 2002, its copyright will not expire before December 31, 2047. (This rule extends copyright protection to a lot of manuscripts that we would otherwise think of as not protected by U.S. copyright law because of their age.) 
 
 ### Rule 5: Publication and Distribution of U.S. Works Prior to March 1, 1989 Without Proper Notice
-If a substantial number of copies of a U.S. Work were printed and distributed in the U.S. prior to March 1, 1989 without a copyright notice, and the work is of entirely American authorship or is considered to be first published in the United States, the work is not protected under U.S. copyright law. (Note that we cannot clear items printed/published outside of the U.S. under this rule.) 
+
+If a substantial number of copies of a U.S. Work were printed and distributed in the U.S. prior to March 1, 1989 without a copyright notice, and the work is of entirely American authorship or is considered to be first published in the United States, the work is not protected under U.S. copyright law. (Note that we cannot clear items printed/published outside of the U.S. under this rule.)
 
 ### Rule 6: Failure of U.S. Works to Comply With Renewal Requirements Prior to 1964
 Rule 6 copyright research is only accepted from known volunteers with demonstrated competency in the required evidence steps to provide non-renewal evidence. 
