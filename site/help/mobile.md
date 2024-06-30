@@ -54,7 +54,7 @@ to your eBook reader or mobile phone:
 3. Download to your computer, and transfer (i.e., "side load") to your device. This might be done with a USB cable, Bluetooth, or another method.
 4. Use a third party site or app (including some for-fee sites or apps), which facilitate getting files onto your device. Note that Project Gutenberg does not have any apps, and there are never logins or fees from Project Gutenberg.
 5. Use integration with services such as Dropbox, Google Drive, and OneDrive. These download links are available on the landing pages, and some devices can automatically access files from them.
-6. Use Overdrive (Libby) or other apps libraries and third parties. Some libraries have free Project Gutenberg eBooks in their catalog, for download and reading alongside other books in their collections.
+6. Use Overdrive (Libby) or other apps used by libraries or others. Some libraries have free Project Gutenberg eBooks in their catalog, for download and reading alongside other books in their collections.
 7. Other methods, as supported by your device. For example, the Kindle supports an email method to transform and receive files.
 
 ## Search For Guidance
