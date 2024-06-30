@@ -2,7 +2,7 @@
 
 This is the source content, database, and other internal files used for building the [gutenberg.org](https://www.gutenberg.org) website.
 
-This is a `git` repository hosted on Github at https://github.com/gbnewby/gutenbergsite.
+This is a `git` repository hosted on Github at https://github.com/gutenbergtools/gutenbergsite.
 
 
 ## Development
@@ -17,7 +17,7 @@ Dependencies:
 
 Once Ruby, Jekyll, and Git are setup:
 
-    git clone https://github.com/gbnewby/gutenbergsite.git
+    git clone https://github.com/gutenbergbools/gutenbergsite.git
     cd gutenbergsite
     bundle exec jekyll serve
 
@@ -26,7 +26,7 @@ Then open your web browser to http://localhost:4000
 
 ### Further Information
 
-You will need a Github account, and a SSH key to enable pulls or commits, but any user logged into github may submit commit requests. 
+Any user logged into github may submit pull requests. 
 
 If you are new to Github and git repositories, please first read the Github [Quick Start](https://help.github.com/en/github/getting-started-with-github/quickstart) guide.
 
