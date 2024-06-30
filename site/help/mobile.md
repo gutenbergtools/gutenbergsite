@@ -53,7 +53,9 @@ to your eBook reader or mobile phone:
 2. Download eBooks directly to your device over the Internet. If your device is Internet-enabled, just visit the catalog landing page for a book, and download one of the formats your device can display. Here is a sample catalog landing page: [www.gutenberg.org/ebooks/11](/ebooks/11). Use the author/title search boxes on every page at www.gutenberg.org to find eBooks you are interested in.
 3. Download to your computer, and transfer (i.e., "side load") to your device. This might be done with a USB cable, Bluetooth, or another method.
 4. Use a third party site or app (including some for-fee sites or apps), which facilitate getting files onto your device. Note that Project Gutenberg does not have any apps, and there are never logins or fees from Project Gutenberg.
-5. Other methods, as supported by your device. For example, the Kindle supports an email method to transform and receive files.
+5. Use integration with services such as Dropbox, Google Drive, and OneDrive. These download links are available on the landing pages, and some devices can automatically access files from them.
+6. Use Overdrive (Libby) or other apps libraries and third parties. Some libraries have free Project Gutenberg eBooks in their catalog, for download and reading alongside other books in their collections.
+7. Other methods, as supported by your device. For example, the Kindle supports an email method to transform and receive files.
 
 ## Search For Guidance
 Many articles have been written on different approaches to getting Project Gutenberg content onto different devices. Use your favorite search site to look for guidance. These include articles on specific devices, as well on how convert Gutenberg files to other formats. We don't try to maintain a list of links here, since the articles tend to evolve rapidly as new devices and software come out. Instead, use your favorite web search engine to find the details you need.
@@ -69,7 +71,7 @@ There are a few different challenges that many people face. Here are some of the
 
   *Save an eBook* to transfer to your device. If you are using your computer to look at an eBook, you can save the eBook's file(s) to your computer so that you can copy it to your device. Try the "File / Save as..." ... "HTML Complete" or similar option in your Web browser to save the file(s) to a folder you choose, so that you can later transfer the files to your device. If you want to get a particular file format (often the EPUB format), from the Project Gutenberg download page you can right-click to get a pop-up menu, then "save as..." (or a similar option). If you don't have a right mouse button (on some Macs), use control-click to get the pop-up menu.
 
-For HTML, make sure you save the complete page. Some Web browsers just download the HTML (the text), and link back to the images at the www.gutenberg.org site. This won't work reliably, since viewing the book woudl then require you to be online. Project Gutenberg wants you to have the WHOLE eBook - download the complete HTML with images. All Web browsers offer this as a menu option, but it might not be the default choice.
+For HTML, make sure you save the complete page. Some Web browsers just download the HTML (the text), and link back to the images at the www.gutenberg.org site. This won't work reliably, since viewing the book would then require you to be online. Project Gutenberg wants you to have the WHOLE eBook - download the complete HTML with images. All Web browsers offer this as a menu option, but it might not be the default choice.
 
   *Where is the file?* If you simply click a file to download, you might get a dialog box or something similar, asking whether you want to save the file. But where did it go?  It seems there are many different places your computer or reader might save the file, and they can be hard to find later. Use the "save as..." method mentioned above to choose a specific location. Also, keep in mind that the Project Gutenberg files might have names that don't related to the book's title (we use a numeric file naming scheme based on the eBook number). You can rename the files to anything you'd like, but you will first need to know where they are saved.
 
@@ -110,11 +112,11 @@ The Barnes &amp; Noble "Nook" devices seem to work well with Project Gutenberg t
 Beware that there are many Barnes &amp; Noble titles in print and eBooks that are not free from them, but are free from Project Gutenberg. B&amp;N often adds a "Copyright" statement to such old books (for example, Pride and Prejudice, which actually was included with the Nook we tried), but only things like the cover and introduction are copyrighted, the main text is not. For older content (95+ years since publication), there is a good chance that Project Gutenberg has it for free, but B&amp;N will charge money for it. Of course there might be advantages to the non-free version (such as better formatting). Be aware, and make an informed choice.
 
 ## Kobo Reader
-Kobo has had positive reviews, and is less restrictive about where it gets content than devices from B&amp;N and Amazon.
+Kobo has had positive reviews, and seems to often be less restrictive about where it gets content than devices from B&amp;N and Amazon.
 
 Putting a Project Gutenberg EPUB file onto a Kobo couldn't be easier. Connect your Kobo to your computer, then drag and drop the EPUB from your computer to the Kobo. When you disconnect your Kobo, it will automatically ingest the EPUB, and add it to "My Books."
 
-The [Kobo](https://www.kobo.com/) reader online store includes free access to 100 of the most popular Project Gutenberg titles. You need to go through the registration process to get access to the store. Direct transfer of downloaded eBooks from a computer to the Kobo did not immediately work for us, but is supposed to be supported. The Kobo supports PDF and EPUB formats, and has a simple built-in Web browser that can be used to read eBooks online. Project Gutenberg would like to thank Kobo for providing free evaluation readers in 2010.
+The [Kobo](https://www.kobo.com/) reader online store includes free access to 100 of the most popular Project Gutenberg titles. You need to go through the registration process to get access to the store. The Kobo supports PDF and EPUB formats, and has a simple built-in Web browser that can be used to read eBooks online. Project Gutenberg would like to thank Kobo for providing free evaluation readers in 2010.
 
 ## Android
 The Android operating system is found on many phones and tablets. The specific features and applications vary, and there are often customizations to Android that change functionality. Android devices include Web browsers that can be used to read Project Gutenberg's text and HTML eBooks online. 
@@ -127,7 +129,7 @@ Your regular Web browser (Safari, etc.) can read Project Gutenberg eBooks online
 If you prefer to download, instead of reading online, the fastest way to get Project Gutenberg ebooks onto your iOS device is to use the built-in browser
 to download the EPUB format and then "open in" the preferred application.
 
-You can also get Project Gutenberg's eBook files onto the iPad using iTunes or other programs that transfer files to your device. This works for EPUB files, and it also works well for Project Gutenberg's MP3 audio eBooks.
+You can also get Project Gutenberg's eBook files onto the iPad using Apple Books or other programs that transfer files to your device. This works for EPUB files, and it also works well for Project Gutenberg's MP3 audio eBooks.
 
 We have received this specific set of instructions from a reader. They might not work exactly on your iPad, and are intended to illustrate the general process. They assume you have installed the Amazon Kindle app from Apple's app store - this is only one of many applications that can display Kindle (KF8) or EPUB-formatted files - different applications would utilize similar steps:
 
