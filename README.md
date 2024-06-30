@@ -17,7 +17,7 @@ Dependencies:
 
 Once Ruby, Jekyll, and Git are setup:
 
-    git clone https://github.com/gutenbergbools/gutenbergsite.git
+    git clone https://github.com/gutenbergtools/gutenbergsite.git
     cd gutenbergsite
     bundle exec jekyll serve
 
