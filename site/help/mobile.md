@@ -7,6 +7,7 @@ permalink: /help/mobile.html
 Tablets, Phones and eReaders How-To
 ===================================
 
+
 <div class="contents">
 <ol>
  <li><a href="#project-gutenberg-is-not-just-for-your-desktop-or-notebook-computer">Project Gutenberg is not just for your desktop or notebook computer!</a></li>
