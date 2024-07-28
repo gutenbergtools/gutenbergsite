@@ -51,7 +51,7 @@ Find our RSS feed in the [cache/feeds](/cache/epub/feeds/today.rss) location. Up
 
 ### Email
 
-The "[posted](https://lists.pglaf.org/mailman/listinfo/posted)" list is where every new eBook is announced as it is being uploaded to the Project Gutenberg servers. New books are then available for download, typically within 2 hours. The list has a once-daily digest option, and also online public archives.
+The "[posted](https://lists.pglaf.org/mailman3/lists/?count=50&page=1)" list is where every new eBook is announced as it is being uploaded to the Project Gutenberg servers. New books are then available for download, typically within 2 hours. The list has a once-daily digest option, and also online public archives.
 
 ### Social media
 ## Social Media
