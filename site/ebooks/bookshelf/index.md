@@ -103,134 +103,119 @@ Another way to find eBooks related to a topic is by browsing the Bibliographic R
 
 <h2>A</h2>
 <ul>
-  <li>Browsing: Archaeology</li>
-  <li>Browsing: Architecture</li>
-  <li>Browsing: Art & Photography</li> </ul>
+  <li><a href="/ebooks/bookshelf/424">Browsing: Archaeology</a></li>
+  <li><a href="/ebooks/bookshelf/425">Browsing: Architecture</a></li>
+  <li><a href="/ebooks/bookshelf/426">Browsing: Art & Photography</a></li>
  </ul>
-
 <h2>B</h2>
 <ul>
-  <li>Browsing: Biographies</li>
-  <li>Browsing: Business/Management</li> </ul>
+  <li><a href="/ebooks/bookshelf/427">Browsing: Biographies</a></li>
+  <li><a href="/ebooks/bookshelf/428">Browsing: Business/Management</a></li>
  </ul>
-
 <h2>C</h2>
 <ul>
-  <li>Browsing: Children & Young Adult Reading</li>
-  <li>Browsing: Computers & Technology</li>
-  <li>Browsing: Cooking & Drinking</li>
-  <li>Browsing: Culture/Civilization/Society</li>
-  <li>Browsing: Crime/Mystery</li> </ul>
+  <li><a href="/ebooks/bookshelf/429">Browsing: Children & Young Adult Reading</a></li>
+  <li><a href="/ebooks/bookshelf/430">Browsing: Computers & Technology</a></li>
+  <li><a href="/ebooks/bookshelf/431">Browsing: Cooking & Drinking</a></li>
+  <li><a href="/ebooks/bookshelf/431">Browsing: Culture/Civilization/Society</a></li>
+  <li><a href="/ebooks/bookshelf/433">Browsing: Crime/Mystery</a></li>
  </ul>
-
 <h2>E</h2>
 <ul>
-  <li>Browsing: Drugs/Alcohol/Pharmacology</li> </ul>
+  <li><a href="/ebooks/bookshelf/434">Browsing: Drugs/Alcohol/Pharmacology</a></li>
  </ul>
-
 <h2>E</h2>
 <ul>
-  <li>Browsing: Economics</li>
-  <li>Browsing: Encyclopedias/Dictionaries/Reference</li>
-  <li>Browsing: Engineering & Construction</li>
-  <li>Browsing: Environmental Issues</li>
+  <li><a href="/ebooks/bookshelf/435">Browsing: Economics</a></li>
+  <li><a href="/ebooks/bookshelf/436">Browsing: Encyclopedias/Dictionaries/Reference</a></li>
+  <li><a href="/ebooks/bookshelf/437">Browsing: Engineering & Construction</a></li>
+  <li><a href="/ebooks/bookshelf/438">Browsing: Environmental Issues</a></li>
    </ul>
 
 <h2>F</h2>
 <ul>
-  <li>Browsing: Fashion & Costume</li>
-  <li>Browsing: Fiction</li> </ul>
+  <li><a href="/ebooks/bookshelf/439">Browsing: Fashion & Costume</a></li>
+  <li><a href="/ebooks/bookshelf/486">Browsing: Fiction</a></li>
  </ul>
-
 <h2>G</h2>
 <ul>
-  <li>Browsing: Gender & Sexuality Studies</li> </ul>
+  <li><a href="/ebooks/bookshelf/440">Browsing: Gender & Sexuality Studies</a></li>
  </ul>
-
 <h2>H</h2>
 <ul>
-  <li>Browsing: Health & Medicine</li>
-  <li>Browsing: History - American</li>
-  <li>Browsing: History - Ancient</li>
-  <li>Browsing: History - British</li>
-  <li>Browsing: History - European</li>
-  <li>Browsing: History - General</li>
-  <li>Browsing: History - Medieval/The Middle Ages</li>
-  <li>Browsing: History - Religious</li>
-  <li>Browsing: History - Royalty</li>
-  <li>Browsing: History - Schools & Universities</li>
-  <li>Browsing: History - Warfare</li>
-  <li>Browsing: How To...</li>
-  <li>Browsing: Humour</li> </ul>
+  <li><a href="/ebooks/bookshelf/441">Browsing: Health & Medicine</a></li>
+  <li><a href="/ebooks/bookshelf/442">Browsing: History - American</a></li>
+  <li><a href="/ebooks/bookshelf/443">Browsing: History - Ancient</a></li>
+  <li><a href="/ebooks/bookshelf/444">Browsing: History - British</a></li>
+  <li><a href="/ebooks/bookshelf/445">Browsing: History - European</a></li>
+  <li><a href="/ebooks/bookshelf/446">Browsing: History - General</a></li>
+  <li><a href="/ebooks/bookshelf/474">Browsing: History - Medieval/The Middle Ages</a></li>
+  <li><a href="/ebooks/bookshelf/448">Browsing: History - Religious</a></li>
+  <li><a href="/ebooks/bookshelf/449">Browsing: History - Royalty</a></li>
+  <li><a href="/ebooks/bookshelf/450">Browsing: History - Schools & Universities</a></li>
+  <li><a href="/ebooks/bookshelf/451">Browsing: History - Warfare</a></li>
+  <li><a href="/ebooks/bookshelf/452">Browsing: How To...</a></li>
+  <li><a href="/ebooks/bookshelf/453">Browsing: Humour</a></li>
  </ul>
-
 <h2>J</h2>
 <ul>
-  <li>Browsing: Journalism/Media/Writing</li>
-  <li>Browsing: Journals</li> </ul>
+  <li><a href="/ebooks/bookshelf/454">Browsing: Journalism/Media/Writing</a></li>
+  <li><a href="/ebooks/bookshelf/455">Browsing: Journals</a></li>
  </ul>
-
 <h2>L</h2>
 <ul>
-  <li>Browsing: Language & Communication</li>
-  <li>Browsing: Law & Criminology</li>
-  <li>Browsing: Literature</li> </ul>
+  <li><a href="/ebooks/bookshelf/456">Browsing: Language & Communication</a></li>
+  <li><a href="/ebooks/bookshelf/457">Browsing: Law & Criminology</a></li>
+  <li><a href="/ebooks/bookshelf/458">Browsing: Literature</a></li>
  </ul>
-
 <h2>M</h2>
 <ul>
-  <li>Browsing: Mathematics</li>
-  <li>Browsing: Music</li> </ul>
+  <li><a href="/ebooks/bookshelf/459">Browsing: Mathematics</a></li>
+  <li><a href="/ebooks/bookshelf/460">Browsing: Music</a></li>
  </ul>
-
 <h2>N</h2>
 <ul>
-  <li>Browsing: Nature/Gardening/Animals</li>
-  <li>Browsing: Nutrition</li> </ul>
+  <li><a href="/ebooks/bookshelf/461">Browsing: Nature/Gardening/Animals</a></li>
+  <li><a href="/ebooks/bookshelf/462">Browsing: Nutrition</a></li>
  </ul>
-
 <h2>O</h2>
 <ul>
-  <li>Browsing: Old Age & the Elderly</li>
-  <li>Browsing: Other</li> </ul>
+  <li><a href="/ebooks/bookshelf/463">Browsing: Old Age & the Elderly</a></li>
+  <li><a href="/ebooks/bookshelf/487">Browsing: Other</a></li>
  </ul>
-
 <h2>P</h2>
 <ul>
-  <li>Browsing: Parenthood & Family Relations</li>
-  <li>Browsing: Performing Arts/Film</li>
-  <li>Browsing: Philosophy & Ethics</li>
-  <li>Browsing: Poetry</li>
-  <li>Browsing: Politics</li>
-  <li>Browsing: Psychiatry/Psychology</li> </ul>
+  <li><a href="/ebooks/bookshelf/464">Browsing: Parenthood & Family Relations</a></li>
+  <li><a href="/ebooks/bookshelf/465">Browsing: Performing Arts/Film</a></li>
+  <li><a href="/ebooks/bookshelf/466">Browsing: Philosophy & Ethics</a></li>
+  <li><a href="/ebooks/bookshelf/467">Browsing: Poetry</a></li>
+  <li><a href="/ebooks/bookshelf/468">Browsing: Politics</a></li>
+  <li><a href="/ebooks/bookshelf/469">Browsing: Psychiatry/Psychology</a></li>
  </ul>
-
 <h2>R</h2>
 <ul>
-  <li>Browsing: Religion/Spirituality/Paranormal</li>
-  <li>Browsing: Reports & Conference Proceedings</li>
-  <li>Browsing: Research Methods/Statistics/Information Sys</li>
-  <li>Browsing: Russian Interest</li> </ul>
+  <li><a href="/ebooks/bookshelf/470">Browsing: Religion/Spirituality/Paranormal</a></li>
+  <li><a href="/ebooks/bookshelf/471">Browsing: Reports & Conference Proceedings</a></li>
+  <li><a href="/ebooks/bookshelf/472">Browsing: Research Methods/Statistics/Information Sys</a></li>
+  <li><a href="/ebooks/bookshelf/473">Browsing: Russian Interest</a></li>
  </ul>
-
 <h2>S</h2>
 <ul>
-  <li>Browsing: Science - Astronomy</li>
-  <li>Browsing: Science - Chemistry/Biochemistry/Physics</li>
-  <li>Browsing: Science - Earth/Agricultural/Farming</li>
-  <li>Browsing: Science - Physics</li>
-  <li>Browsing: Science - General</li>
-  <li>Browsing: Science - Genetics/Biology/Evolution</li>
-  <li>Browsing: Science-Fiction & Fantasy</li>
-  <li>Browsing: Sexuality & Erotica</li>
-  <li>Browsing: Sociology</li>
-  <li>Browsing: Sports/Hobbies/Motoring</li> </ul>
+  <li><a href="/ebooks/bookshelf/474">Browsing: Science - Astronomy</a></li>
+  <li><a href="/ebooks/bookshelf/475">Browsing: Science - Chemistry/Biochemistry/Physics</a></li>
+  <li><a href="/ebooks/bookshelf/476>Browsing: Science - Earth/Agricultural/Farming</a></li>
+  <li><a href="/ebooks/bookshelf/477">Browsing: Science - Physics</a></li>
+  <li><a href="/ebooks/bookshelf/478">Browsing: Science - General</a></li>
+  <li><a href="/ebooks/bookshelf/479">Browsing: Science - Genetics/Biology/Evolution</a></li>
+  <li><a href="/ebooks/bookshelf/480">Browsing: Science-Fiction & Fantasy</a></li>
+  <li><a href="/ebooks/bookshelf/481">Browsing: Sexuality & Erotica</a></li>
+  <li><a href="/ebooks/bookshelf/482">Browsing: Sociology</a></li>
+  <li><a href="/ebooks/bookshelf/483">Browsing: Sports/Hobbies/Motoring</a></li>
  </ul>
-
 <h2>T</h2>
 <ul>
-  <li>Browsing: Teaching & Education</li>
-  <li>Browsing: Travel & Geography</li>
+  <li><a href="/ebooks/bookshelf/484">Browsing: Teaching & Education</a></li>
+  <li><a href="/ebooks/bookshelf/485">Browsing: Travel & Geography</a></li>
  </ul>
 
 ## Detailed listings of all Bookshelves
