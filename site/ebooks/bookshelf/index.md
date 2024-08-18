@@ -7,9 +7,9 @@ permalink: /ebooks/bookshelf/
 Category: Bookshelf
 ==================================================
 
-Project Gutenberg's bookshelves are hand-curated collections of eBooks that have similar topics. Bookshelf listings were created by volunteers, and many have not been updated or may otherwise be incomplete.
+Project Gutenberg's bookshelves are hand-curated collections of eBooks that have similar topics. Bookshelf listings were created by volunteers, and have not been updated since 2020 so there are many books without these hand-curated bookshelf categories.
 
-Following a server upgrade in 2020, bookshelf listings are presented in the "flat" display below. Previously, there was a hierarchy, which has not yet been recreated.
+In mid-2024, a "Browsing" category was added to bookshelves. These 64 categories arae intended to be similar to those you might find when browsing a bookstore. These categories were automatically assigned.
 
 Another way to find eBooks related to a topic is by browsing the Bibliographic Record section of any eBook's page. Most have one or more selectable Subject and LOC Class entries, which take you to other books in the same category.
 
@@ -98,6 +98,140 @@ Another way to find eBooks related to a topic is by browsing the Bibliographic R
 
 <br /><br />
  </div>
+
+## Browsing categories (assigned automatically)
+
+<h2>A</h2>
+<ul>
+  <li>Browsing: Archaeology</li>
+  <li>Browsing: Architecture</li>
+  <li>Browsing: Art & Photography</li> </ul>
+ </ul>
+
+<h2>B</h2>
+<ul>
+  <li>Browsing: Biographies</li>
+  <li>Browsing: Business/Management</li> </ul>
+ </ul>
+
+<h2>C</h2>
+<ul>
+  <li>Browsing: Children & Young Adult Reading</li>
+  <li>Browsing: Computers & Technology</li>
+  <li>Browsing: Cooking & Drinking</li>
+  <li>Browsing: Culture/Civilization/Society</li>
+  <li>Browsing: Crime/Mystery</li> </ul>
+ </ul>
+
+<h2>E</h2>
+<ul>
+  <li>Browsing: Drugs/Alcohol/Pharmacology</li> </ul>
+ </ul>
+
+<h2>E</h2>
+<ul>
+  <li>Browsing: Economics</li>
+  <li>Browsing: Encyclopedias/Dictionaries/Reference</li>
+  <li>Browsing: Engineering & Construction</li>
+  <li>Browsing: Environmental Issues</li>
+   </ul>
+
+<h2>F</h2>
+<ul>
+  <li>Browsing: Fashion & Costume</li>
+  <li>Browsing: Fiction</li> </ul>
+ </ul>
+
+<h2>G</h2>
+<ul>
+  <li>Browsing: Gender & Sexuality Studies</li> </ul>
+ </ul>
+
+<h2>H</h2>
+<ul>
+  <li>Browsing: Health & Medicine</li>
+  <li>Browsing: History - American</li>
+  <li>Browsing: History - Ancient</li>
+  <li>Browsing: History - British</li>
+  <li>Browsing: History - European</li>
+  <li>Browsing: History - General</li>
+  <li>Browsing: History - Medieval/The Middle Ages</li>
+  <li>Browsing: History - Religious</li>
+  <li>Browsing: History - Royalty</li>
+  <li>Browsing: History - Schools & Universities</li>
+  <li>Browsing: History - Warfare</li>
+  <li>Browsing: How To...</li>
+  <li>Browsing: Humour</li> </ul>
+ </ul>
+
+<h2>J</h2>
+<ul>
+  <li>Browsing: Journalism/Media/Writing</li>
+  <li>Browsing: Journals</li> </ul>
+ </ul>
+
+<h2>L</h2>
+<ul>
+  <li>Browsing: Language & Communication</li>
+  <li>Browsing: Law & Criminology</li>
+  <li>Browsing: Literature</li> </ul>
+ </ul>
+
+<h2>M</h2>
+<ul>
+  <li>Browsing: Mathematics</li>
+  <li>Browsing: Music</li> </ul>
+ </ul>
+
+<h2>N</h2>
+<ul>
+  <li>Browsing: Nature/Gardening/Animals</li>
+  <li>Browsing: Nutrition</li> </ul>
+ </ul>
+
+<h2>O</h2>
+<ul>
+  <li>Browsing: Old Age & the Elderly</li>
+  <li>Browsing: Other</li> </ul>
+ </ul>
+
+<h2>P</h2>
+<ul>
+  <li>Browsing: Parenthood & Family Relations</li>
+  <li>Browsing: Performing Arts/Film</li>
+  <li>Browsing: Philosophy & Ethics</li>
+  <li>Browsing: Poetry</li>
+  <li>Browsing: Politics</li>
+  <li>Browsing: Psychiatry/Psychology</li> </ul>
+ </ul>
+
+<h2>R</h2>
+<ul>
+  <li>Browsing: Religion/Spirituality/Paranormal</li>
+  <li>Browsing: Reports & Conference Proceedings</li>
+  <li>Browsing: Research Methods/Statistics/Information Sys</li>
+  <li>Browsing: Russian Interest</li> </ul>
+ </ul>
+
+<h2>S</h2>
+<ul>
+  <li>Browsing: Science - Astronomy</li>
+  <li>Browsing: Science - Chemistry/Biochemistry/Physics</li>
+  <li>Browsing: Science - Earth/Agricultural/Farming</li>
+  <li>Browsing: Science - Physics</li>
+  <li>Browsing: Science - General</li>
+  <li>Browsing: Science - Genetics/Biology/Evolution</li>
+  <li>Browsing: Science-Fiction & Fantasy</li>
+  <li>Browsing: Sexuality & Erotica</li>
+  <li>Browsing: Sociology</li>
+  <li>Browsing: Sports/Hobbies/Motoring</li> </ul>
+ </ul>
+
+<h2>T</h2>
+<ul>
+  <li>Browsing: Teaching & Education</li>
+  <li>Browsing: Travel & Geography</li>
+ </ul>
 
 ## Detailed listings of all Bookshelves
 
