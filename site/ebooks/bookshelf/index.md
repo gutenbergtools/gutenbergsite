@@ -203,7 +203,7 @@ Another way to find eBooks related to a topic is by browsing the Bibliographic R
 <ul>
   <li><a href="/ebooks/bookshelf/474">Browsing: Science - Astronomy</a></li>
   <li><a href="/ebooks/bookshelf/475">Browsing: Science - Chemistry/Biochemistry/Physics</a></li>
-  <li><a href="/ebooks/bookshelf/476>Browsing: Science - Earth/Agricultural/Farming</a></li>
+  <li><a href="/ebooks/bookshelf/476">Browsing: Science - Earth/Agricultural/Farming</a></li>
   <li><a href="/ebooks/bookshelf/477">Browsing: Science - Physics</a></li>
   <li><a href="/ebooks/bookshelf/478">Browsing: Science - General</a></li>
   <li><a href="/ebooks/bookshelf/479">Browsing: Science - Genetics/Biology/Evolution</a></li>
