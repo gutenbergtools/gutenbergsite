@@ -123,3 +123,5 @@ Typically you then will use the built-in editor provided in the browser on the G
 Once corrections are made, "push" the version from your home machine back to your account on GitHub. Wherever you make corrections, the final step will be to make a pull request against the Project Gutenberg repository. You will be informed by emails from PG, via github, of the progress from there and the eventual reposting of the book.
 
 Any errata submissions via pull requests are freely made, without obligation, and are entirely in the public domain. 
+
+If you are not sure whether your pull request was received, or need guidance on the process, email errata2024 @ pglaf.org. 
