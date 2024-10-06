@@ -9,7 +9,9 @@ Submitting Errata, Fixes and Bug Reports
 
 Errata reports, typos, etc. are welcome and appreciated. Email reports to errata2024 @ pglaf.org (remove the spaces around the @). Suggested formats for reports are described below.
 
-For many books, you may also submit corrections, typos, etc. by making "pull requests" on [GitHub](https://github.com/gutenbergbooks). See "Corrections to posted books using pull requests to GitHub," below. It is expected that nearly all books will have repositories by the end of October 2024. If you would like to use the process for a book that doesn't yet have a repo send an email requests for the repo to be created to errata2024 @ pglaf.org. 
+For many books, you may also submit corrections, typos, etc. by making "pull requests" on [GitHub](https://github.com/gutenbergbooks). See "Corrections to posted books using pull requests to GitHub," below. It is expected that nearly all books will have repositories by the end of October 2024. If you would like to use the process for a book that doesn't yet have a repo send an email requests for the repo to be created to errata2024 @ pglaf.org.
+
+Corrections should be against the main source(s) of the Project Gutenberg books. These are usually found under the "more files" link on the landing page, and are almost always a plain text (*.txt) and an HTML (.htm) file. The links at the top of landing pages (such as https://www.gutenberg.org/928) are generated from the files under "more files" (lower down on the landing page under the table of different file formats). It's best to submit errata reports against those files.
 
 ## Corrections to posted books using email
 
