@@ -67,6 +67,14 @@ Plucker
 QiOO Mobile
 : (Older items only) QiOO Mobile eBook is a proprietary format which is viewable on older mobile phones (Java required). These QiOO Mobile eBook files do not contain images or hyperlinks - they are text only.
 
+### "More files" for older versions and raw files
+
+There is an undecorated link to "more files" on the landing pages.
+
+This is where you can find the original versions of books. These are the input used to make the main formats listed above.
+
+Since Project Gutenberg books are frequently updated to fix typos and other problems, you can often find a folder called "old" or something similar with previous versions. As of mid-2024, previous versions are usually instead found in the Project Gutenberg [github collection](https://github.org/gutenbergbooks). 
+
 ### Size
 The approximate file size.
 
@@ -139,6 +147,9 @@ LoC Class
 
 Subject
 : One or more subjects. The subject headings are usually added to new eBooks within a few weeks of their publication by Project Gutenberg. You can select a subject, to link to a search page for other eBooks with the same subject. This is a great way to browse the Project Gutenberg collection.
+
+Automated summaries
+: In September 2024, automatically-generated summaries were added for most books. New books will get summaries approximately monthly. These summaries are based on approximately the first 12,000 words of books, and are only in English regardless of the language of the book. These may be updated in the future as the automation technologies improve. 
 
 EBook-No.
 : This is the Project Gutenberg catalog number (or assession number). Every PG eBook has a different one.
