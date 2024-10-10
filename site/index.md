@@ -17,7 +17,7 @@ Choose among free epub and Kindle eBooks, download them or read them online. You
 us improve Project Gutenberg in less than 5 minutes! Take a brief
 survey to share your thoughts on our website's usability and volunteer
 to participate in a usability testing session. Survey link:
-https://forms.gle/hXZFUxAsHLfLjsbh6
+<a href="https://forms.gle/hXZFUxAsHLfLjsbh6">forms.gle/hXZFUxAsHLfLjsbh6</a>.
 
 **No fee or registration!** Everything from Project Gutenberg is gratis, libre, and completely without cost to readers. If you find Project Gutenberg useful, please consider a small donation to help Project Gutenberg digitize more books, maintain its online presence, and improve Project Gutenberg programs and offerings. Other ways to help include digitizing, proofreading and formatting, or reporting errors.
 
