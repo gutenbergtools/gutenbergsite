@@ -13,7 +13,7 @@ Choose among free epub and Kindle eBooks, download them or read them online. You
 
 {% include latest_books_template.html %}
 
-**Help us improve Project Gutenberg (survey + study invitation) Help
+**Help us improve Project Gutenberg** (survey + study invitation) Help
 us improve Project Gutenberg in less than 5 minutes! Take a brief
 survey to share your thoughts on our website's usability and volunteer
 to participate in a usability testing session. Survey link:
