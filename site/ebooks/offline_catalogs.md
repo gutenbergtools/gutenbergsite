@@ -65,6 +65,9 @@ The "[posted](https://lists.pglaf.org/mailman3/lists/?count=50&page=1)" list is 
     <li><a href="https://mastodon.social/@gutenberg_org" rel="me">
       <img src="/gutenberg/m_icon.png" alt="Mastodon Icon" />
     </a></li>
+    <li><a href="https://bsky.app/profile/gutenbergorg.bsky.social" rel="me">
+      <img src="/gutenberg/b_icon.png" alt="Bluesky icon" />
+    </a></li>
     <li>News feeds of new eBooks</li>
     <li><a href="https://www.facebook.com/gutenberg.new">
       <img src="/gutenberg/f_news_icon.png" alt="Facebook News Feed Icon" />
