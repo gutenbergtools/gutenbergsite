@@ -19,7 +19,7 @@ Feeds of new eBooks are updated within an hour or so after publication or update
 
 *Facebook:* "Like" [gutenberg.new](https://www.facebook.com/gutenberg.new) to have us post new books to your Facebook feed.
 
-*Mastodon:* "Follow" [gutenberg_new](https://mastodon.social/@gutenberg_new") to see postings of new eBooks.
+*Mastodon:* "Follow" [gutenberg_new](https://mastodon.social/@gutenberg_new) to see postings of new eBooks.
 
 ## RSS
 
