@@ -1,0 +1,33 @@
+name: Format HTML Files
+
+on:
+  push:
+    paths:
+      - '_includes/**/*.html'
+  pull_request:
+    paths:
+      - '_includes/**/*.html'
+
+jobs:
+  prettier:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Install Prettier
+        run: npm install -g prettier
+        
+      - name: Run Prettier
+        run: prettier --write "_includes/**/*.html"
+        
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "style: format HTML files with prettier"
+          file_pattern: '_includes/**/*.html'
