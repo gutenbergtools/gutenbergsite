@@ -2,9 +2,7 @@ name: Build Jekyll site
 
 on:
   push:
-    branches: [ "main" ]
   pull_request:
-    branches: [ "main" ]
 
 jobs:
   build:
