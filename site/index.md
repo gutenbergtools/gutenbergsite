@@ -11,7 +11,7 @@ Welcome to Project Gutenberg
 
 Choose among free epub and Kindle eBooks, download them or read them online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for you to enjoy. 
 
-**Outage November 29**: There is a problem with the "latest books" pane below. It will be fixed later today. Some anomalies with search results not finding the latest Project Gutenberg titles may also occur.
+**Partial outage November 29**: There is a problem with the "latest books" pane below, as well as statistics like the most popular and "top 10." These issues will be fixed by early in the week. Some anomalies with search results not finding the latest Project Gutenberg titles may also occur.
 
 {% include latest_books_template.html %}
 
