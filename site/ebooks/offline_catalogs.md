@@ -166,3 +166,7 @@ Project Gutenberg distributed the catalog in MARC format, and then discontinued 
 
 ## A Local, Browsable Copy on your own Computer or Mobile Device
 [Kiwix](https://wiki.kiwix.org/wiki/Content) is an application that lets you download a large collection and use it locally.  A copy of the Project Gutenberg content was made available in November 2018, and may be updated periodically.
+
+## All books as plain text
+
+A zipped tar file of all .txt files, updated weekly: [xt-files.tar.zip](/cache/epub/feeds/).
