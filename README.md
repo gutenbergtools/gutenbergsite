@@ -4,25 +4,44 @@ This is the source content, database, and other internal files used for building
 
 This is a `git` repository hosted on Github at https://github.com/gutenbergtools/gutenbergsite.
 
-
 ## Development
 
-If you wish to experiment you can develop and run the site on your local machine.
+If you wish to experiment you can develop and run the site on your local machine. You can do this by installing tooling directly onto your host machine, or by running the site Docker container.
 
-Dependencies:
+### With Docker
 
-* [Ruby](https://www.ruby-lang.org/) language
-* [Jekyll](https://jekyllrb.com/) static website generator
-* Git
+#### Dependencies
 
-Once Ruby, Jekyll, and Git are setup:
+- [Docker](https://www.docker.com/)
+- [Docker Compose](https://docs.docker.com/compose/)
 
-    git clone https://github.com/gutenbergtools/gutenbergsite.git
-    cd gutenbergsite
-    bundle exec jekyll serve
+With Docker install simply run
+
+```sh
+git clone https://github.com/gutenbergtools/gutenbergsite.git
+cd gutenbergsite
+docker compose up
+```
 
 Then open your web browser to http://localhost:4000
 
+### Without Docker 
+
+#### Dependencies
+
+* [Ruby](https://www.ruby-lang.org/) language
+* [Jekyll](https://jekyllrb.com/) static website generator
+* [Git](https://git-scm.com/)
+
+Once Ruby, Jekyll, and Git are setup:
+
+```sh
+git clone https://github.com/gutenbergtools/gutenbergsite.git
+cd gutenbergsite
+bundle exec jekyll serve
+```
+
+Then open your web browser to http://localhost:4000
 
 ### Further Information
 
