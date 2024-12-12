@@ -18,7 +18,7 @@ Any automated harvesting or roboting must follow directives in our
 
 Bulk downloaders should visit
 the <a href="/ebooks/offline_catalogs.html">offline catalogs page</a>
-first. See also the <a href="/help/mirorring.html">mirroring
+first. See also the <a href="/help/mirroring.html">mirroring
 how-to</a>.
 
 If you are bulk downloading for redistributing the contents, also see
