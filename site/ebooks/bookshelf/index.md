@@ -149,7 +149,7 @@ Another way to find eBooks related to a topic is by browsing the Bibliographic R
   <li><a href="/ebooks/bookshelf/444">Browsing: History - British</a></li>
   <li><a href="/ebooks/bookshelf/445">Browsing: History - European</a></li>
   <li><a href="/ebooks/bookshelf/446">Browsing: History - General</a></li>
-  <li><a href="/ebooks/bookshelf/474">Browsing: History - Medieval/The Middle Ages</a></li>
+  <li><a href="/ebooks/bookshelf/447">Browsing: History - Medieval/The Middle Ages</a></li>
   <li><a href="/ebooks/bookshelf/448">Browsing: History - Religious</a></li>
   <li><a href="/ebooks/bookshelf/449">Browsing: History - Royalty</a></li>
   <li><a href="/ebooks/bookshelf/450">Browsing: History - Schools & Universities</a></li>
