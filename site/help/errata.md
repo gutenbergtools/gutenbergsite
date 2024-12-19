@@ -100,6 +100,11 @@ Any errata submissions are freely made, without obligation, and are entirely in 
 
 ## Corrections to posted books using pull requests to GitHub
 
+<em>Update December 2024</em>: The repos for github are being
+refactored and might not all be available yet. We expect completion
+of re-populating the repos by the end of January 2025.
+
+
 Many books in the Project Gutenberg collection have GitHub repositories of their public domain content. To have a repo, a book must:
 
 - Be in the public domain in the US. This excludes a few hundred copyrighted books in the collection.
