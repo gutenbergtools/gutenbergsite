@@ -137,7 +137,7 @@ If you need a tax receipt, be sure to save the payment information from the Buy 
 ### <a name="about-donations-by-paypal"></a>About donations by PayPal
 <a name="about-donations-by-paypal"></a>PayPal is a Web site that accepts credit cards, checks, and bank transfer payments.  You need to set up a PayPal account to donate via PayPal (in the past, you could donate without setting up an account.  This doesn't seem to be possible any more). Visa, MasterCard, Amex and Discover are accepted.  Because of PayPal's fees, any donation of under 32 cents or so doesn't reach PGLAF.  Instead, consider letting your small donations add up to a dollar or more before sending it with PayPal.
 
-In addition to using the quick donation links above, you can also login to PayPal and select "Send Money." When prompted, specify 'donate2024@pglaf.org' as the recipient, and you will be presented with PGLAF's information. Send the payment as you would any other payment. Funds go directly to PGLAF via PayPal.  Any national currency is OK.
+In addition to using the quick donation links above, you can also login to PayPal and select "Send Money." When prompted, specify 'donate2025@pglaf.org' as the recipient, and you will be presented with PGLAF's information. Send the payment as you would any other payment. Funds go directly to PGLAF via PayPal.  Any national currency is OK.
 
 Be assured that you will not be added to any postal or email list or solicited further. You will get a "thank you" email from the CEO, and that is all. You are invited to subscribe to the email lists, but we do not subscribe you directly.
 

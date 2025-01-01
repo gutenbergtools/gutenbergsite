@@ -7,9 +7,9 @@ permalink: /help/errata.html
 Submitting Errata, Fixes and Bug Reports
 ========================================
 
-Errata reports, typos, etc. are welcome and appreciated. Email reports to errata2024 @ pglaf.org (remove the spaces around the @). Suggested formats for reports are described below.
+Errata reports, typos, etc. are welcome and appreciated. Email reports to errata2025 @ pglaf.org (remove the spaces around the @). Suggested formats for reports are described below.
 
-For many books, you may also submit corrections, typos, etc. by making "pull requests" on [GitHub](https://github.com/gutenbergbooks). See "Corrections to posted books using pull requests to GitHub," below. It is expected that nearly all books will have repositories by the end of October 2024. If you would like to use the process for a book that doesn't yet have a repo send an email requests for the repo to be created to errata2024 @ pglaf.org.
+For many books, you may also submit corrections, typos, etc. by making "pull requests" on [GitHub](https://github.com/gutenbergbooks). See "Corrections to posted books using pull requests to GitHub," below. It is expected that nearly all books will have repositories in early 2025. If you would like to use the process for a book that doesn't yet have a repo send an email requests for the repo to be created to errata2025 @ pglaf.org.
 
 Corrections should be against the main source(s) of the Project Gutenberg books. These are usually found under the "more files" link on the landing page, and are almost always a plain text (*.txt) and an HTML (.htm) file. The links at the top of landing pages (such as https://www.gutenberg.org/928) are generated from the files under "more files" (lower down on the landing page under the table of different file formats). It's best to submit errata reports against those files.
 
@@ -102,7 +102,7 @@ Any errata submissions are freely made, without obligation, and are entirely in 
 
 <em>Update December 2024</em>: The repos for github are being
 refactored and might not all be available yet. We expect completion
-of re-populating the repos by the end of January 2025.
+of re-populating the repos in early 2025.
 
 
 Many books in the Project Gutenberg collection have GitHub repositories of their public domain content. To have a repo, a book must:
@@ -131,4 +131,4 @@ Once corrections are made, "push" the version from your home machine back to you
 
 Any errata submissions via pull requests are freely made, without obligation, and are entirely in the public domain. 
 
-If you are not sure whether your pull request was received, or need guidance on the process, email errata2024 @ pglaf.org. 
+If you are not sure whether your pull request was received, or need guidance on the process, email errata2025 @ pglaf.org. 
