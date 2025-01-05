@@ -7,7 +7,7 @@ permalink: /
 Welcome to Project Gutenberg
 ====================================================
 
-<h2 class="subtitle">Project Gutenberg is a library of over 70,000 free eBooks</h2>
+<h2 class="subtitle">Project Gutenberg is a library of over 75,000 free eBooks</h2>
 
 Choose among free epub and Kindle eBooks, download them or read them online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for you to enjoy. 
 
