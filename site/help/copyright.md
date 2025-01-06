@@ -101,7 +101,9 @@ Works created before January 1, 1978 but not published before that date are copy
 
 If a substantial number of copies of a U.S. Work were printed and distributed in the U.S. prior to March 1, 1989 without a copyright notice, and the work is of entirely American authorship or is considered to be first published in the United States, the work is not protected under U.S. copyright law. (Note that we cannot clear items printed/published outside of the U.S. under this rule.)
 
-Since Rule 5 only applies for items of entirely US authorship, research must iInclude biographical information of authors, illustrators, editors, etc., following the same guidance as Rule 6 below.
+When Rule 5 relies on being printed and distributed in the U.S., bibliographic research must be provided that demonstrates where it was first published and distributed.
+
+When Rule 5 relies on being of entirely US authorship, research must include biographical information of authors, illustrators, editors, etc., following the same guidance as Rule 6 below.
 
 ### Rule 6: Failure of U.S. Works to Comply With Renewal Requirements Prior to 1964
 Rule 6 copyright research is only accepted from known volunteers with demonstrated competency in the required evidence steps to provide non-renewal evidence. 
@@ -282,4 +284,3 @@ Visit this page to upload page scans from the title page and verso page for the 
 - [https://copy.pglaf.org](https://copy.pglaf.org)
 
 The page includes instructions and links to upload, and your submission will get a response within a few days. If you have questions or trouble with the procedures, [Contact Us](/about/contact_information.html)
- 
