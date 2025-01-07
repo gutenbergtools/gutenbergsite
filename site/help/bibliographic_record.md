@@ -77,12 +77,14 @@ Since Project Gutenberg books are frequently updated to fix typos and other prob
 ### Size
 The approximate file size.
 
-### File Hosting Services
-A file hosting service allows you to store files and access them over the Internet from your PC, tablet or smart phone. You must already have an account on those services before you can use them. Many providers offer a free starter package with limited storage that may be upgraded later.
+### Cloud File Hosting Services
+A cloud file hosting service allows you to store files and access them over the Internet from your PC, tablet or smart phone. You must already have an account on those services before you can use send them files from Project Gutenberg. Many providers offer a free starter package with limited storage that may be upgraded later.
 
 When you save to these services, you may see a notice that some details of your username or who you are will be provided to Project Gutenberg. That doesn't actually happen: we "push" files to these services, without receiving or storing anything about you other than your browser version, which is part of any page visit to www.gutenberg.org. The [privacy policy](/policy/privacy_policy.html) has additional information.
 
 Project Gutenberg provides file hosting service transfer as a convenience to readers, but does not operate, provide support for, or have any relationships with these services.
+
+It is not always obvious where Project Gutenberg files go, within your cloud file hosting service. One way to find them is to search for the most recently added files.
 
 Dropbox 
 : {: #Dropbox} Dropbox is a service that helps you keep files synchronized on your PC and your mobile devices. We will send the eBook to the Apps/gutenberg folder in your Dropbox folder. It will then be copied to all your devices on which you have installed the Dropbox client software.
