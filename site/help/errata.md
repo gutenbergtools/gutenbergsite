@@ -9,9 +9,29 @@ Submitting Errata, Fixes and Bug Reports
 
 Errata reports, typos, etc. are welcome and appreciated. Email reports to errata2025 @ pglaf.org (remove the spaces around the @). Suggested formats for reports are described below.
 
-For many books, you may also submit corrections, typos, etc. by making "pull requests" on [GitHub](https://github.com/gutenbergbooks). See "Corrections to posted books using pull requests to GitHub," below. It is expected that nearly all books will have repositories in early 2025. If you would like to use the process for a book that doesn't yet have a repo send an email requests for the repo to be created to errata2025 @ pglaf.org.
+For many books, you may also submit corrections, typos, etc. by making
+“pull requests” on [GitHub](https://github.com/gutenbergbooks). See
+“Corrections to posted books using pull requests to GitHub,” below. It
+is expected that nearly all books will have repositories by summer of
+2025. If you would like to use the process for a book that doesn’t yet
+have a repo send an email request for the repo to be created to
+errata2025 @ pglaf.org.
 
-Corrections should be against the main source(s) of the Project Gutenberg books. These are usually found under the "more files" link on the landing page, and are almost always a plain text (*.txt) and an HTML (.htm) file. The links at the top of landing pages (such as https://www.gutenberg.org/928) are generated from the files under "more files" (lower down on the landing page under the table of different file formats). It's best to submit errata reports against those files.
+Some books in the collection will not have repositorites due to technical
+or administrative restrictions. Those should be few. As an example,
+the book "The Three Strings" is ebook 73597. If it has a repository, it
+will be located at https://github.com/gutenbergbooks/73597.git. You may
+submit a pull request against that GitHub repository or you may use the
+traditional errata reporting methods described below.
+
+Corrections should be against the main source(s) of the Project
+Gutenberg books. These are usually found under the “more files” link
+on the landing page and are almost always a plain text (*.txt) and an
+HTML (.htm) file. It’s best to submit errata reports against these
+files found under "more files". Other links on the landing page (such
+as [www.gutenberg.org/928](https://www.gutenberg.org/928)) are
+generated from the files under “more files”. However, please do not
+use the generated files as a basis for corrections.
 
 ## Corrections to posted books using email
 
@@ -100,16 +120,12 @@ Any errata submissions are freely made, without obligation, and are entirely in 
 
 ## Corrections to posted books using pull requests to GitHub
 
-<em>Update December 2024</em>: The repos for github are being
-refactored and might not all be available yet. We expect completion
-of re-populating the repos in early 2025.
-
-
 Many books in the Project Gutenberg collection have GitHub repositories of their public domain content. To have a repo, a book must:
 
 - Be in the public domain in the US. This excludes a few hundred copyrighted books in the collection.
 - Be dominantly textual. This excludes around a thousand audiobooks and other formats.
 - Be available in one of these formats: plain text, HTML, RST, or TeX (and variants like LaTeX). This excludes a small number of books in uncommon formats. You might need to update the format to be one of these, before issuing a pull request.
+- Be able to fit within GitHub size constraints. A small number of eBooks are excluded because of size.
 
 A "pull request" is jargon for using the "git" revision control system to propose changes. Basically, you will be making a copy of the file(s) containing Project Gutenberg books, making changes to fix those files, then proposing those changes back to the Project Gutenberg repository.
 
