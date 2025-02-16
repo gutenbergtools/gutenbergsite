@@ -1,0 +1,77 @@
+/* Hide the extended text by default */
+.toggle-content {
+    display: none;
+}
+
+.readmore {
+    cursor: pointer;
+}
+
+/* Styling specific to the "Read More" text not the dots */
+#read_more {
+    text-decoration: underline;
+    color: #003366;
+}
+
+/* Hide the 'Show Less' label by default */
+.showless {
+    display: none;
+    cursor: pointer;
+    text-decoration: underline;
+    color: #003366;
+}
+
+/* When checkbox is checked, show the text and the 'Show Less' label */
+#toggle:checked ~ .toggle-content {
+    display: inline;
+}
+
+#toggle:checked ~ .showless {
+    display: inline;
+}
+
+/* When checkbox is checked, hide 'Read More' */
+#toggle:checked ~ .readmore {
+    display: none;
+}
+
+
+/* Hide the summary on small screens for now 
+@media screen and (max-width: 550px) {
+    .summary-text-container {
+        display: none;
+    }
+} */
+
+
+/* Attempt to "fix" the mobile page */
+@media (max-width: 768px) {
+    h1{
+        padding-bottom: 8px;
+    }
+    
+    .page-body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+    }
+
+    #cover-social-wrapper {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+    }
+
+    #tabs-wrapper {
+            margin: 50px 0 0 0;
+    }
+
+    #tabs {
+            margin-left: 0;
+    }
+
+    .summary-text-container {
+        text-align: center;
+    }
+}
