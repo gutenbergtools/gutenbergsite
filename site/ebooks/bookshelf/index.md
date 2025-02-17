@@ -117,7 +117,7 @@ Another way to find eBooks related to a topic is by browsing the Bibliographic R
   <li><a href="/ebooks/bookshelf/429">Browsing: Children & Young Adult Reading</a></li>
   <li><a href="/ebooks/bookshelf/430">Browsing: Computers & Technology</a></li>
   <li><a href="/ebooks/bookshelf/431">Browsing: Cooking & Drinking</a></li>
-  <li><a href="/ebooks/bookshelf/431">Browsing: Culture/Civilization/Society</a></li>
+  <li><a href="/ebooks/bookshelf/432">Browsing: Culture/Civilization/Society</a></li>
   <li><a href="/ebooks/bookshelf/433">Browsing: Crime/Mystery</a></li>
  </ul>
 <h2>E</h2>
