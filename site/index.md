@@ -78,9 +78,6 @@ Audio books are a great way to enjoy and share literature. Project Gutenberg no 
     <li><a href="https://www.facebook.com/project.gutenberg">
       <img src="/gutenberg/f_icon.png" alt="Facebook iccon" />
     </a></li>
-    <li><a href="https://twitter.com/gutenberg_org">
-      <img src="/gutenberg/t_icon.png" alt="Twitter icon" />
-    </a></li>
     <li><a href="https://mastodon.social/@gutenberg_org" rel="me">
       <img src="/gutenberg/m_icon.png" alt="Mastodon icon" />
     </a></li>
