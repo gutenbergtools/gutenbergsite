@@ -36,7 +36,7 @@ This page tells you how to find and get Project Gutenberg eBooks if:
     <li><a href="#the-project-gutenberg-catalog-metadata-in-machine-readable-format">The Project Gutenberg Catalog Metadata in Machine-Readable Format</a>
       <ol class="inner_1">
 	<li><a href="#xmlrdf">XML/RDF</a></li>
-	<li><a href="#marc-records-machine-readable-cataloging">MARC Records (MAchine Readable Cataloging)</a>: No longer available</li>
+	<li><a href="#marc-records-machine-readable-cataloging">MARC Records (MAchine Readable Cataloging)</a></li>
 	<li><a href="#a-local-browsable-copy-on-your-own-computer-or-mobile-device">A Local, Browsable Copy on your own Computer or Mobile Device</a></li>
       </ol>
     </li>
