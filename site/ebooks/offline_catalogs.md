@@ -161,9 +161,32 @@ Many eBooks include scans of the title page or other pages, which may indicate o
 
 An Excel-compatible CSV spreadsheet of eBook metadata is also available [here](/cache/epub/feeds/pg_catalog.csv). This file is updated once a week.
 
-### MARC Records (MAchine Readable Cataloging): No longer available
+### <a name="marc-records-machine-readable-cataloging"></a>MARC Records (MAchine Readable Cataloging)
 
-Project Gutenberg distributed the catalog in MARC format, and then discontinued when server upgrades left our software non-functional. In addition, a legacy program prepared by a volunteer, [pgrdf2marc.pl](/gutenberg/pgrdf2marc.pl.txt), worked with a previous version of the XML/RDF data, but does not work with the currrent version.
+MARC is the <i>lingua franca</i> of library catalogs. It is a way of
+representing data about items like books. The data about items is
+known as metadata. Thanks to a partnership with the Free Ebook
+Foundation, Project Gutenberg metadata are available as a downloadable
+MARC file.
+
+Project Gutenberg's MARC records, like the collection and most of its
+titles, are freely available. Libraries and others are encouraged to
+incorporate Project Gutenberg into their collections, in order to make
+Project Gutenberg's titles more widely available at little or no cost.
+
+Note that the MARC metadata include all of the textual titles, but not
+non-textual titles such as audio, maps, and data sets. Metadata for
+those other items are available in the XML/RDF metadata described
+elsewhere on this page.
+
+To read more about the initiative to create the MARC records,
+including links to the software, issue reporting, and more, see this
+[announcement from the Free Software
+Foundation](https://ebookfoundation.org/pgmarc.html).
+
+Find the MARC records in [the feeds
+collection](/cache/epub/feeds). The MARC records are regenerated
+weekly on Sundays.
 
 ## A Local, Browsable Copy on your own Computer or Mobile Device
 [Kiwix](https://wiki.kiwix.org/wiki/Content) is an application that lets you download a large collection and use it locally.  A copy of the Project Gutenberg content was made available in November 2018, and may be updated periodically.
