@@ -863,4 +863,9 @@ library .latest h1 {
     .summary-text-container {
         text-align: center;
     }
+
+	table.bibrec td {
+		word-wrap: break-word;
+		word-break: break-word;
+	}
 }
