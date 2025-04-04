@@ -6,9 +6,13 @@
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# maintained by script(s) running on gutenbackend
 _includes/latestbooks-template.html
+_includes/latest_covers.html
 
 # Misc
 to_delete
 BACKUP
 .aider*
+
