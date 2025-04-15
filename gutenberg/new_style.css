@@ -97,7 +97,7 @@ nav .donate a:hover {
 (max-width : 1024px) {
   nav {
     height: auto;
-    font-size: 0.55em;
+    font-size: 12px;
     position: absolute;
   }
 
@@ -358,7 +358,7 @@ nav .donate {
 
 
 /* GOLD THEME */
-/*
+/* 
   nav {
     background-color: #edd194;
     color: #000000;

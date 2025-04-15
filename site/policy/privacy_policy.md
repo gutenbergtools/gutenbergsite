@@ -21,4 +21,3 @@ Content contributed to Project Gutenberg, including errata reports and fixes, mu
 
 ## Links to Third Party Websites
 The Project Gutenbeg website has links to external sites that it does not control and has no relationship to. Some of those sites, such as Facebook, are notorious wholesale collectors of private data, and it has been reported that such data are freely shared with national spy organizations and others. We strive to link in a manner that does not allow those third party websites to see what you are doing on Project Gutenberg unless you explicitly select one of those links. When you select a third party link, you will leave the Project Gutenberg website, and we cannot know what the other site will do with your data.
-

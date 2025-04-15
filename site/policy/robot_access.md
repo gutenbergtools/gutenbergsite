@@ -42,7 +42,6 @@ If you want only files in a given language say:
 
 Replace 'de' with the ISO language code you are interested in. Tip: you can learn the language code of any language in the Project Gutenberg catalog by looking at the status window of your browser while moving your cursor over the language at [this page](/ebooks/)
 
-
 ## How to Mirror Project Gutenberg
 If you want to setup a mirror of Project Gutenberg, read the [Mirroring How-To](/help/mirroring.html)
 

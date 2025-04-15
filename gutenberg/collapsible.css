@@ -124,7 +124,6 @@ input[id^="collapsible"] {
   text-align: center;*/
 }
 
-/*!!!!!!!!!!!! Should be more specific. This is the help button on search page */
 .page_content a.button {
   font-size: 1em;
   font-weight: bold;

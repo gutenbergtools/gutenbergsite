@@ -56,7 +56,6 @@ Visit <a href="https://BuyMeACoffee.com/projgutenberg">BuyMeACoffee.com/projgute
 
 ### Using <a name="using-paypal"></a>PayPal
 
-
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="new">
 
   Make a <strong>one-time</strong> donation:
@@ -165,4 +164,3 @@ This written thank you and your cancelled check serve as your tax receipt for yo
 <a name="privacy-policy-for-donations"></a>In order to meet IRS tax regulations, PGLAF keeps track of the names, addresses, donation amounts and donation methods of non-anonymous donors. We normally send a postal or email "thank you" letter when we receive your donation over $100.
 
 We do not provide any information about donors to any party outside of PGLAF and its employees and contractors for any purpose, except if required by law. We will not send subsequent postal or electronic mail or attempt to phone you. We do not add you to any mailing list or email list. If you would like to subscribe to one of the Project Gutenberg email lists to receive the monthly newsletter or immediate notifications of new eBooks, please visit [our mailing list pages](https://lists.pglaf.org) for instructions.
-

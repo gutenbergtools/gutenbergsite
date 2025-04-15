@@ -9,7 +9,6 @@ Welcome to Project Gutenberg
 
 <h2 class="subtitle">Project Gutenberg is a library of over 75,000 free eBooks</h2>
 
-
 Choose among free epub and Kindle eBooks, download them or read them online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for you to enjoy. 
 
 {% include latest_books_template.html %}
@@ -84,9 +83,6 @@ Audio books are a great way to enjoy and share literature. Project Gutenberg no 
     </a></li>
     <li><a href="https://bsky.app/profile/gutenberg.org" rel="me">
       <img src="/gutenberg/b_icon.png" alt="Bluesky icon" />
-    </a></li>
-    <li><a href="https://mastodon.social/@gutenberg_org" rel="me">
-      <img src="/gutenberg/m_icon.png" alt="Mastodon Icon" />
     </a></li>
     <li>News feeds of new eBooks</li>
     <li><a href="https://www.facebook.com/gutenberg.new">

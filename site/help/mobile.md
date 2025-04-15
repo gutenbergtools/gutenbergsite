@@ -95,7 +95,6 @@ There are too many different products, with sometimes differing software or feat
 
 An alternative to side loading is to use Amazon's "Send to Kindle" functionality. You can find Amazon's information about this at [amazon.com/sendtokindle](https://www.amazon.com/sendtokindle).
 
-
 To send a Project Gutenberg eBook to your Kindle using this method, you must first visit the site above and tell Amazon what email address(es) you want to enable to email content to your Kindle. You also need to determine your personal Kindle email address from the site above or your Kindle's settings page.
 
 Then, download the Project Gutenberg eBook to a computer or tablet that you can send email from. The EPUB and Kindle (KF8) formats work fine, and you can also send PDF, plain text, and some other formats found at Project Gutenberg. Just email that file to your send to Kindle address. You then need to visit the Amazon page again to authorize receiving the file. It will then be automatically processed and will soon arrive on your wifi-connected Kindle.
