@@ -6,7 +6,7 @@
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-_includes/latestbooks-template.html
+_includes/
 
 # Misc
 to_delete
