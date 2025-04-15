@@ -80,7 +80,7 @@ A "U.S. Work" is a work where (i) one or more of the authors was a national or d
 
 ### Rule 1: Works First Published Before 95 Years Ago and Before 1978
 
-Summary: As of 2023, qualifying Works published in 1927 or earlier do not have copyright protection in the U.S.
+Summary: As of 2025, qualifying Works published in 1929 or earlier do not have copyright protection in the U.S.
 
 Detail: For Works published prior to January 1, 1978, the maximum term of copyright protection is 95 years from the date of first publication. This is regardless of whether the Work complied with U.S. requirements for notice, registration and renewal. This is regardless of where the Work was published or the nationality of the authors.
 
@@ -98,7 +98,12 @@ Works first created on or after January 1, 1978 that are created by a corporate 
 Works created before January 1, 1978 but not published before that date are copyrighted under rules similar to rules 2 and 3 above, except that in no case will the copyright on a work not published prior to January 1, 1978 expire before December 31, 2002. If the work was published before December 31, 2002, its copyright will not expire before December 31, 2047. (This rule extends copyright protection to a lot of manuscripts that we would otherwise think of as not protected by U.S. copyright law because of their age.) 
 
 ### Rule 5: Publication and Distribution of U.S. Works Prior to March 1, 1989 Without Proper Notice
-If a substantial number of copies of a U.S. Work were printed and distributed in the U.S. prior to March 1, 1989 without a copyright notice, and the work is of entirely American authorship or is considered to be first published in the United States, the work is not protected under U.S. copyright law. (Note that we cannot clear items printed/published outside of the U.S. under this rule.) 
+
+If a substantial number of copies of a U.S. Work were printed and distributed in the U.S. prior to March 1, 1989 without a copyright notice, and the work is of entirely American authorship or is considered to be first published in the United States, the work is not protected under U.S. copyright law. (Note that we cannot clear items printed/published outside of the U.S. under this rule.)
+
+When Rule 5 relies on being printed and distributed in the U.S., bibliographic research must be provided that demonstrates where it was first published and distributed.
+
+When Rule 5 relies on being of entirely US authorship, research must include biographical information of authors, illustrators, editors, etc., following the same guidance as Rule 6 below.
 
 ### Rule 6: Failure of U.S. Works to Comply With Renewal Requirements Prior to 1964
 Rule 6 copyright research is only accepted from known volunteers with demonstrated competency in the required evidence steps to provide non-renewal evidence. 
@@ -113,7 +118,7 @@ These procedures are to enact a good faith effort by Project Gutenberg to establ
 #### Scope
 Rule 6 may be applied to published books, monographs, serials, or portions of these items. It may not be applied to unpublished items, such as manuscripts and letters. It may not be applied to other types of items, such as audio recordings or speeches. It may only be applied when first publication was in the US, by authors residing in the US.
 
-If the work being researched is a play, screenplay or other work intended for oral presentation, search must include the Drama section of the renewals for the usual years. Photoplays (usually scripts that have pictures from a production or film bound in with them) must be researched in the Film section of the Library of Congress renewal records, as well. Those sections of renewals are not yet digitized.
+If the work being researched is a play, screenplay or other work intended for oral presentation, search must include the Drama section of the renewals for the usual years. Photoplays (usually scripts that have pictures from a production or film bound in with them) must be researched in the Film section of the Library of Congress renewal records, as well. Those sections of renewals are not yet completely digitized.
 
 #### Summary
 Rule 6 copyright clearances are challenging to complete. Project Gutenberg insists that that Rule 6 copyright clearance requests are submitted by persons who have demonstrated their ability to do accurate and complete copyright research. Rule 6 clearance research must include three components: 
@@ -278,6 +283,4 @@ The rules on public speeches, musical performances, and other works not original
 Visit this page to upload page scans from the title page and verso page for the book you have: 
 - [https://copy.pglaf.org](https://copy.pglaf.org)
 
-The page includes instructions and links to upload, and your submission will get a response within a few weeks. 
-If you have questions or trouble with the procedures, [Contact Us](/about/contact_information.html)
- 
+The page includes instructions and links to upload, and your submission will get a response within a few days. If you have questions or trouble with the procedures, [Contact Us](/about/contact_information.html)

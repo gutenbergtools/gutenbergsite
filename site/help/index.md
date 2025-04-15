@@ -40,6 +40,7 @@ Here are pages that give background about Project Gutenberg, including how new i
       <h2>R</h2>
        <li><a href="/policy/robot_access.html">Roboting our site</a> for automated bulk downloads</li>
       <h2>S</h2>
+       <li><a href="/help/shakespeare.html">Shakespeare Books</a></li>
        <li><a href="/help/submitting_your_own_work.html">Submitting your own work how-to</a></li>
        <li><a href="/help/subscribe_how_to.html">Subscribe how-to</a>, for email lists</li>
       <h2>T</h2>

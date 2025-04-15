@@ -7,13 +7,16 @@ permalink: /
 Welcome to Project Gutenberg
 ====================================================
 
-<h2 class="subtitle">Project Gutenberg is a library of over 70,000 free eBooks</h2>
+<h2 class="subtitle">Project Gutenberg is a library of over 75,000 free eBooks</h2>
+
 
 Choose among free epub and Kindle eBooks, download them or read them online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for you to enjoy. 
 
 {% include latest_books_template.html %}
 
 **No fee or registration!** Everything from Project Gutenberg is gratis, libre, and completely without cost to readers. If you find Project Gutenberg useful, please consider a small donation to help Project Gutenberg digitize more books, maintain its online presence, and improve Project Gutenberg programs and offerings. Other ways to help include digitizing, proofreading and formatting, or reporting errors.
+
+**New donation option** with Give Freely. <a href="/donate/index.html#givefreely">More information...</a>.
 
 **No special apps needed!** Project Gutenberg eBooks require no special apps to read, just the regular Web browsers or eBook readers that are included with computers and mobile devices. There have been reports of sites that charge fees for custom apps, or for the same eBooks that are freely available from Project Gutenberg. Some of the apps might have worthwhile features, but none are required to enjoy Project Gutenberg eBooks. 
 
@@ -27,6 +30,15 @@ Choose among free epub and Kindle eBooks, download them or read them online. You
 - [Offline catalogs](/ebooks/offline_catalogs.html): handy eBook listings and metadata to consult offline.
 - [Recently added](/ebooks/search/?query=&submit_search=Search&sort_order=release_date). The latest new and updated eBooks.
 - Visit [self.gutenberg.org](http://self.gutenberg.org) for free eBooks by contemporary authors.
+
+## Audio books
+
+Audio books are a great way to enjoy and share literature. Project Gutenberg no longer adds new audio books to the collection, and suggests these audio book resources. These audio books are all freely available and in the public domain in the US. They may be easily played back on computers, tablets, mobile phones, and other devices. They may be shared non-commercially, without limitation except in countries where the printed source is still copyrighted. All of the sources listed below are digitizations of texts from Project Gutenberg.
+
+- Project Gutenberg's [human-read audio books](/browse/categories/1). 662 titles read by people, sometimes with sound effects or other enhancements. These are from a few different contributors.
+- Project Gutenberg's [computer-generated audio books](/browse/categories/2). 386 titles from 2003, using text-to-speech automation. These are listenable but relatively low quality compared to today's technology.
+- Human-read audio books from [LibriVox](https://librivox.org). LibriVox is a volunteer community that produces high-quality performances that are done by many different volunteers. Follow the link to find audio books, and also to help create new audio books.
+- [The Project Gutenberg Open Audiobook Collection](https://aka.ms/audiobooks). Almost 5,000 titles from 2023, via a Project Gutenberg collaboration with Microsoft and MIT. These use neural text-to-speech technology for more natural-sounding computer-generated audio books. These audio books are also available on major music/podcast platforms as well as [The Internet Archive](https://archive.org/details/@project_gutenberg_and_microsoft?tab=uploads). Project Gutenberg and partners were recognized by TIME for this work in their [Best Inventions of 2023](https://time.com/collection/best-inventions-2023/6324762/project-gutenberg-open-audiobook-collection/).
 
 ## Get Help
   <div class="box_shadow">
@@ -65,20 +77,23 @@ Choose among free epub and Kindle eBooks, download them or read them online. You
 ## Social Media
 <ul class="icon-list">
     <li><a href="https://www.facebook.com/project.gutenberg">
-      <img src="/gutenberg/f_icon.png" alt="Facebook Icon" />
+      <img src="/gutenberg/f_icon.png" alt="Facebook iccon" />
     </a></li>
-    <li><a href="https://twitter.com/gutenberg_org">
-      <img src="/gutenberg/t_icon.png" alt="Twitter Icon" />
+    <li><a href="https://mastodon.social/@gutenberg_org" rel="me">
+      <img src="/gutenberg/m_icon.png" alt="Mastodon icon" />
+    </a></li>
+    <li><a href="https://bsky.app/profile/gutenberg.org" rel="me">
+      <img src="/gutenberg/b_icon.png" alt="Bluesky icon" />
     </a></li>
     <li><a href="https://mastodon.social/@gutenberg_org" rel="me">
       <img src="/gutenberg/m_icon.png" alt="Mastodon Icon" />
     </a></li>
     <li>News feeds of new eBooks</li>
     <li><a href="https://www.facebook.com/gutenberg.new">
-      <img src="/gutenberg/f_news_icon.png" alt="Facebook News Feed Icon" />
+      <img src="/gutenberg/f_news_icon.png" alt="Facebook news feed icon" />
     </a></li>
     <li><a href="https://mastodon.social/@gutenberg_new" rel="me">
-      <img src="/gutenberg/m_news_icon.png" alt="Mastodon Icon" />
+      <img src="/gutenberg/m_news_icon.png" alt="Mastodon icon" />
     </a></li>
   </ul>
 

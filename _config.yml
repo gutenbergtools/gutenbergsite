@@ -54,7 +54,7 @@ destination: /public/vhost/g/gutenberg/html/
 timezone: America/New_York
 encoding: utf-8 # default
 incremental: TRUE # doesn't seem to work... all files are being built
-keep_files: [cache,robots.txt,google3c00b5891470e2e3.html,catalog,browse,dirs,files,.acl.gutenwebdev,.acl.gutenwebprod,MIRRORS.ALL.utf8,internal,"0","1","2","3","4","5","6","7","8","9","ads.txt"]
+keep_files: [cache,google3c00b5891470e2e3.html,catalog,browse,dirs,files,.acl.gutenwebdev,.acl.gutenwebprod,MIRRORS.ALL.utf8,internal,"0","1","2","3","4","5","6","7","8","9","ads.txt"]
 
 # gbn 2020-01-22: ads.txt is for http://self.gutenberg.org (it needs to be
 # installed in the domain root)

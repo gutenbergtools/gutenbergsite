@@ -40,11 +40,17 @@ Replace html with the file type you are interested in.
 If you want only files in a given language say: 
 <pre>wget -w 2 -m -H "http://www.gutenberg.org/robot/harvest?filetypes[]=html&langs[]=de"</pre>
 
-Replace de with the ISO language code you are interested in. Tip: you can learn the language code of any language in the Project Gutenberg catalog by looking at the status window of your browser while moving your cursor over the language at [this page](/https://www.gutenberg.org/ebooks/)
+Replace 'de' with the ISO language code you are interested in. Tip: you can learn the language code of any language in the Project Gutenberg catalog by looking at the status window of your browser while moving your cursor over the language at [this page](/ebooks/)
+
 
 ## How to Mirror Project Gutenberg
 If you want to setup a mirror of Project Gutenberg, read the [Mirroring How-To](/help/mirroring.html)
 
 ## How to Get Catalog Data
-You can extract the whole Project Gutenberg catalog data from the [Project Gutenberg catalog in machine-readable format](/ebooks/offline_catalogs.html#the-project-gutenberg-catalog-metadata-in-machine-readable-format). The catalog data is licensed under the GNU GPL. 
+You can extract the whole Project Gutenberg catalog data from the [Project Gutenberg catalog in machine-readable format](/ebooks/offline_catalogs.html). The catalog data are granted to the public domain.
+
+## Files change frequently
+Project Gutenberg publishes hundreds of new eBooks every month, and we also fix hundreds of books when issues like typos are reported. In addition, the 'generated' formats (under the 'cache' top-level directory) are re-built monthly and sometimes have changes due to improvements in the software that builds them.
+
+When you save a copy of a Project Gutenberg eBook, consider periodically checking for any changes.
 
