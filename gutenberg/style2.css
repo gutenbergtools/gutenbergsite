@@ -865,7 +865,7 @@ library .latest h1 {
 .read_html {
     display: inline-block;
     padding: 8px 40px; /* Fallback for browsers that don't support clamp() */
-    padding: 8px clamp(15px, 7vw, 50px);
+    padding: 8px clamp(8px, 7vw, 50px);
     background-color: #c7dde3;
     color: black !important;
     border-radius: 8px;
