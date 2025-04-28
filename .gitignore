@@ -6,7 +6,11 @@
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# generated files
 _includes/latest_covers.html
+gutenberg/error404*
+
 
 # Misc
 to_delete
