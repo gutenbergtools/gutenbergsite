@@ -1,6 +1,7 @@
 # Local env
 .env
 .envrc
+_config_local.ym
 
 # Build caches
 .sass-cache/
@@ -9,7 +10,7 @@
 
 # generated files
 _includes/latest_covers.html
-gutenberg/error404*
+
 
 
 # Misc
