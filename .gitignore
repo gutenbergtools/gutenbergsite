@@ -1,7 +1,7 @@
 # Local env
 .env
 .envrc
-_config_local.ym
+_config_local.yml
 
 # Build caches
 .sass-cache/
