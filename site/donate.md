@@ -145,6 +145,10 @@ This emailed thank you and your PayPal transaction record serve as your tax rece
 
 The fee charged by PayPal for your donation is their discounted rate for registered charities.  This is 2.2% of the transaction plus 30 cents per transaction. For a $100 payment, this amounts to $2.50 or 2.5%. For $10, the fee is $0.52 or 5.2%. PayPal accepts non-US accounts and funds.
 
+We have learned that donations from some countries don't work when using the PayPal links and buttons above. This is a known limitation of the way we link to PayPal. To enable all countries, we would need to modify the Project Gutenberg website so that all pages with donation links would first load PayPal's software (JavaScript), and then load a specific remote link within Project Gutenberg's pages. We don't want PayPal's software to be loaded for every visitor to Project Gutenberg, so have opted for an approach where nothing is loaded from PayPal until a Project Gutenberg visitor selects the PayPal link.
+
+For those countries where donations are not accepted via the links and buttons here, simply make a payment to our email address as described above. That seems to work everywhere.
+
 
 ### <a name="about-donating-by-check-or-money-order"></a>About donating by Check or Money Order
 <a name="about-donating-by-check-or-money-order"></a>Send a check or money order in US funds. Our address is:
