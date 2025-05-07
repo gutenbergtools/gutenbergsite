@@ -1,5 +1,6 @@
 <header>
   <input type="checkbox" id="search-toggle" style="display: none" />
+  <input type="checkbox" id="about-toggle" style="display: none" />
   <div class="logo-container">
     <a id="main_logo" href="/" class="no-hover">
       <img src="/gutenberg/pg-logo-129x80.png" alt="Project Gutenberg" draggable="false" />
@@ -67,17 +68,15 @@
     </div>
   </div>
 
+  <label for="about-toggle" class="dropdown-overlay"></label>
   <div class="lower-header">
     <div class="dropdown">
-      <button class="dropdown-button">About</button>
+      <label for="about-toggle" class="dropdown-button" aria-haspopup="true" aria-expanded="false">About<span aria-hidden="true" class="dropdown-icon">▼</span></label>
       <div class="dropdown-content">
         <a href="/about/">About Project Gutenberg </a>
-        <a href="/policy/collection_development.html"
-          >Collection Development</a
-        >
         <a href="/about/contact_information.html">Contact Us</a>
         <a href="/about/background/">History &amp; Philosophy</a>
-        <a href="/policy/permission.html">Permissions &amp; License</a>
+        <a href="/help/mobile.html">Kindle & eReaders</a>
         <a href="/help/">Help Pages</a>
         <a href="/ebooks/offline_catalogs.html">Offline Catalogs</a>
         <a href="/donate/">Donate</a>
