@@ -989,13 +989,19 @@ library .latest h1 {
 .search_results_page{
     /* setting distance between header and page content */
     div .header {
-        padding-top: 5px;
+      padding-top: 5px;
     }
-
+    
+    @media screen and (max-width: 1025px) {
+      div .header {
+        padding-top: 75px;
+      }
+    }
+    
     @media screen and (max-width: 750px) {
-        div .header {
-            padding-top: 70px;
-        }
+      div .header {
+        padding-top: 140px;
+      }
     }
 }
 
