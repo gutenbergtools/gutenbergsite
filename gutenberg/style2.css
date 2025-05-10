@@ -972,36 +972,29 @@ library .latest h1 {
 
 
 /* Custom CSS for bibrec */
-.bibrec_page{
-    /* setting distance between header and page content */
-    div .page_content {
-        margin-top: 60px;
-    }
+.bibrec_page div .page_content {
+    margin-top: 60px;
+}
 
-    @media screen and (max-width: 1025px) {
-        div .page_content {
-            margin-top: 130px;
-        }
+@media screen and (max-width: 1025px) {
+    .bibrec_page div .page_content {
+        margin-top: 130px;
     }
 }
 
 /* Custom CSS for results page of quick searches */
-.search_results_page{
-    /* setting distance between header and page content */
-    div .header {
-      padding-top: 5px;
-    }
-    
-    @media screen and (max-width: 1025px) {
-      div .header {
+.search_results_page div .header {
+    padding-top: 5px;
+}
+
+@media screen and (max-width: 1025px) {
+    .search_results_page div .header {
         padding-top: 75px;
-      }
-    }
-    
-    @media screen and (max-width: 750px) {
-      div .header {
-        padding-top: 140px;
-      }
     }
 }
 
+@media screen and (max-width: 750px) {
+    .search_results_page div .header {
+        padding-top: 140px;
+    }
+}
