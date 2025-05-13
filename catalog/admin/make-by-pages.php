@@ -1,12 +1,17 @@
 <?php
 
-// todo: 
-// subject pages
+  // 2020-01-03: gbn
+  // Copied from Marcello's program in 
+  // /public/vhost/g/gutenberg/html/catalog/admin
+
+  // This makes various static pages for browsing the collection.
+  // The front end to these pages is $webroot/catalog/
+  // (not $webroot/browse).
 
 $cli = php_sapi_name () == "cli";
 if (!$cli) exit ();
 
-set_include_path(get_include_path() . PATH_SEPARATOR . "/public/vhost/g/gutenberg/dev/private/lib/php");
+// include_once ("/public/vhost/g/gutenberg/private/lib/php/pgcat.phh");
 include_once ("pgcat.phh");
 
 $lang_thres = 50;
@@ -31,6 +36,15 @@ function _navbarrecent ($what, $dir) {
   foreach ($spans as $href => $caption) {
     $nav .= "    <a href=\"/$dir/last$href\">$caption</a>&nbsp;\n";
   }
+  $nav .= "  </p>\n";
+  return $nav;
+}
+
+function _navbarpopular ($what, $dir) {
+  $nav .= "  <p>\n";
+  $nav .= "<a href=\"/ebooks/search/?sort_order=downloads\">Popular</a>&nbsp;\n";
+  $nav .= "<a href=\"/browse/scores/top\">Top 100</a>&nbsp;\n";
+  $nav .= "<a href=\"/ebooks/search/?sort_order=random\">Random</a>&nbsp;\n";
   $nav .= "  </p>\n";
   return $nav;
 }
@@ -85,8 +99,35 @@ function _navbarcategories ($what, $dir) {
 }
     
 function navbar () {
+//Commenting out this section and restoring the previous navbar to work with the new ebooks page 24/4
+  /*global $dir_authors, $dir_titles, $dir_langs, $dir_loccs, $dir_categories, $dir_recent, $lang_thres;
+  $nav =  " <div class=\"box\">\n";
+  $nav .= "  <input id=\"collapsibleb\" class=\"toggle\" type=\"checkbox\">\n";
+  $nav .= "  <label for=\"collapsibleb\" class=\"lbl-toggle\">Browsing Options</label>\n";
+  $nav .= "   <div class=\"collapsible-content\">\n";
+  $nav .= "    <div class=\"pgdbnavbar\">\n";
+  $nav .= "     <div class=\"content-inner\">\n";
+  $nav .= _navbar       ("Authors",   $dir_authors);
+  $nav .= "     </div>\n    </div>\n     <div class=\"content-inner\">\n    <div class=\"pgdbnavbar\">\n";
+  $nav .= _navbar       ("Titles",    $dir_titles);
+  $nav .= "     </div>\n    </div>\n     <div class=\"content-inner\">\n    <div class=\"pgdbnavbar\">\n";
+  $nav .= _navbarlangs  ("Languages with more than $lang_thres books", "> $lang_thres", $dir_langs);
+  $nav .= "     </div>\n    </div>\n     <div class=\"content-inner\">\n    <div class=\"pgdbnavbar\">\n";
+  $nav .= _navbarlangs  ("Languages with up to $lang_thres books", "<= $lang_thres", $dir_langs);
+  $nav .= "     </div>\n    </div>\n     <div class=\"content-inner\">\n    <div class=\"pgdbnavbar\">\n";
+  //  $nav .= _navbarloccs  ("LoC Class", $dir_loccs);
+  $nav .= _navbarcategories ("Special Categories", $dir_categories);
+  $nav .= "     </div>\n    </div>\n     <div class=\"content-inner\">\n    <div class=\"pgdbnavbar\">\n";
+  $nav .= _navbarrecent     ("Recent",     $dir_recent);
+  $nav .= "     </div>\n    </div>\n     <div class=\"content-inner\">\n    <div class=\"pgdbnavbar\">\n";
+  $nav .= _navbarpopular    ("Rankings:",     $dir_recent);
+  $nav .= "     </div>\n    </div>\n   </div>\n  </div>\n\n"; */
   global $dir_authors, $dir_titles, $dir_langs, $dir_loccs, $dir_categories, $dir_recent, $lang_thres;
-  $nav  = "<div class=\"pgdbnavbar\">\n";
+  $nav  = "<input id='collapsible5' class='toggle' type='checkbox'>
+	    <label for='collapsible5' class='lbl-toggle'>Browsing Options </label>
+            <div class='collapsible-content'>
+            <div class = 'content-inner'>
+	    <div class=\"pgdbnavbar\">\n";
   $nav .= _navbar       ("Authors",   $dir_authors);
   $nav .= _navbar       ("Titles",    $dir_titles);
   $nav .= _navbarlangs  ("Languages with more than $lang_thres books", "> $lang_thres", $dir_langs);
@@ -94,7 +135,7 @@ function navbar () {
   //  $nav .= _navbarloccs  ("LoC Class", $dir_loccs);
   $nav .= _navbarcategories ("Special Categories", $dir_categories);
   $nav .= _navbarrecent     ("Recent",     $dir_recent);
-  $nav .= "</div>\n\n"; 
+  $nav .= "</div></div></div>\n\n";
   return $nav;
 }
     
@@ -192,10 +233,12 @@ function FormatAuthors ($mode = 0) {
     if (count ($o['titles'])) {
       $html_author = htmlspecialchars ($o['author']);
       if ($mode == 1 || $fk_authors == 0) {
-        $line = "<h2><a name=\"a$fk_authors\">$html_author</a> <a href=\"#a$fk_authors\" title=\"Link to this author\">¶</a></h2>\n";
+	// name= is obsolete HTML, but needed to browse to specific
+	// authors from bibrec and other pages.
+	$line = "<h2><a id=\"a$fk_authors\"></a>$html_author</h2>\n";
       } else {
         $href = "/browse/authors/" . find_browse_page ($o['author']) . "#a$fk_authors";
-        $line = "<h2><a name=\"a$fk_authors\"></a><a href=\"$href\">$html_author</a></h2>\n";
+	$line = "<h2><a id=\"a$fk_authors\"></a><a href=\"$href\">$html_author</a></h2>\n";
       }
       $line .=  "<ul>\n";
 
@@ -227,24 +270,32 @@ function FormatAuthors ($mode = 0) {
   }
 }
 
+//
+// Start of main program
+//
+
 $dir            = "browse";
 $dir_authors    = "$dir/authors";
 $dir_titles     = "$dir/titles";
 $dir_langs      = "$dir/languages";
 $dir_loccs      = "$dir/loccs";
-$dir_subjects   = "$dir/subjects";
+// Not implemnented:
+// $dir_subjects   = "$dir/subjects";
 $dir_categories = "$dir/categories";
 $dir_recent     = "$dir/recent";
 $dir_feeds      = "cache/epub/feeds";
 $dir_etext      = "ebooks";
 $base_url       = "https://$config->domain";
 
+// Note that /scores is part of the same directory tree, 
+// but not created by this program.
 @mkdir ("$config->documentroot/$dir",            0755);
 @mkdir ("$config->documentroot/$dir_authors",    0755);
 @mkdir ("$config->documentroot/$dir_titles",     0755);
 @mkdir ("$config->documentroot/$dir_langs",      0755);
 @mkdir ("$config->documentroot/$dir_loccs",      0755);
-@mkdir ("$config->documentroot/$dir_subjects",   0755);
+// Not implemented:
+// @mkdir ("$config->documentroot/$dir_subjects",   0755);
 @mkdir ("$config->documentroot/$dir_categories", 0755);
 @mkdir ("$config->documentroot/$dir_recent",     0755);
 @mkdir ("$config->documentroot/$dir_feeds",      0755);
@@ -330,11 +381,13 @@ foreach ($config->browse_pages as $caption => $regexp) {
   pageheader ("Browse By Author: $caption");
   echo (navbar ());
   echo ("<div class=\"pgdbbyauthor\">\n\n");
+  echo (" <div class=\"content-inner\">\n\n");
 
   foreach ($lines as $line) {
     echo ($line);
   }
 
+  echo (" </div>\n\n");
   echo ("</div>\n\n");
   pagefooterfile ("$config->documentroot/$dir_authors/$fn.html.utf8");
 }
@@ -380,11 +433,13 @@ order by lang, author, filing");
   pageheader ("Browse By Language: $caption");
   echo (navbar ());
   echo ("<div class=\"pgdbbylanguage\">\n\n");
+  echo (" <div class=\"content-inner\">\n\n");
 
   foreach ($lines as $line) {
     echo ($line);
   }
 
+  echo (" </div>\n\n");
   echo ("</div>\n\n");
   pagefooterfile ("$config->documentroot/$dir_langs/$fn.html.utf8");
 }
@@ -422,11 +477,13 @@ order by author, filing");
   pageheader ("Browse By Library of Congress Class: $caption");
   echo (navbar ());
   echo ("<div class=\"pgdbbylocc\">\n\n");
+  echo (" <div class=\"content-inner\">\n\n");
 
   foreach ($lines as $line) {
     echo ($line);
   }
 
+  echo (" </div>\n\n");
   echo ("</div>\n\n");
   pagefooterfile ("$config->documentroot/$dir_loccs/$fn.html.utf8");
 }
@@ -469,11 +526,13 @@ order by author, filing");
   pageheader ("Browse By Category: $caption");
   echo (navbar ());
   echo ("<div class=\"pgdbbycategory\">\n\n");
+  echo (" <div class=\"content-inner\">\n\n");
 
   foreach ($lines as $line) {
     echo ($line);
   }
 
+  echo (" </div>\n\n");
   echo ("</div>\n\n");
   pagefooterfile ("$config->documentroot/$dir_categories/$fn.html.utf8");
 }
@@ -488,6 +547,7 @@ foreach ($config->browse_pages as $caption => $regexp) {
   pageheader ("Browse By Title: $caption");
   echo (navbar ());
   echo ("<div class=\"pgdbbytitle\">\n\n");
+  echo (" <div class=\"content-inner\">\n\n");
 
     // titles
   $db->exec ("select * from tmp_books where lower (filing) ~ '^$regexp' order by lower (filing), author, lang");
@@ -508,6 +568,7 @@ foreach ($config->browse_pages as $caption => $regexp) {
     } while ($db->NextRow ());
   }
 
+  echo (" </div>\n\n");
   echo ("</div>\n\n");
   pagefooterfile ("$config->documentroot/$dir_titles/$fn.html.utf8");
 }
@@ -551,10 +612,15 @@ foreach ($spans as $span => $caption) {
     uksort ($lines, 'strcoll');
   }
 
-  $config->htmlheaderlinks[] = "<link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS-Feed of Project Gutenberg Recently Posted or Updated EBooks\" href=\"https://www.gutenberg.org/$dir_feeds/today.rss\">";
+# gbn 20200828: Reversed order of the next two lines (header must preceed
+#               content).
   pageheader ("Books Posted or Updated Since: $cutoff");
+# Actually, this doesn't work - looks like the intention was to 
+# modify the header, but that cannot be done this way.
+#  $config->htmlheaderlinks[] = "<link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS-Feed of Project Gutenberg Recently Posted or Updated EBooks\" href=\"https://www.gutenberg.org/$dir_feeds/today.rss\">";
   echo (navbar ());
   echo ("<div class=\"pgdbrecent\">\n\n");
+  echo (" <div class=\"content-inner\">\n\n");
 
   if (!count ($recents)) {
     echo ("<p>No books posted.</p>\n\n");
@@ -582,6 +648,7 @@ foreach ($spans as $span => $caption) {
       }
     }
   }
+  echo (" </div>\n\n");
   echo ("</div>\n\n");
   pagefooterfile ("$config->documentroot/$dir_recent/last$span.html.utf8");
 
@@ -603,7 +670,7 @@ if ($hd = fopen ($file = "$config->documentroot/$dir_feeds/today.rss", "w")) {
        This feed is regenerated every night.
     </description>
     <language>en-us</language>
-    <webMaster>webmaster2023@pglaf.org</webMaster>
+    <webMaster>webmaster2025@pglaf.org</webMaster>
     <pubDate>$pubdate</pubDate>
     <lastBuildDate>$pubdate</lastBuildDate>
 
