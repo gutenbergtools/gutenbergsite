@@ -61,10 +61,13 @@ foreach ($files as $filename => $value) {
   if (($cnt % 100000) == 0) {
     echo ("Stat: $cnt gone: $gonecnt\n");
   }
-  if ($gonecnt > 10000) {
-    echo ("Gone over 10.000 files!\nDeleted nothing. Check for errors.");
-    die ();
-  }
+
+
+  # gbn: temp May 4 2025:
+  # if ($gonecnt > 10000) {
+  #   echo ("Gone over 10.000 files!\nDeleted nothing. Check for errors.");
+  #   die ();
+  # }
 }
 
 $files = null;
