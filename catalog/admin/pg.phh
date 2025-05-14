@@ -1,0 +1,291 @@
+<?php
+// this header script functions as a template for all the "browse" pages
+// moved from $PBIN so we can switch versions
+
+include_once ("_config.phh");
+
+// get the repo root from env so we can switch branches easily
+$repo = getenv ("REPO");
+class Page {
+  
+  function header ($caption) {
+    global $config, $menus, $repo;
+
+    header ("Content-Type: text/html; charset=$config->page_encoding");
+//This file comes from [gutenbergsite repo]/_includes
+include("$repo/_includes/head1.html");
+echo <<< EOT
+<title>$caption | Project Gutenberg</title>
+EOT;
+//This file comes from [gutenbergsite repo]/_includes
+include("$repo/_includes/head2.html");
+foreach ($config->htmlheaderlinks as $link) {
+  echo ($link);
+}
+
+echo <<< EOT
+ <body>
+  <div class="container"><!-- start body -->
+EOT;
+//This file comes from [gutenbergsite repo]/_includes
+include("$repo/_includes/menu.html");
+echo <<< EOT
+  <div class="page_content"><!-- start content -->	
+EOT;
+
+  }
+
+  function footer () {
+    global $config, $repo;
+    $script_date = gmdate ("Y-m-d H:i:s", getlastmod ()) . " UTC";
+    $honeypot = honeypot (".");
+
+    echo <<< EOT
+
+   </div><!--content ending-->
+
+  </div>
+   <div class="footer"><!-- start footer -->
+EOT;
+//This file comes from [gutenbergsite repo]/_includes
+include("$repo/_includes/footer.html");
+echo <<< EOT
+  </div><!-- footer ending-->
+<!-- body ending -->
+ </body>
+</html>
+EOT;
+  }
+}
+
+function pageheader ($caption) {
+  global $page;
+  
+  ob_start ();
+
+  $page->header ($caption);
+}
+
+function pagefooter ($exit = 1) {
+  global $page, $output, $gzoutput;
+
+  //  error_log ($_SERVER['REQUEST_URI']);
+
+  $page->footer ();
+
+  $output = ob_get_contents ();
+  ob_end_clean ();
+
+  header ("Vary: Accept-Encoding");
+
+  $gzoutput = ob_gzhandler ($output, 5);
+  if ($gzoutput) {
+    header ("Content-Length: " . strlen ($gzoutput));
+    echo $gzoutput;
+  } else {
+    header ("Content-Length: " . strlen ($output));
+    echo $output;
+  }
+
+  // important! no data should be sent after this
+  // or keep-alive connections will be broken
+  if ($exit) {
+    exit ();
+  }
+}
+
+function getstr ($getstr_name, $getstr_default = null) {
+  global $$getstr_name;
+  $$getstr_name = (isset ($_REQUEST[$getstr_name]) && strlen ($_REQUEST[$getstr_name])) 
+    ? htmlspecialchars ($_REQUEST[$getstr_name]) : $getstr_default;
+}
+
+function getint ($name, $default = null) {
+  global $$name;
+  $$name = (isset ($_REQUEST[$name]) && strlen ($_REQUEST[$name])) 
+    ? intval ($_REQUEST[$name]) : $default;
+}
+
+function getbool ($name, $default = 0) {
+  global $$name;
+  $$name = (isset ($_REQUEST[$name])) ? ($_REQUEST[$name] == 1) : $default;
+}
+
+function getarray ($name, $default = array ()) {
+  global $$name;
+  $$name = (isset ($_REQUEST[$name])) ? $_REQUEST[$name] : $default;
+}
+
+function nocache () {
+  header ("Expires: Tue, 19 Nov 1985 05:00:00 GMT");
+  header ("Cache-Control: no-cache, no-store, must-revalidate, max-age=0");
+  header ("Pragma: no-cache");
+  header ("Vary: *");
+}
+
+function privatecache ($seconds = 86400) {
+  header ("Cache-Control: private, max-age=$seconds");
+}
+
+function http_redirect ($relurl) {
+  $domain = $_SERVER['HTTP_HOST'];
+  $relurl = ltrim ($relurl, "/");
+  header ("Location: http://$domain/$relurl\r\n\r\n");
+  exit;
+}
+
+function tarpit ($seconds = 5) {
+  if (function_exists ('mmcache_get')) {
+    // put a key into shared mem, expires in x seconds
+    $key = "pg." . $_SERVER['REMOTE_ADDR'];
+    while (mmcache_get ($key) !== null) {
+      sleep (1);
+    }
+    mmcache_put ($key, "0", $seconds);
+  }
+}
+
+function _mkmenu ($caption, $href, $title = null, $tabindex = 0, $accesskey = null) {
+  $ak = $t = "";
+  $at = array ();
+
+  if (isset ($title)) {
+    array_push ($at, $title);
+  }
+  if (isset ($accesskey)) {
+    $ak = " accesskey=\"$accesskey\"";
+    array_push ($at, "Accesskey=$accesskey");
+  }
+  if (count ($at)) {
+    $t = join (" - ", $at);
+    $t = " title=\"$t\"";
+  }
+
+  return " tabindex=\"$tabindex\"$ak$t href=\"$href\">$caption</a>\n";
+}
+
+function mkmenu ($caption, $href, $title = null, $tabindex = 0, $accesskey = null) {
+  return "          <a" . _mkmenu ($caption, $href, $title, $tabindex, $accesskey);
+}
+
+function mkmenuh1 ($caption, $href, $title = null, $tabindex = 0, $accesskey = null) {
+  return "          <a class=\"h1\"" . _mkmenu ($caption, $href, $title, $tabindex, $accesskey);
+}
+
+function honeypot ($t) {
+  $id = rand ();
+  return "<a style=\"text-decoration: none; color: inherit\" href=\"/catalog/world/honeypot?id=$id\">$t</a>";
+}
+
+$menu_group       = "        <div class=\"menu-group\">\n";
+$menu_group_open  = "        <div class=\"menu-group menu-group-open\">\n";
+$menu_end         = "        </div>\n";
+$menu_sep         = " <span class=\"menusep\">--</span> ";
+$menu_pre         = " <span class=\"menusep\">=&gt;</span> ";
+
+$config = new Config ();
+$page   = new Page ();
+$menus  = array ();
+
+$menus[0] = mkmenuh1 ("Online Book Catalog",  "/catalog/",	"Go to the online book catalog section",         30, "1");
+$menus[1] = mkmenuh1 ("Main Page",            "/wiki/Main_Page", "Go to the Project Gutenberg Main Page",                     40, "2");
+
+// $menus[2] = mkmenuh1 ("About Us",             "/about/",	"Go to the information section",                 40, "3");
+// $menus[3] = mkmenuh1 ("In Depth Information", "/info/",	        "Go to the in depth information section",        50, "4");
+
+$localmenu_home = 
+$menu_group_open . 
+$menus[1] .
+$menu_pre .
+mkmenu ("No Cost or Freedom?",       "/freedom",     "Go to the No Cost or Freedom? page",                    11, "f") . 
+$menu_sep .
+mkmenu ("License",           "/license",     "Go to the Project Gutenberg License page",      12, "l") . 
+$menu_sep .
+mkmenu ("Linking Readme",    "/howto-link",  "Go to the Guidelines for linking page",         13, "k") . 
+$menu_sep .
+mkmenu ("Robot Readme",      "/robot/",      "Go to the Guidelines for using a robot page",   14, "r") .
+$menu_end;
+
+$localmenu_cat_admin = 
+$menu_group_open . 
+mkmenuh1 ("Catalog Admin", "/catalog/admin", "", 40, "") . 
+$menu_pre .
+mkmenu ("Advanced Search", "/catalog/world/search", "", 41, "") . 
+$menu_pre .
+mkmenu ("Authors", "/catalog/admin/authors_list", "", 42, "") . 
+$menu_sep .
+mkmenu ("Books", "/catalog/admin/books_form", "", 43, "") . 
+$menu_sep .
+mkmenu ("Subjects", "/catalog/admin/subjects_list", "", 44, "") . 
+$menu_sep .
+mkmenu ("LoC classes", "/catalog/admin/loccs_list", "", 45, "") . 
+$menu_sep .
+mkmenu ("Cataloging Guidelines", "/wiki/Cataloging_Guidelines", "Guidelines for cataloging (wiki page!)", 45, "") .
+$menu_end;
+
+$localmenu_books = 
+$menu_group_open .
+$menus[0] .
+$menu_pre .
+<<< EOT
+        <form method="post" action="/ebooks/search/"
+	      accept-charset="utf-8" enctype="multipart/form-data">
+	    <div>
+	    <input tabindex="21" alt="Book" type="text" value="" 
+		   maxlength="80" id="menu-title" name="query" title="Accesskey=b">
+	    </div>
+        </form>
+EOT
+.
+mkmenu ("Book  Search",         "/ebooks/",               "Go to book search page",                                 30, "s") .
+$menu_sep .
+mkmenu ("Recent  Books",        "/browse/recent/last1",	  "Go to the Most recently posted books page",              31, "r") .
+$menu_sep .
+mkmenu ("Top  100",             "/browse/scores/top",	  "Go to the Top 100 books and authors page",               32, "p") .
+$menu_sep .
+mkmenu ("Offline Catalogs",     "/wiki/Gutenberg:Offline_Catalogs",	  "Go to the Offline Catalogs page",        33, "o") .
+$menu_sep .
+mkmenu ("My Bookmarks",         "/catalog/world/mybookmarks", "Go to your bookmark page",                           34, "b") .
+$menu_end;
+
+$localmenu_aboutus =
+$menu_group_open .
+  // $menus[2] .
+$menu_pre .
+mkmenu ("Donate",               "/fundraising/donate",    "Go to the How to donate to Project Gutenberg page",      41, "d") .
+$menu_sep .
+mkmenu ("News and Events",      "/events/",               "Go to the News and Events page",                         42, "e") .
+$menu_sep .
+mkmenu ("Contact  Info",        "/about/contact",         "Go to the How to contact Project Gutenberg page",        44, "c") .
+$menu_sep .
+mkmenu ("Partners, Affiliates and Resources", "/about/links", "Go to the Interesting links page",                   45, "p") .
+$menu_sep .
+mkmenu ("Credits",              "/about/credit",          "Go to the Credits page",                                 46, "r") .
+$menu_end;
+
+$localmenu_indepth = 
+$menu_group_open .
+  // $menus[3] .
+$menu_pre .
+mkmenu ("Volunteering",         "/info/volunteer",        "Go to the Volunteering page",                            51, "v") .
+$menu_sep .
+mkmenu ("Mailing Lists",        "/howto/subscribe-howto", "Go to the How to subscribe to our mailing lists page",   52, "m") .
+$menu_sep .
+mkmenu ("FAQ",                  "/faq/",                  "Go to the Frequently asked questions section",           53, "f") .
+$menu_sep .
+mkmenu ("HOWTOs",               "/howto/",                "Go to the Howto section",                                54, "h") .
+$menu_sep .
+mkmenu ("Newsletters",          "/newsletter/",           "Go to the Project Gutenberg Newsletter section",         55, "n") .
+$menu_end;
+
+for ($i = 0; $i < count ($menus); $i++) {
+  $menus[$i] = $menu_group . $menus[$i] . $menu_end;
+}
+
+// Local Variables:
+// mode:php
+// coding:utf-8-unix 
+// fill-column: 75
+// End:
+
+?>
