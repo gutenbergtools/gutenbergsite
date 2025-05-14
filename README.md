@@ -50,28 +50,32 @@ The basic setup is:
 * `$BASEDIR`: the path where we maintain the site.
 * `$BASEDIR/gutenbergsite`: the git-maintained content
 * `$BASEDIR/html`: the path on the server that the web server uses as its `DOCUMENT ROOT`.
+* `$BASEDIR/gutenbergdev`: corresponding place for the dev server.
 
 Most pages for the live site (i.e., under `$BASEDIR/html`) should exist under `$BASEDIR/gutenbergsite`. Any exceptions will be noted in `$BASEDIR/gutenbergsite/_config.yml` (the Jekyll configuration file).
 
 To update the git-maintained content and push to the live site:
 
-    cd $BASEDIR/gutenbergsite
-    jekyll build --verbose
 
-Note: `--verbose` is optional.
+* `$PBIN/make-static-pages` (does the git pull and builds non-jekyll pages) This script runs twice a day. 
+* `$PBIN/make-static-pages-dev` (does the same for the dev branch targeting the directory used for the dev site)
+* `$EBCBIN/cron-jekyll.sh` (runs jekyll) This is run hourly. It does not do the git pull.
+* `$EBCBIN/dev-jekyll.sh` (runs the dev branch jekyll targeting the dev server directory)
 
-Any changes to files under `gutenbergsite` should be checked in via git. For example, 
-
-    git add FILENAME      # for newly created files only
-    git commit "MESSAGE"  # give an informative commit log message
-    git push
-
-Similarly, any changes made via github.com should be pulled to `$BASEDIR/gutenbergsite`:
-
-    cd $BASEDIR/gutenbergsite
-    git pull
+Any changes to files under `gutenbergsite` should be checked in via git. But please don't edit files on the production server! Changes should be made via github.com
 
 Pages that will be converted from markdown to HTML (and have our header/footer added) are in `$BASEDIR/gutenbergsite/site`.
+
+## Getting the rest of the static files made
+
+Some of the code that makes the PG website pages was developed as early as 2010, using PHP, Perl and a bit of Python. We are currently building scaffolding to make the page generation and testing less ad hoc and more consistent with modern devops.
+
+### Browse pages
+
+`make-static-pages` sets the environment and runs make-by-pages.php from this repo.
+It does not (yet) make the "score" pages, which use download data to determine the most popular books.
+
+The "Pretty Pictures" page is currently in rehab. It used a google API which was recently turned off, over 12 years after its announced deprecation!
 
 
 ## License
