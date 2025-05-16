@@ -164,8 +164,8 @@ The Google Drive and Open/Share process is a little different on Android versus 
 There are some Project Gutenberg eBooks that, mysteriously, do not display properly on the reMarkable 2. We have had similar reports with some Kindle devices, and are contantly making improvements to the software that Project Gutenberg utilizes to make these formats. Contact us (link at the bottom of this page) to report any specific anomalies - these reports are really valuable for knowing what to fix!
 
 ## Suggestions from Project Gutenberg Founder Michael Hart
->Michael Hart was a proponent of eBooks on mobile devices. He offered these ideas in February 2010. This guidance might not be directly applicable to all of today's portable devices. 
->
+[Michael Hart](https://hart.pglaf.org) was a proponent of eBooks on mobile devices. He offered these ideas in February 2010. This guidance might not be directly applicable to all of today's portable devices. 
+
 >I'm writing this because 90% of the questions we receive at *help @ pglaf.org* are about buying dedicated eReaders at prices from $200 to over $1,000.
 >
 >Before actually plunking down that much money, I suggest trying reading Project Gutenberg and other eBooks on the laptops, notebooks, netbooks, cellphones or PDAs already in your collection of devices. I have known many people who have read very lengthy works on their cellphone, PDA or whatever while standing in lines over a period of one or two weeks and are have thus doubled their book number per year without taking any extra time.
