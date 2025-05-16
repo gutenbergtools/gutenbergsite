@@ -51,7 +51,7 @@ Michael S. Hart left a major mark on the world. The invention of eBooks was not 
 
 In July 2011, Michael wrote these words, which summarize his goals and his lasting legacy: “One thing about eBooks that most people haven't thought much is that eBooks are the very first thing that we're all able to have as much as we want other than air. Think about that for a moment and you realize we are in the right job." He had this advice for those seeking to make literature available to all people, especially children:
 
- "Learning is its own reward. Nothing I can say is better than that."
+> "Learning is its own reward. Nothing I can say is better than that."
 
 Michael is remembered as a dear friend, who sacrificed personal luxury to fight for literacy, and for preservation of public domain rights and resources, towards the greater good.
 
@@ -63,19 +63,19 @@ As spoken by Newby at Michael's funeral, September 12 2011 (this sequence of wor
 ## Message from Michael's Family
 The family prepared a document with an image of Michael, "breaking down the bars of ignorance and illiteracy." The message is part of this [PDF file](/gutenberg/HartfamilyAppreciation.pdf) and contains this text: 
 
- Thank you for your
- kind thoughts at this time.
- Michael will be truly missed
- by his family – by his friends – 
+> Thank you for your\
+ kind thoughts at this time.\
+ Michael will be truly missed\
+ by his family – by his friends – \
  and by the world !!
  
- Please keep breaking down the bars !!
+> Please keep breaking down the bars !!
  
- Alice, Maggie, Liz and Bennett
+> Alice, Maggie, Liz and Bennett
 
 
 ## Read some of Michael's writings
-You can find a series of writings by Michael online in his [online pages](https://www.pglaf.org/hart].
+You can find a series of writings by Michael online in his [online pages](https://www.pglaf.org/hart).
 
 ## Remembrances
 [Birthday Remembrances](https://www.gutenberg.org/wiki/User:Jim_Berger) by friend Jim Berger. 
