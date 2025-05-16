@@ -1,18 +1,28 @@
 <?php
 
-// todo: 
-// subject pages
+  // 2020-01-03: gbn
+  // Copied from Marcello's program in 
+  // /public/vhost/g/gutenberg/html/catalog/admin
+
+  // This makes various static pages for browsing the collection.
+  // The front end to these pages is $webroot/catalog/
+  // (not $webroot/browse).
 
 $cli = php_sapi_name () == "cli";
 if (!$cli) exit ();
 
-set_include_path(get_include_path() . PATH_SEPARATOR . "/public/vhost/g/gutenberg/dev/private/lib/php");
 include_once ("pgcat.phh");
 
 $lang_thres = 50;
 setlocale (LC_ALL, 'en_US.utf8');
 
 $config->page_encoding = "UTF-8";
+
+// PUBLIC is different for dev
+$docroot = getenv ('PUBLIC');
+if ($docroot) {
+  $config->documentroot = $docroot;
+}
 
 function _navbar ($what, $dir) {
   global $config;
@@ -192,10 +202,10 @@ function FormatAuthors ($mode = 0) {
     if (count ($o['titles'])) {
       $html_author = htmlspecialchars ($o['author']);
       if ($mode == 1 || $fk_authors == 0) {
-        $line = "<h2><a name=\"a$fk_authors\">$html_author</a> <a href=\"#a$fk_authors\" title=\"Link to this author\">¶</a></h2>\n";
+	    $line = "<h2><a id=\"a$fk_authors\"></a>$html_author</h2>\n";
       } else {
         $href = "/browse/authors/" . find_browse_page ($o['author']) . "#a$fk_authors";
-        $line = "<h2><a name=\"a$fk_authors\"></a><a href=\"$href\">$html_author</a></h2>\n";
+	    $line = "<h2><a id=\"a$fk_authors\"></a><a href=\"$href\">$html_author</a></h2>\n";
       }
       $line .=  "<ul>\n";
 
@@ -227,24 +237,32 @@ function FormatAuthors ($mode = 0) {
   }
 }
 
+//
+// Start of main program
+//
+
 $dir            = "browse";
 $dir_authors    = "$dir/authors";
 $dir_titles     = "$dir/titles";
 $dir_langs      = "$dir/languages";
 $dir_loccs      = "$dir/loccs";
-$dir_subjects   = "$dir/subjects";
+// Not implemnented:
+// $dir_subjects   = "$dir/subjects";
 $dir_categories = "$dir/categories";
 $dir_recent     = "$dir/recent";
 $dir_feeds      = "cache/epub/feeds";
 $dir_etext      = "ebooks";
 $base_url       = "https://$config->domain";
 
+// Note that /scores is part of the same directory tree, 
+// but not created by this program.
 @mkdir ("$config->documentroot/$dir",            0755);
 @mkdir ("$config->documentroot/$dir_authors",    0755);
 @mkdir ("$config->documentroot/$dir_titles",     0755);
 @mkdir ("$config->documentroot/$dir_langs",      0755);
 @mkdir ("$config->documentroot/$dir_loccs",      0755);
-@mkdir ("$config->documentroot/$dir_subjects",   0755);
+// Not implemented:
+// @mkdir ("$config->documentroot/$dir_subjects",   0755);
 @mkdir ("$config->documentroot/$dir_categories", 0755);
 @mkdir ("$config->documentroot/$dir_recent",     0755);
 @mkdir ("$config->documentroot/$dir_feeds",      0755);
@@ -603,7 +621,7 @@ if ($hd = fopen ($file = "$config->documentroot/$dir_feeds/today.rss", "w")) {
        This feed is regenerated every night.
     </description>
     <language>en-us</language>
-    <webMaster>webmaster2023@pglaf.org</webMaster>
+    <webMaster>webmaster2025@pglaf.org</webMaster>
     <pubDate>$pubdate</pubDate>
     <lastBuildDate>$pubdate</lastBuildDate>
 
