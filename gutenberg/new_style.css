@@ -1814,6 +1814,12 @@ span.subtitle {
   height: 20px;
 }
 
+.icon_bsky {    
+  background-position: -75px -194px;
+  width:22px;
+  height:22px;
+}
+
 .icon_facebook {
   background-position: -44px -357px;
   width: 20px;
