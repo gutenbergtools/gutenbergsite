@@ -6,6 +6,10 @@ include_once ("_config.phh");
 
 // get the repo root from env so we can switch branches easily
 $repo = getenv ("REPO");
+if (! $repo) {
+  $repo = "/public/vhost/g/gutenberg/gutenbergsite";
+}
+
 class Page {
   
   function header ($caption) {
