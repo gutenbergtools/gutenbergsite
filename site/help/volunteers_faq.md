@@ -62,7 +62,7 @@ part of a text.
 fixing any errors it made. Remove page headers and
 footers. De-hyphenate. Add back italics or other formatting.
 - Format: Most people start with HTML, and then derive a plain text
-version from the HTML. It is stronly recommended you utilize a HTML
+version from the HTML. It is strongly recommended you utilize a HTML
 editor or write HTML "by hand" (using a text editor). Most word
 processors do not create usable HTML, which could lead to significant
 additional work to meet Project Gutenberg's HTML requirements. The
