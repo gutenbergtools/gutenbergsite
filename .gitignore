@@ -1,12 +1,13 @@
 # Local env
 .env
 .envrc
-_config_local.ym
+_config_local.yml
 
 # Build caches
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+vendor
 
 # generated files
 _includes/latest_covers.html

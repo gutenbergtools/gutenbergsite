@@ -11,13 +11,18 @@
 $cli = php_sapi_name () == "cli";
 if (!$cli) exit ();
 
-// include_once ("/public/vhost/g/gutenberg/private/lib/php/pgcat.phh");
 include_once ("pgcat.phh");
 
 $lang_thres = 50;
 setlocale (LC_ALL, 'en_US.utf8');
 
 $config->page_encoding = "UTF-8";
+
+// PUBLIC is different for dev
+$docroot = getenv ('PUBLIC');
+if ($docroot) {
+  $config->documentroot = $docroot;
+}
 
 function _navbar ($what, $dir) {
   global $config;
@@ -233,12 +238,10 @@ function FormatAuthors ($mode = 0) {
     if (count ($o['titles'])) {
       $html_author = htmlspecialchars ($o['author']);
       if ($mode == 1 || $fk_authors == 0) {
-	// name= is obsolete HTML, but needed to browse to specific
-	// authors from bibrec and other pages.
-	$line = "<h2><a id=\"a$fk_authors\"></a>$html_author</h2>\n";
+	      $line = "<h2><a id=\"a$fk_authors\"></a>$html_author</h2>\n";
       } else {
         $href = "/browse/authors/" . find_browse_page ($o['author']) . "#a$fk_authors";
-	$line = "<h2><a id=\"a$fk_authors\"></a><a href=\"$href\">$html_author</a></h2>\n";
+	      $line = "<h2><a id=\"a$fk_authors\"></a><a href=\"$href\">$html_author</a></h2>\n";
       }
       $line .=  "<ul>\n";
 

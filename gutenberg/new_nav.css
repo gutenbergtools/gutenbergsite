@@ -1,362 +1,512 @@
-/*Strip the ul of padding and list styling*/
-nav {
-    left: 0;
-    padding: 0 10vw 0 0;
-    position: fixed;
-    right: 0;
-    top: 0;
-    z-index: 999;
-    height: 3.6em;
-    font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
-  }
-  #main_logo {
-    top: 0;
-    left: 0;
-    position: absolute;
-  }
-  
-  nav .searchbox {
-    position: relative;
-    float: left;
-    width: 28em;
-    padding: 0.2em;
-  }
-  nav .donatelink {
-    padding: 0.4em;
-  }
-  nav .searchbox input[type=text]{
-    height: 1.8em;
-    width: 18em;
-    border-radius: 1em;
-    color: black;
-    background-color: #f5f5f5;
-    padding-right: 0.3em;
-    padding-left: 0.3em;
-    border:none;
-  }
-  nav .searchbox input[type="submit"]:hover {
-    text-shadow: 0px 0px 6px rgba(255, 255, 255, 1);
-    -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
-    -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
-     box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
-    transition: all 0.4s ease 0s;
-  }
-  nav .searchbox input[type="submit"] {
-    color: #fff;
-    text-decoration: none;
-    background: #60a3bc;
-    padding: 0.4em;
-    border-radius: 2em;
-    display: inline-block;
-    border: none;
-  }
-  nav .donate {
-    color: black;
-    font-size: 0.7em;
-    width: 115%;
-    margin-top: 3.6em;
-    margin-left: 129px;
-    height: 3.6em;
-  }
-  nav .donate p {
-  margin: 0px 10px 0px 15px;
-  display: inline;
-  font-size: 1.39em;
-  position: relative;
-  top: 0.2em;
-}
-  nav .donate .donbtn {
-    display: inline-block;
-    cursor: pointer;
-    vertical-align: text-top;
-  }
-  nav .donate a:link {
-    text-decoration: underline;
-  }
-  nav .donate a:hover {
-    background: #BDAE92;
-    color: #fff; /* white */
-  }
-  @media screen and /*(orientation: portrait)*/(max-width : 1024px) {
-    nav {
-      height: auto;
-      font-size: 0.55em;
-      position: absolute;
-    }
-    nav .donate {
-      display: none;
-    }
-    nav .searchbox {
-      margin-left: 2em;
-      float: left;
-      display: inline-block;
-      padding: 0.2em;
-    }
-  }
-  
-  #menu {
-    margin-left: 140px;
-    font-weight: bold;
-  }
-  #menu a {
-    text-decoration: none;
-  }
-  
-  #menu ul {
+  * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
   }
-  
-  #menu .main-menu {
-    display: none;
+
+  body {
+    padding-top: 40px; /* Space for fixed header + 20px extra */
   }
-  
-  #tm:checked + .main-menu {
-    display: block;
-  }
-  
-  #menu input[type="checkbox"],
-  #menu ul span.drop-icon {
-    display: none;
-  }
-  
-  #menu li,
-  #toggle-menu,
-  #menu .sub-menu {
-    border-style: solid;
-    border-color: rgba(0, 0, 0, .05);
-  }
-  
-  #menu li,
-  #toggle-menu {
-    border-width: 0 0 1px;
-  }
-  #menu .sub-menu {
-    border-width: 1px 1px 0;
-    margin: 0 1em;
-  }
-  
-  #menu .sub-menu li:last-child {
-    border-width: 0;
-  }
-  
-  #menu li,
-  #toggle-menu,
-  #menu a {
-    position: relative;
-    display: block;
-    color: black;
-    text-shadow: 1px 1px 0 rgba(0, 0, 0, .125);
-  }
-  
-  /*#toggle-menu {
-    background: #333;
-  }*/
-  
-  #toggle-menu,
-  #menu a {
-    padding: 5px 1.5em;
-  }
-  
-  #menu a {
-    transition: all .125s ease-in-out;
-    -webkit-transition: all .125s ease-in-out;
-  }
-  
-  #menu .sub-menu {
-    display: none;
-  }
-  
-  #menu input[type="checkbox"]:checked + .sub-menu {
-    display: block;
-  }
-  
-  #menu .sub-menu a:hover {
-    color: #444;
-  }
-  
-  #toggle-menu .drop-icon,
-  #menu li label.drop-icon {
-    position: absolute;
-    right: 0;
+
+  header {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
     top: 0;
+    left: 0;
+    z-index: 1000;
   }
-  
-  #menu label.drop-icon, #toggle-menu span.drop-icon {
-    padding: 1em;
-    font-size: 1em;
+
+  .logo-container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100px; /* Default height for large screens */
+    display: flex;
+    z-index: 10;
+  }
+
+  .logo {
+    display: block;
+  }
+
+  #main_logo img {
+    height: 100px; /* Default height for large screens */
+    width: auto;
+    display: block;
+  }
+
+  .top-header {
+    background-color: #7ebed0;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+  }
+
+  .search-form {
+    display: flex;
+    flex-grow: 0;
+    width: 500px;
+    margin: 0 auto;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .search-input {
+    padding: 9px 16px;
+    border: 2px solid #fff;
+    border-radius: 20px 0 0 20px;
+    width: 100%;
+    font-size: 14px;
+  }
+
+  .search-button {
+    background-color: #5f9ea0;
+    color: white;
+    border: none;
+    padding: 0px 24px;
+    border-radius: 0 20px 20px 0;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px;
     text-align: center;
-    background-color: rgba(0, 0, 0, .125);
-    text-shadow: 0 0 0 transparent;
-    color: rgba(255, 255, 255, .75);
   }
-  @media only screen and (max-width: 1200px) and (min-width:1024px) {
+
+  .donate-container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-left: auto;
+    z-index: 5;
+  }
+
+  .paypal-link {
+    display: flex;
+    align-items: center;
+  }
+
+  .paypal-img {
+    height: 25px;
+    width: auto;
+  }
+
+  .donbtn {
+    height: 25px;
+    vertical-align: middle;
+    transition: height 0.2s ease;
+  }
+
+  .donate-container .donate-link {
+    background-color: #5f9ea0;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 22px;
+    border: 2px solid #5f9ea0;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    transition:
+      opacity 0.2s ease,
+      padding 0.2s ease,
+      font-size 0.2s ease;
+  }
+
+  .donate-container .donate-link:hover {
+    opacity: 0.9;
+  }
+
+  .lower-header {
+    background-color: #c7dde3;
+    padding: 0 8px;
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    align-items: center;
+  }
+
+  /* Dropdown overlay */
+  .dropdown-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    z-index: 0;
+    display: none;
+    cursor: default;
+  }
   
+  #about-toggle:checked ~ .dropdown-overlay {
+    display: block;
+    z-index: 900;
   }
-  @media only screen and (min-width: 1024px) {
-    /*TESTING_____________________*/
-    #menu .main-menu > li:last-child {
+
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+
+  .dropdown-button {
+    background-color: transparent;
+    color: black;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+    font-size: 16px;
+    font-family: inherit;
+    padding: 0;
+  }
+
+  .dropdown-icon {
+    font-size: 12px;
+    margin-left: 8px;
+    display: inline-block;
+    color: black;
+    transition: transform 0.2s ease;
+  }
+
+  .dropdown:hover .dropdown-icon {
+    transform: rotate(180deg);
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 200px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 910;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+
+  .dropdown-content a {
+    color: black;
+    padding: 10px 16px;
+    text-decoration: none;
+    display: block;
+    font-weight: bold;
+    font-size: 14px;
+  }
+
+  .dropdown-content a:hover {
+    background-color: #f1f1f1;
+    text-decoration: underline;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  /* About dropdown toggle */
+  #about-toggle:checked ~ .lower-header .dropdown .dropdown-content {
+    display: block;
+  }
+
+  #about-toggle:checked ~ .lower-header .dropdown .dropdown-icon {
+    transform: rotate(180deg);
+  }
+
+  .main-links {
+    display: flex;
+    align-items: center;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+  }
+
+  .main-links a {
+    color: black;
+    text-decoration: none;
+    margin: 0 20px;
+    font-weight: bold;
+    font-size: 16px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .main-links a:hover,
+  .dropdown-button:hover {
+    text-decoration: underline;
+  }
+
+  .tertiary-header {
+    background-color: #e0ecf0;
+    padding: 0 20px;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    height: 60px;
+    min-height: 60px;
+  }
+
+  .tertiary-header a,
+  .tertiary-header::before,
+  .tertiary-header::after {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .tertiary-header a:hover,
+  .tertiary-header::before:hover,
+  .tertiary-header::after:hover {
+    text-decoration: underline;
+  }
+
+  .tertiary-header .tertiary-link {
+    display: none;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .tertiary-header .tertiary-link:hover {
+    text-decoration: underline;
+  }
+
+  .search-icon-btn {
+    display: none;
+  }
+
+  @media (max-width: 1400px) {
+    .donbtn {
+      height: 20px;
+    }
+    .donate-link {
+      padding: 4px 18px;
+      font-size: 14px;
+    }
+  }
+
+  @media (max-width: 1200px) {
+    .logo-container {
+      height: 85px; /* Smaller logo for medium screens */
+    }
+    #main_logo img {
+      height: 85px; /* Smaller logo for medium screens */
+    }
+  }
+
+  @media (max-width: 1110px) {
+    .logo-container {
+      height: 60px; /* Match top header height */
+    }
+    #main_logo img {
+      height: 60px; /* Match top header height */
+    }
+  }
+
+  @media (max-width: 1024px) {
+    .logo-container {
+      height: 100px; /* Restore original logo height */
+    }
+    #main_logo img {
+      height: 100px; /* Restore original logo height */
+    }
+    .search-form {
+      width: 300px;
+    }
+    .top-header {
+      justify-content: space-between;
+    }
+    .tertiary-header {
+      display: flex;
+    }
+    .lower-header .main-links .link-freq-downloaded,
+    .lower-header .main-links .link-main-categories {
       display: none;
     }
-    #menu .main-menu {
-      display: block;
-    }
-  
-    #toggle-menu,
-    #menu label.drop-icon {
-      display: none;
-    }
-  
-    #menu ul span.drop-icon {
+    .tertiary-header .tertiary-link {
       display: inline-block;
     }
-  
-    #menu li {
-      float: left;
-      border-width: 0 1px 0 0;
+    .lower-header,
+    .tertiary-header {
+      padding-left: 10px;
+      padding-right: 10px;
     }
-  
-    #menu .sub-menu li {
-      float: none;
+    .lower-header .dropdown-button,
+    .lower-header .main-links a {
+      margin: 0 15px;
     }
-  
-    #menu .sub-menu {
-      border-width: 0;
-      margin: 0;
-      position: absolute;
-      top: 100%;
-      left: 0;
-      width:max-content;
-      z-index: 3000;
-      max-height: 80vh;
-      overflow-y: auto;
-      font-weight: normal;
+    .tertiary-header .tertiary-link {
+      margin: 0 15px;
     }
-  
-    #menu .sub-menu,
-    #menu input[type="checkbox"]:checked + .sub-menu {
+    body {
+      padding-top: 100px; /* Space for taller fixed header + 20px extra */
+    }
+  }
+
+  /* For touch devices, use click/tap instead of hover */
+  @media (hover: none) {
+    .dropdown:hover .dropdown-content {
       display: none;
     }
-  
-    #menu .sub-menu li {
-      border-width: 0 0 1px;
-      background-color:  #f0e1c5;
-      /*width: max-content;*/
-    }
-  
-    #menu .sub-menu .sub-menu {
-      top: 0;
-      left: 100%;
-    }
-  
-   #menu .sub-menu .drop-icon {
-      position: absolute;
-      top: 0;
-      right: 0;
-      padding: 1em;
-    }
-  
-    #menu li:hover > input[type="checkbox"] + .sub-menu {
-      display: block;
-    }
-  }
-  
-  
-  /* Put theme-specific colors here to make it easy to switch between themes */
-  /* ORIGINAL THEME */
-  /* nav {
-    background-color: #EDDAB7;
-    color: #000000;
-  }
-  #menu {
-    background-color: #EDDAB7;
-  }
-  #menu .main-menu {
-    background-color: #EDDAB7;
-  }
-  #menu a:hover {
-    color: #27778f;
-  }
-  @media only screen and (min-width: 1024px) {
-    #menu .main-menu li {
-      background-color: #EDDAB7;
-    }
-  }
-  #menu .sub-menu {
-    background-color: #EDDAB7;
-  }
-  #menu .sub-menu li {
-    background-color: #f0e1c5;
-  }
-  nav .donate {
-    background-color: #F5ECDB;
-  } */
-  
-  
-  /* BLUE THEME */
-  
-  nav {
-    background-color: #7ebed0;
-    color: #000000;
-  }
-  #menu {
-    background-color: #7ebed0;
-  }
-  #menu .main-menu {
-    background-color: #7ebed0;
-  }
-  #menu a:hover {
-    color: #fff;
-    transition: all 0.4s ease 0s;
-  }
-  @media only screen and (min-width: 1024px) {
-    #menu .main-menu li {
-      background-color: #7ebed0;
-    }
-  }
-  #menu .sub-menu {
-    background-color: #7ebed0;
-  }
-  #menu .sub-menu li {
-    background-color: #a3cdda;
-  }
-  nav .donate {
-    background-color: #c7dde3;
   }
 
-  
-  
-  /* GOLD THEME */
-/*  
-  nav {
-    background-color: #edd194;
-    color: #000000;
-  }
-  #menu {
-    background-color: #edd194;
-  }
-  #menu .main-menu {
-    background-color: #edd194;
-  }
-  #menu a:hover {
-    color: #27778f;
-  }
-  @media only screen and (min-width: 1024px) {
-    #menu .main-menu li {
-      background-color: #edd194;
+  @media (max-width: 935px) {
+    .logo-container {
+      height: 90px; /* Smaller logo for medium screens */
+    }
+    #main_logo img {
+      height: 90px; /* Smaller logo for medium screens */
     }
   }
-  #menu .sub-menu {
-    background-color: #edd194;
-  }
-  #menu .sub-menu li {
-    background-color: #f0dca9;
-  }
-  nav .donate {
-    background-color: #f3e8be;
-  }
-  
-  */
-  
-  
 
+  @media (max-width: 835px) {
+    .logo-container {
+      height: 85px; /* Smaller logo for medium screens */
+    }
+    #main_logo img {
+      height: 85px; /* Smaller logo for medium screens */
+    }
+  }
+
+  @media (max-width: 735px) {
+    .logo-container {
+      height: 60px; /* Smaller logo for medium screens */
+    }
+    #main_logo img {
+      height: 60px; /* Smaller logo for medium screens */
+    }
+  }
+
+  @media (max-width: 768px) {
+    .donbtn {
+      height: 15px;
+    }
+    .donate-link {
+      padding: 3px 15px;
+      font-size: 13px;
+    }
+  }
+
+  @media (max-width: 715px) {
+    .donatelink {
+      display: none;
+    }
+    .donate-link {
+      padding: 5px 22px;
+      font-size: 16px;
+    }
+  }
+
+  @media (max-width: 620px) {
+    .donbtn {
+      height: 12px;
+    }
+    .donate-link {
+      padding: 3px 12px;
+      font-size: 12px;
+    }
+  }
+
+  @media (max-width: 500px) {
+    .search-form {
+      width: auto;
+      justify-content: center;
+    }
+    .search-input,
+    .search-button {
+      display: none;
+    }
+    .search-icon-btn {
+      display: inline-block;
+      background-color: #5f9ea0;
+      color: white;
+      border: 2px solid #5f9ea0;
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-size: 16px;
+      transition: opacity 0.2s ease;
+      line-height: 1;
+    }
+    .search-icon-btn:hover {
+      opacity: 0.9;
+    }
+    .search-icon-btn .search-icon {
+      display: inline-block;
+      width: 2em;
+      height: 2em;
+      vertical-align: middle;
+      fill: currentColor;
+    }
+
+    /* Toggle Search Bar on Small Screens */
+    #search-toggle:checked ~ .logo-container,
+    #search-toggle:checked ~ .top-header .donate-container,
+    #search-toggle:checked
+      ~ .top-header
+      .search-form
+      label.search-icon-btn {
+      display: none; /* Hide logo, donate, search icon when active */
+    }
+
+    #search-toggle:checked ~ .top-header .search-form {
+      width: calc(100% - 120px); /* Further reduced width */
+      position: absolute; /* Keep absolute positioning */
+      left: 60px; /* Adjust position based on new padding */
+      transform: none; /* Remove centering */
+      justify-content: flex-start; /* Align items left */
+      display: flex; /* Ensure form is flex container */
+    }
+
+    #search-toggle:checked ~ .top-header .search-form .search-input,
+    #search-toggle:checked ~ .top-header .search-form .search-button {
+      display: block; /* Show input and button */
+    }
+
+    #search-toggle:checked ~ .top-header .search-form .search-input {
+      flex-grow: 1; /* Allow input to grow */
+    }
+
+    #search-toggle:checked ~ .top-header {
+      justify-content: flex-start; /* Align the form within the header */
+    }
+  }
+
+  @media (max-width: 550px) {
+    .search-form {
+      width: 200px;
+    }
+  }
+
+  @media (max-width: 435px) {
+    .lower-header .dropdown-button,
+    .lower-header .main-links a,
+    .tertiary-header .tertiary-link {
+      font-size: 15px;
+      margin: 0 10px; /* Also reduce margin slightly */
+    }
+    .lower-header,
+    .tertiary-header {
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+    .search-icon-btn {
+      padding: 3px 6px; /* Reduce padding */
+    }
+  }
+
+  @media (max-width: 400px) {
+    .donate-container .donate-link {
+      padding: 5px 18px;
+      font-size: 11px;
+    }
+  }
