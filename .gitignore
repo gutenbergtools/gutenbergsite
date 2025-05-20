@@ -7,6 +7,7 @@ _config_local.yml
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+vendor
 
 # generated files
 _includes/latest_covers.html
