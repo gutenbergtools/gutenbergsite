@@ -55,15 +55,15 @@ If you need to send printed mail, please consider instead scanning and emailing 
 <dd>  PO Box 16327</dd>
 <dd>  Salt Lake City, UT 84116</dd></dl>
 
-## Newsletter and Discussion Lists
+## Distributed Proofreaders
+The [Distributed Proofreaders](https://www.pgdp.net/) site includes active forums, FAQs and other items of interest for eBook lovers, eBook creators and potential creators. Contact information is available at the site, and online forums are also used for discussions and inquiries. 
+
+## Further Contacts
+<p>There is an occasional email newsletter and a discussion list for volunteers (gutvol-d) with minimal activity. Archives of the lists are available as well.</p>
 <ul>
   <li><a href="https://lists.pglaf.org">Mailing lists</a></li>
   <li><a href="/help/subscribe_how_to.html">How to subscribe to mailing lists</a></li>
 </ul>
-<p>There is a monthly email newsletter, also some discussion lists for discussions among volunteers (gutvol-d is the only list that still has occasional activity).</p>
-
-## Distributed Proofreaders
-The [Distributed Proofreaders](https://www.pgdp.net/) site includes active forums, FAQs and other items of interest for eBook lovers, eBook creators and potential creators. Contact information is available at the site, and online forums are also used for discussions and inquiries. 
 
 ## Social Media
 <ul class="icon-list">
