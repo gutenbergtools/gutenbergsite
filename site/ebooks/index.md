@@ -104,81 +104,9 @@ permalink: /ebooks/index.html
           <label for="subject">Subject</label>
           <input type="text" name="subject" id="subject"/>
         </div>
+        
         <div class="form-group">
-          <label for="lang">Language</label>
-          <select id="lang" name="lang" title="Language (Book Count)">
-            <option selected value="">Any</option>
-            <option value="af">Afrikaans</option>
-            <option value="ale">Aleut</option>
-            <option value="ar">Arabic</option>
-            <option value="arp">Arapaho</option>
-            <option value="brx">Bodo</option>
-            <option value="br">Breton</option>
-            <option value="bg">Bulgarian</option>
-            <option value="rmq">Caló</option>
-            <option value="ca">Catalan</option>
-            <option value="ceb">Cebuano</option>
-            <option value="zh">Chinese</option>
-            <option value="cs">Czech</option>
-            <option value="da">Danish</option>
-            <option value="nl">Dutch</option>
-            <option value="en">English</option>
-            <option value="eo">Esperanto</option>
-            <option value="et">Estonian</option>
-            <option value="fa">Farsi</option>
-            <option value="fi">Finnish</option>
-            <option value="fr">French</option>
-            <option value="fy">Frisian</option>
-            <option value="fur">Friulian</option>
-            <option value="gla">Gaelic, Scottish</option>
-            <option value="gl">Galician</option>
-            <option value="kld">Gamilaraay</option>
-            <option value="de">German</option>
-            <option value="el">Greek</option>
-            <option value="grc">Greek, Ancient</option>
-            <option value="he">Hebrew</option>
-            <option value="hu">Hungarian</option>
-            <option value="is">Icelandic</option>
-            <option value="ilo">Iloko</option>
-            <option value="ia">Interlingua</option>
-            <option value="iu">Inuktitut</option>
-            <option value="ga">Irish</option>
-            <option value="it">Italian</option>
-            <option value="ja">Japanese</option>
-            <option value="csb">Kashubian</option>
-            <option value="kha">Khasi</option>
-            <option value="ko">Korean</option>
-            <option value="la">Latin</option>
-            <option value="lt">Lithuanian</option>
-            <option value="mi">Maori</option>
-            <option value="myn">Mayan Languages</option>
-            <option value="enm">Middle English</option>
-            <option value="nah">Nahuatl</option>
-            <option value="nap">Napoletano-Calabrese</option>
-            <option value="nav">Navajo</option>
-            <option value="nai">North American Indian</option>
-            <option value="no">Norwegian</option>
-            <option value="oc">Occitan</option>
-            <option value="oji">Ojibwa</option>
-            <option value="ang">Old English</option>
-            <option value="pl">Polish</option>
-            <option value="pt">Portuguese</option>
-            <option value="ro">Romanian</option>
-            <option value="ru">Russian</option>
-            <option value="sa">Sanskrit</option>
-            <option value="sr">Serbian</option>
-            <option value="sl">Slovenian</option>
-            <option value="es">Spanish</option>
-            <option value="sv">Swedish</option>
-            <option value="bgs">Tagabawa</option>
-            <option value="tl">Tagalog</option>
-            <option value="te">Telugu</option>
-            <option value="cy">Welsh</option>
-            <option value="yi">Yiddish</option>
-          </select>
-        </div>
-          <div class="form-group">
-          <label for="locc" accesskey="o">Category</label>
+          <label for="locc" accesskey="o">Subject Areas</label>
           <select id="locc" name="locc" title="Please choose a Library of Congress Class.">
             <option selected value="">Any</option>
             <option value="AC">AC General Works: Collections, Series, Collected works, Pamphlets</option>
@@ -447,6 +375,80 @@ permalink: /ebooks/index.html
             <option value="VK">VK Naval science: Navigation, Merchant marine</option>
             <option value="VM">VM Naval science: Naval architecture, Shipbuilding, Marine engineering</option>
             <option value="Z">Z Bibliography, Library science</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="lang">Language</label>
+          <select id="lang" name="lang" title="Language (Book Count)">
+            <option selected value="">Any</option>
+            <option value="af">Afrikaans</option>
+            <option value="ale">Aleut</option>
+            <option value="ar">Arabic</option>
+            <option value="arp">Arapaho</option>
+            <option value="brx">Bodo</option>
+            <option value="br">Breton</option>
+            <option value="bg">Bulgarian</option>
+            <option value="rmq">Caló</option>
+            <option value="ca">Catalan</option>
+            <option value="ceb">Cebuano</option>
+            <option value="zh">Chinese</option>
+            <option value="cs">Czech</option>
+            <option value="da">Danish</option>
+            <option value="nl">Dutch</option>
+            <option value="en">English</option>
+            <option value="eo">Esperanto</option>
+            <option value="et">Estonian</option>
+            <option value="fa">Farsi</option>
+            <option value="fi">Finnish</option>
+            <option value="fr">French</option>
+            <option value="fy">Frisian</option>
+            <option value="fur">Friulian</option>
+            <option value="gla">Gaelic, Scottish</option>
+            <option value="gl">Galician</option>
+            <option value="kld">Gamilaraay</option>
+            <option value="de">German</option>
+            <option value="el">Greek</option>
+            <option value="grc">Greek, Ancient</option>
+            <option value="he">Hebrew</option>
+            <option value="hu">Hungarian</option>
+            <option value="is">Icelandic</option>
+            <option value="ilo">Iloko</option>
+            <option value="ia">Interlingua</option>
+            <option value="iu">Inuktitut</option>
+            <option value="ga">Irish</option>
+            <option value="it">Italian</option>
+            <option value="ja">Japanese</option>
+            <option value="csb">Kashubian</option>
+            <option value="kha">Khasi</option>
+            <option value="ko">Korean</option>
+            <option value="la">Latin</option>
+            <option value="lt">Lithuanian</option>
+            <option value="mi">Maori</option>
+            <option value="myn">Mayan Languages</option>
+            <option value="enm">Middle English</option>
+            <option value="nah">Nahuatl</option>
+            <option value="nap">Napoletano-Calabrese</option>
+            <option value="nav">Navajo</option>
+            <option value="nai">North American Indian</option>
+            <option value="no">Norwegian</option>
+            <option value="oc">Occitan</option>
+            <option value="oji">Ojibwa</option>
+            <option value="ang">Old English</option>
+            <option value="pl">Polish</option>
+            <option value="pt">Portuguese</option>
+            <option value="ro">Romanian</option>
+            <option value="ru">Russian</option>
+            <option value="sa">Sanskrit</option>
+            <option value="sr">Serbian</option>
+            <option value="sl">Slovenian</option>
+            <option value="es">Spanish</option>
+            <option value="sv">Swedish</option>
+            <option value="bgs">Tagabawa</option>
+            <option value="tl">Tagalog</option>
+            <option value="te">Telugu</option>
+            <option value="cy">Welsh</option>
+            <option value="yi">Yiddish</option>
           </select>
         </div>
 
