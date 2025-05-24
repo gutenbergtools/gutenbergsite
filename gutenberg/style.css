@@ -130,7 +130,7 @@ a:active {
 	}
 }
 
-/* =========================== container ======================= */
+/* ======================== container ======================= */
 .container {
 	max-width: 100%;
 	min-height:75vh;
@@ -178,12 +178,6 @@ ul {
 
 .library .latest::-webkit-scrollbar-thumb {
 	background-color: #333333
-}
-
-.library .latest a {
-	display: inline-block;
-	margin: 0;
-	padding: 10px
 }
 
 .library .latest a:hover {
@@ -261,9 +255,6 @@ column-count: 3;
 }
 
 @media only screen and (min-width: 1001px) {
-	.book .download {
-		width: 75px;
-	}
 	.book .download{
 		line-height: 25px;
 		width:130px;
@@ -337,6 +328,8 @@ column-count: 3;
 	margin-top: 1em;
 	margin-bottom: 1em;
 	padding: 1ex 1em;
+  background-color: #d9eaef;
+	border: 1px solid #b2c3c4;
 }
 .page_content h1::before {
 	display: block;
@@ -350,6 +343,7 @@ column-count: 3;
 	margin-top: 2em;
 	width: 100%;
 	line-height: 1em;
+  color: #aa873b;
 }
 .page_content .header h1{
 	margin-top: 3.5em;
@@ -366,6 +360,7 @@ column-count: 3;
 	margin-top: 15px;
 	margin-bottom: 15px;
 	width: 100%;
+  color: #9b8053;
 }
 
 .page_content h3::before {
@@ -408,6 +403,7 @@ column-count: 3;
 .page_content a:hover {
 	color: currentColor;
 	text-decoration: underline;
+  background: #C7DDE3;
 }
 .page_content	a:active {
 	color: brown;
@@ -475,6 +471,7 @@ ul.icon-list li {
 	text-align: center;
 	font-size: 0.9em;
 	width: 100%;
+  background-color: #f0efea;
 }
 
 .footer ul li {
@@ -537,26 +534,27 @@ ul.results li::before {
 		text-align: center;
 	}
 	body {
-
 		font-size: 1em;
 	}
-
 	.bookshelves ul {
-	       	column-count: 1;
-        	column-gap: 0px;
-        	cursor: default;
-        	width: 100%;
-                height: unset;
-}
-.cover_title h5 {
-	overflow-y: scroll;
-	height: 100px;
-}
+    column-count: 1;
+    column-gap: 0px;
+    cursor: default;
+    width: 100%;
+          height: unset;
+  }
+  .cover_title h5 {
+    overflow-y: scroll;
+    height: 100px;
+  }
 
 }
 
 /*New Cover_image rules only applicable to test_index for latest covers from gutenberg1*/
 .library .latest a {
+  display: inline-block;
+	margin: 0;
+	padding: 10px;
 	vertical-align: top;
 }
 .library .latest a:link {
@@ -566,7 +564,7 @@ ul.results li::before {
 	overflow-y: visible;
 	height: auto;
 }
-/*Old Cover image rules orginally declated in CoverPages.py on autocat3. Keep them so it doesn't break anything if it is used somewhere else on autocat3.*/
+/*Old Cover image rules originally declared in CoverPages.py on autocat3. Keep them so it doesn't break anything if it is used somewhere else on autocat3.*/
 .cover-thumb {
 	display: inline-block;
 	background-position: center;
@@ -582,7 +580,9 @@ ul.results li::before {
 }
 
 .box_announce {
-    padding: 0em 1em;
+  padding: 0em 1em;
+  background-color: #f2dede;
+  border: 1px solid #ebccd1;
 }
 
 /* Different HTML for mobile and Desktop display */
@@ -608,28 +608,8 @@ ul.results li::before {
 	color: #A01F13;
 	border-bottom: 2px solid #A01F13;
 }
-.box_shadow {
-	background-color: #d9eaef;
-	border: 1px solid #b2c3c4;
-}
-.box_announce {
-	background-color: #f2dede;
-	border: 1px solid #ebccd1;
-}
-.page_content h1 {
-	color: #aa873b;
-}
-.page_content h2 {
-	color: #9b8053;
-}
 .page_content h2.subtitle {
 	color: #9b8053;
-}
-.page_content a:hover {
-        background: #C7DDE3;
-}
-.footer {
-	background-color: #f0efea;
 }
 .footer a:link, .footer a:visited, .footer a:hover, .footer a:active  {
 	color: #006479;

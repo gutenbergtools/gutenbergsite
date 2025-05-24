@@ -108,7 +108,6 @@
     padding: 5px 22px;
     border: 2px solid #5f9ea0;
     border-radius: 4px;
-    transition: all 0.2s ease;
     transition:
       opacity 0.2s ease,
       padding 0.2s ease,
@@ -333,9 +332,6 @@
     .lower-header .main-links .link-main-categories {
       display: none;
     }
-    .tertiary-header .tertiary-link {
-      display: inline-block;
-    }
     .lower-header,
     .tertiary-header {
       padding-left: 10px;
@@ -346,6 +342,7 @@
       margin: 0 15px;
     }
     .tertiary-header .tertiary-link {
+      display: inline-block;
       margin: 0 15px;
     }
     body {
