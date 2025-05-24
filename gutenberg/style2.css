@@ -1,824 +1,865 @@
 html,
 body {
-    background-color: #ffffff; /* #FFFCD7; */
-    color: #000000; /* #A01F13; */
-    font-family: "Open Sans", Helvetica, Arial, sans-serif;
-    font-size: 1em;
-    line-height: 1.5em;
-    letter-spacing: 0.01mm;
-    margin: 0;
-    max-width: 100vw;
-    padding: 0;
-    width: 100%;
-    height: 100%;
+  background-color: #ffffff; /* #FFFCD7; */
+  color: #000000; /* #A01F13; */
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  line-height: 1.5em;
+  letter-spacing: 0.01mm;
+  margin: 0;
+  max-width: 100vw;
+  padding: 0;
+  width: 100%;
+  height: 100%;
 }
 
 html {
-    overflow-y: scroll;
+  overflow-y: scroll;
 }
+
 input[type="submit"] {
-    color: #fff;
-    text-decoration: none;
-    background: #60a3bc;
-    padding: 6px;
-    border-radius: 45px 45px;
-    display: inline-block;
-    border: none;
+  color: #fff;
+  text-decoration: none;
+  background: #60a3bc;
+  padding: 6px;
+  border-radius: 45px 45px;
+  display: inline-block;
+  border: none;
 }
+
 input[type="submit"]:hover {
-    text-shadow: 0px 0px 6px rgba(255, 255, 255, 1);
-    -webkit-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
-    -moz-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
-    box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
-    transition: all 0.4s ease 0s;
+  text-shadow: 0px 0px 6px rgba(255, 255, 255, 1);
+  -webkit-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+  -moz-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+  box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+  transition: all 0.4s ease 0s;
 }
 /* links */
 a:link {
-    color: currentColor;
-    text-decoration: none;
+  color: currentColor;
+  text-decoration: none;
 }
+
 a:visited {
-    color: currentColor;
+  color: currentColor;
 }
+
 a:hover {
-    color: currentColor;
-    text-decoration: underline;
+  color: currentColor;
+  text-decoration: underline;
 }
+
 a:active {
-    color: currentColor;
+  color: currentColor;
 }
+
 .no-hover:hover {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .no-select {
-    user-select: none;
+  user-select: none;
 }
 
 /* animations */
 .fadein {
-    animation: fadein 1s;
+  animation: fadein 1s;
 }
 
 @-moz-keyframes fadein {
-    from {
-        opacity: 0;
-    }
+  from {
+    opacity: 0;
+  }
 
-    to {
-        opacity: 1;
-    }
+  to {
+    opacity: 1;
+  }
 }
 
 @-webkit-keyframes fadein {
-    from {
-        opacity: 0;
-    }
+  from {
+    opacity: 0;
+  }
 
-    to {
-        opacity: 1;
-    }
+  to {
+    opacity: 1;
+  }
 }
 
 @keyframes fadein {
-    from {
-        opacity: 0;
-    }
+  from {
+    opacity: 0;
+  }
 
-    to {
-        opacity: 1;
-    }
+  to {
+    opacity: 1;
+  }
 }
 
 .fadeinup {
-    animation: fadeInUp 1s both ease;
+  animation: fadeInUp 1s both ease;
 }
 
 @-moz-keyframes fadeInUp {
-    from {
-        opacity: 0;
-        transform: translate3d(0, 40px, 0);
-    }
+  from {
+    opacity: 0;
+    transform: translate3d(0, 40px, 0);
+  }
 
-    to {
-        opacity: 1;
-        transform: translate3d(0, 0, 0);
-    }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
 }
 
 @-webkit-keyframes fadeInUp {
-    from {
-        opacity: 0;
-        transform: translate3d(0, 40px, 0);
-    }
+  from {
+    opacity: 0;
+    transform: translate3d(0, 40px, 0);
+  }
 
-    to {
-        opacity: 1;
-        transform: translate3d(0, 0, 0);
-    }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
 }
 
 @keyframes fadeInUp {
-    from {
-        opacity: 0;
-        transform: translate3d(0, 50px, 0);
-    }
+  from {
+    opacity: 0;
+    transform: translate3d(0, 50px, 0);
+  }
 
-    to {
-        opacity: 1;
-        transform: translate3d(0, 0, 0);
-    }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
 }
 
 /* =================== container =============================== */
 .container {
-    max-width: 100%;
-    min-height: 75vh;
-    position: relative;
+  max-width: 100%;
+  min-height: 75vh;
+  position: relative;
 }
 
 @media screen and (orientation: landscape) {
-    .container {
-        min-height: 75vh;
-        padding: 10vh 5vw;
-    }
+  .container {
+    min-height: 75vh;
+    padding: 10vh 5vw;
+  }
 }
 
 @media screen and (orientation: portrait) {
-    .container {
-        min-height: 75vh;
-        padding: 10vh 5vw;
-    }
+  .container {
+    min-height: 75vh;
+    padding: 10vh 5vw;
+  }
 }
 
 ul {
-    list-style-type: "\2022";
-    margin: 0;
-    padding-left: 10px;
+  list-style-type: "\2022";
+  margin: 0;
+  padding-left: 10px;
 }
 
 /* ===================== library ============================= */
 .library .latest {
-    white-space: nowrap;
-    width: 100%;
+  white-space: nowrap;
+  width: 100%;
 }
 
 .library .latest::-webkit-scrollbar {
-    height: 3px;
+  height: 3px;
 }
 
 .library .latest::-webkit-scrollbar-track {
-    background-color: #cccccc;
+  background-color: #cccccc;
 }
 
 .library .latest::-webkit-scrollbar-thumb {
-    background-color: #333333;
+  background-color: #333333;
 }
 
 .library .latest a {
-    display: inline-block;
-    margin: 0;
-    padding: 10px;
-    vertical-align: top;
+  display: inline-block;
+  margin: 0;
+  padding: 10px;
+  vertical-align: top;
 }
 
 .library .latest a:hover {
-    background-color: transparent;
+  background-color: transparent;
 }
 
 .bookshelves {
-    margin: 0 auto;
-    padding: 0;
-    width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
 }
 
 .bookshelves ul {
-    column-count: 3;
-    column-gap: 0px;
-    cursor: default;
-    width: 100%;
+  column-count: 3;
+  column-gap: 0px;
+  cursor: default;
+  width: 100%;
 }
+
 .bookshelves > ul li::before {
-    color: #a01f13;
-    display: inline-block;
-    width: 1em;
-    margin-left: -1em;
+  color: #a01f13;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
 }
 
 .page_content .bookshelves h2 {
-    border-bottom: 0px none #ffffff;
+  border-bottom: 0px none #ffffff;
 }
 
 .page_content.library .lib {
-    margin-bottom: 50px;
+  margin-bottom: 50px;
 }
 
 /* ====================== book ============================ */
 .book-container {
-    align-items: center;
-    justify-content: center;
-    margin: 50px;
-    max-width: 1000px;
+  align-items: center;
+  justify-content: center;
+  margin: 50px;
+  max-width: 1000px;
 }
 
 @media only screen and (min-width: 1001px) {
-    .book-container {
-        display: flex;
-    }
+  .book-container {
+    display: flex;
+  }
 }
 
 .book.page_content {
-    background-color: #f5f5f5;
-    box-shadow: none;
-    padding: 50px;
-    transition:
-        box-shadow 0.2s ease-in-out,
-        background-color 0.5s ease-in-out;
+  background-color: #f5f5f5;
+  box-shadow: none;
+  padding: 50px;
+  transition:
+    box-shadow 0.2s ease-in-out,
+    background-color 0.5s ease-in-out;
 }
 
 .book.page_content:hover {
-    background-color: #ffffff;
-    box-shadow: 0 25px 75px rgba(0, 0, 0, 0.1);
-    transition:
-        box-shadow 0.2s ease-in-out,
-        background-color 0.5s ease-in-out;
+  background-color: #ffffff;
+  box-shadow: 0 25px 75px rgba(0, 0, 0, 0.1);
+  transition:
+    box-shadow 0.2s ease-in-out,
+    background-color 0.5s ease-in-out;
 }
 
 .book .cover img {
-    box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.1);
-    max-height: 200px;
-    max-width: 150px;
-    vertical-align: top;
+  box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.1);
+  max-height: 200px;
+  max-width: 150px;
+  vertical-align: top;
 }
 
 .book .details .id {
-    font-family: Consolas, Courier, monospace;
+  font-family: Consolas, Courier, monospace;
 }
 
 .book .bib_rec ul {
-    list-style: square inside;
+  list-style: square inside;
 }
 
 @media only screen and (min-width: 1001px) {
-    .book .download {
-        line-height: 25px;
-        width: 130px;
-    }
-    .book .download a li {
-        display: block;
-    }
-    .book .download ul {
-        list-style: square inside;
-    }
+  .book .download {
+    line-height: 25px;
+    width: 130px;
+  }
 
-    .book .share {
-        line-height: 25px;
-        width: 20px;
-        word-wrap: break-word;
-    }
+  .book .download a li {
+    display: block;
+  }
 
-    .book .share a {
-        display: block;
-        margin: 10px 0;
-    }
+  .book .download ul {
+    list-style: square inside;
+  }
+
+  .book .share {
+    line-height: 25px;
+    width: 20px;
+    word-wrap: break-word;
+  }
+
+  .book .share a {
+    display: block;
+    margin: 10px 0;
+  }
 }
 
 @media only screen and (max-width: 1000px) {
-    .book .section {
-        display: block;
-        text-align: center;
-    }
+  .book .section {
+    display: block;
+    text-align: center;
+  }
 
-    .book h1 {
-        text-align: center;
-    }
+  .book h1 {
+    text-align: center;
+  }
 
-    .book .download a {
-        display: inline-block;
-        text-align: center;
-        width: 20%;
-        max-width: 75px;
-    }
+  .book .download a {
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+    max-width: 75px;
+  }
 
-    .book .share a {
-        display: inline-block;
-        margin: 5px;
-    }
+  .book .share a {
+    display: inline-block;
+    margin: 5px;
+  }
 }
 
 .share-icon img {
-    height: 20px;
-    width: 20px;
+  height: 20px;
+  width: 20px;
 }
 
 .page_content {
-    margin-top: 36px;
-    padding-bottom: 24px;
+  margin-top: 36px;
+  padding-bottom: 24px;
 }
 
 .page_content figure {
-    border-radius: 5px;
-    padding: 10px;
-    max-width: 100%;
-    height: auto;
-    float: right;
-    text-align: center;
+  border-radius: 5px;
+  padding: 10px;
+  max-width: 100%;
+  height: auto;
+  float: right;
+  text-align: center;
 }
+
 .page_content figure img {
-    width: 100%;
-    vertical-align: baseline;
+  width: 100%;
+  vertical-align: baseline;
 }
+
 .box_shadow {
-    margin-top: 1em;
-    margin-bottom: 1em;
-    padding: 1ex 1em;
-    background-color: #d9eaef;
-    border: 1px solid #b2c3c4;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: 1ex 1em;
+  background-color: #d9eaef;
+  border: 1px solid #b2c3c4;
 }
+
 .page_content h1::before {
-    display: block;
-    content: "";
-    visibility: hidden;
-    pointer-events: none;
+  display: block;
+  content: "";
+  visibility: hidden;
+  pointer-events: none;
 }
+
 .page_content h1 {
-    font-size: 1.875em;
-    font-weight: bold;
-    margin-top: 2em;
-    width: 100%;
-    line-height: 1em;
-    color: #aa873b;
+  font-size: 1.875em;
+  font-weight: bold;
+  margin-top: 2em;
+  width: 100%;
+  line-height: 1em;
+  color: #aa873b;
 }
+
 .page_content .header h1 {
-    margin-top: 3.5em;
+  margin-top: 3.5em;
 }
+
 .page_content h2::before {
-    display: block;
-    content: "";
-    visibility: hidden;
-    pointer-events: none;
+  display: block;
+  content: "";
+  visibility: hidden;
+  pointer-events: none;
 }
+
 .page_content h2 {
-    font-size: 1.5em;
-    font-weight: bold;
-    margin-top: 15px;
-    margin-bottom: 15px;
-    width: 100%;
-    color: #9b8053;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  width: 100%;
+  color: #9b8053;
 }
 
 .page_content h3::before {
-    display: block;
-    content: "";
-    margin-top: -120px;
-    height: 120px;
-    visibility: hidden;
-    pointer-events: none;
+  display: block;
+  content: "";
+  margin-top: -120px;
+  height: 120px;
+  visibility: hidden;
+  pointer-events: none;
 }
+
 .page_content > ul li::before {
-    color: #a01f13;
-    display: inline-block;
-    width: 1em;
+  color: #a01f13;
+  display: inline-block;
+  width: 1em;
 }
 @media only screen and (min-width: 750px) {
-    .page_content > ul li::before {
-        font-size: small;
-    }
+  .page_content > ul li::before {
+    font-size: small;
+  }
 }
 
 .page_content ul li {
-    padding: 5px;
+  padding: 5px;
 }
 
 .page_content p {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
+
 .page_content a:link {
-    color: #003366;
-    text-decoration: underline;
+  color: #003366;
+  text-decoration: underline;
 }
 
 .page_content a:visited {
-    color: #3e444d;
+  color: #3e444d;
 }
+
 .page_content a:hover {
-    color: currentColor;
-    text-decoration: underline;
-    background: #c7dde3;
+  color: currentColor;
+  text-decoration: underline;
+  background: #c7dde3;
 }
+
 .page_content a:active {
-    color: brown;
+  color: brown;
 }
 
 .page-body {
-    padding-top: 1px;
+  padding-top: 1px;
 }
 
 .anchor a {
-    top: -80px;
+  top: -80px;
 }
+
 .contents {
-    background-color: #f9f9f9;
-    border: 1px solid #a2a9b1;
-    padding: 5px;
-    display: inline-block;
+  background-color: #f9f9f9;
+  border: 1px solid #a2a9b1;
+  padding: 5px;
+  display: inline-block;
 }
 
 .contents ol .inner_1 {
-    list-style-type: lower-roman;
+  list-style-type: lower-roman;
 }
+
 .contents ol .inner_2 {
-    list-style-type: lower-alpha;
+  list-style-type: lower-alpha;
 }
+
 pre {
-    border: 1px dashed #2f6fab;
-    background-color: #f9f9f9;
-    padding: 1em;
+  border: 1px dashed #2f6fab;
+  background-color: #f9f9f9;
+  padding: 1em;
 }
+
 table {
-    border-collapse: collapse;
+  border-collapse: collapse;
 }
+
 table,
 th,
 td {
-    background-color: #f8f9fa;
-    color: #222;
-    margin: 1em 0;
-    border: 1px solid #a2a9b1;
+  background-color: #f8f9fa;
+  color: #222;
+  margin: 1em 0;
+  border: 1px solid #a2a9b1;
 }
 
 .search_category li {
-    display: inline-block;
+  display: inline-block;
 }
+
 .search_category a {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 ul.icon-list {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 ul.icon-list li {
-    display: inline-block;
-    padding: 30px;
-    font-size: 1.3em;
+  display: inline-block;
+  padding: 30px;
+  font-size: 1.3em;
 }
 
-/* ==================================================
-footer */
+/* ==================== footer ============================== */
 .footer {
-    position: inherit;
-    left: 0;
-    right: 0;
-    bottom: -32px;
-    text-align: center;
-    font-size: 0.9em;
-    width: 100%;
-    background-color: #f0efea;
+  position: inherit;
+  left: 0;
+  right: 0;
+  bottom: -32px;
+  text-align: center;
+  font-size: 0.9em;
+  width: 100%;
+  background-color: #f0efea;
 }
 
 .footer ul li {
-    display: inline-block;
-    padding: 10px;
+  display: inline-block;
+  padding: 10px;
 }
+
 .footer img {
-    vertical-align: baseline;
+  vertical-align: baseline;
 }
+
 .cover_title h5 {
-    white-space: break-spaces;
-    overflow: hidden;
-    height: 5em;
-    text-decoration: none;
-    text-align: center;
-    position: absolute;
-    width: 100px;
-    background-color: #d9eaef;
+  white-space: break-spaces;
+  overflow: hidden;
+  height: 5em;
+  text-decoration: none;
+  text-align: center;
+  position: absolute;
+  width: 100px;
+  background-color: #d9eaef;
 }
+
 .cover_title h5:hover {
-    overflow-y: visible;
-    height: auto;
+  overflow-y: visible;
+  height: auto;
 }
+
 .cover_image img {
-    height: 150px;
-    width: 100px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
+  height: 150px;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
+
 .cover_image {
-    height: 250px;
-    width: 100px;
+  height: 250px;
+  width: 100px;
 }
 
 /*=====CLASS RULES IMPLEMENTED in pg-desktop-one.css========*/
 ul.results li::before {
-    content: unset;
+  content: unset;
 }
-@media only screen and (max-width: 750px) {
-    container {
-        left: 0;
-        padding: 10% 10vw;
-        position: relative;
-        right: 0;
-        width: 80vw;
-    }
-    .page_content {
-        margin-top: 60px;
-        height: auto;
-    }
-    .page_content h1 {
-        font-size: 1.125em;
-        text-align: center;
-    }
-    .page_content h2 {
-        font-size: 1em;
-        text-align: center;
-    }
-    body {
-        font-size: 1em;
-    }
 
-    .bookshelves ul {
-        column-count: 1;
-        column-gap: 0px;
-        cursor: default;
-        width: 100%;
-        height: unset;
-    }
-    .cover_title h5 {
-        overflow-y: scroll;
-        height: 100px;
-    }
+@media only screen and (max-width: 750px) {
+  container {
+    left: 0;
+    padding: 10% 10vw;
+    position: relative;
+    right: 0;
+    width: 80vw;
+  }
+
+  .page_content {
+    margin-top: 60px;
+    height: auto;
+  }
+
+  .page_content h1 {
+    font-size: 1.125em;
+    text-align: center;
+  }
+
+  .page_content h2 {
+    font-size: 1em;
+    text-align: center;
+  }
+
+  body {
+    font-size: 1em;
+  }
+
+  .bookshelves ul {
+    column-count: 1;
+    column-gap: 0px;
+    cursor: default;
+    width: 100%;
+    height: unset;
+  }
+
+  .cover_title h5 {
+    overflow-y: scroll;
+    height: 100px;
+  }
 }
 
 /*New Cover_image rules only applicable to test_index for latest covers from gutenberg1*/
 .library .latest a:link {
-    text-decoration: none;
+  text-decoration: none;
 }
+
 .library .latest a:hover h5 {
-    overflow-y: visible;
-    height: auto;
+  overflow-y: visible;
+  height: auto;
 }
+
 /*Old Cover image rules orginally declated in CoverPages.py on autocat3. Keep them so it doesn't break anything if it is used somewhere else on autocat3.*/
 .cover-thumb {
-    display: inline-block;
-    background-position: center;
-    background-repeat: no-repeat;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
 }
+
 .cover-thumb-small {
-    width: 100px;
-    height: 150px;
+  width: 100px;
+  height: 150px;
 }
+
 .cover-thumb-medium {
-    width: 210px;
-    height: 310px;
+  width: 210px;
+  height: 310px;
 }
 
 .box_announce {
-    padding: 0em 1em;
-    background-color: #f2dede;
-    border: 1px solid #ebccd1;
+  padding: 0em 1em;
+  background-color: #f2dede;
+  border: 1px solid #ebccd1;
 }
 
 /* Different HTML for mobile and Desktop display */
-
 #standard {
-    display: block;
+  display: block;
 }
+
 #mobile {
-    display: none;
+  display: none;
 }
+
 @media screen and /*(orientation: portrait) */(max-width : 1024px) {
-    #standard {
-        display: none;
-    }
-    #mobile {
-        display: block !important;
-    }
+  #standard {
+    display: none;
+  }
+
+  #mobile {
+    display: block !important;
+  }
 }
 
 /* BLUE THEME */
-
 .library .latest h1 {
-    color: #a01f13;
-    border-bottom: 2px solid #a01f13;
+  color: #a01f13;
+  border-bottom: 2px solid #a01f13;
 }
+
 .page_content h2.subtitle {
-    color: #9b8053;
+  color: #9b8053;
 }
+
 .footer a:link,
 .footer a:visited,
 .footer a:hover,
 .footer a:active {
-    color: #006479;
+  color: #006479;
 }
 
 /* Hide the extended text by default */
 .toggle-content {
-    display: none;
+  display: none;
 }
 
 .readmore {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 /* Styling specific to the "Read More" text not the dots */
 #read_more {
-    text-decoration: underline;
-    color: #003366;
+  text-decoration: underline;
+  color: #003366;
 }
 
 /* Hide the 'Show Less' label by default */
 .showless {
-    display: none;
-    cursor: pointer;
-    text-decoration: underline;
-    color: #003366;
+  display: none;
+  cursor: pointer;
+  text-decoration: underline;
+  color: #003366;
 }
 
 /* When checkbox is checked, show the text and the 'Show Less' label */
 #toggle:checked ~ .toggle-content {
-    display: inline;
+  display: inline;
 }
 
 #toggle:checked ~ .showless {
-    display: inline;
+  display: inline;
 }
 
 /* When checkbox is checked, hide 'Read More' */
 #toggle:checked ~ .readmore {
-    display: none;
+  display: none;
 }
 
 /* Attempt to "fix" the mobile page */
 @media (max-width: 768px) {
-    h1 {
-        padding-bottom: 8px;
-    }
+  h1 {
+    padding-bottom: 8px;
+  }
 
-    .page-body {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
+  .page-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 
-    #cover-social-wrapper {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        width: 100%;
-    }
+  #cover-social-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
 
-    #tabs-wrapper {
-        margin: 50px 0 0 0;
-    }
+  #tabs-wrapper {
+    margin: 50px 0 0 0;
+  }
 
-    #tabs {
-        margin-left: 0;
-    }
+  #tabs {
+    margin-left: 0;
+  }
 
-    .summary-text-container {
-        text-align: center;
-    }
+  .summary-text-container {
+    text-align: center;
+  }
 
-    table.bibrec td {
-        word-wrap: break-word;
-        word-break: break-word;
-    }
+  table.bibrec td {
+    word-wrap: break-word;
+    word-break: break-word;
+  }
 }
 
 /* CUSTOM CSS FOR STYLE UPGRADE OF BIBREC.html */
 /* Styling for the "read online" link */
 .read_html {
-    display: inline-block;
-    padding: 8px 40px; /* Fallback for browsers that don't support clamp() */
-    padding: 8px clamp(8px, 7vw, 50px);
-    background-color: #c7dde3;
-    color: black !important;
-    border-radius: 8px;
-    text-decoration: none !important;
-    transition: all 0.3s ease;
-    font-size: 16px;
-    font-weight: bold;
-    border: 1px solid #d6d3d1;
-    max-width: 100%;
-    box-sizing: border-box;
-    white-space: nowrap;
+  display: inline-block; /* Fallback for browsers that don't support clamp() */
+  padding: 8px clamp(8px, 7vw, 50px);
+  background-color: #c7dde3;
+  color: black !important;
+  border-radius: 8px;
+  text-decoration: none !important;
+  transition: all 0.3s ease;
+  font-size: 16px;
+  font-weight: bold;
+  border: 1px solid #d6d3d1;
+  max-width: 100%;
+  box-sizing: border-box;
+  white-space: nowrap;
 }
 
 .read_html:hover {
-    background-color: #e6e6e6;
-    transform: translateY(-1px);
-    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+  background-color: #e6e6e6;
+  transform: translateY(-1px);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
 }
 
 /* Increase font size for similar books links */
 .similar-books-link {
-    font-size: 1.1em;
-    font-weight: 500;
-    transition: font-size 0.2s ease;
+  font-size: 1.1em;
+  font-weight: 500;
+  transition: font-size 0.2s ease;
 }
 
 .similar-books-link:hover {
-    font-size: 1.15em;
+  font-size: 1.15em;
 }
 
 /* Custom styles for tables and headers */
 #download_options_table,
 #about_book_table {
-    background-color: white;
-    border-collapse: collapse;
-    border: none;
+  background-color: white;
+  border-collapse: collapse;
+  border: none;
 }
 
 #download_options_table th,
 #download_options_table td,
 #about_book_table th,
 #about_book_table td {
-    border-color: #d6d3d1;
-    padding: 8px 6px;
+  border-color: #d6d3d1;
+  padding: 8px 6px;
 }
 
 #download_options_table th,
 #about_book_table th {
-    background-color: #e7e5e4;
+  background-color: #e7e5e4;
 }
 
 #download_options_table td,
 #about_book_table td {
-    background-color: #fafafa;
+  background-color: #fafafa;
 }
 
 /* Headers styling */
 #book_title {
-    color: black;
-    border-bottom: 1px solid black;
-    padding-bottom: 0.75rem;
-    margin: 2rem 0 2.25rem;
-    font-size: 2rem;
-    line-height: 1.2;
+  color: black;
+  border-bottom: 1px solid black;
+  padding-bottom: 0.75rem;
+  margin: 2rem 0 2.25rem;
+  font-size: 2rem;
+  line-height: 1.2;
 }
 
 .header.middle_section_header,
 #about_book_header,
 #download_options_header {
-    color: black;
-    margin-top: 3.25rem;
-    font-size: 1.5rem;
+  color: black;
+  margin-top: 3.25rem;
+  font-size: 1.5rem;
 }
 
 #content .breadcrumbs {
-    margin-top: 0;
+  margin-top: 0;
 }
 
 .breadcrumbs li a:link {
-    color: black;
-    text-decoration: none;
+  color: black;
+  text-decoration: none;
 }
 
 /* Responsive book title for small screens */
 @media screen and (max-width: 768px) {
-    #book_title {
-        font-size: 1.5rem;
-    }
+  #book_title {
+    font-size: 1.5rem;
+  }
 
-    .breadcrumbs ul {
-        line-height: 1;
-    }
+  .breadcrumbs ul {
+    line-height: 1;
+  }
 
-    #qr {
-        display: none;
-    }
+  #qr {
+    display: none;
+  }
 }
-
 
 /* Custom CSS for bibrec */
 .bibrec_page div .page_content {
-    margin-top: 60px;
+  margin-top: 60px;
 }
 
 @media screen and (max-width: 1025px) {
-    .bibrec_page div .page_content {
-        margin-top: 130px;
-    }
+  .bibrec_page div .page_content {
+    margin-top: 130px;
+  }
 }
 
 /* Custom CSS for results page of quick searches */
 .search_results_page div .header {
-    padding-top: 5px;
+  padding-top: 5px;
 }
 
 @media screen and (max-width: 1025px) {
-    .search_results_page div .header {
-        padding-top: 75px;
-    }
+  .search_results_page div .header {
+    padding-top: 75px;
+  }
 }
 
 @media screen and (max-width: 750px) {
-    .search_results_page div .header {
-        padding-top: 140px;
-    }
+  .search_results_page div .header {
+    padding-top: 140px;
+  }
 }
