@@ -51,17 +51,6 @@ a:active {
 	text-decoration: none;
 }
 
-/* text selection
-::-moz-selection {
-	background-color: #0a0a0a;
-	color: #ffffff;
-}
-
-::selection {
-	background-color: #0a0a0a;
-	color: #ffffff;
-}*/
-
 .no-select {
 	user-select: none;
 }
@@ -141,8 +130,7 @@ a:active {
 	}
 }
 
-/* ==================================================
-container */
+/* =========================== container ======================= */
 .container {
 	max-width: 100%;
 	min-height:75vh;
@@ -165,10 +153,6 @@ container */
 		}
 
 }
-/*.content h1 {
-	margin-top:40px;
-}*/
-
 
 ul {
 	list-style-type: "\2022";
@@ -178,8 +162,7 @@ ul {
 
 
 
-/* ==================================================
-library */
+/* ======================== library ========================== */
 .library .latest {
 	white-space: nowrap;
 	width: 100%;
@@ -218,7 +201,6 @@ column-count: 3;
 	column-gap: 0px;
 	cursor: default;
 	width: 100%;
-	/*height: 620px;*/
 }
  .bookshelves > ul li::before {
 	color: #A01F13;
@@ -226,63 +208,16 @@ column-count: 3;
 	width: 1em;
 	margin-left: -1em;
 }
-/*.bookshelves ul li {
-	color: #808080;
-	display: inline-block;
-	margin-bottom: 0px;
-	padding-right: 10%;
-	width: 90%;
-}*/
 
 .page_content .bookshelves h2 {
 	border-bottom: 0px none #FFFFFF;
 }
-/*.library .bookshelves h2:hover,
-.library .bookshelves ul li:hover {
-	-moz-transition: all 0.2s ease-in-out;
-	-o-transition: all 0.2s ease-in-out;
-	-webkit-transition: all 0.2s ease-in-out;
-	color: #000000;
-	cursor: pointer;
-	text-decoration: underline;
-	transition: all 0.2s ease-in-out;
-}
-*/
+
 .page_content.library .lib {
 	margin-bottom: 50px;
 }
 
-/*@media only screen and (max-width: 1200px),
-only screen and (max-device-width: 1200px) {
-	.library .bookshelves ul {
-		-moz-column-count: 2;
-		-moz-column-gap: 0px;
-		-webkit-column-count: 2;
-		-webkit-column-gap: 0px;
-		column-count: 2;
-		column-gap: 0px;
-	}
-}
-
-@media only screen and (max-width: 1000px),
-only screen and (max-device-width: 1000px) {
-	.library .bookshelves ul {
-		-moz-column-count: 1;
-		-moz-column-gap: 0px;
-		-webkit-column-count: 1;
-		-webkit-column-gap: 0px;
-		column-count: 1;
-		column-gap: 0px;
-	}
-
-	.library .bookshelves ul li {
-		padding-right: 0;
-		width: 100%;
-	}
-}
-*/
-/* ==================================================
-book */
+/* ========================== book ======================== */
 .book-container {
 	align-items: center;
 	justify-content: center;
@@ -381,35 +316,12 @@ book */
 	width: 20px;
 }
 
-
-
-/*@media only screen and (max-width: 1200px),
-only screen and (max-device-width: 1200px) {
-	.about {
-		-moz-column-count: 1;
-		-moz-column-gap: 0px;
-		-webkit-column-count: 1;
-		-webkit-column-gap: 0px;
-		column-count: 1;
-		column-gap: 0px;
-	}
-
-	.about p {
-		width: 100%;
-		padding-right: 0;
-	}
-
-	.about p.quote {
-		width: 95%;
-	}
-}*/
 .page_content {
 	margin-top: 40px;
 	padding-bottom: 30px;
 }
 
 .page_content figure {
-    /*border: 3px solid #ddd;*/
 	border-radius: 5px;
     	padding: 10px;
 	max-width: 100%;
@@ -421,19 +333,11 @@ only screen and (max-device-width: 1200px) {
 	width:100%;
 	vertical-align:baseline;
 }
-/*.thumbnail a {
-	text-align:center;
-}*/
 .box_shadow {
 	margin-top: 1em;
 	margin-bottom: 1em;
 	padding: 1ex 1em;
 }
-/*.page_content .page_heading {
-	font-size: 30px;
-	font-weight: bold;
-	color:#A01F13;
-}*/
 .page_content h1::before {
 	display: block;
 	content: "";
@@ -476,29 +380,18 @@ only screen and (max-device-width: 1200px) {
 	color: #A01F13;
 	display: inline-block;
 	width: 1em;
-	/*margin-left: -1em;*/
-	/*font-size: small;*/
 }
 @media only screen and (min-width: 750px) {
 	.page_content > ul li::before {
 		font-size: small;
 	}
-	/* .bookshelves > ul li::before {
-		font-size: small;
-	} */
 }
 
 .page_content ul li {
-	/* list-style: none; */
 	padding: 5px;
 }
 
-/*.page_content ul {
-	list-style: square;
-}*/
-
 .page_content p {
-	/*color: #999999;*/
 	margin-top: 10px;
 	margin-bottom: 10px;
 	padding-top:10px;
@@ -514,19 +407,15 @@ only screen and (max-device-width: 1200px) {
 }
 .page_content a:hover {
 	color: currentColor;
-	/*background:#E7E292;*/
 	text-decoration: underline;
-	/*background: #BDAE92;*/
 }
 .page_content	a:active {
 	color: brown;
 }
 
-
 .page-body {
 	padding-top: 1px;
 }
-
 
 .anchor a {
 	top:-80px;
@@ -559,10 +448,6 @@ table, th, td {
 	margin: 1em 0;
 	border: 1px solid #a2a9b1;
 }
-/*table > * > tr > th{
-border: 1px solid #a2a9b1;
-text-align:center;
-}*/
 
 .search_category li {
 	display: inline-block;
@@ -581,8 +466,7 @@ ul.icon-list li {
     font-size: 1.3em;
 }
 
-/* ==================================================
-footer */
+/* ====================== footer ============================ */
 .footer {
 	position: inherit;
 	left: 0;
@@ -626,11 +510,6 @@ footer */
 	height: 250px;
 	width: 100px;
 }
-/*.cover_image h5 {
-	white-space: break-spaces;
-	overflow-y: auto;
-	height: 100px;
-}*/
 
 /*=====CLASS RULES IMPLEMENTED in pg-desktop-one.css========*/
 ul.results li::before {
@@ -645,9 +524,6 @@ ul.results li::before {
 		width: 80vw;
 
 	}
-	/*.content {
-		margin-top: 180px;
-	}*/
 	.page_content {
 		margin-top: 60px;
 		height: auto;
@@ -671,11 +547,6 @@ ul.results li::before {
         	cursor: default;
         	width: 100%;
                 height: unset;
-
-	/*.page_content img{
-		width: 50%;
-		height: 50%;
-	}*/
 }
 .cover_title h5 {
 	overflow-y: scroll;
@@ -731,29 +602,6 @@ ul.results li::before {
 	}
 }
 
-/* Put theme-specific colors here to make it easy to switch between themes */
-/* ORIGINAL THEME */
-/*
-library .latest h1 {
-	color: #A01F13;
-	border-bottom: 2px solid #A01F13;
-}
-.box_shadow {
-	background-color: #F5ECDB;
-	border: 1px solid #eddab7;
-}
-.box_announce {
-	background-color: #f2dede;
-	border: 1px solid #ebccd1;
-}
-.page_content h1 {
-	color: #A01F13;
-}
-.page_content h2 {
-	color: #A01F13;
-}
-*/
-
 /* BLUE THEME */
 
 .library .latest h1 {
@@ -786,38 +634,3 @@ library .latest h1 {
 .footer a:link, .footer a:visited, .footer a:hover, .footer a:active  {
 	color: #006479;
 }
-
-
-
-/* GOLD THEME */
-/*
-library .latest h1 {
-	color: #A01F13;
-	border-bottom: 2px solid #A01F13;
-}
-.box_shadow {
-	background-color: #f3e8be;
-	border: 1px solid #eddab7;
-}
-.box_announce {
-	background-color: #f9dabf;
-	border: 1px solid #f4c398;
-}
-.page_content h1 {
-	color: #967f38;
-}
-.page_content h2 {
-	color: #967f38;
-}
-.page_content h2.subtitle {
-	color: #9a7000;
-}
-.footer {
-	border-top: 3px solid #e2cc93;
-}
-.footer a:link, .footer a:visited, .footer a:hover, .footer a:active  {
-	color: #006479;
-}
-*/
-
-

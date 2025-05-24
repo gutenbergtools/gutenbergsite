@@ -9,7 +9,6 @@
   padding: 1rem;
 
   color: #9b8053;
-  /*background: #FAE042;*/
 
   cursor: pointer;
 
@@ -99,9 +98,6 @@ input[id^="collapsible"] {
 .search label{
   display: table-cell;
 }
-/*.search input{
-  display: table-cell;
-}*/
 .search input[type="text"]{
   height: 28px;
   width: 250px;
@@ -113,25 +109,12 @@ input[id^="collapsible"] {
   border: none;
 }
 
-.box {
-  /*width: 40%;
-  margin: 0 auto;
-  background: rgba(255,255,255,0.2);
-  padding: 35px;
-  border: 2px solid #fff;
-  border-radius: 20px/50px;
-  background-clip: padding-box;
-  text-align: center;*/
-}
-
 .page_content a.button {
   font-size: 1em;
   font-weight: bold;
   padding: 10px;
   color: #b1635d;
-  /*border: 2px solid #a28961;*/
   border-radius: 50px/50px;
-  /*border-radius: 25px;*/
   text-decoration: none;
   background: #f4eee3;
   cursor: pointer;
@@ -140,7 +123,6 @@ input[id^="collapsible"] {
   float:right;
 }
 .page_content a.button:hover {
-  /*background: #06D85F;*/
   background: #cbb582;
   text-decoration: none;
   color: #954645;
