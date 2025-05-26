@@ -6,6 +6,7 @@ permalink: /ebooks/index.html
 <link rel="stylesheet" href="/gutenberg/search_options.css">
 
 <div class="page">
+<!-- Three Icons on top -->
 <div class="icons-section">
   <ul class="navlinks">
     <li class="navlink">
@@ -21,7 +22,7 @@ permalink: /ebooks/index.html
         <span class="hstrut"></span>
       </a>
     </li>
-
+    
     <li class="navlink">
       <a class="link" href="/ebooks/search/?sort_order=release_date" accesskey="1">
         <span class="cell leftcell without-cover">
@@ -52,12 +53,11 @@ permalink: /ebooks/index.html
   </ul>
 </div>
 
+<!-- The Three Tabs and their Content -->
 <div class="menu-and-content">
-
   <input type="radio" name="ebook-tabs" id="tab-advanced" class="tab-input" checked>
   <input type="radio" name="ebook-tabs" id="tab-fulltext" class="tab-input">
   <input type="radio" name="ebook-tabs" id="tab-categories" class="tab-input">
-
 
   <div class="tabs-container">
     <label for="tab-advanced">Advanced Search</label>
@@ -65,13 +65,12 @@ permalink: /ebooks/index.html
     <label for="tab-categories">Categories & Catalogs</label>
   </div>
 
-
+  <!-- Tab 1 - Advanced Search -->
   <div id="advanced-search" class="tabcontent">
-    <!-- Info Icon Checkbox and Modal Trigger -->
+    <!-- Modal Trigger and Modal -->
     <input type="checkbox" id="info-toggle" class="info-checkbox">
     <label for="info-toggle" class="info-icon-label" title="More Information">i</label>
 
-    <!-- Modal Structure with two labels for different click behaviors -->
     <div class="info-modal-overlay">
       <label for="info-toggle" class="overlay-clickable"></label>
       <div class="info-modal">
@@ -87,7 +86,7 @@ permalink: /ebooks/index.html
       </div>
     </div>
 
-
+    <!-- Advanced Search Form -->
     <div class="box">
       <form method="post" action="/ebooks/results/" accept-charset="utf-8" enctype="multipart/form-data">
         <h2> Advanced Search </h2>
@@ -553,6 +552,7 @@ permalink: /ebooks/index.html
     </div>
   </div>
 
+  <!-- Tab 2 - Full Text Search -->
   <div id="full-text-search" class="tabcontent">
     <div class="full-text-search">
       <h2>Full Text Search</h2>
@@ -576,102 +576,87 @@ permalink: /ebooks/index.html
     </div>
   </div>
 
+  <!-- Tab 3 - Categories and Catalogs -->
   <div id="card-catalog" class="tabcontent">
     <h2>Categories</h2>
     <div class="pgdbnavbar" style="text-align: center">
       <div>
-        <p>
-          Main Categories are the categories you'd expect in a large
-          book store.
-        </p>
+        <p> Main Categories are the categories you'd expect in a large book store. </p>
         <div>
-          <a href="http://localhost:4000/ebooks/categories"
-            >Go to Main Categories</a
-          >
+          <a href="/ebooks/categories">Go to Main Categories</a>
         </div>
       </div>
       <br />
       <div>
-        <p>
-          Reading Lists are hand-curated collections about relatively
-          specific topics.
-        </p>
+        <p> Reading Lists are hand-curated collections about relatively specific topics. </p>
         <div>
-          <a href="http://localhost:4000/ebooks/bookshelf/"
-            >Go to Reading lists</a
-          >
+          <a href="/ebooks/bookshelf/"> Go to Reading lists </a>
         </div>
       </div>
-
       <br />
       <br />
-
       <h2>Catalogs</h2>
       <div>
         <p>Authors Catalog</p>
-        <a href="http://localhost:4000/browse/authors/a">A</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/b">B</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/c">C</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/d">D</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/e">E</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/f">F</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/g">G</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/h">H</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/i">I</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/j">J</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/k">K</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/l">L</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/m">M</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/n">N</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/o">O</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/p">P</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/q">Q</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/r">R</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/s">S</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/t">T</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/u">U</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/v">V</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/w">W</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/x">X</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/y">Y</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/z">Z</a>&nbsp;
-        <a href="http://localhost:4000/browse/authors/other">other</a
-        >&nbsp;
+        <a href="/browse/authors/a">A</a>&nbsp;
+        <a href="/browse/authors/b">B</a>&nbsp;
+        <a href="/browse/authors/c">C</a>&nbsp;
+        <a href="/browse/authors/d">D</a>&nbsp;
+        <a href="/browse/authors/e">E</a>&nbsp;
+        <a href="/browse/authors/f">F</a>&nbsp;
+        <a href="/browse/authors/g">G</a>&nbsp;
+        <a href="/browse/authors/h">H</a>&nbsp;
+        <a href="/browse/authors/i">I</a>&nbsp;
+        <a href="/browse/authors/j">J</a>&nbsp;
+        <a href="/browse/authors/k">K</a>&nbsp;
+        <a href="/browse/authors/l">L</a>&nbsp;
+        <a href="/browse/authors/m">M</a>&nbsp;
+        <a href="/browse/authors/n">N</a>&nbsp;
+        <a href="/browse/authors/o">O</a>&nbsp;
+        <a href="/browse/authors/p">P</a>&nbsp;
+        <a href="/browse/authors/q">Q</a>&nbsp;
+        <a href="/browse/authors/r">R</a>&nbsp;
+        <a href="/browse/authors/s">S</a>&nbsp;
+        <a href="/browse/authors/t">T</a>&nbsp;
+        <a href="/browse/authors/u">U</a>&nbsp;
+        <a href="/browse/authors/v">V</a>&nbsp;
+        <a href="/browse/authors/w">W</a>&nbsp;
+        <a href="/browse/authors/x">X</a>&nbsp;
+        <a href="/browse/authors/y">Y</a>&nbsp;
+        <a href="/browse/authors/z">Z</a>&nbsp;
+        <a href="/browse/authors/other">other</a>&nbsp;
       </div>
-
       <br />
-
       <div>
         <p>Titles Catalog</p>
         <div>
-          <a href="http://localhost:4000/browse/titles/a">A</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/b">B</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/c">C</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/d">D</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/e">E</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/f">F</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/g">G</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/h">H</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/i">I</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/j">J</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/k">K</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/l">L</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/m">M</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/n">N</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/o">O</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/p">P</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/q">Q</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/r">R</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/s">S</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/t">T</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/u">U</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/v">V</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/w">W</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/x">X</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/y">Y</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/z">Z</a>&nbsp;
-          <a href="http://localhost:4000/browse/titles/other">other</a
-          >&nbsp;
+          <a href="/browse/titles/a">A</a>&nbsp;
+          <a href="/browse/titles/b">B</a>&nbsp;
+          <a href="/browse/titles/c">C</a>&nbsp;
+          <a href="/browse/titles/d">D</a>&nbsp;
+          <a href="/browse/titles/e">E</a>&nbsp;
+          <a href="/browse/titles/f">F</a>&nbsp;
+          <a href="/browse/titles/g">G</a>&nbsp;
+          <a href="/browse/titles/h">H</a>&nbsp;
+          <a href="/browse/titles/i">I</a>&nbsp;
+          <a href="/browse/titles/j">J</a>&nbsp;
+          <a href="/browse/titles/k">K</a>&nbsp;
+          <a href="/browse/titles/l">L</a>&nbsp;
+          <a href="/browse/titles/m">M</a>&nbsp;
+          <a href="/browse/titles/n">N</a>&nbsp;
+          <a href="/browse/titles/o">O</a>&nbsp;
+          <a href="/browse/titles/p">P</a>&nbsp;
+          <a href="/browse/titles/q">Q</a>&nbsp;
+          <a href="/browse/titles/r">R</a>&nbsp;
+          <a href="/browse/titles/s">S</a>&nbsp;
+          <a href="/browse/titles/t">T</a>&nbsp;
+          <a href="/browse/titles/u">U</a>&nbsp;
+          <a href="/browse/titles/v">V</a>&nbsp;
+          <a href="/browse/titles/w">W</a>&nbsp;
+          <a href="/browse/titles/x">X</a>&nbsp;
+          <a href="/browse/titles/y">Y</a>&nbsp;
+          <a href="/browse/titles/z">Z</a>&nbsp;
+          <a href="/browse/titles/other">other</a>&nbsp;
         </div>
       </div>
     </div>
