@@ -10,7 +10,6 @@ Main Categories
 These categories are intended to mirror those categories you may find when browsing a physical bookstore. They have been automatically assigned.
 
 <div class="bookshelves">
-  <br>
   <h2>A</h2>
   <ul>
     <li><a href="/ebooks/bookshelf/424">Archaeology</a></li>
