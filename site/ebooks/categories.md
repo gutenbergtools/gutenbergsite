@@ -10,7 +10,6 @@ Main Categories
 These categories are intended to mirror those categories you may find when browsing a physical bookstore. They have been automatically assigned.
 
 <div class="bookshelves">
-  <br>
   <h2>A</h2>
   <ul>
     <li><a href="/ebooks/bookshelf/424">Archaeology</a></li>
@@ -30,7 +29,7 @@ These categories are intended to mirror those categories you may find when brows
     <li><a href="/ebooks/bookshelf/432">Culture/Civilization/Society</a></li>
     <li><a href="/ebooks/bookshelf/433">Crime/Mystery</a></li>
   </ul>
-  <h2>E</h2>
+  <h2>D</h2>
   <ul>
     <li><a href="/ebooks/bookshelf/434">Drugs/Alcohol/Pharmacology</a></li>
   </ul>
@@ -40,8 +39,7 @@ These categories are intended to mirror those categories you may find when brows
     <li><a href="/ebooks/bookshelf/436">Encyclopedias/Dictionaries/Reference</a></li>
     <li><a href="/ebooks/bookshelf/437">Engineering & Construction</a></li>
     <li><a href="/ebooks/bookshelf/438">Environmental Issues</a></li>
-    </ul>
-
+  </ul>
   <h2>F</h2>
   <ul>
     <li><a href="/ebooks/bookshelf/439">Fashion & Costume</a></li>
