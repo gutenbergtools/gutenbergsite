@@ -207,7 +207,7 @@ table.helpbox + table{margin-right:0;}
 table.borderless{border-width:0px;}
 table.borderless caption,table.borderless th,table.borderless td{border-width:0px;padding:0.5ex 0.5em;}
 .icon{display:inline-block;vertical-align:middle;
-     background-image: url(/pics/sprite.png?1591823171)
+     background-image: url(/pics/sprite.png?1591823171);
      width: 23px;
      height: 23px; 
 
