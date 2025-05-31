@@ -58,21 +58,6 @@
   cursor: default !important;
 }
 
-.ui-icon {
-  display: block;
-  text-indent: -99999px;
-  overflow: hidden;
-  background-repeat: no-repeat;
-}
-
-.ui-widget-overlay {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
 .ui-accordion .ui-accordion-header {
   display: block;
   cursor: pointer;
@@ -102,13 +87,6 @@
   padding: 1em 2.2em;
   border-top: 0;
   overflow: auto;
-}
-
-.ui-autocomplete {
-  position: absolute;
-  top: 0;
-  left: 0;
-  cursor: default;
 }
 
 .ui-button {
@@ -872,11 +850,6 @@ li.navlink {
   background-position: -65px -16px;
 }
 
-.ui-tabs {
-  position: relative;
-  padding: 0.2em;
-}
-
 .ui-tabs .ui-tabs-nav {
   margin: 0;
   padding: 0.2em 0.2em 0;
@@ -934,30 +907,7 @@ body .ui-tooltip {
   border-width: 2px;
 }
 
-.ui-widget {
-  font-family:
-    Trebuchet MS,
-    Tahoma,
-    Verdana,
-    Arial,
-    sans-serif;
-  font-size: 1.1em;
-}
-
 .ui-widget .ui-widget {
-  font-size: 1em;
-}
-
-.ui-widget input,
-.ui-widget select,
-.ui-widget textarea,
-.ui-widget button {
-  font-family:
-    Trebuchet MS,
-    Tahoma,
-    Verdana,
-    Arial,
-    sans-serif;
   font-size: 1em;
 }
 
@@ -971,15 +921,6 @@ body .ui-tooltip {
 
 .ui-widget-content a {
   color: #1f1f1f;
-}
-
-.ui-widget-header {
-  border: 1px solid #d4d1bf;
-  background: #ffffff
-    url(../js/lib/jquery-ui/themes/pepper-grinder/images/ui-bg_fine-grain_15_ffffff_60x60.png)
-    50% 50% repeat;
-  color: #453821;
-  font-weight: bold;
 }
 
 .ui-widget-header a {
@@ -1115,7 +1056,12 @@ body .ui-tooltip {
 .ui-icon {
   width: 16px;
   height: 16px;
+  display: block;
+  text-indent: -99999px;
+  overflow: hidden;
+  background-repeat: no-repeat;
 }
+
 
 .ui-icon,
 .ui-widget-content .ui-icon {
@@ -1848,41 +1794,19 @@ body .ui-tooltip {
   background-position: -80px -224px;
 }
 
-.ui-corner-all,
-.ui-corner-top,
-.ui-corner-left,
-.ui-corner-tl {
-  border-top-left-radius: 6px;
-}
-
-.ui-corner-all,
-.ui-corner-top,
-.ui-corner-right,
-.ui-corner-tr {
-  border-top-right-radius: 6px;
-}
-
-.ui-corner-all,
-.ui-corner-bottom,
-.ui-corner-left,
-.ui-corner-bl {
-  border-bottom-left-radius: 6px;
-}
-
-.ui-corner-all,
-.ui-corner-bottom,
-.ui-corner-right,
-.ui-corner-br {
-  border-bottom-right-radius: 6px;
-}
-
 .ui-widget-overlay {
   background: #6e4f1c
     url(../js/lib/jquery-ui/themes/pepper-grinder/images/ui-bg_diagonal-maze_20_6e4f1c_10x10.png)
     50% 50% repeat;
   opacity: 0.6;
   filter: Alpha(Opacity=60);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
+
 
 .ui-widget-shadow {
   margin: 0 0 0 -10px;
@@ -1900,12 +1824,6 @@ body {
   color: black;
   background-color: white;
 }
-
-/*body{font-size:smaller;}
-html,body,div,form{margin:0;border:none;padding:0;}
-img{border-style:none;}
-span.links img{vertical-align:middle;margin-right:0.5em;}
-h1{text-align:center;font-size:150%;/*margin:1em 0;}*/
 
 h2 {
   text-align: left;
@@ -2016,9 +1934,6 @@ h2 {
 
 .shaded {
   color: inherit;
-}
-
-#content {
 }
 
 div.breadcrumbs,
@@ -2231,10 +2146,8 @@ div.breadcrumbs > ul > li.next:before {
 }
 
 #cover-social-wrapper {
-  /*left:0;*/
   width: 200px;
   float: left;
-  /*margin:0 1em;*/
 }
 
 #cover {
@@ -2405,9 +2318,6 @@ a:visited {
   color: #654b24;
 }
 
-/* a:hover{background-color:#eceadf;}
-.hover:hover{background-color:#eceadf;} */
-
 .h1 {
   font-weight: bold;
 }
@@ -2458,15 +2368,15 @@ img.cover-art {
 }
 
 .ui-widget-header {
+  color: #453821;
+  font-weight: bold;
   border: none;
   background: transparent;
 }
 
-.ui-widget-content {
-  background: #eceadf;
-}
-
 .ui-tabs {
+  position: relative;
+  padding: 0.2em;
   border: none;
   background: transparent;
 }
@@ -2517,6 +2427,10 @@ img.cover-art {
 }
 
 .ui-autocomplete {
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: default;
   border-radius: 0;
 }
 
