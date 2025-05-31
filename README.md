@@ -19,6 +19,7 @@ Once Ruby, Jekyll, and Git are setup:
 
     git clone https://github.com/gutenbergtools/gutenbergsite.git
     cd gutenbergsite
+    bundle install
     bundle exec jekyll serve
 
 Then open your web browser to http://localhost:4000
