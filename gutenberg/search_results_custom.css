@@ -1,4 +1,4 @@
-/* Fixing distance between header and main page content */ 
+/* Fixing distance between header and main page content */
 div .header {
   padding-top: 5px;
 }
@@ -8,7 +8,7 @@ div .header {
     padding-top: 75px;
   }
 }
-    
+
 @media screen and (max-width: 750px) {
   div .header {
     padding-top: 140px;
