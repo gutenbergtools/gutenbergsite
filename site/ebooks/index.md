@@ -573,7 +573,7 @@ permalink: /ebooks/index.html
         <input type="submit" value="Duckduckgo Search"/>
       </form>
       <form method="get" action="https://www.google.com/search">
-        <img src="/pics/google_icon_new.png" class="google-logo-img" alt="Google logo">
+        <img src="/pics/google_logo.png" class="google-logo-img" alt="Google logo">
         <input type="text" name="q" size="31" maxlength="255" value="" placeholder="Use Google">
         <input type="hidden" name="domains" value="gutenberg.org"/>
         <input type="hidden" name="sitesearch" value="gutenberg.org"/>
