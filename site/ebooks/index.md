@@ -549,6 +549,12 @@ permalink: /ebooks/index.html
           <input type="submit" id="submit" name="submit_search" value="Search">
         </div>
       </form>
+      
+      <div class="advanced-search-bottom-link">
+        <div>
+          <a href="/help/bibliographic_record.html">Download Formats and Bibliographic Record</a>
+        </div>
+      </div>
     </div>
   </div>
 
@@ -557,13 +563,6 @@ permalink: /ebooks/index.html
     <div class="full-text-search">
       <h2>Full Text Search</h2>
       <p> Use search engines to search through all Gutenberg pages. </p>
-      <form method="get" action="https://www.google.com/search">
-        <img src="/pics/google_search.png" class="google-logo-img" alt="Google logo">
-        <input type="text" name="q" size="31" maxlength="255" value="" placeholder="Use Google">
-        <input type="hidden" name="domains" value="gutenberg.org"/>
-        <input type="hidden" name="sitesearch" value="gutenberg.org"/>
-        <input type="submit" name="btnG" value="Google Search"/>
-      </form>
       <form method="get" id="duck" action="https://duckduckgo.com/">
         <img src="/pics/duck.png" style="vertical-align:middle;" alt="DuckDuckGo logo">
         <input type="hidden" name="sites" value="http://www.gutenberg.org"/>
@@ -572,6 +571,13 @@ permalink: /ebooks/index.html
         <input type="hidden" name="kt" value="h"/>
         <input type="text" name="q" maxlength="255" placeholder="Use DuckDuckGo"/>
         <input type="submit" value="Duckduckgo Search"/>
+      </form>
+      <form method="get" action="https://www.google.com/search">
+        <img src="/pics/google_logo.png" class="google-logo-img" alt="Google logo">
+        <input type="text" name="q" size="31" maxlength="255" value="" placeholder="Use Google">
+        <input type="hidden" name="domains" value="gutenberg.org"/>
+        <input type="hidden" name="sitesearch" value="gutenberg.org"/>
+        <input type="submit" name="btnG" value="Google Search"/>
       </form>
     </div>
   </div>
