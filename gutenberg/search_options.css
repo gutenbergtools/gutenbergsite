@@ -257,6 +257,7 @@
     .page .box form .form-group select {
       width: 100%;
     }
+
     .tabs-container label {
         font-size: 16px; /* Smaller font size */
         padding: 10px 8px; /* Reduced padding */
@@ -315,12 +316,14 @@
     body {
       min-width: 320px !important;
     }
+
     .page .icons-section,
     .page .menu-and-content {
       width: 95% !important;
       margin-left: auto !important;
       margin-right: auto !important;
     }
+
     .page {
       width: 300px !important;
       margin-left: auto !important;
@@ -336,11 +339,13 @@
       box-sizing: border-box !important;
       overflow-x: hidden !important;
     }
+
     * {
       min-width: 0 !important;
       box-sizing: border-box !important;
       max-width: 100% !important;
     }
+
     .icons-section {
       margin-left: auto !important;
       margin-right: auto !important;
@@ -350,6 +355,7 @@
       max-width: 100% !important;
       box-sizing: border-box !important;
     }
+
     .navlinks {
       width: 100% !important;
       justify-content: center !important;
