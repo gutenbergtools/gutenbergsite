@@ -44,6 +44,9 @@ exclude:
    - LICENSE
    - README.md
    - to_delete
+   - docker-compose.yml
+   - docker/Dockerfile
+   - docker/docker-entrypoint.sh
 
 # Development:
 destination: /public/vhost/g/gutenberg/dev/html/
