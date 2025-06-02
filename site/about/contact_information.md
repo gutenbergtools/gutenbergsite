@@ -51,9 +51,11 @@ Contact the CEO of the Project Gutenberg Literary Archive Foundation, Dr. Gregor
 ## Postal Mail
 If you need to send printed mail, please consider instead scanning and emailing to the appropriate address above. But if you really need to send something physical, send to this address:
 
-<dl><dd>  Project Gutenberg Literary Archive Foundation</dd>
-<dd>  PO Box 16327</dd>
-<dd>  Salt Lake City, UT 84116</dd></dl>
+```
+Project Gutenberg Literary Archive Foundation
+PO Box 16327
+Salt Lake City, UT 84116
+```
 
 ## Distributed Proofreaders
 The [Distributed Proofreaders](https://www.pgdp.net/) site includes active forums, FAQs and other items of interest for eBook lovers, eBook creators and potential creators. Contact information is available at the site, and online forums are also used for discussions and inquiries. 
@@ -66,21 +68,4 @@ The [Distributed Proofreaders](https://www.pgdp.net/) site includes active forum
 </ul>
 
 ## Social Media
-<ul class="icon-list">
-    <li><a href="https://www.facebook.com/project.gutenberg">
-      <img src="/gutenberg/f_icon.png" alt="Facebook Icon" />
-    </a></li>
-    <li><a href="https://twitter.com/gutenberg_org">
-      <img src="/gutenberg/t_icon.png" alt="Twitter Icon" />
-    </a></li>
-    <li><a href="https://mastodon.social/@gutenberg_org" rel="me">
-      <img src="/gutenberg/m_icon.png" alt="Mastodon Icon" />
-    </a></li>
-    <li>News feeds of new eBooks</li>
-    <li><a href="https://www.facebook.com/gutenberg.new">
-      <img src="/gutenberg/f_news_icon.png" alt="Facebook News Feed Icon" />
-    </a></li>
-    <li><a href="https://mastodon.social/@gutenberg_new" rel="me">
-      <img src="/gutenberg/m_news_icon.png" alt="Mastodon Icon" />
-    </a></li>
-  </ul>
+{% include social_media_icons.html %}

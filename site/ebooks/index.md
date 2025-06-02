@@ -3,6 +3,7 @@ layout: default
 title: Search | Project Gutenberg
 permalink: /ebooks/index.html
 ---
+{::nomarkdown}
 <link rel="stylesheet" href="/gutenberg/search_options.css">
 
 <div class="page">
@@ -93,15 +94,15 @@ permalink: /ebooks/index.html
         <p> You can use any one search option or multiple at the same time. <br> e.g.  Author=Goethe and Language=German searches for works by Goethe in German. </p>
         <div class="form-group">
           <label for="author">Author</label>
-          <input type="text" name="author" id="author"/>
+          <input type="text" name="author" id="author">
         </div>
         <div class="form-group">
           <label for="title">Title</label>
-          <input type="text" name="title" id="title"/>
+          <input type="text" name="title" id="title">
         </div>
         <div class="form-group">
           <label for="subject">Subject</label>
-          <input type="text" name="subject" id="subject"/>
+          <input type="text" name="subject" id="subject">
         </div>
         
         <div class="form-group">
@@ -565,19 +566,19 @@ permalink: /ebooks/index.html
       <p> Use search engines to search through all Gutenberg pages. </p>
       <form method="get" id="duck" action="https://duckduckgo.com/">
         <img src="/pics/duck.png" style="vertical-align:middle;" alt="DuckDuckGo logo">
-        <input type="hidden" name="sites" value="http://www.gutenberg.org"/>
-        <input type="hidden" name="k8" value="#444444"/>
-        <input type="hidden" name="k9" value="#D51920"/>
-        <input type="hidden" name="kt" value="h"/>
-        <input type="text" name="q" maxlength="255" placeholder="Use DuckDuckGo"/>
-        <input type="submit" value="Duckduckgo Search"/>
+        <input type="hidden" name="sites" value="http://www.gutenberg.org">
+        <input type="hidden" name="k8" value="#444444">
+        <input type="hidden" name="k9" value="#D51920">
+        <input type="hidden" name="kt" value="h">
+        <input type="text" name="q" maxlength="255" placeholder="Use DuckDuckGo">
+        <input type="submit" value="Duckduckgo Search">
       </form>
       <form method="get" action="https://www.google.com/search">
         <img src="/pics/google_logo.png" class="google-logo-img" alt="Google logo">
         <input type="text" name="q" size="31" maxlength="255" value="" placeholder="Use Google">
-        <input type="hidden" name="domains" value="gutenberg.org"/>
-        <input type="hidden" name="sitesearch" value="gutenberg.org"/>
-        <input type="submit" name="btnG" value="Google Search"/>
+        <input type="hidden" name="domains" value="gutenberg.org">
+        <input type="hidden" name="sitesearch" value="gutenberg.org">
+        <input type="submit" name="btnG" value="Google Search">
       </form>
     </div>
   </div>
@@ -592,15 +593,15 @@ permalink: /ebooks/index.html
           <a href="/ebooks/categories">Go to Main Categories</a>
         </div>
       </div>
-      <br />
+      <br >
       <div>
         <p> Reading Lists are hand-curated collections about relatively specific topics. </p>
         <div>
           <a href="/ebooks/bookshelf/"> Go to Reading lists </a>
         </div>
       </div>
-      <br />
-      <br />
+      <br >
+      <br >
       <h2>Catalogs</h2>
       <div>
         <p>Authors Catalog</p>
@@ -632,7 +633,7 @@ permalink: /ebooks/index.html
         <a href="/browse/authors/z">Z</a>&nbsp;
         <a href="/browse/authors/other">other</a>&nbsp;
       </div>
-      <br />
+      <br >
       <div>
         <p>Titles Catalog</p>
         <div>
@@ -669,3 +670,4 @@ permalink: /ebooks/index.html
   </div>
 </div>
 </div>
+{:/nomarkdown}
