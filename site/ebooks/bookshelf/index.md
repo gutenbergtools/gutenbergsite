@@ -11,7 +11,7 @@ Reading Lists are hand-curated collections of eBooks that have similar topics. T
 
 Another way to find eBooks related to a topic is to use the "main categories" page or to browse the Bibliographic Record section of any eBook's page. Most have one or more selectable Subject and LOC Class entries, which take you to other books in the same category.
 
-<br>
+
 ## Main Reading Lists
 
 <div class="bookshelves">
@@ -94,10 +94,8 @@ Another way to find eBooks related to a topic is to use the "main categories" pa
   <ul>
    <li><a href="/ebooks/bookshelves/search/?query=war">Wars Bookshelf</a></li>
   </ul>
-
-<br ><br >
  </div>
- <br>
+
 
 
 
