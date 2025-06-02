@@ -53,29 +53,9 @@ Find our RSS feed in the [cache/feeds](/cache/epub/feeds/today.rss) location. Up
 
 The "[posted](https://lists.pglaf.org/mailman3/lists/?count=50&page=1)" list is where every new eBook is announced as it is being uploaded to the Project Gutenberg servers. New books are then available for download, typically within 2 hours. The list has a once-daily digest option, and also online public archives.
 
-### Social media
-## Social Media
-<ul class="icon-list">
-    <li><a href="https://www.facebook.com/project.gutenberg">
-      <img src="/gutenberg/f_icon.png" alt="Facebook Icon" >
-    </a></li>
-    <li><a href="https://twitter.com/gutenberg_org">
-      <img src="/gutenberg/t_icon.png" alt="Twitter Icon" >
-    </a></li>
-    <li><a href="https://mastodon.social/@gutenberg_org" rel="me">
-      <img src="/gutenberg/m_icon.png" alt="Mastodon Icon" >
-    </a></li>
-    <li><a href="https://bsky.app/profile/gutenberg.org" rel="me">
-      <img src="/gutenberg/b_icon.png" alt="Bluesky icon" >
-    </a></li>
-    <li>News feeds of new eBooks</li>
-    <li><a href="https://www.facebook.com/gutenberg.new">
-      <img src="/gutenberg/f_news_icon.png" alt="Facebook News Feed Icon" >
-    </a></li>
-    <li><a href="https://mastodon.social/@gutenberg_new" rel="me">
-      <img src="/gutenberg/m_news_icon.png" alt="Mastodon Icon" >
-    </a></li>
-  </ul>
+### Social Media
+
+{% include social_media_icons.html %}
 
 ### OPDS
 
@@ -161,7 +141,7 @@ Many eBooks include scans of the title page or other pages, which may indicate o
 
 An Excel-compatible CSV spreadsheet of eBook metadata is also available [here](/cache/epub/feeds/pg_catalog.csv). This file is updated once a week.
 
-### <a name="marc-records-machine-readable-cataloging"></a>MARC Records (MAchine Readable Cataloging)
+### MARC Records (MAchine Readable Cataloging)
 
 MARC is the <i>lingua franca</i> of library catalogs. It is a way of
 representing data about items like books. The data about items is
