@@ -3,6 +3,7 @@ layout: default
 title: Search | Project Gutenberg
 permalink: /ebooks/index.html
 ---
+{::nomarkdown}
 <link rel="stylesheet" href="/gutenberg/search_options.css">
 
 <div class="page">
@@ -669,3 +670,4 @@ permalink: /ebooks/index.html
   </div>
 </div>
 </div>
+{:/nomarkdown}
