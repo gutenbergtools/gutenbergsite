@@ -68,19 +68,19 @@ The [Distributed Proofreaders](https://www.pgdp.net/) site includes active forum
 ## Social Media
 <ul class="icon-list">
     <li><a href="https://www.facebook.com/project.gutenberg">
-      <img src="/gutenberg/f_icon.png" alt="Facebook Icon" />
+      <img src="/gutenberg/f_icon.png" alt="Facebook Icon" >
     </a></li>
     <li><a href="https://twitter.com/gutenberg_org">
-      <img src="/gutenberg/t_icon.png" alt="Twitter Icon" />
+      <img src="/gutenberg/t_icon.png" alt="Twitter Icon" >
     </a></li>
     <li><a href="https://mastodon.social/@gutenberg_org" rel="me">
-      <img src="/gutenberg/m_icon.png" alt="Mastodon Icon" />
+      <img src="/gutenberg/m_icon.png" alt="Mastodon Icon" >
     </a></li>
     <li>News feeds of new eBooks</li>
     <li><a href="https://www.facebook.com/gutenberg.new">
-      <img src="/gutenberg/f_news_icon.png" alt="Facebook News Feed Icon" />
+      <img src="/gutenberg/f_news_icon.png" alt="Facebook News Feed Icon" >
     </a></li>
     <li><a href="https://mastodon.social/@gutenberg_new" rel="me">
-      <img src="/gutenberg/m_news_icon.png" alt="Mastodon Icon" />
+      <img src="/gutenberg/m_news_icon.png" alt="Mastodon Icon" >
     </a></li>
   </ul>

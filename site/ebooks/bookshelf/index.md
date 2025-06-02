@@ -95,7 +95,7 @@ Another way to find eBooks related to a topic is to use the "main categories" pa
    <li><a href="/ebooks/bookshelves/search/?query=war">Wars Bookshelf</a></li>
   </ul>
 
-<br /><br />
+<br ><br >
  </div>
  <br>
 
