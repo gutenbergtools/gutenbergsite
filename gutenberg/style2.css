@@ -456,6 +456,13 @@ ul {
   list-style-type: lower-alpha;
 }
 
+ol {
+  margin: 0 2em;
+}
+ol .inner_1, ol .inner_2 {
+  margin: 0 1.5em;
+}
+
 pre {
   border: 1px dashed #2f6fab;
   background-color: #f9f9f9;
