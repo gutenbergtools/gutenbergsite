@@ -280,7 +280,7 @@ header {
   text-decoration: underline;
 }
 
-.search-icon-btn {
+.search-icon-btn, .search-close-btn {
   display: none;
 }
 
@@ -455,6 +455,20 @@ header {
     line-height: 1;
   }
 
+  .search-close-btn {
+    display: none;
+    background-color: #5f9ea0;
+    color: white;
+    border: 2px solid #5f9ea0;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 16px;
+    transition: opacity 0.2s ease;
+    margin: 8px;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
   .search-icon-btn:hover {
     opacity: 0.9;
   }
@@ -472,6 +486,10 @@ header {
   #search-toggle:checked ~ .top-header .donate-container,
   #search-toggle:checked ~ .top-header .search-form label.search-icon-btn {
     display: none; /* Hide logo, donate, search icon when active */
+  }
+
+  #search-toggle:checked ~ .top-header .search-close-btn {
+    display: inline-block; /* Show close button when active */
   }
 
   #search-toggle:checked ~ .top-header .search-form {
