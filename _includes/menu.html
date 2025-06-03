@@ -1,5 +1,6 @@
 <header>
-  <input type="checkbox" id="search-toggle" style="display: none" >
+  <input type="radio" name="toggle" id="search-toggle" style="display: none" >
+  <input type="radio" name="toggle" id="search-close" style="display: none" >
   <input type="checkbox" id="about-toggle" style="display: none" >
   <div class="logo-container">
     <a id="main_logo" href="/" class="no-hover">
@@ -33,6 +34,7 @@
           <path d="M0 0h24v24H0z" fill="none" />
         </svg>
       </label>
+      <label for="search-close" class="search-close-btn" aria-label="Close Search">X</label>
       <input
         type="text"
         class="search-input"
