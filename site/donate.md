@@ -60,20 +60,20 @@ Visit <a href="https://BuyMeACoffee.com/projgutenberg">BuyMeACoffee.com/projgute
 
   Make a <strong>one-time</strong> donation:
 
-  <input type="hidden" name="cmd" value="_s-xclick" />
-  <input type="hidden" name="hosted_button_id" value="XKAL6BZL3YPSN" />
+  <input type="hidden" name="cmd" value="_s-xclick" >
+  <input type="hidden" name="hosted_button_id" value="XKAL6BZL3YPSN" >
   <input type="image" src="/pics/en_US.gif" 
 	 border="0" name="submit" alt="One-time donation by PayPal" 
-         style="vertical-align: middle" />
+         style="vertical-align: middle" >
 
 </form>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="new">
 
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="EAKP47JLLM5V2" />
-<input type="hidden" name="on0" value="Monthly donation amount" />
-<input type="hidden" name="currency_code" value="USD" />
+<input type="hidden" name="cmd" value="_s-xclick" >
+<input type="hidden" name="hosted_button_id" value="EAKP47JLLM5V2" >
+<input type="hidden" name="on0" value="Monthly donation amount" >
+<input type="hidden" name="currency_code" value="USD" >
 
 Make a <strong>monthly donation</strong> (cancel any time): 
 
@@ -87,7 +87,7 @@ Make a <strong>monthly donation</strong> (cancel any time):
 
 <input type="image" src="/pics/btn_subscribe_SM.gif"
        border="0" name="submit" alt="Subscription donation by PayPal" 
-       style="vertical-align: middle" />
+       style="vertical-align: middle" >
 
 </form>
 
@@ -153,8 +153,8 @@ For those countries where donations are not accepted via the links and buttons h
 ### <a name="about-donating-by-check-or-money-order"></a>About donating by Check or Money Order
 <a name="about-donating-by-check-or-money-order"></a>Send a check or money order in US funds. Our address is:
 
-<dl><dd> Project Gutenberg Literary Archive Foundation<br /></dd>
-<dd> PO Box 16327<br /></dd>
+<dl><dd> Project Gutenberg Literary Archive Foundation<br ></dd>
+<dd> PO Box 16327<br ></dd>
 <dd> Salt Lake City, UT 84116</dd></dl>
 
 The bank we utilize, Wells Fargo, does not charge any fees for our use of the bank account. They do charge a fee of at least $5 for depositing checks from outside the US or in non-US currency. Any donation of $100 or over will receive a written "thank you" via postal mail, unless you do not provide a return address.
