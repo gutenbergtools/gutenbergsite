@@ -57,28 +57,28 @@
 
 /* Media query to stack nav icons vertically on smaller screens */
 @media screen and (max-width: 735px) {
-  .navlinks {
+  .page .navlinks {
     flex-direction: column;
     align-items: center;
     margin-top: 0px;
   }
   
-  .navlink {
+  .page .navlink {
     margin-bottom: 5px;
   }
   
-  .navlink:last-child {
+  .page .navlink:last-child {
     margin-bottom: 0;
   }
   
   /* Reduce container padding at smaller screen sizes */
-  .container {
+  .page .container {
     padding: 8vh 5vw;
   }
 }
 
 /* Tab styling */
-.tabs-container { /* Renamed from .tabs */
+.page .tabs-container { /* Renamed from .tabs */
   overflow: hidden;
   border-bottom: 1px solid #ccc;
   margin-bottom: 20px;
@@ -87,13 +87,13 @@
 }
 
 /* Hide radio buttons accessibly */
-.tab-input {
+.page .tab-input {
   position: absolute;
   opacity: 0;
   pointer-events: none;
 }
 
-.tabs-container label { /* Style labels like buttons */
+.page .tabs-container label { /* Style labels like buttons */
   background-color: inherit;
   border: none;
   outline: none;
@@ -105,7 +105,7 @@
   text-align: center; /* Center text within labels */
 }
 
-.tabs-container label:hover {
+.page .tabs-container label:hover {
   background-color: #C7DDE3;
 }
 
@@ -116,7 +116,7 @@
   background-color: #C7DDE3;
 }
 
-.tabcontent {
+.page .tabcontent {
   display: none; /* Hide all tab content by default */
   padding: 6px 12px;
   border-top: none;
@@ -190,7 +190,7 @@
 }
 
 /* Styling for the Advanced Search button */
-#submit {
+.page #submit {
   padding: 10px 20px;
   font-size: 1em; /* Adjust as needed */
   border: 1px solid #bbb; /* Subtle border */
@@ -199,12 +199,12 @@
   transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 }
 
-#submit:hover {
+.page #submit:hover {
   border-color: #888; /* Darken border on hover */
   box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Add a subtle shadow on hover */
 }
 
-.highlighted-link {
+.page .highlighted-link {
   background-color: #C7DDE3;
   padding: 0px 0px;
   display: inline-block;
@@ -252,7 +252,7 @@
   .page .box form .form-group select {
     width: 100%;
   }
-  .tabs-container label {
+  .page .tabs-container label {
       font-size: 16px; /* Smaller font size */
       padding: 10px 8px; /* Reduced padding */
   }
@@ -260,7 +260,7 @@
 
 /* Further reduce tab button font size on extremely small screens */
 @media screen and (max-width: 310px) {
-  .tabs-container label {
+  .page .tabs-container label {
       font-size: 12px; /* Even smaller font size */
       padding: 8px 6px;  /* Further reduced padding */
   }
@@ -307,7 +307,7 @@
 }
 
 @media screen and (max-width: 500px) {
-  body {
+  body .page {
     min-width: 320px !important;
   }
   .page .icons-section,
@@ -324,19 +324,19 @@
 }
 
 @media (max-width: 600px) {
-  html, body, .page, .container, .icons-section, .menu-and-content, .narrow, .wide, .boxed {
+  .page .container, .page .icons-section, .page .menu-and-content, .page .narrow, .page .wide, .page .boxed {
     width: 100% !important;
     min-width: 0 !important;
     max-width: 100% !important;
     box-sizing: border-box !important;
     overflow-x: hidden !important;
   }
-  * {
+  .page {
     min-width: 0 !important;
     box-sizing: border-box !important;
     max-width: 100% !important;
   }
-  .icons-section {
+  .page .icons-section {
     margin-left: auto !important;
     margin-right: auto !important;
     display: flex !important;
@@ -345,7 +345,7 @@
     max-width: 100% !important;
     box-sizing: border-box !important;
   }
-  .navlinks {
+  .page .navlinks {
     width: 100% !important;
     justify-content: center !important;
     display: flex !important;
