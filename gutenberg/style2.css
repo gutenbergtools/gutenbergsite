@@ -850,7 +850,7 @@ ul.results li::before {
 
 @media screen and (max-width: 1025px) {
   .bibrec_page div .page_content {
-    margin-top: 130px;
+    margin-top: 60px;
   }
 }
 
@@ -867,6 +867,6 @@ ul.results li::before {
 
 @media screen and (max-width: 750px) {
   .search_results_page div .header {
-    padding-top: 140px;
+    padding-top: 1px;
   }
 }
