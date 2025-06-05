@@ -49,8 +49,8 @@
 }
 
 /* Style for the navlinks to add space below icons */
-.navlinks {
-  margin-bottom: 60px;
+.page .navlinks {
+  margin-bottom: 20px;
   display: flex;
   justify-content: center;
 }
