@@ -199,8 +199,8 @@ ul {
 }
 
 .bookshelves ul {
-  column-count: 3;
-  column-gap: 0px;
+  columns: 15em auto;
+  column-gap: 1em;
   cursor: default;
   width: 100%;
 }
@@ -584,8 +584,6 @@ ul.results li::before {
   }
 
   .bookshelves ul {
-    column-count: 1;
-    column-gap: 0px;
     cursor: default;
     width: 100%;
     height: unset;
