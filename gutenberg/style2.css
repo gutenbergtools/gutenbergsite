@@ -199,7 +199,7 @@ ul {
 }
 
 .bookshelves ul {
-  columns: 15em auto;
+  columns: 15em 3;
   column-gap: 1em;
   cursor: default;
   width: 100%;
