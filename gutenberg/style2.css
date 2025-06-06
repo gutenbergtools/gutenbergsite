@@ -195,14 +195,18 @@ ul {
 .bookshelves {
   margin: 0 auto;
   padding: 0;
-  width: 100%;
-}
-
-.bookshelves ul {
   column-count: 3;
   column-gap: 0px;
   cursor: default;
   width: 100%;
+}
+
+.bookshelves h2 {
+    break-after: avoid-column;
+}
+
+.bookshelves ul {
+    break-inside: avoid;
 }
 
 .bookshelves > ul li::before {

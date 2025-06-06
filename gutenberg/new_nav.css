@@ -64,8 +64,8 @@ header {
   font-size: 14px;
 }
 
-.search-button {
-  background-color: #5f9ea0;
+.search-button{
+  background-color: #4C8FA8;
   color: white;
   border: none;
   padding: 0px 24px;
@@ -101,12 +101,12 @@ header {
 }
 
 .donate-container .donate-link {
-  background-color: #5f9ea0;
+  background-color: #4C8FA8;
   color: white;
   text-decoration: none;
   font-weight: bold;
   padding: 5px 22px;
-  border: 2px solid #5f9ea0;
+  border: 2px solid #4C8FA8;
   border-radius: 4px;
   transition:
     opacity 0.2s ease,
@@ -445,9 +445,9 @@ header {
 
   .search-icon-btn {
     display: inline-block;
-    background-color: #5f9ea0;
+    background-color: #4C8FA8;
     color: white;
-    border: 2px solid #5f9ea0;
+    border: 2px solid #4C8FA8;
     padding: 4px 8px;
     border-radius: 4px;
     font-size: 16px;
@@ -457,9 +457,9 @@ header {
 
   .search-close-btn {
     display: none;
-    background-color: #5f9ea0;
+    background-color: #4C8FA8;
     color: white;
-    border: 2px solid #5f9ea0;
+    border: 2px solid #4C8FA8;
     padding: 4px 8px;
     border-radius: 4px;
     font-size: 16px;

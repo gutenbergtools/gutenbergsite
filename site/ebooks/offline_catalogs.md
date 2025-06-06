@@ -161,7 +161,7 @@ elsewhere on this page.
 
 To read more about the initiative to create the MARC records,
 including links to the software, issue reporting, and more, see this
-[announcement from the Free Software
+[announcement from the Free Ebook
 Foundation](https://ebookfoundation.org/pgmarc.html).
 
 Find the MARC records in [the feeds
