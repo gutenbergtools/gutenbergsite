@@ -19,7 +19,7 @@ These categories are intended to mirror those categories you may find when brows
   <h2>B</h2>
   <ul>
     <li><a href="/ebooks/bookshelf/427">Biographies</a></li>
-    <li><a href="/ebooks/bookshelf/428">Business/Management</a></li>
+    <li><a href="/ebooks/bookshelf/428">Business/&ZeroWidthSpace;Management</a></li>
   </ul>
   <h2>C</h2>
   <ul>
@@ -36,7 +36,7 @@ These categories are intended to mirror those categories you may find when brows
   <h2>E</h2>
   <ul>
     <li><a href="/ebooks/bookshelf/435">Economics</a></li>
-    <li><a href="/ebooks/bookshelf/436">Encyclopedias/Dictionaries/Reference</a></li>
+    <li><a href="/ebooks/bookshelf/436">Encyclopedias/Dictionaries/<wbr>Reference</a></li>
     <li><a href="/ebooks/bookshelf/437">Engineering & Construction</a></li>
     <li><a href="/ebooks/bookshelf/438">Environmental Issues</a></li>
   </ul>
@@ -67,7 +67,7 @@ These categories are intended to mirror those categories you may find when brows
   </ul>
   <h2>J</h2>
   <ul>
-    <li><a href="/ebooks/bookshelf/454">Journalism/Media/Writing</a></li>
+    <li><a href="/ebooks/bookshelf/454">Journalism/Media/<wbr>Writing</a></li>
     <li><a href="/ebooks/bookshelf/455">Journals</a></li>
   </ul>
   <h2>L</h2>
@@ -118,7 +118,7 @@ These categories are intended to mirror those categories you may find when brows
     <li><a href="/ebooks/bookshelf/480">Science-Fiction & Fantasy</a></li>
     <li><a href="/ebooks/bookshelf/481">Sexuality & Erotica</a></li>
     <li><a href="/ebooks/bookshelf/482">Sociology</a></li>
-    <li><a href="/ebooks/bookshelf/483">Sports/Hobbies/Motoring</a></li>
+    <li><a href="/ebooks/bookshelf/483">Sports/Hobbies/<wbr>Motoring</a></li>
   </ul>
   <h2>T</h2>
   <ul>
