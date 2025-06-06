@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: search_options
 title: Search | Project Gutenberg
 permalink: /ebooks/index.html
 ---
 {::nomarkdown}
-<link rel="stylesheet" href="/gutenberg/search_options.css">
-
 <div class="page">
 <!-- Three Icons on top -->
 <div class="icons-section">
