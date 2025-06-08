@@ -74,27 +74,9 @@ Audio books are a great way to enjoy and share literature. Project Gutenberg no 
 </div>
 
 ## Social Media
-<ul class="icon-list">
-    <li><a href="https://www.facebook.com/project.gutenberg">
-      <img src="/gutenberg/f_icon.png" alt="Facebook iccon" />
-    </a></li>
-    <li><a href="https://mastodon.social/@gutenberg_org" rel="me">
-      <img src="/gutenberg/m_icon.png" alt="Mastodon icon" />
-    </a></li>
-    <li><a href="https://bsky.app/profile/gutenberg.org" rel="me">
-      <img src="/gutenberg/b_icon.png" alt="Bluesky icon" />
-    </a></li>
-    <li>News feeds of new eBooks:</li>
-    <li><a href="https://www.facebook.com/gutenberg.new">
-      <img src="/gutenberg/f_news_icon.png" alt="Facebook news feed icon" />
-    </a></li>
-    <li><a href="https://mastodon.social/@gutenberg_new" rel="me">
-      <img src="/gutenberg/m_news_icon.png" alt="Mastodon icon" />
-    </a></li>
-    <li><a href="https://bsky.app/profile/new.gutenberg.org" rel="me">
-      <img src="/gutenberg/b_news_icon.png" alt="Bluesky icon" />
-    </a></li>
-  </ul>
+
+{% include social_media_icons.html %}
+
 
 <!-- ## Contact Info
 
