@@ -125,7 +125,7 @@ Avoid punctuation except as indicated below:</p>
   <div class="search">
    <p><label for="book-search" class="lbl-toggle">Quick Search</label>
       <input type="text" value="" id="book-search" name="query" class="searchInput" title="" tabindex="20" size="20" maxlength="80"
-             placeholder="Quick search"/>
+             placeholder="Quick search">
       <input type="submit" name="submit_search" value="Search">
    </p>
   </div>
@@ -189,17 +189,17 @@ Avoid punctuation except as indicated below:</p>
      <div class="content-inner">
       <p>
        <label for="author">Author:</label>
-       <input type="text" name="author" id="author"/>
+       <input type="text" name="author" id="author">
       </p>
 
       <p>
        <label for="title">Title:</label>
-       <input type="text" name="title" id="title"/>
+       <input type="text" name="title" id="title">
       </p>
 
       <p>
        <label for="subject">Subject:</label>
-       <input type="text" name="subject" id="subject"/>
+       <input type="text" name="subject" id="subject">
       </p>
 
       <p>
@@ -679,19 +679,19 @@ Avoid punctuation except as indicated below:</p>
       <form method="get" action="https://www.google.com/search">
         <img src="/pics/google_search.png" style="vertical-align:middle;" alt="Google logo">
         <input type="text" name="q" size="31" maxlength="255" value="" placeholder="Search Google">
-        <input type="hidden" name="domains" value="gutenberg.org"/>
-        <input type="hidden" name="sitesearch" value="gutenberg.org"/>
-        <input type="submit" name="btnG" value="Google Search"/>
+        <input type="hidden" name="domains" value="gutenberg.org">
+        <input type="hidden" name="sitesearch" value="gutenberg.org">
+        <input type="submit" name="btnG" value="Google Search">
 
       </form>
   <form method="get" id="duck" action="https://duckduckgo.com/">
     <img src="/pics/duck.png" style="vertical-align:middle;" alt="DuckDuckGo logo">
-    <input type="hidden" name="sites" value="http://www.gutenberg.org"/>
-    <input type="hidden" name="k8" value="#444444"/>
-    <input type="hidden" name="k9" value="#D51920"/>
-    <input type="hidden" name="kt" value="h"/>
-    <input type="text" name="q" maxlength="255" placeholder="Search DuckDuckGo"/>
-    <input type="submit" value="DuckDuckGo Search"/>
+    <input type="hidden" name="sites" value="http://www.gutenberg.org">
+    <input type="hidden" name="k8" value="#444444">
+    <input type="hidden" name="k9" value="#D51920">
+    <input type="hidden" name="kt" value="h">
+    <input type="text" name="q" maxlength="255" placeholder="Search DuckDuckGo">
+    <input type="submit" value="DuckDuckGo Search">
   </form>
 
     </div>

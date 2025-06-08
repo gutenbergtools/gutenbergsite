@@ -4,15 +4,15 @@ title: Bookshelf | Project Gutenberg
 permalink: /ebooks/bookshelf/
 ---
 
-Bookshelves
+Reading Lists
 ==================================================
 
-Bookshelves are hand-curated collections of eBooks that have similar topics. Bookshelf listings were created by volunteers, and have not been updated since 2020 so there are many books without these hand-curated bookshelf categories.
+Reading Lists are hand-curated collections of eBooks that have similar topics. They were created by volunteers, and have not been updated since 2020 so there are many books that are not included in these lists.
 
 Another way to find eBooks related to a topic is to use the "main categories" page or to browse the Bibliographic Record section of any eBook's page. Most have one or more selectable Subject and LOC Class entries, which take you to other books in the same category.
 
-<br>
-## Main Bookshelves
+
+## Main Reading Lists
 
 <div class="bookshelves">
       
@@ -94,14 +94,12 @@ Another way to find eBooks related to a topic is to use the "main categories" pa
   <ul>
    <li><a href="/ebooks/bookshelves/search/?query=war">Wars Bookshelf</a></li>
   </ul>
-
-<br /><br />
  </div>
- <br>
 
 
 
-## All Bookshelves
+
+## All Reading Lists
 
 These are all specific bookshelves existing in Project Gutenberg.
 

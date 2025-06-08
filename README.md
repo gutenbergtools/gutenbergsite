@@ -19,6 +19,7 @@ Once Ruby, Jekyll, and Git are setup:
 
     git clone https://github.com/gutenbergtools/gutenbergsite.git
     cd gutenbergsite
+    bundle install
     bundle exec jekyll serve
 
 Then open your web browser to http://localhost:4000
@@ -50,28 +51,38 @@ The basic setup is:
 * `$BASEDIR`: the path where we maintain the site.
 * `$BASEDIR/gutenbergsite`: the git-maintained content
 * `$BASEDIR/html`: the path on the server that the web server uses as its `DOCUMENT ROOT`.
+* `$BASEDIR/gutenbergdev`: corresponding place for the dev server.
 
 Most pages for the live site (i.e., under `$BASEDIR/html`) should exist under `$BASEDIR/gutenbergsite`. Any exceptions will be noted in `$BASEDIR/gutenbergsite/_config.yml` (the Jekyll configuration file).
 
 To update the git-maintained content and push to the live site:
 
-    cd $BASEDIR/gutenbergsite
-    jekyll build --verbose
+Running jekyll takes just a few seconds:
 
-Note: `--verbose` is optional.
+* `$EBCBIN/cron-jekyll.sh` (runs jekyll) This is run hourly by cron. It does not do the git pull.
+* `$EBCBIN/dev-jekyll.sh` (pulls and runs the dev branch jekyll targeting the dev server directory)
+* `$EBCBIN/prod-jekyll.sh` (pulls and runs the master branch jekyll targeting the prod server directory)
 
-Any changes to files under `gutenbergsite` should be checked in via git. For example, 
+Any changes to files under `gutenbergsite` should be checked in via git. But please don't edit files on the production server! Changes should be made via github.com
 
-    git add FILENAME      # for newly created files only
-    git commit "MESSAGE"  # give an informative commit log message
-    git push
+Pages that will be converted from markdown to HTML (and have our header/footer added) are in `$BASEDIR/gutenbergsite/site` (www) or `$BASEDIR/gutenbergdev/site` (dev).
 
-Similarly, any changes made via github.com should be pulled to `$BASEDIR/gutenbergsite`:
+## Getting the rest of the static files made
 
-    cd $BASEDIR/gutenbergsite
-    git pull
+The non-jekyll pages take a few minutes to build. There are more than a hundred pages which query the database and/or process log files:
 
-Pages that will be converted from markdown to HTML (and have our header/footer added) are in `$BASEDIR/gutenbergsite/site`.
+* `$EBCBIN/make-static-pages` (builds non-jekyll pages) This script runs twice a day. 
+* `$EBCBIN/make-static-pages-dev` (does the same for the dev branch targeting the directory used for the dev site)
+
+
+Some of the code that makes the PG website pages was developed as early as 2010, using PHP, Perl and a bit of Python. We are currently building scaffolding to make the page generation and testing less ad hoc and more consistent with modern devops.
+
+### Browse pages
+
+`make-static-pages` sets the environment and runs make-by-pages.php from this repo.
+The "score" pages are made by cron-analog (called by make-static-pages), which uses download data to determine the most popular books. 
+
+The "Pretty Pictures" page is currently in rehab. It used a google API which was recently turned off, over 12 years after its announced deprecation!
 
 
 ## License

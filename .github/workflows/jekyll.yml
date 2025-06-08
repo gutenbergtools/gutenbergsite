@@ -14,9 +14,13 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2'
+          ruby-version: '3.3'
           bundler-cache: true
       
+      - name: Populate latest_covers
+        run: |
+          cp "./_includes/latest_covers_test.html" "./_includes/latest_covers.html"
+
       - name: Install Jekyll
         run: |
           gem install bundler
