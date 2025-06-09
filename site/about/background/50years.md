@@ -17,7 +17,7 @@ For the two decades from 1971-1991, Hart evangelized the idea of eBooks, and wor
 
 Like the movable type printing press, the modern digital computer was a machine usable for many different purposes: all types of content, suitable for a wide range of interests. This inspired the vision and genius of Michael Hart.
 
-Project Gutenberg evolved from a concept to become an organization. Volunteers would identity printed books to digitize, and create an eBook for Project Gutenberg to publish and redistribute.
+Project Gutenberg evolved from a concept to become an organization. Volunteers would identitify printed books to digitize, and create an eBook for Project Gutenberg to publish and redistribute.
 
 By the turn of the new millennium, Project Gutenberg was producing thousands of new eBooks per year. Distributed Proofreaders was launched, and became the biggest single source of new eBooks - harnessing the combined energies of volunteers.
 
