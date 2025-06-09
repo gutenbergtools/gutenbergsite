@@ -51,4 +51,4 @@ Here are pages that give background about Project Gutenberg, including how new i
       </ul><h2>W</h2><ul>
        <li><a href="/help/new_website.html">Website redesign 2020</a></li>
       </ul>
-    <div>
+    </div>
