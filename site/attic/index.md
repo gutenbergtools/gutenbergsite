@@ -23,33 +23,32 @@ The future will bring continued innovation, and ongoing focus on the mission of 
 
 
  <div class="bookshelves ">
-    <ul>
-      <h2>2</h2>
+      <h2>2</h2><ul>
        <li><a href="/attic/2DArt.html">2DArt-How-to (old)</a></li>
-      <h2>C</h2>
+      </ul><h2>C</h2><ul>
        <li><a href="/attic/copyright_confirmation.html">Copyright Confirmation How-To (old)</a></li>
-      <h2>F</h2>
+      </ul><h2>F</h2><ul>
        <li><a href="/attic/file_sharing.html">File Sharing How-To (old)</a></li>
-      <h2>G</h2>
+      </ul><h2>G</h2><ul>
        <li><a href="/attic/gnu_gettext_translation.html">GNU Gettext Translation How-To (old)</a></li>
        <li><a href="/attic/greek_how_to.html">Greek How-To (old)</a></li>
-      <h2>H</h2>
+      </ul><h2>H</h2><ul>
        <li><a href="/attic/html_faq.html">HTML FAQ (old)</a></li>
-      <h2>M</h2>
+      </ul><h2>M</h2><ul>
        <li><a href="/attic/hart.html">Michael Hart's Eulogy</a></li>
-      <h2>P</h2>
+      </ul><h2>P</h2><ul>
        <li><a href="/attic/pdas_ebook_readers.html">PDAs and eBook Readers How-To (old)</a></li>
        <li><a href="/attic/project_gutenberg_header.html">Project Gutenberg Header How-To (old)</a></li>
-      <h2>S</h2>
+      </ul><h2>S</h2><ul>
        <li><a href="/attic/scanning_faq.html">Scanning FAQ (old)</a></li>
        <li><a href="/attic/sheet_music.html">Sheet Music How-To (old)</a></li>
-      <h2>T</h2>
+      </ul><h2>T</h2><ul>
        <li><a href="/attic/tools_faq.html">Tools FAQ (old)</a></li>
-      <h2>V</h2>
+      </ul><h2>V</h2><ul>
        <li><a href="/attic/volunteers_voices.html">Volunteers' Voices (old)</a></li>
-      <h2>W</h2>
+      </ul><h2>W</h2><ul>
        <li><a href="/attic/website_translation.html">Website Translation How-To (old)</a></li>
        <li><a href="/attic/word_processor_faq.html">Word Processor FAQ (old)</a></li>
-    </ul>
+        </ul>
   </div>
 
