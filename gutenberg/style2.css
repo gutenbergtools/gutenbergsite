@@ -587,7 +587,7 @@ ul.results li::before {
     font-size: 1em;
   }
 
-  .bookshelves ul {
+  .bookshelves {
     column-count: 1;
     column-gap: 0px;
     cursor: default;
