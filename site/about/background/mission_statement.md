@@ -25,7 +25,7 @@ We offer as many freedoms to our volunteers as possible, in choices of what book
 Project Gutenberg is not in the business of establishing standards. If we were, we would have gladly accepted the request to convert an exemplary portion of our eBooks into HTML when World Wide Web was a brand new idea in 1993; we are happy to bring eBooks to our readers in as many formats as our volunteers wish to make.
 
 In addition, we do not provide standards of accuracy above those as recommended by institutions such as the U.S. Library of Congress at the level of 99.95%.
-While most of our eBooks exceed these standards and are presented in the most common formats, this is not a requirement; people are still encouraged to send us eBooks in any format and at any accuracy level and we will ask for volunteers to convert them to other formats, and to incrementally correct errors as times goes on.
+While most of our eBooks exceed these standards and are presented in the most common formats, this is not a requirement; people are still encouraged to send us eBooks in any format and at any accuracy level and we will ask for volunteers to convert them to other formats, and to incrementally correct errors as time goes on.
 
 Many of our most popular eBooks started out with huge error levels--only later did they come to the more polished levels seen today.  In fact, many of our eBooks were done totally without any supervision--by people who had never heard of Project Gutenberg--and only sent to us after the fact.
 
@@ -44,4 +44,4 @@ Everyone is welcome here at Project Gutenberg.
 Everyone is free to do their own eBooks their own way.
 
 Written by Michael S. Hart
-June 20, 2004.  Updated October 23, 2004; December 25, 2007.
+June 20, 2004. Updated October 23, 2004; December 25, 2007.
