@@ -187,6 +187,8 @@ foreach ($langs as $l) {
   <tr><th>last 30 days</th><td class="right">$d30</td></tr>
 </table>
 
+<!-- <a href="pretty-pictures">Pretty Pictures</a> -->
+
 EOF;
 
     fputs ($hd, $s);
