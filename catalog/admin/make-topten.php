@@ -12,6 +12,12 @@ if (!$cli) exit ();
 
 include ("pgcat.phh");
 
+// PUBLIC is different for dev
+$docroot = getenv ('PUBLIC');
+if ($docroot) {
+  $config->documentroot = $docroot;
+}
+
 function mk_header ($title) {
   global $config;
   return "<?php
