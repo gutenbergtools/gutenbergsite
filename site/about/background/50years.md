@@ -9,7 +9,7 @@ permalink: /about/background/50years.html
 
 July 4, 2021 -- In 1997, Time-Life magazine picked the movable type printing press as the [most important invention of the second millennium](https://en.wikipedia.org/wiki/Johannes_Gutenberg). Like most important innovations and social changes, the printing press was an evolution that had deep roots in history.
 
-Move forward in time to 1971, when Michael Hart invented the eBook. Like Gutenberg's printing press, Hart's innovation followed decades of prior work. To name a few, this includes Vannevar Bush's "Memex" (1930s, based on microfiche), Bob Brown's "The Readies" (1930s), Brown University's "FRESS" (1960s), Ted Nelson's Xanadu (1960s), and many others.
+Move forward in time to 1971, when Michael Hart invented the eBook. Like Gutenberg's printing press, Hart's innovation followed decades of prior work. To name a few, this includes Vannevar Bush's "[Memex](https://en.m.wikipedia.org/wiki/Memex)" (1930s, based on microfiche), Bob Brown's "[The Readies](https://en.m.wikipedia.org/wiki/Ebook#The_Readies_(1930))" (1930s), Brown University's "[FRESS](https://en.m.wikipedia.org/wiki/File_Retrieval_and_Editing_System)" (1960s), Ted Nelson's [Xanadu](https://en.m.wikipedia.org/wiki/Project_Xanadu) (1960s), and many others.
 
 What Michael envisioned in 1971 was eBooks for reading enjoyment. This was the innovation. His focus was not on the mechanics of presentation or analysis, nor was it on outcomes like literary analysis or hermeneutics. The eBook as Michael envisioned it would have a similar purpose to the printed book: enjoyable to read, and a source of enlightenment, education, and entertainment. It would all be free, for unlimited reuse and without limitation of purpose. 
 
@@ -17,7 +17,7 @@ For the two decades from 1971-1991, Hart evangelized the idea of eBooks, and wor
 
 Like the movable type printing press, the modern digital computer was a machine usable for many different purposes: all types of content, suitable for a wide range of interests. This inspired the vision and genius of Michael Hart.
 
-Project Gutenberg evolved from a concept to become an organization. Volunteers would identity printed books to digitize, and create an eBook for Project Gutenberg to publish and redistribute.
+Project Gutenberg evolved from a concept to become an organization. Volunteers would identitify printed books to digitize, and create an eBook for Project Gutenberg to publish and redistribute.
 
 By the turn of the new millennium, Project Gutenberg was producing thousands of new eBooks per year. Distributed Proofreaders was launched, and became the biggest single source of new eBooks - harnessing the combined energies of volunteers.
 

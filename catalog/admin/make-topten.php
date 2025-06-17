@@ -1,10 +1,22 @@
 <?php
 
+  // 2020-01-06: gbn
+  // Copied from Marcello's program in 
+  // /public/vhost/g/gutenberg/html/catalog/admin
+
+  // This makes various static pages for browsing the collection.
+  // It's not just "top10." It's top 100, in various subsets.
+
 $cli = php_sapi_name () == "cli";
 if (!$cli) exit ();
 
-set_include_path(get_include_path() . PATH_SEPARATOR . "/public/vhost/g/gutenberg/dev/private/lib/php");
 include ("pgcat.phh");
+
+// PUBLIC is different for dev
+$docroot = getenv ('PUBLIC');
+if ($docroot) {
+  $config->documentroot = $docroot;
+}
 
 function mk_header ($title) {
   global $config;
@@ -170,14 +182,9 @@ foreach ($langs as $l) {
     fputs ($hd, mk_header ("Top $titlesuffix"));
 
     $s = <<< EOF
-<p>To determine the ranking we count the times each file gets downloaded.
-Both HTTP and FTP transfers are counted.
-Only transfers from ibiblio.org are counted as we have no access to our mirrors log files.
-Multiple downloads from the same IP address on the same day count as one download.
-IP addresses that download more than 100 files a day are considered
-robots and are not considered.
-Books made out of multiple files like most audio books are counted
-if any file is downloaded.</p>
+<h1>Frequently Viewed or Downloaded</h1>
+<p>These listings are based on the number of times each eBook gets downloaded.
+      Multiple downloads from the same Internet address on the same day count as one download, and addresses that download more than 100 eBooks in a day are considered robots and are not counted.</p>
 
 <table>
   <caption>Downloaded Books</caption>
@@ -186,21 +193,22 @@ if any file is downloaded.</p>
   <tr><th>last 30 days</th><td class="right">$d30</td></tr>
 </table>
 
-<a href="pretty-pictures">Pretty Pictures</a>
+<!-- <a href="pretty-pictures">Pretty Pictures</a> -->
 
 EOF;
 
     fputs ($hd, $s);
 
-    $links = "<p>
-  <a href=\"#books-last1\">Top $num EBooks yesterday</a> &mdash;
-  <a href=\"#authors-last1\">Top $num Authors yesterday</a> &mdash;
-  <a href=\"#books-last7\">Top $num EBooks last 7 days</a> &mdash;
-  <a href=\"#authors-last7\">Top $num Authors last 7 days</a> &mdash;
-  <a href=\"#books-last30\">Top $num EBooks last 30 days</a> &mdash;
-  <a href=\"#authors-last30\">Top $num Authors last 30 days</a>
-</p>
-
+    $links = " <div class=\"padded\">
+  <ul>
+   <li><a href=\"#books-last1\">Top $num EBooks yesterday</a></li>
+   <li><a href=\"#authors-last1\">Top $num Authors yesterday</a></li>
+   <li><a href=\"#books-last7\">Top $num EBooks last 7 days</a></li>
+   <li><a href=\"#authors-last7\">Top $num Authors last 7 days</a></li>
+   <li><a href=\"#books-last30\">Top $num EBooks last 30 days</a></li>
+   <li><a href=\"#authors-last30\">Top $num Authors last 30 days</li>
+  </ul>
+ </div>
 ";
 
     // Yesterday
