@@ -9,21 +9,6 @@ Submitting Errata, Fixes and Bug Reports
 
 Errata reports, typos, etc. are welcome and appreciated. Email reports to errata2025 @ pglaf.org (remove the spaces around the @). Suggested formats for reports are described below.
 
-For many books, you may also submit corrections, typos, etc. by making
-“pull requests” on [GitHub](https://github.com/gutenbergbooks). See
-“Corrections to posted books using pull requests to GitHub,” below. It
-is expected that nearly all books will have repositories by summer of
-2025. If you would like to use the process for a book that doesn’t yet
-have a repo send an email request for the repo to be created to
-errata2025 @ pglaf.org.
-
-Some books in the collection will not have repositorites due to technical
-or administrative restrictions. Those should be few. As an example,
-the book "The Three Strings" is ebook 73597. If it has a repository, it
-will be located at https://github.com/gutenbergbooks/73597.git. You may
-submit a pull request against that GitHub repository or you may use the
-traditional errata reporting methods described below.
-
 Corrections should be against the main source(s) of the Project
 Gutenberg books. These are usually found under the “more files” link
 on the landing page and are almost always a plain text (*.txt) and an
