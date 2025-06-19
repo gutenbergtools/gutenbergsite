@@ -7,7 +7,7 @@ permalink: /about/contact_information.html
 Contact Information
 ===================
 
-## Electronic Mail
+## EMail
 The best way to get in touch is by email. 
 
 Please note:
