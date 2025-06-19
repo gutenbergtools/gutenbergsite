@@ -9,15 +9,11 @@ About Project Gutenberg
 
 Project Gutenberg is an online library of more than 75,000 free eBooks.
 
-It was founded in 1971 by Michael Hart, who invented the first-ever eBook.
+Michael Hart, founder of Project Gutenberg, invented eBooks in 1971 and his memory continues to inspire the creation of eBooks and related content today.
 
-Since then, thousands of our volunteers have digitized and diligently proofread the world's literature for you.
+Since then, thousands of volunteers have digitized and diligently proofread the world's literature. The entire Project Gutenberg collection is yours to enjoy.
 
-In doing so our focus has been on older works whose US copyright has expired.
-
-Today after more than 50 years our collection has over 75,000 titles all of which you can download or directly read online.
-
-All Project Gutenberg eBooks are completely free and always will be. If you'd like to support our work, we welcome any [donation](/donate/).
+All Project Gutenberg eBooks are completely free and always will be. 
 
 ## Project Gutenberg Mission Statement
 
