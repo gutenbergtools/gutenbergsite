@@ -28,3 +28,4 @@ To read more about Project Gutenberg, choose one of these topics:
 - [Partners and Affiliates](/about/partners_affiliates.html)
 - [Help and how-to](/help/)
 - The [Project Gutenberg Literary Archive Foundation](/about/pglaf.html), which operates Project Gutenberg and accepts donations.
+- There are several [ways to donate](/donate) if you'd like to support the project.
