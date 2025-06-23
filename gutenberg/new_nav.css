@@ -22,7 +22,7 @@ header {
   position: absolute;
   left: 0;
   top: 0;
-  height: 100px; /* Default height for large screens */
+  height: 90px; /* Default height for large screens */
   display: flex;
   z-index: 10;
 }
@@ -32,7 +32,7 @@ header {
 }
 
 #main_logo img {
-  height: 100px; /* Default height for large screens */
+  height: 90px; /* Default height for large screens */
   width: auto;
   display: block;
 }
@@ -43,7 +43,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 60px;
+  height: 51px;
 }
 
 .search-form {
@@ -123,7 +123,7 @@ header {
   padding: 0 8px;
   display: flex;
   justify-content: center;
-  height: 60px;
+  height: 39px;
   align-items: center;
 }
 
@@ -317,11 +317,11 @@ header {
 
 @media (max-width: 1024px) {
   .logo-container {
-    height: 100px; /* Restore original logo height */
+    height: 90px; /* Restore original logo height */
   }
 
   #main_logo img {
-    height: 100px; /* Restore original logo height */
+    height: 90px; /* Restore original logo height */
   }
 
   .search-form {
