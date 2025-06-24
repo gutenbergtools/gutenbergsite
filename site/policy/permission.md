@@ -83,7 +83,7 @@ It is permitted, but not required, for our volunteer eBook producers to include 
 ## Citing Project Gutenberg
 You can use any standard bibliographic format to cite the eBooks you find in Project Gutenberg. We use "Urbana, Illinois" as the publication source, since that is the long-time home of our efforts. Note that the publication date is also known as the "release date", which is included in each Project Gutenberg eBook's header information. Include illustrators, translators etc., as you would for any book. You should not cite Project Gutenberg or any eBook producers as "editors" unless they actually say they are edited (this happens rarely), because these eBooks are usually transcriptions, more or less, from printed sources. Here is an example in an APA-type format.
 
-Carroll, Lewis. (2006). <ul>Alice's Adventures in Wonderland</ul>. Urbana, Illinois: Project Gutenberg. Retrieved February 21, 2016, from [www.gutenberg.org/ebooks/19033](https://www.gutenberg.org/ebooks/19033).
+Carroll, Lewis. (2006). <u>Alice's Adventures in Wonderland</u>. Urbana, Illinois: Project Gutenberg. Retrieved February 21, 2016, from [www.gutenberg.org/ebooks/19033](https://www.gutenberg.org/ebooks/19033).
 
 To cite the entire collection or Web site:
 
