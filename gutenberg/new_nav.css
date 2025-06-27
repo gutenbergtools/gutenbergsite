@@ -4,18 +4,10 @@
   box-sizing: border-box;
 }
 
-body {
-  padding-top: 40px; /* Space for fixed header + 20px extra */
-}
-
 header {
   width: 100%;
   display: flex;
   flex-direction: column;
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 1000;
 }
 
 .logo-container {

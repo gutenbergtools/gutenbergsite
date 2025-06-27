@@ -146,14 +146,12 @@ a:active {
 @media screen and (orientation: landscape) {
   .container {
     min-height: 75vh;
-    padding: 10vh 5vw;
   }
 }
 
 @media screen and (orientation: portrait) {
   .container {
     min-height: 75vh;
-    padding: 10vh 5vw;
   }
 }
 
@@ -325,7 +323,7 @@ ul {
 }
 
 .page_content {
-  margin-top: 36px;
+  padding: 2em 4em;
   padding-bottom: 24px;
 }
 
@@ -361,7 +359,6 @@ ul {
 .page_content h1 {
   font-size: 1.875em;
   font-weight: bold;
-  margin-top: 2em;
   width: 100%;
   line-height: 1em;
   color: #aa873b;
@@ -569,7 +566,6 @@ ul.results li::before {
   }
 
   .page_content {
-    margin-top: 60px;
     height: auto;
   }
 
