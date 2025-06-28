@@ -140,6 +140,11 @@ header {
   cursor: default;
 }
 
+/* Display dropdown when focused with keyboard */
+.dropdown:focus-within .dropdown-content {
+  display: block;
+}
+
 #about-toggle:checked ~ .dropdown-overlay {
   display: block;
   z-index: 900;
