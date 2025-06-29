@@ -361,7 +361,6 @@ ul {
 .page_content h1 {
   font-size: 1.875em;
   font-weight: bold;
-  margin-top: 2em;
   width: 100%;
   line-height: 1em;
   color: #aa873b;
@@ -566,16 +565,6 @@ ul.results li::before {
     position: relative;
     right: 0;
     width: 80vw;
-  }
-
-  .page_content {
-    margin-top: 60px;
-    height: auto;
-  }
-
-  .page_content h1 {
-    font-size: 1.125em;
-    text-align: center;
   }
 
   .page_content h2 {
@@ -872,5 +861,26 @@ ul.results li::before {
 @media screen and (max-width: 750px) {
   .search_results_page div .header {
     padding-top: 1px;
+  }
+}
+
+/*
+* Remove sticky header at this breakpoint
+*/
+@media (max-width: 1024px) {
+  body {
+    padding-top: 0;
+  }
+  .container {
+    min-height: 0;
+    padding: 0;
+  }
+  .page_content {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 0 5vw;
+  }
+  .page_content h1 {
+    margin-top: 0
   }
 }
