@@ -320,7 +320,18 @@ header {
   }
 }
 
+/*
+Remove sticky header at this breakpoint.
+*/
 @media (max-width: 1024px) {
+  header {
+    position: relative;
+  }
+
+  body {
+    padding-top: 0;
+  }
+
   .logo-container {
     height: 100px; /* Restore original logo height */
   }
@@ -360,10 +371,6 @@ header {
   .tertiary-header .tertiary-link {
     display: inline-block;
     margin: 0 15px;
-  }
-
-  body {
-    padding-top: 100px; /* Space for taller fixed header + 20px extra */
   }
 }
 
