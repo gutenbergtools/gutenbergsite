@@ -364,9 +364,6 @@ ul {
   width: 100%;
   line-height: 1em;
   color: #aa873b;
-}
-
-.page_content .header h1 {
   margin-top: 3.5em;
 }
 
@@ -850,12 +847,6 @@ ul.results li::before {
 /* Custom CSS for results page of quick searches */
 .search_results_page div .header {
   padding-top: 5px;
-}
-
-@media screen and (max-width: 1025px) {
-  .search_results_page div .header {
-    padding-top: 75px;
-  }
 }
 
 @media screen and (max-width: 750px) {
