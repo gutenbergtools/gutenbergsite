@@ -141,19 +141,18 @@ a:active {
   max-width: 100%;
   min-height: 75vh;
   position: relative;
+  margin-top: 50px;
 }
 
 @media screen and (orientation: landscape) {
   .container {
     min-height: 75vh;
-    padding: 10vh 5vw;
   }
 }
 
 @media screen and (orientation: portrait) {
   .container {
     min-height: 75vh;
-    padding: 10vh 5vw;
   }
 }
 
@@ -325,8 +324,11 @@ ul {
 }
 
 .page_content {
-  margin-top: 36px;
+  margin-top: 80px;
   padding-bottom: 24px;
+  padding-left: 5vw;
+  padding-right: 5vw;
+
 }
 
 .page_content figure {
@@ -556,13 +558,6 @@ ul.results li::before {
 }
 
 @media only screen and (max-width: 750px) {
-  container {
-    left: 0;
-    padding: 10% 10vw;
-    position: relative;
-    right: 0;
-    width: 80vw;
-  }
 
   .page_content h2 {
     font-size: 1em;
@@ -835,12 +830,14 @@ ul.results li::before {
 
 /* Custom CSS for bibrec */
 .bibrec_page div .page_content {
-  margin-top: 60px;
+  margin-top: 110px;
+  padding-left: 5vw;
+  padding-right: 5vw;
 }
 
 @media screen and (max-width: 1025px) {
   .bibrec_page div .page_content {
-    margin-top: 60px;
+    margin-top: 30px;
   }
 }
 
@@ -865,9 +862,10 @@ ul.results li::before {
   .container {
     min-height: 0;
     padding: 0;
+    margin-top: 0;
   }
   .page_content {
-    margin-top: 30px;
+    margin-top: 20px;
     margin-bottom: 30px;
     padding: 0 5vw;
   }
