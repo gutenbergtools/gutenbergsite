@@ -4,10 +4,6 @@
   box-sizing: border-box;
 }
 
-body {
-  padding-top: 40px; /* Space for fixed header + 20px extra */
-}
-
 header {
   width: 100%;
   display: flex;
