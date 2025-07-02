@@ -10,10 +10,16 @@ body {
   max-width: 100vw;
   padding: 0;
   width: 100%;
-  height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 html {
+  height: 100%;
   overflow-y: scroll;
 }
 
@@ -138,10 +144,10 @@ a:active {
 
 /* =================== container =============================== */
 .container {
-  max-width: 100%;
-  min-height: 75vh;
+  width: 100%;
   position: relative;
-  margin-top: 50px;
+  flex: 1;
+  overflow: auto;
 }
 
 @media screen and (orientation: landscape) {
@@ -324,8 +330,8 @@ ul {
 }
 
 .page_content {
-  margin-top: 80px;
-  padding-bottom: 24px;
+  margin-top: 160px;
+  padding-bottom: 60px;
   padding-left: 5vw;
   padding-right: 5vw;
 
@@ -865,7 +871,7 @@ ul.results li::before {
     margin-top: 0;
   }
   .page_content {
-    margin-top: 20px;
+    margin-top: 60px;
     margin-bottom: 30px;
     padding: 0 5vw;
   }
