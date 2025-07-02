@@ -147,7 +147,6 @@ a:active {
   width: 100%;
   position: relative;
   flex: 1;
-  overflow: auto;
 }
 
 @media screen and (orientation: landscape) {
