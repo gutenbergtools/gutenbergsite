@@ -4,10 +4,6 @@
   box-sizing: border-box;
 }
 
-body {
-  padding-top: 40px; /* Space for fixed header + 20px extra */
-}
-
 header {
   width: 100%;
   display: flex;
@@ -320,7 +316,18 @@ header {
   }
 }
 
+/*
+Remove sticky header at this breakpoint.
+*/
 @media (max-width: 1024px) {
+  header {
+    position: relative;
+  }
+
+  body {
+    padding-top: 0;
+  }
+
   .logo-container {
     height: 100px; /* Restore original logo height */
   }
@@ -360,10 +367,6 @@ header {
   .tertiary-header .tertiary-link {
     display: inline-block;
     margin: 0 15px;
-  }
-
-  body {
-    padding-top: 100px; /* Space for taller fixed header + 20px extra */
   }
 }
 

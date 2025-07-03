@@ -10,10 +10,16 @@ body {
   max-width: 100vw;
   padding: 0;
   width: 100%;
-  height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 html {
+  height: 100%;
   overflow-y: scroll;
 }
 
@@ -138,22 +144,20 @@ a:active {
 
 /* =================== container =============================== */
 .container {
-  max-width: 100%;
-  min-height: 75vh;
+  width: 100%;
   position: relative;
+  flex: 1;
 }
 
 @media screen and (orientation: landscape) {
   .container {
     min-height: 75vh;
-    padding: 10vh 5vw;
   }
 }
 
 @media screen and (orientation: portrait) {
   .container {
     min-height: 75vh;
-    padding: 10vh 5vw;
   }
 }
 
@@ -325,8 +329,11 @@ ul {
 }
 
 .page_content {
-  margin-top: 36px;
-  padding-bottom: 24px;
+  margin-top: 160px;
+  padding-bottom: 60px;
+  padding-left: 5vw;
+  padding-right: 5vw;
+
 }
 
 .page_content figure {
@@ -361,13 +368,9 @@ ul {
 .page_content h1 {
   font-size: 1.875em;
   font-weight: bold;
-  margin-top: 2em;
   width: 100%;
   line-height: 1em;
   color: #aa873b;
-}
-
-.page_content .header h1 {
   margin-top: 3.5em;
 }
 
@@ -560,23 +563,6 @@ ul.results li::before {
 }
 
 @media only screen and (max-width: 750px) {
-  container {
-    left: 0;
-    padding: 10% 10vw;
-    position: relative;
-    right: 0;
-    width: 80vw;
-  }
-
-  .page_content {
-    margin-top: 60px;
-    height: auto;
-  }
-
-  .page_content h1 {
-    font-size: 1.125em;
-    text-align: center;
-  }
 
   .page_content h2 {
     font-size: 1em;
@@ -849,12 +835,13 @@ ul.results li::before {
 
 /* Custom CSS for bibrec */
 .bibrec_page div .page_content {
-  margin-top: 60px;
+  padding-left: 5vw;
+  padding-right: 5vw;
 }
 
 @media screen and (max-width: 1025px) {
   .bibrec_page div .page_content {
-    margin-top: 60px;
+    margin-top: 30px;
   }
 }
 
@@ -863,14 +850,47 @@ ul.results li::before {
   padding-top: 5px;
 }
 
-@media screen and (max-width: 1025px) {
-  .search_results_page div .header {
-    padding-top: 75px;
-  }
-}
-
 @media screen and (max-width: 750px) {
   .search_results_page div .header {
     padding-top: 1px;
   }
+}
+
+/*
+* Remove sticky header at this breakpoint
+*/
+@media (max-width: 1024px) {
+  body {
+    padding-top: 0;
+  }
+  .container {
+    min-height: 0;
+    padding: 0;
+    margin-top: 0;
+  }
+  .page_content {
+    margin-top: 60px;
+    margin-bottom: 30px;
+    padding: 0 5vw;
+  }
+  .page_content h1 {
+    margin-top: 0
+  }
+}
+
+.visually-hidden {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+}
+
+.visually-hidden.focusable:active,.visually-hidden.focusable:focus-within {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
 }
