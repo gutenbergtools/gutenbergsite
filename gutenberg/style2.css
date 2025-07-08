@@ -565,7 +565,7 @@ ul.results li::before {
 @media only screen and (max-width: 750px) {
 
   .page_content h2 {
-    font-size: 1em;
+    font-size: 1.5em;
     text-align: center;
   }
 
