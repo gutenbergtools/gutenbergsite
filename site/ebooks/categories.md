@@ -28,7 +28,7 @@ These categories are the categories you may find in a large physical bookstore. 
     <li><a href="/ebooks/bookshelf/638">Science-Fiction &amp; Fantasy</a></li>
     <li><a href="/ebooks/bookshelf/640">Crime, Thrillers &amp; Mystery</a></li>
     <li><a href="/ebooks/bookshelf/646">Mythology, Legends &amp; Folklore</a></li>
-    <li><a href="/ebooks/bookshelf/641">Humour</a></li>
+    <li><a href="/ebooks/bookshelf/641">Humor</a></li>
     <li><a href="/ebooks/bookshelf/636">Children &amp; Young Adult Reading</a></li>
     <li><a href="/ebooks/bookshelf/633">Literature - Other</a></li>
   </ul>
