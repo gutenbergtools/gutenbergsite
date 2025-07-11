@@ -96,8 +96,9 @@ function _navbarcategories ($what, $dir) {
     
 function navbar () {
   global $dir_authors, $dir_titles, $dir_langs, $dir_loccs, $dir_categories, $dir_recent, $lang_thres;
-  $nav  = "<div>";
-  $nav .= "</div>"; 
+  $nav = "<div class=\"pgdbnavbar\">\n";
+  $nav .= _navbarrecent ("Recent", $dir_recent);
+  $nav .= "</div>\n\n";
   return $nav;
 }
     
