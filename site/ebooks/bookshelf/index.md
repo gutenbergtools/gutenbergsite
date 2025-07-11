@@ -6,109 +6,60 @@ permalink: /ebooks/bookshelf/
 
 Reading Lists
 ==================================================
-
-Reading Lists are hand-curated collections of eBooks that have similar topics. They were created by volunteers, and have not been updated since 2020 so there are many books that are not included in these lists.
-
-Another way to find eBooks related to a topic is to use the "main categories" page or to browse the Bibliographic Record section of any eBook's page. Most have one or more selectable Subject and LOC Class entries, which take you to other books in the same category.
+Reading Lists are relatively small selections that have been hand-curated by individual volunteers. <br> <br> For the more common, large categories you may find in physical bookstores check out <a href="/ebooks/categories"> Main Categories. </a>
 
 
-## Main Reading Lists
-
+<h2> Collections </h2>
 <div class="bookshelves">
-      
-<h2>A</h2>
   <ul>
-   <li><a href="/ebooks/bookshelves/search/?query=animal">Animal</a></li>
+   <li><a href="/ebooks/bookshelves/search/?query=animal">"Animals" Reading Lists</a></li>
   </ul>
 
-<h2>C</h2>
   <ul>
-  <!-- Missing Children's Periodicals-->
-   <li><a href="/ebooks/bookshelves/search/?query=canada">Canada Bookshelf</a></li>
-   <li><a href="/ebooks/bookshelves/search/?query=children%7Cchristmas%7Cchild%7Cschool">Children's Bookshelf</a></li>
-   <li><a href="/ebooks/bookshelves/search/?query=classics">Classics Bookshelf</a></li>
-   <li><a href="/ebooks/bookshelves/search/?query=africa.%7CArgentina.%7CAustralia%7CBulgaria%7CCanada%7CCzech%7Cegypt%7Cfrance.%7Cgermany.%7Cgreece.%7Cindia%7Citaly%7Czealand%7Cnorway%7Csouth%20america%7C.travel.%7CUnited%20Kingdom%7C.united%20states.!law">Countries Bookshelf</a></li>
-   <li><a href="/ebooks/bookshelves/search/?query=crime%7Cdetective%7Cmystery">Crime Bookshelf</a></li>
+   <li><a href="/ebooks/bookshelves/search/?query=children%7Cchristmas%7Cchild%7Cschool">"For Children" Reading Lists </a></li>
+   <li><a href="/ebooks/bookshelves/search/?query=africa.%7CArgentina.%7CAustralia%7CBulgaria%7CCanada%7CCzech%7Cegypt%7Cfrance.%7Cgermany.%7Cgreece.%7Cindia%7Citaly%7Czealand%7Cnorway%7Csouth%20america%7C.travel.%7CUnited%20Kingdom%7C.united%20states.!law">"Countries" Reading Lists</a></li>
+   <li><a href="/ebooks/bookshelves/search/?query=crime%7Cdetective%7Cmystery">"Crime" Reading Lists</a></li>
   </ul>
   
-<h2>E</h2>
   <ul>
-  <!-- Extra one in results-->
-   <li><a href="/ebooks/bookshelves/search/?query=education">Education Bookshelf</a></li>
-   <li><a href="/ebooks/bookshelf/emmys">Emmy's Picks</a></li>
+   <li><a href="/ebooks/bookshelves/search/?query=education">"Education" Reading Lists</a></li>
+   <li><a href="/ebooks/bookshelf/emmys">"Emmy's Picks"</a></li>
   </ul>
   
-<h2>F</h2>
   <ul>
-   <li><a href="/ebooks/bookshelves/search/?query=fiction%7Cadventure%7Cfantasy%7Chumor%7Chorror%7Cwestern">Fiction Bookshelf</a></li>
-   <li><a href="/ebooks/bookshelves/search/?query=architecture.%7Cart.%20!storia%20!international%20!%20FR%20!%20PT%20!%20varia">Fine arts Bookshelf</a></li>
+   <li><a href="/ebooks/bookshelves/search/?query=fiction%7Cadventure%7Cfantasy%7Chumor%7Chorror%7Cwestern">"Fiction" Reading Lists</a></li>
   </ul>
-      
-<h2>G</h2>
+
   <ul>
-   <li><a href="/ebooks/bookshelves/search/?query=reference">General Works Bookshelf</a></li>
-   <li><a href="/ebooks/bookshelves/search/?query=africa.%7CAnthropology%7CArgentina.%7CAustralia%7CBulgaria%7Ccamp%7Ccanada%7CCIA%7CCzech%7CEgypt%7CFolklore%7CFrance%7Cgermany%7Cindia%7Cgreece%7Citatly%7Czealand%7CMaps%20and%20Cartography%20.%7Cnorway%7Csouth%20america%7Cunited%20states%7C%20united%20kingdom%7CWomen%27s%20Travel%20Journals">Geography Bookshelf</a></li>
-  </ul>
-      
-<h2>H</h2>
-  <ul>
-   <li><a href="/ebooks/bookshelves/search/?query=history%7CArchaeology%20.%7CBiographies">History Bookshelf</a></li>
+   <li><a href="/ebooks/bookshelves/search/?query=law%7CNoteworthy%20Trials">"Law" Reading Lists</a></li>
   </ul> 
       
-<h2>L</h2>
   <ul>
-   <li><a href="/ebooks/bookshelves/search/?query=language%7Cliterature">Language and Literature Bookshelf</a></li>
-   <li><a href="/ebooks/bookshelves/search/?query=law%7CNoteworthy%20Trials">Law Bookshelf</a></li>
+   <li><a href="/ebooks/bookshelves/search/?query=music%7Copera">"Music" Reading Lists</a></li>
   </ul> 
-      
-<h2>M</h2>
+            
   <ul>
-   <li><a href="/ebooks/bookshelves/search/?query=music%7Copera">Music Bookshelf</a></li>
-  </ul> 
-      
-<h2>P</h2>
-  <ul>
-      <!-- cannot find this bookshelf-->
-  <!--<li><a href="/ebooks/bookshelves/search/?query=periodical">Periodicals Bookshelf</a></li>-->
-  <!--<li><a href="/ebooks/bookshelves/search/?query=pornography">Pornography</a></li> -->
-   <li><a href="/ebooks/bookshelves/search/?query=Bibliomania%20%7C%20Philosophy%20%7C%20Psychology%20%7C%20Witchcraft">Psychology and Philosophy Bookshelf</a></li>
-  </ul> 
-      
-<h2>R</h2>
-  <ul>
-   <li><a href="/ebooks/bookshelves/search/?query=Atheism%20%7C%20Buddhism%20%7C%20Christianity%20%7C%20Hinduism%20%7C%20Islam%20%7C%20Judaism%20%7C%20Latter%20Day%20Saints%20%7C%20Mythology%20%7CPaganism%20%7C%20Bahá%27í%20Faith">Religion Bookshelf</a></li>
+   <li><a href="/ebooks/bookshelves/search/?query=Atheism%20%7C%20Buddhism%20%7C%20Christianity%20%7C%20Hinduism%20%7C%20Islam%20%7C%20Judaism%20%7C%20Latter%20Day%20Saints%20%7C%20Mythology%20%7CPaganism%20%7C%20Bahá%27í%20Faith">"Religion" Reading Lists</a></li>
   </ul>
   
-<h2>S</h2>
   <ul>
-   <li><a href="/ebooks/bookshelves/search/?query=Astronomy%20%7C%20Biology%20%7C%20Botany%20%7C%20Chemistry%20%7C%20Ecology%20%7C%20Geology%20%7C%20Mathematics%20%7C%20Microbiology%20%7C%20Microscopy%20%7C%20Mycology%20%7C%20Science%20Fiction%20%7C%20Natural%20History%20%7C%20Physics%20%7C%20Physiology%20%7CScientific%20American%20%7C%20Zoology">Science Bookshelf</a></li>
-   <li><a href="/ebooks/bookshelves/search/?query=Anarchism%20%7C%20Crime%20Nonfiction%20.%20%7C%20Racism%20%7C%20Slavery%20%7C%20sociology%20.%20%7C%20Suffrage%20%7C%20Transportation">Social Sciences Bookshelf</a></li>
+   <li><a href="/ebooks/bookshelves/search/?query=Astronomy%20%7C%20Biology%20%7C%20Botany%20%7C%20Chemistry%20%7C%20Ecology%20%7C%20Geology%20%7C%20Mathematics%20%7C%20Microbiology%20%7C%20Microscopy%20%7C%20Mycology%20%7C%20Science%20Fiction%20%7C%20Natural%20History%20%7C%20Physics%20%7C%20Physiology%20%7CScientific%20American%20%7C%20Zoology">"Science" Reading Lists</a></li>
+   <li><a href="/ebooks/bookshelves/search/?query=Anarchism%20%7C%20Crime%20Nonfiction%20.%20%7C%20Racism%20%7C%20Slavery%20%7C%20sociology%20.%20%7C%20Suffrage%20%7C%20Transportation">"Social Sciences" Reading Lists</a></li>
   </ul> 
       
-<h2>T</h2>
   <ul>
-   <li><a href="/ebooks/bookshelves/search/?query=technology%20%7C%20Cookbooks%20and%20Cooking%20%7C%20Crafts%20%7C%20Engineering%20%7C%20Manufacturing%20%7C%20Woodwork">Technology Bookshelf</a></li>
+   <li><a href="/ebooks/bookshelves/search/?query=technology%20%7C%20Cookbooks%20and%20Cooking%20%7C%20Crafts%20%7C%20Engineering%20%7C%20Manufacturing%20%7C%20Woodwork">"Technology" Reading Lists</a></li>
   </ul>
       
-<h2>W</h2>
   <ul>
-   <li><a href="/ebooks/bookshelves/search/?query=war">Wars Bookshelf</a></li>
+   <li><a href="/ebooks/bookshelves/search/?query=war">"Wars" Reading Lists</a></li>
   </ul>
  </div>
 
 
-
-
-## All Reading Lists
-
-These are all specific bookshelves existing in Project Gutenberg.
-
-<div class="bookshelf_pages">
-
-<h2>6</h2>
-  <ul>
-   <li><a href="/ebooks/bookshelf/420" title="6 Best Loved Spanish Literary Classics">6 Best Loved Spanish Literary Classics</a></li>  
-  </ul>
+<br>
+<h2> All Reading Lists </h2>
+<div class="bookshelves">
 
 <h2>A</h2>
   <ul>
@@ -147,6 +98,7 @@ These are all specific bookshelves existing in Project Gutenberg.
    <li><a href="/ebooks/bookshelf/200" title="Barnavännen">Barnavännen</a></li>
    <li><a href="/ebooks/bookshelf/159" title="Bestsellers, American, 1895-1923">Bestsellers, American, 1895-1923</a></li>
    <li><a href="/ebooks/bookshelf/13" title="Best Books Ever Listings">Best Books Ever Listings</a></li>
+   <li><a href="/ebooks/bookshelf/420">Best Loved Spanish Literary Classics</a></li>
    <li><a href="/ebooks/bookshelf/15" title="Bibliomania">Bibliomania</a></li>
    <li><a href="/ebooks/bookshelf/16" title="Biographies">Biographies</a></li>
    <li><a href="/ebooks/bookshelf/201" title="Biology">Biology</a></li>
@@ -198,11 +150,6 @@ These are all specific bookshelves existing in Project Gutenberg.
 
 <h2>D</h2>
   <ul>
-   <li><a href="/ebooks/bookshelf/377" title="DE Drama">DE Drama</a></li>
-   <li><a href="/ebooks/bookshelf/376" title="DE Kinderbuch">DE Kinderbuch</a></li>
-   <li><a href="/ebooks/bookshelf/375" title="DE Lyrik">DE Lyrik</a></li>
-   <li><a href="/ebooks/bookshelf/374" title="DE Prosa">DE Prosa</a></li>
-   <li><a href="/ebooks/bookshelf/378" title="DE Sachbuch">DE Sachbuch</a></li>
    <li><a href="/ebooks/bookshelf/30" title="Detective Fiction">Detective Fiction</a></li>
    <li><a href="/ebooks/bookshelf/222" title="Dew Drops">Dew Drops</a></li>
    <li><a href="/ebooks/bookshelf/221" title="De Aarde en haar Volken">De Aarde en haar Volken</a></li>
@@ -223,44 +170,44 @@ These are all specific bookshelves existing in Project Gutenberg.
 
 <h2>F</h2>
   <ul>
-   <li><a href="/ebooks/bookshelf/406" title="FR Beaux-Arts">FR Beaux-Arts</a></li>
-   <li><a href="/ebooks/bookshelf/382" title="FR Biographie, Mémoires, Journal intime, Correspondance">FR Biographie, Mémoires, Journal intime, Correspondance</a></li>
-   <li><a href="/ebooks/bookshelf/306" title="FR Chansons">FR Chansons</a></li>
-   <li><a href="/ebooks/bookshelf/408" title="FR Chroniques">FR Chroniques</a></li>
-   <li><a href="/ebooks/bookshelf/392" title="FR Contes">FR Contes</a></li>
-   <li><a href="/ebooks/bookshelf/387" title="FR Droit et Justice">FR Droit et Justice</a></li>
-   <li><a href="/ebooks/bookshelf/380" title="FR Education et Enseignement">FR Education et Enseignement</a></li>
-   <li><a href="/ebooks/bookshelf/307" title="FR Femmes">FR Femmes</a></li>
-   <li><a href="/ebooks/bookshelf/390" title="FR Guerres">FR Guerres</a></li>
-   <li><a href="/ebooks/bookshelf/309" title="FR Histoire">FR Histoire</a></li>
-   <li><a href="/ebooks/bookshelf/385" title="FR Humour">FR Humour</a></li>
-   <li><a href="/ebooks/bookshelf/310" title="FR Illustrateurs">FR Illustrateurs</a></li>
-   <li><a href="/ebooks/bookshelf/311" title="FR Jeunesse">FR Jeunesse</a></li>
-   <li><a href="/ebooks/bookshelf/384" title="FR Langues">FR Langues</a></li>
-   <li><a href="/ebooks/bookshelf/407" title="FR La Première Guerre Mondiale, 1914-1918">FR La Première Guerre Mondiale, 1914-1918</a></li>
-   <li><a href="/ebooks/bookshelf/313" title="FR Littérature">FR Littérature</a></li>
-   <li><a href="/ebooks/bookshelf/337" title="FR Littérature francophone">FR Littérature francophone</a></li>
-   <li><a href="/ebooks/bookshelf/416" title="FR Livres, Collections et Bibliophilie">FR Livres, Collections et Bibliophilie</a></li>
-   <li><a href="/ebooks/bookshelf/315" title="FR Musique">FR Musique</a></li>
-   <li><a href="/ebooks/bookshelf/417" title="FR Métiers et Artisanat">FR Métiers et Artisanat</a></li>
-   <li><a href="/ebooks/bookshelf/395" title="FR Nouveautés">FR Nouveautés</a></li>
-   <li><a href="/ebooks/bookshelf/317" title="FR Nouvelles">FR Nouvelles</a></li>
-   <li><a href="/ebooks/bookshelf/383" title="FR Occultisme">FR Occultisme</a></li>
-   <li><a href="/ebooks/bookshelf/318" title="FR Peinture">FR Peinture</a></li>
-   <li><a href="/ebooks/bookshelf/386" title="FR Peuples et Sociétés">FR Peuples et Sociétés</a></li>
-   <li><a href="/ebooks/bookshelf/381" title="FR Philosophie, Religion et Morale">FR Philosophie, Religion et Morale</a></li>
-   <li><a href="/ebooks/bookshelf/388" title="FR Politique">FR Politique</a></li>
-   <li><a href="/ebooks/bookshelf/35" title="FR Poésie">FR Poésie</a></li>
-   <li><a href="/ebooks/bookshelf/319" title="FR Presse">FR Presse</a></li>
-   <li><a href="/ebooks/bookshelf/320" title="FR Prix Nobel">FR Prix Nobel</a></li>
-   <li><a href="/ebooks/bookshelf/322" title="FR Sciences et Techniques">FR Sciences et Techniques</a></li>
-   <li><a href="/ebooks/bookshelf/321" title="FR Science fiction">FR Science fiction</a></li>
-   <li><a href="/ebooks/bookshelf/391" title="FR Services publics">FR Services publics</a></li>
-   <li><a href="/ebooks/bookshelf/393" title="FR Sports et loisirs">FR Sports et loisirs</a></li>
-   <li><a href="/ebooks/bookshelf/396" title="FR Séduction et libertinage">FR Séduction et libertinage</a></li>
-   <li><a href="/ebooks/bookshelf/323" title="FR Théâtre">FR Théâtre</a></li>
-   <li><a href="/ebooks/bookshelf/394" title="FR Villes">FR Villes</a></li>
-   <li><a href="/ebooks/bookshelf/397" title="FR Voyages et pays">FR Voyages et pays</a></li>
+   <li><a href="/ebooks/bookshelf/406" title="FR Beaux-Arts">French - Beaux-Arts</a></li>
+   <li><a href="/ebooks/bookshelf/382" title="FR Biographie, Mémoires, Journal intime, Correspondance">French - Biographie, Mémoires, Journal intime, Correspondance</a></li>
+   <li><a href="/ebooks/bookshelf/306" title="FR Chansons">French - Chansons</a></li>
+   <li><a href="/ebooks/bookshelf/408" title="FR Chroniques">French - Chroniques</a></li>
+   <li><a href="/ebooks/bookshelf/392" title="FR Contes">French - Contes</a></li>
+   <li><a href="/ebooks/bookshelf/387" title="FR Droit et Justice">French - Droit et Justice</a></li>
+   <li><a href="/ebooks/bookshelf/380" title="FR Education et Enseignement">French - Education et Enseignement</a></li>
+   <li><a href="/ebooks/bookshelf/307" title="FR Femmes">French - Femmes</a></li>
+   <li><a href="/ebooks/bookshelf/390" title="FR Guerres">French - Guerres</a></li>
+   <li><a href="/ebooks/bookshelf/309" title="FR Histoire">French - Histoire</a></li>
+   <li><a href="/ebooks/bookshelf/385" title="FR Humour">French - Humour</a></li>
+   <li><a href="/ebooks/bookshelf/310" title="FR Illustrateurs">French - Illustrateurs</a></li>
+   <li><a href="/ebooks/bookshelf/311" title="FR Jeunesse">French - Jeunesse</a></li>
+   <li><a href="/ebooks/bookshelf/384" title="FR Langues">French - Langues</a></li>
+   <li><a href="/ebooks/bookshelf/407" title="FR La Première Guerre Mondiale, 1914-1918">French - La Première Guerre Mondiale, 1914-1918</a></li>
+   <li><a href="/ebooks/bookshelf/313" title="FR Littérature">French - Littérature</a></li>
+   <li><a href="/ebooks/bookshelf/337" title="FR Littérature francophone">French - Littérature francophone</a></li>
+   <li><a href="/ebooks/bookshelf/416" title="FR Livres, Collections et Bibliophilie">French - Livres, Collections et Bibliophilie</a></li>
+   <li><a href="/ebooks/bookshelf/315" title="FR Musique">French - Musique</a></li>
+   <li><a href="/ebooks/bookshelf/417" title="FR Métiers et Artisanat">French - Métiers et Artisanat</a></li>
+   <li><a href="/ebooks/bookshelf/395" title="FR Nouveautés">French - Nouveautés</a></li>
+   <li><a href="/ebooks/bookshelf/317" title="FR Nouvelles">French - Nouvelles</a></li>
+   <li><a href="/ebooks/bookshelf/383" title="FR Occultisme">French - Occultisme</a></li>
+   <li><a href="/ebooks/bookshelf/318" title="FR Peinture">French - Peinture</a></li>
+   <li><a href="/ebooks/bookshelf/386" title="FR Peuples et Sociétés">French - Peuples et Sociétés</a></li>
+   <li><a href="/ebooks/bookshelf/381" title="FR Philosophie, Religion et Morale">French - Philosophie, Religion et Morale</a></li>
+   <li><a href="/ebooks/bookshelf/388" title="FR Politique">French - Politique</a></li>
+   <li><a href="/ebooks/bookshelf/35" title="FR Poésie">French - Poésie</a></li>
+   <li><a href="/ebooks/bookshelf/319" title="FR Presse">French - Presse</a></li>
+   <li><a href="/ebooks/bookshelf/320" title="FR Prix Nobel">French - Prix Nobel</a></li>
+   <li><a href="/ebooks/bookshelf/322" title="FR Sciences et Techniques">French - Sciences et Techniques</a></li>
+   <li><a href="/ebooks/bookshelf/321" title="FR Science fiction">French - Science fiction</a></li>
+   <li><a href="/ebooks/bookshelf/391" title="FR Services publics">French - Services publics</a></li>
+   <li><a href="/ebooks/bookshelf/393" title="FR Sports et loisirs">French - Sports et loisirs</a></li>
+   <li><a href="/ebooks/bookshelf/396" title="FR Séduction et libertinage">French - Séduction et libertinage</a></li>
+   <li><a href="/ebooks/bookshelf/323" title="FR Théâtre">French - Théâtre</a></li>
+   <li><a href="/ebooks/bookshelf/394" title="FR Villes">French - Villes</a></li>
+   <li><a href="/ebooks/bookshelf/397" title="FR Voyages et pays">French - Voyages et pays</a></li>
    <li><a href="/ebooks/bookshelf/400" title="Famous Scots Series">Famous Scots Series</a></li>
    <li><a href="/ebooks/bookshelf/36" title="Fantasy">Fantasy</a></li>
    <li><a href="/ebooks/bookshelf/37" title="Folklore">Folklore</a></li>
@@ -273,6 +220,11 @@ These are all specific bookshelves existing in Project Gutenberg.
    <li><a href="/ebooks/bookshelf/226" title="Garden and Forest">Garden and Forest</a></li>
    <li><a href="/ebooks/bookshelf/411" title="General Fiction">General Fiction</a></li>
    <li><a href="/ebooks/bookshelf/227" title="Geology">Geology</a></li>
+   <li><a href="/ebooks/bookshelf/377" title="DE Drama">German - Drama</a></li>
+   <li><a href="/ebooks/bookshelf/376" title="DE Kinderbuch">German - Kinderbuch</a></li>
+   <li><a href="/ebooks/bookshelf/375" title="DE Lyrik">German - Lyrik</a></li>
+   <li><a href="/ebooks/bookshelf/374" title="DE Prosa">German - Prosa</a></li>
+   <li><a href="/ebooks/bookshelf/378" title="DE Sachbuch">German - Sachbuch</a></li>
    <li><a href="/ebooks/bookshelf/123" title="Germany">Germany</a></li>
    <li><a href="/ebooks/bookshelf/38" title="German Language Books">German Language Books</a></li>
    <li><a href="/ebooks/bookshelf/228" title="Godey's Lady's Book">Godey's Lady's Book</a></li>
@@ -296,43 +248,43 @@ These are all specific bookshelves existing in Project Gutenberg.
 
 <h2>I</h2>
   <ul>
-   <li><a href="/ebooks/bookshelf/418" title="IT Agraria">IT Agraria</a></li>
-   <li><a href="/ebooks/bookshelf/410" title="IT Archeologia e Storia dell'arte">IT Archeologia e Storia dell'arte</a></li>
-   <li><a href="/ebooks/bookshelf/409" title="IT Architettura">IT Architettura</a></li>
-   <li><a href="/ebooks/bookshelf/342" title="IT Arte varia">IT Arte varia</a></li>
-   <li><a href="/ebooks/bookshelf/343" title="IT Biografie">IT Biografie</a></li>
-   <li><a href="/ebooks/bookshelf/344" title="IT Botanica">IT Botanica</a></li>
-   <li><a href="/ebooks/bookshelf/345" title="IT Cucina">IT Cucina</a></li>
-   <li><a href="/ebooks/bookshelf/346" title="IT Discorsi e Orazioni">IT Discorsi e Orazioni</a></li>
-   <li><a href="/ebooks/bookshelf/347" title="IT Economia">IT Economia</a></li>
-   <li><a href="/ebooks/bookshelf/348" title="IT Filosofia">IT Filosofia</a></li>
-   <li><a href="/ebooks/bookshelf/349" title="IT Folklore">IT Folklore</a></li>
-   <li><a href="/ebooks/bookshelf/350" title="IT Geografia">IT Geografia</a></li>
-   <li><a href="/ebooks/bookshelf/351" title="IT Legge">IT Legge</a></li>
-   <li><a href="/ebooks/bookshelf/352" title="IT Letteratura">IT Letteratura</a></li>
-   <li><a href="/ebooks/bookshelf/353" title="IT Letteratura per ragazzi">IT Letteratura per ragazzi</a></li>
-   <li><a href="/ebooks/bookshelf/354" title="IT Linguistica">IT Linguistica</a></li>
-   <li><a href="/ebooks/bookshelf/399" title="IT Miscellanea">IT Miscellanea</a></li>
-   <li><a href="/ebooks/bookshelf/355" title="IT Musica">IT Musica</a></li>
-   <li><a href="/ebooks/bookshelf/356" title="IT Narrativa varia">IT Narrativa varia</a></li>
-   <li><a href="/ebooks/bookshelf/357" title="IT Numismatica">IT Numismatica</a></li>
-   <li><a href="/ebooks/bookshelf/358" title="IT Poesia">IT Poesia</a></li>
-   <li><a href="/ebooks/bookshelf/359" title="IT Psicologia e Sociologia">IT Psicologia e Sociologia</a></li>
-   <li><a href="/ebooks/bookshelf/360" title="IT Racconti">IT Racconti</a></li>
-   <li><a href="/ebooks/bookshelf/361" title="IT Religione e Spiritualità">IT Religione e Spiritualità</a></li>
-   <li><a href="/ebooks/bookshelf/362" title="IT Romanzi">IT Romanzi</a></li>
-   <li><a href="/ebooks/bookshelf/363" title="IT Romanzi storici">IT Romanzi storici</a></li>
-   <li><a href="/ebooks/bookshelf/364" title="IT Salute">IT Salute</a></li>
-   <li><a href="/ebooks/bookshelf/365" title="IT Scienza">IT Scienza</a></li>
-   <li><a href="/ebooks/bookshelf/398" title="IT Scienze militari">IT Scienze militari</a></li>
-   <li><a href="/ebooks/bookshelf/366" title="IT Scienze politiche">IT Scienze politiche</a></li>
-   <li><a href="/ebooks/bookshelf/367" title="IT Storia">IT Storia</a></li>
-   <li><a href="/ebooks/bookshelf/368" title="IT Teatro dialettale">IT Teatro dialettale</a></li>
-   <li><a href="/ebooks/bookshelf/369" title="IT Teatro in prosa">IT Teatro in prosa</a></li>
-   <li><a href="/ebooks/bookshelf/370" title="IT Teatro in versi">IT Teatro in versi</a></li>
-   <li><a href="/ebooks/bookshelf/371" title="IT Tecnologia">IT Tecnologia</a></li>
-   <li><a href="/ebooks/bookshelf/372" title="IT Umorismo">IT Umorismo</a></li>
-   <li><a href="/ebooks/bookshelf/373" title="IT Viaggi">IT Viaggi</a></li>
+   <li><a href="/ebooks/bookshelf/418" title="IT Agraria">Italian - Agraria</a></li>
+   <li><a href="/ebooks/bookshelf/410" title="IT Archeologia e Storia dell'arte">Italian - Archeologia e Storia dell'arte</a></li>
+   <li><a href="/ebooks/bookshelf/409" title="IT Architettura">Italian - Architettura</a></li>
+   <li><a href="/ebooks/bookshelf/342" title="IT Arte varia">Italian - Arte varia</a></li>
+   <li><a href="/ebooks/bookshelf/343" title="IT Biografie">Italian - Biografie</a></li>
+   <li><a href="/ebooks/bookshelf/344" title="IT Botanica">Italian - Botanica</a></li>
+   <li><a href="/ebooks/bookshelf/345" title="IT Cucina">Italian - Cucina</a></li>
+   <li><a href="/ebooks/bookshelf/346" title="IT Discorsi e Orazioni">Italian - Discorsi e Orazioni</a></li>
+   <li><a href="/ebooks/bookshelf/347" title="IT Economia">Italian - Economia</a></li>
+   <li><a href="/ebooks/bookshelf/348" title="IT Filosofia">Italian - Filosofia</a></li>
+   <li><a href="/ebooks/bookshelf/349" title="IT Folklore">Italian - Folklore</a></li>
+   <li><a href="/ebooks/bookshelf/350" title="IT Geografia">Italian - Geografia</a></li>
+   <li><a href="/ebooks/bookshelf/351" title="IT Legge">Italian - Legge</a></li>
+   <li><a href="/ebooks/bookshelf/352" title="IT Letteratura">Italian - Letteratura</a></li>
+   <li><a href="/ebooks/bookshelf/353" title="IT Letteratura per ragazzi">Italian - Letteratura per ragazzi</a></li>
+   <li><a href="/ebooks/bookshelf/354" title="IT Linguistica">Italian - Linguistica</a></li>
+   <li><a href="/ebooks/bookshelf/399" title="IT Miscellanea">Italian - Miscellanea</a></li>
+   <li><a href="/ebooks/bookshelf/355" title="IT Musica">Italian - Musica</a></li>
+   <li><a href="/ebooks/bookshelf/356" title="IT Narrativa varia">Italian - Narrativa varia</a></li>
+   <li><a href="/ebooks/bookshelf/357" title="IT Numismatica">Italian - Numismatica</a></li>
+   <li><a href="/ebooks/bookshelf/358" title="IT Poesia">Italian - Poesia</a></li>
+   <li><a href="/ebooks/bookshelf/359" title="IT Psicologia e Sociologia">Italian - Psicologia e Sociologia</a></li>
+   <li><a href="/ebooks/bookshelf/360" title="IT Racconti">Italian - Racconti</a></li>
+   <li><a href="/ebooks/bookshelf/361" title="IT Religione e Spiritualità">Italian - Religione e Spiritualità</a></li>
+   <li><a href="/ebooks/bookshelf/362" title="IT Romanzi">Italian - Romanzi</a></li>
+   <li><a href="/ebooks/bookshelf/363" title="IT Romanzi storici">Italian - Romanzi storici</a></li>
+   <li><a href="/ebooks/bookshelf/364" title="IT Salute">Italian - Salute</a></li>
+   <li><a href="/ebooks/bookshelf/365" title="IT Scienza">Italian - Scienza</a></li>
+   <li><a href="/ebooks/bookshelf/398" title="IT Scienze militari">Italian - Scienze militari</a></li>
+   <li><a href="/ebooks/bookshelf/366" title="IT Scienze politiche">Italian - Scienze politiche</a></li>
+   <li><a href="/ebooks/bookshelf/367" title="IT Storia">Italian - Storia</a></li>
+   <li><a href="/ebooks/bookshelf/368" title="IT Teatro dialettale">Italian - Teatro dialettale</a></li>
+   <li><a href="/ebooks/bookshelf/369" title="IT Teatro in prosa">Italian - Teatro in prosa</a></li>
+   <li><a href="/ebooks/bookshelf/370" title="IT Teatro in versi">Italian - Teatro in versi</a></li>
+   <li><a href="/ebooks/bookshelf/371" title="IT Tecnologia">Italian - Tecnologia</a></li>
+   <li><a href="/ebooks/bookshelf/372" title="IT Umorismo">Italian - Umorismo</a></li>
+   <li><a href="/ebooks/bookshelf/373" title="IT Viaggi">Italian - Viaggi</a></li>
    <li><a href="/ebooks/bookshelf/327" title="Illustrators">Illustrators</a></li>
    <li><a href="/ebooks/bookshelf/45" title="India">India</a></li>
    <li><a href="/ebooks/bookshelf/126" title="Islam">Islam</a></li>
@@ -378,14 +330,14 @@ These are all specific bookshelves existing in Project Gutenberg.
 
 <h2>N</h2>
   <ul>
-   <li><a href="/ebooks/bookshelf/149" title="Napoleonic(Bookshelf)">Napoleonic(Bookshelf)</a></li>
+   <li><a href="/ebooks/bookshelf/149" title="Napoleonic Era">Napoleonic Era</a></li>
    <li><a href="/ebooks/bookshelf/53" title="Native America">Native America</a></li>
    <li><a href="/ebooks/bookshelf/54" title="Natural History">Natural History</a></li>
    <li><a href="/ebooks/bookshelf/130" title="New Zealand">New Zealand</a></li>
    <li><a href="/ebooks/bookshelf/244" title="Northern Nut Growers Association">Northern Nut Growers Association</a></li>
    <li><a href="/ebooks/bookshelf/131" title="Norway">Norway</a></li>
    <li><a href="/ebooks/bookshelf/245" title="Notes and Queries">Notes and Queries</a></li>
-   <li><a href="/ebooks/bookshelf/246" title="Noteworthy Trials(Bookshelf)">Noteworthy Trials(Bookshelf)</a></li>  
+   <li><a href="/ebooks/bookshelf/246" title="Noteworthy Trials(Bookshelf)">Noteworthy Trials</a></li>  
   </ul>
 
 <h2>O</h2>
@@ -397,19 +349,19 @@ These are all specific bookshelves existing in Project Gutenberg.
 
 <h2>P</h2>
   <ul>
-   <li><a href="/ebooks/bookshelf/88" title="PT Arte">PT Arte</a></li>
-   <li><a href="/ebooks/bookshelf/89" title="PT Biografia">PT Biografia</a></li>
-   <li><a href="/ebooks/bookshelf/90" title="PT Ciência e Técnica">PT Ciência e Técnica</a></li>
-   <li><a href="/ebooks/bookshelf/91" title="PT Contos">PT Contos</a></li>
-   <li><a href="/ebooks/bookshelf/92" title="PT História">PT História</a></li>
-   <li><a href="/ebooks/bookshelf/93" title="PT Infantil e Juvenil">PT Infantil e Juvenil</a></li>
-   <li><a href="/ebooks/bookshelf/94" title="PT Língua Portuguesa">PT Língua Portuguesa</a></li>
-   <li><a href="/ebooks/bookshelf/95" title="PT Navegações e Explorações">PT Navegações e Explorações</a></li>
-   <li><a href="/ebooks/bookshelf/96" title="PT Periódicos">PT Periódicos</a></li>
-   <li><a href="/ebooks/bookshelf/97" title="PT Poesia">PT Poesia</a></li>
-   <li><a href="/ebooks/bookshelf/98" title="PT Política e Sociedade">PT Política e Sociedade</a></li>
-   <li><a href="/ebooks/bookshelf/99" title="PT Romance">PT Romance</a></li>
-   <li><a href="/ebooks/bookshelf/100" title="PT Teatro">PT Teatro</a></li>
+   <li><a href="/ebooks/bookshelf/88" title="PT Arte">Portuguese - Arte</a></li>
+   <li><a href="/ebooks/bookshelf/89" title="PT Biografia">Portuguese - Biografia</a></li>
+   <li><a href="/ebooks/bookshelf/90" title="PT Ciência e Técnica">Portuguese - Ciência e Técnica</a></li>
+   <li><a href="/ebooks/bookshelf/91" title="PT Contos">Portuguese - Contos</a></li>
+   <li><a href="/ebooks/bookshelf/92" title="PT História">Portuguese - História</a></li>
+   <li><a href="/ebooks/bookshelf/93" title="PT Infantil e Juvenil">Portuguese - Infantil e Juvenil</a></li>
+   <li><a href="/ebooks/bookshelf/94" title="PT Língua Portuguesa">Portuguese - Língua Portuguesa</a></li>
+   <li><a href="/ebooks/bookshelf/95" title="PT Navegações e Explorações">Portuguese - Navegações e Explorações</a></li>
+   <li><a href="/ebooks/bookshelf/96" title="PT Periódicos">Portuguese - Periódicos</a></li>
+   <li><a href="/ebooks/bookshelf/97" title="PT Poesia">Portuguese - Poesia</a></li>
+   <li><a href="/ebooks/bookshelf/98" title="PT Política e Sociedade">Portuguese - Política e Sociedade</a></li>
+   <li><a href="/ebooks/bookshelf/99" title="PT Romance">Portuguese - Romance</a></li>
+   <li><a href="/ebooks/bookshelf/100" title="PT Teatro">Portuguese - Teatro</a></li>
    <li><a href="/ebooks/bookshelf/132" title="Paganism">Paganism</a></li>
    <li><a href="/ebooks/bookshelf/57" title="Philosophy">Philosophy</a></li>
    <li><a href="/ebooks/bookshelf/158" title="Photography">Photography</a></li>
@@ -529,5 +481,4 @@ These are all specific bookshelves existing in Project Gutenberg.
   <ul>
    <li><a href="/ebooks/bookshelf/303" title="Zoology">Zoology</a></li>
  </ul>
-
 </div>
