@@ -25,17 +25,17 @@ These categories are the categories you may find in a large physical bookstore. 
     <li><a href="/ebooks/bookshelf/637">Poetry</a></li>
     <li><a href="/ebooks/bookshelf/642">Plays/Films/Dramas</a></li>
     <li><a href="/ebooks/bookshelf/639">Romance</a></li>
-    <li><a href="/ebooks/bookshelf/638">Science-Fiction & Fantasy</a></li>
-    <li><a href="/ebooks/bookshelf/640">Crime, Thrillers and Mystery</a></li>
-    <li><a href="/ebooks/bookshelf/646">Mythology, Legends & Folklore</a></li>
+    <li><a href="/ebooks/bookshelf/638">Science-Fiction &amp; Fantasy</a></li>
+    <li><a href="/ebooks/bookshelf/640">Crime, Thrillers &amp; Mystery</a></li>
+    <li><a href="/ebooks/bookshelf/646">Mythology, Legends &amp; Folklore</a></li>
+    <li><a href="/ebooks/bookshelf/641">Humor</a></li>
+    <li><a href="/ebooks/bookshelf/636">Children &amp; Young Adult Reading</a></li>
     <li><a href="/ebooks/bookshelf/633">Literature - Other</a></li>
-    <li><a href="/ebooks/bookshelf/641">Humour</a></li>
-    <li><a href="/ebooks/bookshelf/636">Children & Young Adult Reading</a></li>
   </ul>
 
-  <h2>Science & Technology</h2>
+  <h2>Science &amp; Technology</h2>
   <ul>
-    <li><a href="/ebooks/bookshelf/671">Engineering & Technology</a></li>
+    <li><a href="/ebooks/bookshelf/671">Engineering &amp; Technology</a></li>
     <li><a href="/ebooks/bookshelf/672">Mathematics</a></li>
     <li><a href="/ebooks/bookshelf/667">Science - Physics</a></li>
     <li><a href="/ebooks/bookshelf/668">Science - Chemistry/Biochemistry</a></li>
@@ -57,63 +57,63 @@ These categories are the categories you may find in a large physical bookstore. 
     <li><a href="/ebooks/bookshelf/663">History - Religious</a></li>
     <li><a href="/ebooks/bookshelf/664">History - Royalty</a></li>
     <li><a href="/ebooks/bookshelf/665">History - Warfare</a></li>
-    <li><a href="/ebooks/bookshelf/666">History - Schools & Universities</a></li>
-    <li><a href="/ebooks/bookshelf/686">Archaeology & Anthropology</a></li>
+    <li><a href="/ebooks/bookshelf/666">History - Schools &amp; Universities</a></li>
     <li><a href="/ebooks/bookshelf/655">History - Other</a></li>
+    <li><a href="/ebooks/bookshelf/686">Archaeology &amp; Anthropology</a></li>
   </ul>
 
-  <h2>Social Sciences & Society</h2>
+  <h2>Social Sciences &amp; Society</h2>
   <ul>
     <li><a href="/ebooks/bookshelf/695">Business/Management</a></li>
     <li><a href="/ebooks/bookshelf/696">Economics</a></li>
-    <li><a href="/ebooks/bookshelf/689">Law & Criminology</a></li>
-    <li><a href="/ebooks/bookshelf/690">Gender & Sexuality Studies</a></li>
+    <li><a href="/ebooks/bookshelf/689">Law &amp; Criminology</a></li>
+    <li><a href="/ebooks/bookshelf/690">Gender &amp; Sexuality Studies</a></li>
     <li><a href="/ebooks/bookshelf/688">Psychiatry/Psychology</a></li>
     <li><a href="/ebooks/bookshelf/693">Sociology</a></li>
     <li><a href="/ebooks/bookshelf/694">Politics</a></li>
-    <li><a href="/ebooks/bookshelf/701">Parenthood & Family Relations</a></li>
-    <li><a href="/ebooks/bookshelf/700">Old Age & the Elderly</a></li>
+    <li><a href="/ebooks/bookshelf/701">Parenthood &amp; Family Relations</a></li>
+    <li><a href="/ebooks/bookshelf/700">Old Age &amp; the Elderly</a></li>
   </ul>
 
-  <h2>Arts & Culture</h2>
+  <h2>Arts &amp; Culture</h2>
   <ul>
     <li><a href="/ebooks/bookshelf/675">Art</a></li>
     <li><a href="/ebooks/bookshelf/674">Architecture</a></li>
     <li><a href="/ebooks/bookshelf/677">Music</a></li>
     <li><a href="/ebooks/bookshelf/676">Fashion</a></li>
     <li><a href="/ebooks/bookshelf/698">Journalism/Media/Writing</a></li>
-    <li><a href="/ebooks/bookshelf/687">Language & Communication</a></li>
-    <li><a href="/ebooks/bookshelf/647">Essays, Letters & Speeches</a></li>
+    <li><a href="/ebooks/bookshelf/687">Language &amp; Communication</a></li>
+    <li><a href="/ebooks/bookshelf/647">Essays, Letters &amp; Speeches</a></li>
   </ul>
 
-  <h2>Religion & Philosophy</h2>
+  <h2>Religion &amp; Philosophy</h2>
   <ul>
     <li><a href="/ebooks/bookshelf/692">Religion/Spirituality</a></li>
-    <li><a href="/ebooks/bookshelf/691">Philosophy & Ethics</a></li>
+    <li><a href="/ebooks/bookshelf/691">Philosophy &amp; Ethics</a></li>
   </ul>
   
-  <h2>Lifestyle & Hobbies</h2>
+  <h2>Lifestyle &amp; Hobbies</h2>
   <ul>
-    <li><a href="/ebooks/bookshelf/678">Cooking & Drinking</a></li>
+    <li><a href="/ebooks/bookshelf/678">Cooking &amp; Drinking</a></li>
     <li><a href="/ebooks/bookshelf/680">Sports/Hobbies</a></li>
     <li><a href="/ebooks/bookshelf/679">How To ...</a></li>
     <li><a href="/ebooks/bookshelf/648">Travel Writing</a></li>
     <li><a href="/ebooks/bookshelf/683">Nature/Gardening/Animals</a></li>
-    <li><a href="/ebooks/bookshelf/703">Sexuality & Erotica</a></li>
+    <li><a href="/ebooks/bookshelf/703">Sexuality &amp; Erotica</a></li>
   </ul>
 
-  <h2>Health & Medicine</h2>
+  <h2>Health &amp; Medicine</h2>
   <ul>
-    <li><a href="/ebooks/bookshelf/681">Health & Medicine</a></li>
+    <li><a href="/ebooks/bookshelf/681">Health &amp; Medicine</a></li>
     <li><a href="/ebooks/bookshelf/682">Drugs/Alcohol/Pharmacology</a></li>
     <li><a href="/ebooks/bookshelf/684">Nutrition</a></li>
   </ul>
 
-  <h2>Education & Reference</h2>
+  <h2>Education &amp; Reference</h2>
   <ul>
     <li><a href="/ebooks/bookshelf/697">Encyclopedias/Dictionaries/Reference</a></li>
-    <li><a href="/ebooks/bookshelf/704">Teaching & Education</a></li>
-    <li><a href="/ebooks/bookshelf/702">Reports & Conference Proceedings</a></li>
+    <li><a href="/ebooks/bookshelf/704">Teaching &amp; Education</a></li>
+    <li><a href="/ebooks/bookshelf/702">Reports &amp; Conference Proceedings</a></li>
     <li><a href="/ebooks/bookshelf/699">Journals</a></li>
   </ul>
 </div>

@@ -9,7 +9,7 @@ Reading Lists
 Reading Lists are relatively small selections that have been hand-curated by individual volunteers. <br> <br> For the more common, large categories you may find in physical bookstores check out <a href="/ebooks/categories"> Main Categories. </a>
 
 
-<h2> Collections of Reading Lists</h2>
+<h2> Collections </h2>
 <div class="bookshelves">
   <ul>
    <li><a href="/ebooks/bookshelves/search/?query=animal">"Animals" Reading Lists</a></li>
@@ -58,12 +58,8 @@ Reading Lists are relatively small selections that have been hand-curated by ind
 
 
 <br>
-<h2> All Individual Reading Lists </h2>
+<h2> All Reading Lists </h2>
 <div class="bookshelves">
-<h2>6</h2>
-  <ul>
-   <li><a href="/ebooks/bookshelf/420" title="6 Best Loved Spanish Literary Classics">6 Best Loved Spanish Literary Classics</a></li>  
-  </ul>
 
 <h2>A</h2>
   <ul>
@@ -102,6 +98,7 @@ Reading Lists are relatively small selections that have been hand-curated by ind
    <li><a href="/ebooks/bookshelf/200" title="Barnavännen">Barnavännen</a></li>
    <li><a href="/ebooks/bookshelf/159" title="Bestsellers, American, 1895-1923">Bestsellers, American, 1895-1923</a></li>
    <li><a href="/ebooks/bookshelf/13" title="Best Books Ever Listings">Best Books Ever Listings</a></li>
+   <li><a href="/ebooks/bookshelf/420">Best Loved Spanish Literary Classics</a></li>
    <li><a href="/ebooks/bookshelf/15" title="Bibliomania">Bibliomania</a></li>
    <li><a href="/ebooks/bookshelf/16" title="Biographies">Biographies</a></li>
    <li><a href="/ebooks/bookshelf/201" title="Biology">Biology</a></li>
@@ -333,7 +330,7 @@ Reading Lists are relatively small selections that have been hand-curated by ind
 
 <h2>N</h2>
   <ul>
-   <li><a href="/ebooks/bookshelf/149" title="Napoleonic(Bookshelf)">Napoleon</a></li>
+   <li><a href="/ebooks/bookshelf/149" title="Napoleonic Era">Napoleonic Era</a></li>
    <li><a href="/ebooks/bookshelf/53" title="Native America">Native America</a></li>
    <li><a href="/ebooks/bookshelf/54" title="Natural History">Natural History</a></li>
    <li><a href="/ebooks/bookshelf/130" title="New Zealand">New Zealand</a></li>
