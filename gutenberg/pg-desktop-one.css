@@ -2610,7 +2610,6 @@ ul.results li.statusline {
 
 .cell.content {
   display: block;
-  margin-left: 50px;
   padding-left: 1em;
   color: #a01f13;
 }
