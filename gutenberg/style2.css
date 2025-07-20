@@ -213,6 +213,12 @@ ul {
     break-inside: avoid;
 }
 
+/* Ensure headings stay in the same column as the list */
+.bookshelves .book-list {
+  break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+}
+
 .bookshelves > ul li::before {
   color: #a01f13;
   display: inline-block;
