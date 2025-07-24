@@ -61,6 +61,7 @@ Reading Lists are relatively small selections that have been hand-curated by ind
 <h2> All Reading Lists </h2>
 <div class="bookshelves">
 
+<div class="book-list">
 <h2>A</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/82" title="Adventure">Adventure</a></li>
@@ -89,7 +90,9 @@ Reading Lists are relatively small selections that have been hand-curated by ind
    <li><a href="/ebooks/bookshelf/199" title="Atheism">Atheism</a></li>
    <li><a href="/ebooks/bookshelf/113" title="Australia">Australia</a></li>  
   </ul>
+</div>
 
+<div class="book-list">
 <h2>B</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/114" title="Bahá'í Faith">Bahá'í Faith</a></li>
@@ -113,7 +116,9 @@ Reading Lists are relatively small selections that have been hand-curated by ind
    <li><a href="/ebooks/bookshelf/117" title="Bulgaria">Bulgaria</a></li>
    <li><a href="/ebooks/bookshelf/207" title="Bulletin de Lille">Bulletin de Lille</a></li>  
   </ul>
+</div>
 
+<div class="book-list">
 <h2>C</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/181" title="CIA World Factbooks">CIA World Factbooks</a></li>
@@ -147,7 +152,9 @@ Reading Lists are relatively small selections that have been hand-curated by ind
    <li><a href="/ebooks/bookshelf/220" title="Current History">Current History</a></li>
    <li><a href="/ebooks/bookshelf/120" title="Czech">Czech</a></li>  
   </ul>
+</div>
 
+<div class="book-list">
 <h2>D</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/30" title="Detective Fiction">Detective Fiction</a></li>
@@ -155,7 +162,9 @@ Reading Lists are relatively small selections that have been hand-curated by ind
    <li><a href="/ebooks/bookshelf/221" title="De Aarde en haar Volken">De Aarde en haar Volken</a></li>
    <li><a href="/ebooks/bookshelf/223" title="Donahoe's Magazine">Donahoe's Magazine</a></li>  
   </ul>
+</div>
 
+<div class="book-list">
 <h2>E</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/31" title="Early English Text Society">Early English Text Society</a></li>
@@ -167,7 +176,9 @@ Reading Lists are relatively small selections that have been hand-curated by ind
    <li><a href="/ebooks/bookshelf/33" title="Erotic Fiction">Erotic Fiction</a></li>
    <li><a href="/ebooks/bookshelf/34" title="Esperanto">Esperanto</a></li>  
   </ul>
+</div>
 
+<div class="book-list">
 <h2>F</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/406" title="FR Beaux-Arts">French - Beaux-Arts</a></li>
@@ -214,7 +225,9 @@ Reading Lists are relatively small selections that have been hand-curated by ind
    <li><a href="/ebooks/bookshelf/145" title="Forestry">Forestry</a></li>
    <li><a href="/ebooks/bookshelf/122" title="France">France</a></li>  
   </ul>
+</div>
 
+<div class="book-list">
 <h2>G</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/226" title="Garden and Forest">Garden and Forest</a></li>
@@ -233,7 +246,9 @@ Reading Lists are relatively small selections that have been hand-curated by ind
    <li><a href="/ebooks/bookshelf/230" title="Graham's Magazine">Graham's Magazine</a></li>
    <li><a href="/ebooks/bookshelf/124" title="Greece">Greece</a></li>  
   </ul>
+</div>
 
+<div class="book-list">
 <h2>H</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/231" title="Harper's New Monthly Magazine">Harper's New Monthly Magazine</a></li>
@@ -245,7 +260,9 @@ Reading Lists are relatively small selections that have been hand-curated by ind
    <li><a href="/ebooks/bookshelf/43" title="Horticulture">Horticulture</a></li>
    <li><a href="/ebooks/bookshelf/44" title="Humor">Humor</a></li>  
   </ul>
+</div>
 
+<div class="book-list">
 <h2>I</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/418" title="IT Agraria">Italian - Agraria</a></li>
@@ -290,13 +307,17 @@ Reading Lists are relatively small selections that have been hand-curated by ind
    <li><a href="/ebooks/bookshelf/126" title="Islam">Islam</a></li>
    <li><a href="/ebooks/bookshelf/127" title="Italy">Italy</a></li>  
   </ul>
+</div>
 
+<div class="book-list">
 <h2>J</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/128" title="Judaism">Judaism</a></li>
    <li><a href="/ebooks/bookshelf/234" title="Journal of Entomology and Zoology">Journal of Entomology and Zoology</a></li>  
   </ul>
+</div>
 
+<div class="book-list">
 <h2>L</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/235" title="L'Illustration">L'Illustration</a></li>
@@ -307,7 +328,9 @@ Reading Lists are relatively small selections that have been hand-curated by ind
    <li><a href="/ebooks/bookshelf/414" title="London Medical Gazette">London Medical Gazette</a></li>
    <li><a href="/ebooks/bookshelf/47" title="Love">Love</a></li>  
   </ul>
+</div>
 
+<div class="book-list">
 <h2>M</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/146" title="Manufacturing">Manufacturing</a></li>
@@ -327,7 +350,9 @@ Reading Lists are relatively small selections that have been hand-curated by ind
    <li><a href="/ebooks/bookshelf/51" title="Mystery Fiction">Mystery Fiction</a></li>
    <li><a href="/ebooks/bookshelf/52" title="Mythology">Mythology</a></li>  
   </ul>
+</div>
 
+<div class="book-list">
 <h2>N</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/149" title="Napoleonic Era">Napoleonic Era</a></li>
@@ -339,14 +364,18 @@ Reading Lists are relatively small selections that have been hand-curated by ind
    <li><a href="/ebooks/bookshelf/245" title="Notes and Queries">Notes and Queries</a></li>
    <li><a href="/ebooks/bookshelf/246" title="Noteworthy Trials(Bookshelf)">Noteworthy Trials</a></li>  
   </ul>
+</div>
 
+<div class="book-list">
 <h2>O</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/55" title="One Act Plays">One Act Plays</a></li>
    <li><a href="/ebooks/bookshelf/56" title="Opera">Opera</a></li>
    <li><a href="/ebooks/bookshelf/247" title="Our Young Folks">Our Young Folks</a></li>  
   </ul>
+</div>
 
+<div class="book-list">
 <h2>P</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/88" title="PT Arte">Portuguese - Arte</a></li>
@@ -380,14 +409,18 @@ Reading Lists are relatively small selections that have been hand-curated by ind
    <li><a href="/ebooks/bookshelf/252" title="Punch">Punch</a></li>
    <li><a href="/ebooks/bookshelf/253" title="Punchinello">Punchinello</a></li>
   </ul>
+</div>
 
+<div class="book-list">
 <h2>R</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/65" title="Racism">Racism</a></li>
    <li><a href="/ebooks/bookshelf/66" title="Reference">Reference</a></li>
    <li><a href="/ebooks/bookshelf/412" title="Romantic Fiction">Romantic Fiction</a></li>  
   </ul>
+</div>
 
+<div class="book-list">
 <h2>S</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/67" title="School Stories">School Stories</a></li>
@@ -406,7 +439,9 @@ Reading Lists are relatively small selections that have been hand-curated by ind
    <li><a href="/ebooks/bookshelf/258" title="St. Nicholas Magazine for Boys and Girls">St. Nicholas Magazine for Boys and Girls</a></li>
    <li><a href="/ebooks/bookshelf/72" title="Suffrage">Suffrage</a></li>  
   </ul>
+</div>
 
+<div class="book-list">
 <h2>T</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/143" title="Technology">Technology</a></li>
@@ -459,7 +494,9 @@ Reading Lists are relatively small selections that have been hand-curated by ind
    <li><a href="/ebooks/bookshelf/74" title="Transportation">Transportation</a></li>
    <li><a href="/ebooks/bookshelf/75" title="Travel">Travel</a></li>  
   </ul>
+</div>
 
+<div class="book-list">
 <h2>U</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/141" title="US Civil War">US Civil War</a></li>
@@ -467,7 +504,9 @@ Reading Lists are relatively small selections that have been hand-curated by ind
    <li><a href="/ebooks/bookshelf/136" title="United States">United States</a></li>
    <li><a href="/ebooks/bookshelf/302" title="United States Law">United States Law</a></li>
   </ul>
+</div>
 
+<div class="book-list">
 <h2>W</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/77" title="Western">Western</a></li>
@@ -476,9 +515,12 @@ Reading Lists are relatively small selections that have been hand-curated by ind
    <li><a href="/ebooks/bookshelf/147" title="Woodwork">Woodwork</a></li>
    <li><a href="/ebooks/bookshelf/142" title="World War I">World War I</a></li>
    <li><a href="/ebooks/bookshelf/325" title="World War II">World War II</a></li>  </ul>
+ </div>
 
+<div class="book-list">
 <h2>Z</h2>
   <ul>
    <li><a href="/ebooks/bookshelf/303" title="Zoology">Zoology</a></li>
  </ul>
+</div>
 </div>
