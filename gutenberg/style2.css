@@ -593,6 +593,11 @@ ul.results li::before {
   }
 }
 
+/* Bookshelf cards */
+.booklink .link {
+  display: flex!important
+}
+
 /*New Cover_image rules only applicable to test_index for latest covers from gutenberg1*/
 .library .latest a:link {
   text-decoration: none;

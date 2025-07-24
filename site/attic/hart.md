@@ -60,6 +60,10 @@ This obituary is granted to the public domain by its author, Dr. Gregory B. Newb
 ### Eulogy for Michael S. Hart
 As spoken by Newby at Michael's funeral, September 12 2011 (this sequence of words is granted to the public domain): "Rather than speak in whole sentences, which can be difficult at times like these, I will speak a series of words that characterize Michael. These words might help you to form your own memories of him. Friend. Visionary. Leader. Intellectual. Anti-Elitist. Digital Literati. Rebel. Frisbee Player. Hippie. Musician. Technician. Enthusiast. Lover of Much and Many. Full of Passion. Scout. Veteran. Patriot. Pacifist. Humanist. Egalitarian. Educator. Man of the People. Builder. Maker. Speaker. Listener. Systems Analyst. Friend." 
 
+## Memorial booklet
+
+This [memorial booklet](hart-memorialbooklet.pdf) was distributed during Michael's memorial service in 2011.
+
 ## Message from Michael's Family
 The family prepared a document with an image of Michael, "breaking down the bars of ignorance and illiteracy." The message is part of this [PDF file](/gutenberg/HartfamilyAppreciation.pdf) and contains this text: 
 
