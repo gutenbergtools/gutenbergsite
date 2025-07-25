@@ -48,7 +48,7 @@ permalink: /
   <div class="box_shadow" style="min-width: 1260px;">
     <p><i style="font-size: 1.35rem;">Random Selection</i> <a href="/ebooks/search/?sort_order=random">find more</a></p>
     <div class="lib latest no-select">
-    {% include latest_covers.html %}
+    {% include random_covers.html %}
    </div>
  </div>
 </div>
