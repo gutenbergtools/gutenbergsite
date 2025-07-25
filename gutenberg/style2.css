@@ -226,6 +226,24 @@ ul {
   margin-left: -1em;
 }
 
+/* highlights the relevant header if a user arrives via a "main categories" link on the homepage */
+.bookshelves h2:target,
+.bookshelves h2:focus {
+  background: #fffbd2;
+  border: 1px solid #a01f13;
+  padding: 0.25em 0.5em;
+  animation: flash 1.5s ease-in-out 3;
+}
+
+@keyframes flash {
+  0%, 100% { background: #fffbd2; }
+  50%      { background: #ffe17d; }
+}
+
+.bookshelves h2 {
+  scroll-margin-top: 10rem; /* keeps heading out from under fixed header */
+}
+ 
 .page_content .bookshelves h2 {
   border-bottom: 0px none #ffffff;
 }
