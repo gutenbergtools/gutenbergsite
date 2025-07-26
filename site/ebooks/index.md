@@ -5,63 +5,17 @@ permalink: /ebooks/index.html
 ---
 {::nomarkdown}
 <div class="page">
-<!-- Three Icons on top -->
-<div class="icons-section">
-  <ul class="navlinks">
-    <li class="navlink">
-      <a class="link" href="/ebooks/search/?sort_order=downloads" accesskey="0">
-        <span class="cell leftcell without-cover">
-          <span class="icon-wrapper">
-            <span class="icon icon_popular"></span>
-          </span>
-        </span>
-        <span class="cell content">
-          <span class="title">Most Popular</span>
-        </span>
-        <span class="hstrut"></span>
-      </a>
-    </li>
-    
-    <li class="navlink">
-      <a class="link" href="/ebooks/search/?sort_order=release_date" accesskey="1">
-        <span class="cell leftcell without-cover">
-          <span class="icon-wrapper">
-            <span class="icon icon_date"></span>
-          </span>
-        </span>
-        <span class="cell content">
-          <span class="title">New Releases</span>
-        </span>
-        <span class="hstrut"></span>
-      </a>
-    </li>
 
-    <li class="navlink">
-      <a class="link" href="/ebooks/search/?sort_order=random" accesskey="2">
-        <span class="cell leftcell without-cover">
-          <span class="icon-wrapper">
-            <span class="icon icon_random"></span>
-          </span>
-        </span>
-        <span class="cell content">
-          <span class="title">Random Suggestions </span>
-        </span>
-        <span class="hstrut"></span>
-      </a>
-    </li>
-  </ul>
-</div>
-
-<!-- The Three Tabs and their Content -->
+<!-- The Two Tabs and their Content -->
 <div class="menu-and-content">
   <input type="radio" name="ebook-tabs" id="tab-advanced" class="tab-input" checked>
   <input type="radio" name="ebook-tabs" id="tab-fulltext" class="tab-input">
-  <input type="radio" name="ebook-tabs" id="tab-categories" class="tab-input">
+
 
   <div class="tabs-container">
     <label for="tab-advanced">Advanced Search</label>
     <label for="tab-fulltext">Full Text Search</label>
-    <label for="tab-categories">Categories & Catalogs</label>
+
   </div>
 
   <!-- Tab 1 - Advanced Search -->
@@ -581,91 +535,7 @@ permalink: /ebooks/index.html
     </div>
   </div>
 
-  <!-- Tab 3 - Categories and Catalogs -->
-  <div id="card-catalog" class="tabcontent">
-    <h2>Categories</h2>
-    <div class="pgdbnavbar" style="text-align: center">
-      <div>
-        <p> Main Categories are the categories you'd expect in a large book store. </p>
-        <div>
-          <a href="/ebooks/categories">Go to Main Categories</a>
-        </div>
-      </div>
-      <br >
-      <div>
-        <p> Reading Lists are hand-curated collections about relatively specific topics. </p>
-        <div>
-          <a href="/ebooks/bookshelf/"> Go to Reading lists </a>
-        </div>
-      </div>
-      <br >
-      <br >
-      <h2>Catalogs</h2>
-      <div>
-        <p>Authors Catalog</p>
-        <a href="/browse/authors/a">A</a>&nbsp;
-        <a href="/browse/authors/b">B</a>&nbsp;
-        <a href="/browse/authors/c">C</a>&nbsp;
-        <a href="/browse/authors/d">D</a>&nbsp;
-        <a href="/browse/authors/e">E</a>&nbsp;
-        <a href="/browse/authors/f">F</a>&nbsp;
-        <a href="/browse/authors/g">G</a>&nbsp;
-        <a href="/browse/authors/h">H</a>&nbsp;
-        <a href="/browse/authors/i">I</a>&nbsp;
-        <a href="/browse/authors/j">J</a>&nbsp;
-        <a href="/browse/authors/k">K</a>&nbsp;
-        <a href="/browse/authors/l">L</a>&nbsp;
-        <a href="/browse/authors/m">M</a>&nbsp;
-        <a href="/browse/authors/n">N</a>&nbsp;
-        <a href="/browse/authors/o">O</a>&nbsp;
-        <a href="/browse/authors/p">P</a>&nbsp;
-        <a href="/browse/authors/q">Q</a>&nbsp;
-        <a href="/browse/authors/r">R</a>&nbsp;
-        <a href="/browse/authors/s">S</a>&nbsp;
-        <a href="/browse/authors/t">T</a>&nbsp;
-        <a href="/browse/authors/u">U</a>&nbsp;
-        <a href="/browse/authors/v">V</a>&nbsp;
-        <a href="/browse/authors/w">W</a>&nbsp;
-        <a href="/browse/authors/x">X</a>&nbsp;
-        <a href="/browse/authors/y">Y</a>&nbsp;
-        <a href="/browse/authors/z">Z</a>&nbsp;
-        <a href="/browse/authors/other">other</a>&nbsp;
-      </div>
-      <br >
-      <div>
-        <p>Titles Catalog</p>
-        <div>
-          <a href="/browse/titles/a">A</a>&nbsp;
-          <a href="/browse/titles/b">B</a>&nbsp;
-          <a href="/browse/titles/c">C</a>&nbsp;
-          <a href="/browse/titles/d">D</a>&nbsp;
-          <a href="/browse/titles/e">E</a>&nbsp;
-          <a href="/browse/titles/f">F</a>&nbsp;
-          <a href="/browse/titles/g">G</a>&nbsp;
-          <a href="/browse/titles/h">H</a>&nbsp;
-          <a href="/browse/titles/i">I</a>&nbsp;
-          <a href="/browse/titles/j">J</a>&nbsp;
-          <a href="/browse/titles/k">K</a>&nbsp;
-          <a href="/browse/titles/l">L</a>&nbsp;
-          <a href="/browse/titles/m">M</a>&nbsp;
-          <a href="/browse/titles/n">N</a>&nbsp;
-          <a href="/browse/titles/o">O</a>&nbsp;
-          <a href="/browse/titles/p">P</a>&nbsp;
-          <a href="/browse/titles/q">Q</a>&nbsp;
-          <a href="/browse/titles/r">R</a>&nbsp;
-          <a href="/browse/titles/s">S</a>&nbsp;
-          <a href="/browse/titles/t">T</a>&nbsp;
-          <a href="/browse/titles/u">U</a>&nbsp;
-          <a href="/browse/titles/v">V</a>&nbsp;
-          <a href="/browse/titles/w">W</a>&nbsp;
-          <a href="/browse/titles/x">X</a>&nbsp;
-          <a href="/browse/titles/y">Y</a>&nbsp;
-          <a href="/browse/titles/z">Z</a>&nbsp;
-          <a href="/browse/titles/other">other</a>&nbsp;
-        </div>
-      </div>
-    </div>
-  </div>
+
 </div>
 </div>
 {:/nomarkdown}
