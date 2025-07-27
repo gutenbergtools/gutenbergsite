@@ -26,7 +26,6 @@ I'm feeling Lucky
 </div>
 
 
-<div>
 
 Browse by Author Name
 ---------------------
@@ -707,4 +706,4 @@ Reading Lists, or bookshelves, are relatively small selections chosen by individ
    <li><a href="/ebooks/bookshelf/303" title="Zoology">Zoology</a></li>
  </ul>
 </div>
-</div>
+
