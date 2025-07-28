@@ -12,7 +12,7 @@ permalink: /
 <!-- Latest Books -->
 <div class="library" style="overflow-x: auto; position: relative;">
   <div class="box_shadow" style="min-width: 1260px;">
-    <p><i style="font-size: 1.35rem;">Newest Releases</i> <a href="/browse/recent/last1">find more</a></p>
+    <p><label style="font-size: 1.35rem; font-style: italic" for="more_recent">Newest Releases</label> <a href="/browse/recent/last1" id="more_recent" title="find more recent releases">find more</a></p>
     <div class="lib latest no-select">
     {% include latest_covers.html %}
    </div>
@@ -43,12 +43,12 @@ permalink: /
   </div>
 </div>
 
-<!-- Random Selection -->
+<!-- Popular Selection -->
 <div class="library" style="overflow-x: auto; position: relative;">
   <div class="box_shadow" style="min-width: 1260px;">
-    <p><i style="font-size: 1.35rem;">Random Selection</i> <a href="/ebooks/search/?sort_order=random">find more</a></p>
+    <p><label style="font-size: 1.35rem; font-style: italic" for="more_popular">Most Popular</label> <a href="/ebooks/search/?sort_order=downloads" title="Find more popular books" id="more_popular">find more</a></p>
     <div class="lib latest no-select">
-    {% include latest_covers.html %}
+    {% include popular_covers.html %}
    </div>
  </div>
 </div>
