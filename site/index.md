@@ -10,9 +10,9 @@ permalink: /
 <p id="sub-slogan"> Choose among free epub and Kindle eBooks, download them or read them online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for you to enjoy. </p>
 
 <!-- Latest Books -->
-<div class="library" style="overflow-x: auto; position: relative;">
-  <div class="box_shadow" style="min-width: 1260px;">
-    <p><label style="font-size: 1.35rem; font-style: italic" for="more_recent">Newest Releases</label> <a href="/browse/recent/last1" id="more_recent" title="find more recent releases">find more</a></p>
+<div class="library">
+  <div class="box_shadow">
+    <p><label for="more_recent">Newest Releases</label> <a href="/browse/recent/last1" id="more_recent" title="find more recent releases">find more</a></p>
     <div class="lib latest no-select">
     {% include latest_covers.html %}
    </div>
@@ -23,7 +23,7 @@ permalink: /
   <div class="info-box">
     <h3>Find Free eBooks</h3>
     <ul>
-      <li><a href="/browse/scores/top">Frequently downloaded</a>: Top 100, or ranked <a href="/ebooks/search/?sort_order=downloads">by popularity</a>.</li>
+      <li><a href="/browse/scores/top">Frequently Downloaded</a>: Top 100, or ranked <a href="/ebooks/search/?sort_order=downloads">by popularity</a>.</li>
       <li><a href="/ebooks/categories">Main Categories</a>. The ones you'd find in any large bookstore.</li>
       <li><a href="/ebooks/bookshelf/">Reading Lists</a>. Hand-curated by volunteers.</li>
       <li><a href="/ebooks/">Search Options</a>. By author, title, subject, language, type, popularity, and more.</li>
@@ -44,9 +44,9 @@ permalink: /
 </div>
 
 <!-- Popular Selection -->
-<div class="library" style="overflow-x: auto; position: relative;">
-  <div class="box_shadow" style="min-width: 1260px;">
-    <p><label style="font-size: 1.35rem; font-style: italic" for="more_popular">Most Popular</label> <a href="/ebooks/search/?sort_order=downloads" title="Find more popular books" id="more_popular">find more</a></p>
+<div class="library">
+  <div class="box_shadow">
+    <p><label for="more_popular">Most Popular</label> <a href="/ebooks/search/?sort_order=downloads" id="more_popular" title="Find more popular books">find more</a></p>
     <div class="lib latest no-select">
     {% include popular_covers.html %}
    </div>

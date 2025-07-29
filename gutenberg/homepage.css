@@ -8,10 +8,17 @@ body {
 #slogan { font-size: 32px; }
 #sub-slogan { font-size: 18px; }
 
+/* Slogan responsive line-height */
+@media (max-width: 960px) {
+  #slogan { line-height: 1.2; }
+}
+
 /* Utility */
 .box_shadow {
   border: none;
   border-radius: 10px;
+  display: inline-block;
+  min-width: 100%;
 }
 
 /* Typography */
@@ -166,12 +173,12 @@ h1, h2, h3, h4, h5, h6 {
   width: 120px;
   height: 180px;
   border-radius: 6px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  box-shadow: none;
   transition: all 0.2s ease-in-out;
 }
 
 .lib.latest .cover_img img:hover {
-  box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+  box-shadow: none;
 }
 
 .lib.latest .cover_title { margin-top: 12px; max-width: 140px; }
@@ -185,6 +192,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* ---------- 'Find more' link ---------- */
-.box_shadow p a { background-color: #C7DDE3; }
+.box_shadow p a {
+  background-color: #C7DDE3;
+  padding: 0 12px;
+  border-radius: 3px;
+}
 
 .box_shadow p a:hover { filter: brightness(1.1); }
+
+/* Responsive width for cover carousels */
+/* Library wrapper */
+.library {
+  overflow-x: auto;
+  position: relative;
+}
+
+/* Box Shadow heading label */
+.box_shadow label { font-size: 1.35rem; }
