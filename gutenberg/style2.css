@@ -226,18 +226,25 @@ ul {
   margin-left: -1em;
 }
 
+.bookshelves h2:focus { outline: none; }
+
 /* highlights the relevant header if a user arrives via a "main categories" link on the homepage */
-.bookshelves h2:target,
-.bookshelves h2:focus {
-  background: #fffbd2;
-  border: 1px solid #a01f13;
-  padding: 0.25em 0.5em;
-  animation: flash 1.5s ease-in-out 3;
+@media only screen and (min-width: 751px) {
+  .bookshelves h2:target,
+  .bookshelves h2:focus {
+    background: #C7DDE3;
+    padding: 0.7em 0.5em;
+    animation: flash 1.5s ease-in-out 3;
+    font-size: 1.5em;
+    width: 80%;
+    display: inline-block;
+    box-sizing: border-box;
+  }
 }
 
 @keyframes flash {
-  0%, 100% { background: #fffbd2; }
-  50%      { background: #ffe17d; }
+  0%, 100% { background: #C7DDE3; }
+  50%      { background:#F0F0F0}
 }
 
 .bookshelves h2 {
