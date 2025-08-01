@@ -55,6 +55,16 @@
   justify-content: center;
 }
 
+/* Ensure search option links don't wrap */
+.navlink .link {
+  display: flex;
+}
+
+.navlink .link .cell {
+  float: none;
+  padding: 5px;
+}
+
 /* Media query to stack nav icons vertically on smaller screens */
 @media screen and (max-width: 735px) {
   .page .navlinks {
