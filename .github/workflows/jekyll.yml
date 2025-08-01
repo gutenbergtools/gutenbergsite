@@ -20,6 +20,7 @@ jobs:
       - name: Populate latest_covers
         run: |
           cp "./_includes/latest_covers_test.html" "./_includes/latest_covers.html"
+          cp "./_includes/latest_covers_test.html" "./_includes/popular_covers.html"
 
       - name: Install Jekyll
         run: |
