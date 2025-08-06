@@ -36,7 +36,7 @@ permalink: /
     <ul>
       <li>✓ <strong>100% Free</strong> - No fees, no registration, completely free</li>
       <li>✓ <strong>No Apps Required</strong> - only regular Web browsers or eBook readers needed</li>
-      <li>✓ <strong>50+ Years</strong> - Pioneering free eBooks since 1971</li>
+      <li>✓ <strong>50+ Years</strong> - Pioneering free eBooks <a href="/about/background/50years.html" title="history, 1971-2021">since 1971</a></li>
       <li>✓ <strong>Volunteer-based</strong> - hundreds of volunteers have contributed over the years</li>
       <li class="small-text">Consider a small donation to help us digitize more books: <a href="/donate"> donate </a></li>
     </ul>
