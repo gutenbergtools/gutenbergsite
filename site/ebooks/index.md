@@ -61,7 +61,7 @@ permalink: /ebooks/index.html
   <div class="tabs-container">
     <label for="tab-advanced">Advanced Search</label>
     <label for="tab-fulltext">Full Text Search</label>
-    <label for="tab-categories">Categories & Catalogs</label>
+    <label for="tab-categories">Catalogs & Languages</label>
   </div>
 
   <!-- Tab 1 - Advanced Search -->
@@ -581,91 +581,101 @@ permalink: /ebooks/index.html
     </div>
   </div>
 
-  <!-- Tab 3 - Categories and Catalogs -->
-  <div id="card-catalog" class="tabcontent">
-    <h2>Categories</h2>
-    <div class="pgdbnavbar" style="text-align: center">
-      <div>
-        <p> Main Categories are the categories you'd expect in a large book store. </p>
-        <div>
-          <a href="/ebooks/categories">Go to Main Categories</a>
-        </div>
-      </div>
-      <br >
-      <div>
-        <p> Reading Lists are hand-curated collections about relatively specific topics. </p>
-        <div>
-          <a href="/ebooks/bookshelf/"> Go to Reading lists </a>
-        </div>
-      </div>
-      <br >
-      <br >
-      <h2>Catalogs</h2>
-      <div>
-        <p>Authors Catalog</p>
-        <a href="/browse/authors/a">A</a>&nbsp;
-        <a href="/browse/authors/b">B</a>&nbsp;
-        <a href="/browse/authors/c">C</a>&nbsp;
-        <a href="/browse/authors/d">D</a>&nbsp;
-        <a href="/browse/authors/e">E</a>&nbsp;
-        <a href="/browse/authors/f">F</a>&nbsp;
-        <a href="/browse/authors/g">G</a>&nbsp;
-        <a href="/browse/authors/h">H</a>&nbsp;
-        <a href="/browse/authors/i">I</a>&nbsp;
-        <a href="/browse/authors/j">J</a>&nbsp;
-        <a href="/browse/authors/k">K</a>&nbsp;
-        <a href="/browse/authors/l">L</a>&nbsp;
-        <a href="/browse/authors/m">M</a>&nbsp;
-        <a href="/browse/authors/n">N</a>&nbsp;
-        <a href="/browse/authors/o">O</a>&nbsp;
-        <a href="/browse/authors/p">P</a>&nbsp;
-        <a href="/browse/authors/q">Q</a>&nbsp;
-        <a href="/browse/authors/r">R</a>&nbsp;
-        <a href="/browse/authors/s">S</a>&nbsp;
-        <a href="/browse/authors/t">T</a>&nbsp;
-        <a href="/browse/authors/u">U</a>&nbsp;
-        <a href="/browse/authors/v">V</a>&nbsp;
-        <a href="/browse/authors/w">W</a>&nbsp;
-        <a href="/browse/authors/x">X</a>&nbsp;
-        <a href="/browse/authors/y">Y</a>&nbsp;
-        <a href="/browse/authors/z">Z</a>&nbsp;
-        <a href="/browse/authors/other">other</a>&nbsp;
-      </div>
-      <br >
-      <div>
-        <p>Titles Catalog</p>
-        <div>
-          <a href="/browse/titles/a">A</a>&nbsp;
-          <a href="/browse/titles/b">B</a>&nbsp;
-          <a href="/browse/titles/c">C</a>&nbsp;
-          <a href="/browse/titles/d">D</a>&nbsp;
-          <a href="/browse/titles/e">E</a>&nbsp;
-          <a href="/browse/titles/f">F</a>&nbsp;
-          <a href="/browse/titles/g">G</a>&nbsp;
-          <a href="/browse/titles/h">H</a>&nbsp;
-          <a href="/browse/titles/i">I</a>&nbsp;
-          <a href="/browse/titles/j">J</a>&nbsp;
-          <a href="/browse/titles/k">K</a>&nbsp;
-          <a href="/browse/titles/l">L</a>&nbsp;
-          <a href="/browse/titles/m">M</a>&nbsp;
-          <a href="/browse/titles/n">N</a>&nbsp;
-          <a href="/browse/titles/o">O</a>&nbsp;
-          <a href="/browse/titles/p">P</a>&nbsp;
-          <a href="/browse/titles/q">Q</a>&nbsp;
-          <a href="/browse/titles/r">R</a>&nbsp;
-          <a href="/browse/titles/s">S</a>&nbsp;
-          <a href="/browse/titles/t">T</a>&nbsp;
-          <a href="/browse/titles/u">U</a>&nbsp;
-          <a href="/browse/titles/v">V</a>&nbsp;
-          <a href="/browse/titles/w">W</a>&nbsp;
-          <a href="/browse/titles/x">X</a>&nbsp;
-          <a href="/browse/titles/y">Y</a>&nbsp;
-          <a href="/browse/titles/z">Z</a>&nbsp;
-          <a href="/browse/titles/other">other</a>&nbsp;
-        </div>
-      </div>
-    </div>
-  </div>
+<!-- Tab 3 - Catalogs and Languages -->
+<div id="card-catalog" class="tabcontent">
+<div class="pgdbnavbar" style="text-align: center">
+<h2>Catalogs</h2>
+<br>
+<h3>Authors Catalog</h3>
+<div>
+<a href="/browse/authors/a">A</a> 
+<a href="/browse/authors/b">B</a> 
+<a href="/browse/authors/c">C</a> 
+<a href="/browse/authors/d">D</a> 
+<a href="/browse/authors/e">E</a> 
+<a href="/browse/authors/f">F</a> 
+<a href="/browse/authors/g">G</a> 
+<a href="/browse/authors/h">H</a> 
+<a href="/browse/authors/i">I</a> 
+<a href="/browse/authors/j">J</a> 
+<a href="/browse/authors/k">K</a> 
+<a href="/browse/authors/l">L</a> 
+<a href="/browse/authors/m">M</a> 
+<a href="/browse/authors/n">N</a> 
+<a href="/browse/authors/o">O</a> 
+<a href="/browse/authors/p">P</a> 
+<a href="/browse/authors/q">Q</a> 
+<a href="/browse/authors/r">R</a> 
+<a href="/browse/authors/s">S</a> 
+<a href="/browse/authors/t">T</a> 
+<a href="/browse/authors/u">U</a> 
+<a href="/browse/authors/v">V</a> 
+<a href="/browse/authors/w">W</a> 
+<a href="/browse/authors/x">X</a> 
+<a href="/browse/authors/y">Y</a> 
+<a href="/browse/authors/z">Z</a> 
+<a href="/browse/authors/other">other</a> 
+</div>
+<br>
+<h3>Titles Catalog</h3>
+<div>
+<a href="/browse/titles/a">A</a> 
+<a href="/browse/titles/b">B</a> 
+<a href="/browse/titles/c">C</a> 
+<a href="/browse/titles/d">D</a> 
+<a href="/browse/titles/e">E</a> 
+<a href="/browse/titles/f">F</a> 
+<a href="/browse/titles/g">G</a> 
+<a href="/browse/titles/h">H</a> 
+<a href="/browse/titles/i">I</a> 
+<a href="/browse/titles/j">J</a> 
+<a href="/browse/titles/k">K</a> 
+<a href="/browse/titles/l">L</a> 
+<a href="/browse/titles/m">M</a> 
+<a href="/browse/titles/n">N</a> 
+<a href="/browse/titles/o">O</a> 
+<a href="/browse/titles/p">P</a> 
+<a href="/browse/titles/q">Q</a> 
+<a href="/browse/titles/r">R</a> 
+<a href="/browse/titles/s">S</a> 
+<a href="/browse/titles/t">T</a> 
+<a href="/browse/titles/u">U</a> 
+<a href="/browse/titles/v">V</a> 
+<a href="/browse/titles/w">W</a> 
+<a href="/browse/titles/x">X</a> 
+<a href="/browse/titles/y">Y</a> 
+<a href="/browse/titles/z">Z</a> 
+<a href="/browse/titles/other">other</a> 
+</div>
+<br>
+<h2>Languages</h2>
+<br>
+<h3>Languages with more than 50 books</h3>
+<div>
+<a href="/ebooks/search/?query=l.ca" title="Catalan (72)">Catalan</a> | <a href="/ebooks/search/?query=l.zh" title="Chinese (444)">Chinese</a> | <a href="/ebooks/search/?query=l.da" title="Danish (82)">Danish</a> | <a href="/ebooks/search/?query=l.nl" title="Dutch (1054)">Dutch</a> | <a href="/ebooks/search/?query=l.en" title="English (60833)">English</a> | <a href="/ebooks/search/?query=l.eo" title="Esperanto (144)">Esperanto</a> | <a href="/ebooks/search/?query=l.fi" title="Finnish (3403)">Finnish</a> | <a href="/ebooks/search/?query=l.fr" title="French (4009)">French</a> | <a href="/ebooks/search/?query=l.de" title="German (2355)">German</a> | <a href="/ebooks/search/?query=l.el" title="Greek (221)">Greek</a> | <a href="/ebooks/search/?query=l.hu" title="Hungarian (619)">Hungarian</a> | <a href="/ebooks/search/?query=l.it" title="Italian (1071)">Italian</a> | <a href="/ebooks/search/?query=l.la" title="Latin (146)">Latin</a> | <a href="/ebooks/search/?query=l.pt" title="Portuguese (647)">Portuguese</a> | <a href="/ebooks/search/?query=l.es" title="Spanish (891)">Spanish</a> | <a href="/ebooks/search/?query=l.sv" title="Swedish (244)">Swedish</a> | <a href="/ebooks/search/?query=l.tl" title="Tagalog (60)">Tagalog</a>
+</div>
+<br>
+<h3>Languages with up to 50 books</h3>
+<div>
+<a href="/ebooks/search/?query=l.af" title="Afrikaans (15)">Afrikaans</a> | <a href="/ebooks/search/?query=l.ale" title="Aleut (1)">Aleut</a> | <a href="/ebooks/search/?query=l.ar" title="Arabic (1)">Arabic</a> | <a href="/ebooks/search/?query=l.arp" title="Arapaho (2)">Arapaho</a> | <a href="/ebooks/search/?query=l.brx" title="Bodo (2)">Bodo</a> | <a href="/ebooks/search/?query=l.br" title="Breton (1)">Breton</a> | <a href="/ebooks/search/?query=l.bg" title="Bulgarian (6)">Bulgarian</a> | <a href="/ebooks/search/?query=l.rmq" title="Caló (1)">Caló</a> | <a href="/ebooks/search/?query=l.ceb" title="Cebuano (3)">Cebuano</a> | <a href="/ebooks/search/?query=l.cs" title="Czech (12)">Czech</a> | <a href="/ebooks/search/?query=l.et" title="Estonian (1)">Estonian</a> | <a href="/ebooks/search/?query=l.fa" title="Farsi (1)">Farsi</a> | <a href="/ebooks/search/?query=l.fy" title="Frisian (18)">Frisian</a> | <a href="/ebooks/search/?query=l.fur" title="Friulian (7)">Friulian</a> | <a href="/ebooks/search/?query=l.gla" title="Gaelic, Scottish (2)">Gaelic, Scottish</a> | <a href="/ebooks/search/?query=l.gl" title="Galician (3)">Galician</a> | <a href="/ebooks/search/?query=l.kld" title="Gamilaraay (1)">Gamilaraay</a> | <a href="/ebooks/search/?query=l.grc" title="Greek, Ancient (3)">Greek, Ancient</a> | <a href="/ebooks/search/?query=l.hai" title="Haida (1)">Haida</a> | <a href="/ebooks/search/?query=l.he" title="Hebrew (7)">Hebrew</a> | <a href="/ebooks/search/?query=l.is" title="Icelandic (7)">Icelandic</a> | <a href="/ebooks/search/?query=l.ilo" title="Iloko (3)">Iloko</a> | <a href="/ebooks/search/?query=l.ia" title="Interlingua (1)">Interlingua</a> | <a href="/ebooks/search/?query=l.iu" title="Inuktitut (1)">Inuktitut</a> | <a href="/ebooks/search/?query=l.ga" title="Irish (3)">Irish</a> | <a href="/ebooks/search/?query=l.ja" title="Japanese (22)">Japanese</a> | <a href="/ebooks/search/?query=l.csb" title="Kashubian (1)">Kashubian</a> | <a href="/ebooks/search/?query=l.kha" title="Khasi (1)">Khasi</a> | <a href="/ebooks/search/?query=l.ko" title="Korean (1)">Korean</a> | <a href="/ebooks/search/?query=l.lt" title="Lithuanian (1)">Lithuanian</a> | <a href="/ebooks/search/?query=l.mi" title="Maori (2)">Maori</a> | <a href="/ebooks/search/?query=l.myn" title="Mayan Languages (3)">Mayan Languages</a> | <a href="/ebooks/search/?query=l.enm" title="Middle English (6)">Middle English</a> | <a href="/ebooks/search/?query=l.nah" title="Nahuatl (3)">Nahuatl</a> | <a href="/ebooks/search/?query=l.nap" title="Napoletano-Calabrese (1)">Napoletano-Calabrese</a> | <a href="/ebooks/search/?query=l.nav" title="Navajo (3)">Navajo</a> | <a href="/ebooks/search/?query=l.nai" title="North American Indian (3)">North American Indian</a> | <a href="/ebooks/search/?query=l.no" title="Norwegian (22)">Norwegian</a> | <a href="/ebooks/search/?query=l.oc" title="Occitan (2)">Occitan</a> | <a href="/ebooks/search/?query=l.oji" title="Ojibwa (1)">Ojibwa</a> | <a href="/ebooks/search/?query=l.ang" title="Old English (4)">Old English</a> | <a href="/ebooks/search/?query=l.pl" title="Polish (31)">Polish</a> | <a href="/ebooks/search/?query=l.ro" title="Romanian (5)">Romanian</a> | <a href="/ebooks/search/?query=l.ru" title="Russian (9)">Russian</a> | <a href="/ebooks/search/?query=l.sa" title="Sanskrit (1)">Sanskrit</a> | <a href="/ebooks/search/?query=l.sco" title="Scots (1)">Scots</a> | <a href="/ebooks/search/?query=l.sr" title="Serbian (4)">Serbian</a> | <a href="/ebooks/search/?query=l.sl" title="Slovenian (4)">Slovenian</a> | <a href="/ebooks/search/?query=l.bgs" title="Tagabawa (1)">Tagabawa</a> | <a href="/ebooks/search/?query=l.te" title="Telugu (6)">Telugu</a> | <a href="/ebooks/search/?query=l.bo" title="Tibetan (1)">Tibetan</a> | <a href="/ebooks/search/?query=l.cy" title="Welsh (15)">Welsh</a> | <a href="/ebooks/search/?query=l.yi" title="Yiddish (1)">Yiddish</a>
+</div>
+<br>
+<h2>Non-text</h2>
+<br>
+<div>
+<a href="/browse/categories/2" title="Audio Book, computer-generated (370)">Audio Book, computer-generated</a> |
+<a href="/browse/categories/1" title="Audio Book, human-read (576)">Audio Book, human-read</a> |
+<a href="/browse/categories/9" title="Compilations (3)">Compilations</a> |
+<a href="/browse/categories/8" title="Data (87)">Data</a> |
+<a href="/browse/categories/3" title="Music, recorded (137)">Music, recorded</a> |
+<a href="/browse/categories/4" title="Music, Sheet (33)">Music, Sheet</a> |
+<a href="/browse/categories/6" title="Other recordings (31)">Other recordings</a> |
+<a href="/browse/categories/7" title="Pictures, moving (8)">Pictures, moving</a> |
+<a href="/browse/categories/5" title="Pictures, still (3)">Pictures, still</a> 
+</div>
+</div>
+</div>
+  <!--- end tab 3 -->
 </div>
 </div>
 {:/nomarkdown}
