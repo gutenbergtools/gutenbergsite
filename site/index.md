@@ -100,7 +100,7 @@ permalink: /
     <ul>
       <li> - <a href="/browse/categories/1">Project Gutenberg’s 662 titles read by people</a> </li>
       <li> - <a href="https://librivox.org">Human-read audio books from LibriVox</a>. LibriVox is a volunteer community that produces high-quality performances. </li>
-      <li> - <a href="/browse/categories/2">The Project Gutenberg Open Audiobook Collection</a>. Almost 5,000 computer-generated titles from 2023 via a Project Gutenberg collaboration with Microsoft and MIT. </li>
+      <li> - <a href="https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html">The Project Gutenberg Open Audiobook Collection</a>. Almost 5,000 computer-generated titles from 2023 via a Project Gutenberg collaboration with Microsoft and MIT. </li>
       <li> - <a href="/browse/categories/2">Project Gutenberg’s audio books from 2003</a>. They are computer-generated and listenable but relatively low quality compared to today’s technology. </li>
     </ul>
   </div>
