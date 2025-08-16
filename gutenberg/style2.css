@@ -403,6 +403,7 @@ ul {
   line-height: 1em;
   color: #aa873b;
   margin-top: 3.5em;
+  word-break: break-word;
 }
 
 .page_content h2::before {
