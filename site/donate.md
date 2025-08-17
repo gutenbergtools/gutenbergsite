@@ -11,7 +11,9 @@ Thank you for considering a donation to Project Gutenberg.
 
 Think of this as a contribution to later generations. These are remarkable times, and it is good to include you as part of the story.
 
-Your donations make it possible to pay our basic expenses and support our volunteers to continue the creation of free electronic texts.
+Project Gutenberg’s founder, Michael Hart, was notoriously frugal. He never wanted to be dependent on specific funding levels, and instead insisted that Project Gutenberg would continue even if it had no funds. In support of this, he went for years without reliable income.
+
+Project Gutenberg appreciates all donations. They help to operate our minimalist infrastructure, to pay our tiny staff, and most importantly to support volunteers who create new free eBooks.
 
 The design of Project Gutenberg is that everything at www.gutenberg.org will always be free and available for unlimited redistribution at no cost.
 
@@ -106,5 +108,6 @@ Project Gutenberg has a (Google-hosted) <a href="https://docs.google.com/forms/d
 We do not provide any information about donors to any party outside of PGLAF and its employees and contractors for any purpose, except if required by law. We will not send subsequent postal or electronic mail or attempt to phone you. We do not add you to any mailing list or email list. If you would like to subscribe to one of the Project Gutenberg email lists please visit [our mailing list pages](https://lists.pglaf.org) for instructions.
 
 Donations are made to the [Project Gutenberg Literary Archive Foundation](/about/pglaf.html), a non-profit corporation registered in the US State of Mississippi. PGLAF is approved as a charitable 501(c)(3) organization by the US Internal Revenue Service, and has the Federal Employee Information Number (EIN) 64-6221541.
+
 
 If you want to make a donation in a way that's not specified below, please [contact us](/about/contact_information.html)!
