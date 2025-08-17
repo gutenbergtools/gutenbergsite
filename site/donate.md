@@ -110,4 +110,5 @@ We do not provide any information about donors to any party outside of PGLAF and
 Donations are made to the [Project Gutenberg Literary Archive Foundation](/about/pglaf.html), a non-profit corporation registered in the US State of Mississippi. PGLAF is approved as a charitable 501(c)(3) organization by the US Internal Revenue Service, and has the Federal Employee Information Number (EIN) 64-6221541.
 
 
-If you want to make a donation in a way that's not specified below, please [contact us](/about/contact_information.html)!
+If you want to make a donation in a way that's not specified, please [contact us](/about/contact_information.html)!
+
