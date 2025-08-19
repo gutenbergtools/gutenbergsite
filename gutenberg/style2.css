@@ -401,7 +401,7 @@ ul {
   font-weight: bold;
   width: 100%;
   line-height: 1em;
-  color: #aa873b;
+  color: black;
   margin-top: 3.5em;
   word-break: break-word;
 }
@@ -419,7 +419,7 @@ ul {
   margin-top: 15px;
   margin-bottom: 15px;
   width: 100%;
-  color: #9b8053;
+  color: black;
 }
 
 .page_content h3::before {
@@ -683,7 +683,7 @@ ul.results li::before {
 }
 
 .page_content h2.subtitle {
-  color: #9b8053;
+  color: black;
 }
 
 .footer a:link,
