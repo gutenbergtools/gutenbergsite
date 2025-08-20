@@ -406,6 +406,10 @@ ul {
   word-break: break-word;
 }
 
+#slogan {
+  color: #aa873b;
+}
+
 .page_content h2::before {
   display: block;
   content: "";
