@@ -401,8 +401,9 @@ ul {
   font-weight: bold;
   width: 100%;
   line-height: 1em;
-  color: #aa873b;
+  color: #9a772b;
   margin-top: 3.5em;
+  word-break: break-word;
 }
 
 .page_content h2::before {
@@ -418,7 +419,7 @@ ul {
   margin-top: 15px;
   margin-bottom: 15px;
   width: 100%;
-  color: #9b8053;
+  color: black;
 }
 
 .page_content h3::before {
@@ -547,7 +548,7 @@ ul.icon-list li {
   text-align: center;
   font-size: 0.9em;
   width: 100%;
-  background-color: #f0efea;
+  background-color: #F0F0F0;
 }
 
 .footer ul li {
@@ -682,7 +683,7 @@ ul.results li::before {
 }
 
 .page_content h2.subtitle {
-  color: #9b8053;
+  color: black;
 }
 
 .footer a:link,
