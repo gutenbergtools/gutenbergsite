@@ -401,9 +401,13 @@ ul {
   font-weight: bold;
   width: 100%;
   line-height: 1em;
-  color: #9a772b;
+  color: black;
   margin-top: 3.5em;
   word-break: break-word;
+}
+
+#slogan{
+  color: #9a772b;
 }
 
 .page_content h2::before {
