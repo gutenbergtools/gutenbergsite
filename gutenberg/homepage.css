@@ -157,9 +157,24 @@ h1, h2, h3, h4, h5, h6 {
 
 /* ---------- Latest Releases & Random Selection ---------- */
 .lib.latest {
+  overflow-x: auto;
   display: flex;
   gap: 28px;
   padding: 0px 0px 50px 0px;
+}
+
+.lib.latest::-webkit-scrollbar {
+  height: 10px;
+}
+
+.lib.latest::-webkit-scrollbar-thumb {
+  background-color: #b8b8b8;
+  border-radius: 10px;
+}
+
+.lib.latest::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+  border-radius: 10px;
 }
 
 .lib.latest .cover_image {
@@ -194,17 +209,18 @@ h1, h2, h3, h4, h5, h6 {
 /* ---------- 'Find more' link ---------- */
 .box_shadow p a {
   background-color: #C7DDE3;
-  padding: 0 12px;
+  padding: 5px 12px;
   border-radius: 3px;
 }
 
-.box_shadow p a:hover { filter: brightness(1.1); }
+.box_shadow p a:hover {
+  background-color: #7ebed0;
+}
 
 /* Responsive width for cover carousels */
 /* Library wrapper */
-.library {
-  overflow-x: auto;
-  position: relative;
+.library .box_shadow {
+  width: 100%;
 }
 
 /* Box Shadow heading label */
