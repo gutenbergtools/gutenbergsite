@@ -206,7 +206,7 @@ EOF;
    <li><a href=\"#books-last7\">Top $num EBooks last 7 days</a></li>
    <li><a href=\"#authors-last7\">Top $num Authors last 7 days</a></li>
    <li><a href=\"#books-last30\">Top $num EBooks last 30 days</a></li>
-   <li><a href=\"#authors-last30\">Top $num Authors last 30 days</li>
+   <li><a href=\"#authors-last30\">Top $num Authors last 30 days</a></li>
   </ul>
  </div>
 ";
