@@ -213,6 +213,12 @@ ul {
     break-inside: avoid;
 }
 
+/* Ensure headings stay in the same column as the list */
+.bookshelves .book-list {
+  break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+}
+
 .bookshelves > ul li::before {
   color: #a01f13;
   display: inline-block;
@@ -220,6 +226,31 @@ ul {
   margin-left: -1em;
 }
 
+.bookshelves h2:focus { outline: none; }
+
+/* highlights the relevant header if a user arrives via a "main categories" link on the homepage */
+@media only screen and (min-width: 751px) {
+  .bookshelves h2:target,
+  .bookshelves h2:focus {
+    background: #C7DDE3;
+    padding: 0.7em 0.5em;
+    animation: flash 1.5s ease-in-out 3;
+    font-size: 1.5em;
+    width: 80%;
+    display: inline-block;
+    box-sizing: border-box;
+  }
+}
+
+@keyframes flash {
+  0%, 100% { background: #C7DDE3; }
+  50%      { background:#F0F0F0}
+}
+
+.bookshelves h2 {
+  scroll-margin-top: 10rem; /* keeps heading out from under fixed header */
+}
+ 
 .page_content .bookshelves h2 {
   border-bottom: 0px none #ffffff;
 }
@@ -370,8 +401,9 @@ ul {
   font-weight: bold;
   width: 100%;
   line-height: 1em;
-  color: #aa873b;
+  color: #9a772b;
   margin-top: 3.5em;
+  word-break: break-word;
   margin-bottom: 1em;
 }
 
@@ -388,7 +420,7 @@ ul {
   margin-top: 15px;
   margin-bottom: 15px;
   width: 100%;
-  color: #9b8053;
+  color: black;
 }
 
 .page_content h3::before {
@@ -517,7 +549,7 @@ ul.icon-list li {
   text-align: center;
   font-size: 0.9em;
   width: 100%;
-  background-color: #f0efea;
+  background-color: #F0F0F0;
 }
 
 .footer ul li {
@@ -588,6 +620,11 @@ ul.results li::before {
   }
 }
 
+/* Bookshelf cards */
+.booklink .link {
+  display: flex!important
+}
+
 /*New Cover_image rules only applicable to test_index for latest covers from gutenberg1*/
 .library .latest a:link {
   text-decoration: none;
@@ -647,7 +684,7 @@ ul.results li::before {
 }
 
 .page_content h2.subtitle {
-  color: #9b8053;
+  color: black;
 }
 
 .footer a:link,
