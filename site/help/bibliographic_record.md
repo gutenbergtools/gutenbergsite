@@ -26,7 +26,7 @@ Read online (web)
 EPUB3
 : EPUB version 3 (electronic publication) is the current e-book standard, by the International Digital Publishing Forum (IDPF). EPUB files have the extension <i>.epub</i>. This is the file format most tablets and ereaders use. You can also use epub reader software on your computer.
 
-: Project Gutenberg EPUB and Kindle files are free from DRM (Digital Restrictions Management). We automatically generate the EPUB files from the HTML file if there is one, otherwise from the plain text file. If the source file is a plain text file, the program must guess at the structure of the text. Thus EPUB files may contain formatting errors like poetry verse lines run together or paragraphs wrongfully marked as headers.
+: Project Gutenberg EPUB and Kindle files are free from DRM (Digital Restrictions Management). We automatically generate the EPUB files from the HTML file if there is one, otherwise from the plain text file. If the source file is a plain text file, the program must guess at the structure of the text. Thus EPUB files may contain formatting errors like poetry verse lines running together or paragraphs wrongfully marked as headers.
 
 EPUB (older E-readers)
 : EPUB version 2 is offered for older eBook readers or software that cannot use EPUB3. We also offer "EPUB (no images, older E-readers)" which decreases the size of the file by omitting images.
@@ -72,7 +72,7 @@ There is an undecorated link to "more files" on the landing pages.
 
 This is where you can find the original versions of books. These are the input used to make the main formats listed above.
 
-Since Project Gutenberg books are frequently updated to fix typos and other problems, you can often find a folder called "old" or something similar with previous versions. As of mid-2024, previous versions are usually instead found in the Project Gutenberg [github collection](https://github.com/gutenbergbooks). 
+Project Gutenberg books are periodically updated to fix typos and other problems. Previous versions can often be found in a folder called "old" or something similar.
 
 ### Size
 The approximate file size.

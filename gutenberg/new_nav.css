@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+/* The following 2 lines can be removed if the "mini reset"
+   above using the * selector is removed.
+*/
+dt {margin-bottom: .2em;}
+dd {margin-bottom: 1em; margin-left: 2em;}
+
 header {
   width: 100%;
   display: flex;
