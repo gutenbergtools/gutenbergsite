@@ -72,7 +72,7 @@ There is an undecorated link to "more files" on the landing pages.
 
 This is where you can find the original versions of books. These are the input used to make the main formats listed above.
 
-Project Gutenberg books are periodically updated to fix typos and other problem. Previous versions can often be found in a folder called "old" or something similar.
+Project Gutenberg books are periodically updated to fix typos and other problems. Previous versions can often be found in a folder called "old" or something similar.
 
 ### Size
 The approximate file size.
