@@ -183,30 +183,35 @@ foreach ($langs as $l) {
 
     $s = <<< EOF
 <h1>Frequently Viewed or Downloaded</h1>
-<p>These listings are based on the number of times each eBook gets downloaded.
-      Multiple downloads from the same Internet address on the same day count as one download, and addresses that download more than 100 eBooks in a day are considered robots and are not counted.</p>
 
-<table>
+<p>Calculated from the number of times each eBook gets
+downloaded. (Multiple downloads from the same Internet
+address on the same day count as one download. Addresses
+that download more than 100 eBooks in a day are considered
+robots and are not counted.)</p>
+
+<table id="books-downloads-table">
   <caption>Downloaded Books</caption>
   <tr><th>$latest</th><td class="right">$d1</td></tr>
   <tr><th>last 7 days</th><td class="right">$d7</td></tr>
   <tr><th>last 30 days</th><td class="right">$d30</td></tr>
 </table>
 
-<a href="/about/pretty-pictures.html">Pretty Pictures</a>
+<p>Visualizations and graphs are available as
+<a href="/about/pretty-pictures.html">pretty pictures</a>.</p>
 
 EOF;
 
     fputs ($hd, $s);
 
-    $links = " <div class=\"padded\">
+    $links = " <div id=\"books-downloads-nav\" class=\"padded\">
   <ul>
    <li><a href=\"#books-last1\">Top $num EBooks yesterday</a></li>
    <li><a href=\"#authors-last1\">Top $num Authors yesterday</a></li>
    <li><a href=\"#books-last7\">Top $num EBooks last 7 days</a></li>
    <li><a href=\"#authors-last7\">Top $num Authors last 7 days</a></li>
    <li><a href=\"#books-last30\">Top $num EBooks last 30 days</a></li>
-   <li><a href=\"#authors-last30\">Top $num Authors last 30 days</li>
+   <li><a href=\"#authors-last30\">Top $num Authors last 30 days</a></li>
   </ul>
  </div>
 ";
