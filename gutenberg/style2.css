@@ -251,10 +251,12 @@ ul {
   scroll-margin-top: 10rem; /* keeps heading out from under fixed header */
 }
 
-h1, h2, h3, h4, h5, h6 {
-  scroll-margin-top: 60px; /* keeps headings out from under fixed header */
+@media (min-width: 1024px) {
+  h1, h2, h3, h4, h5, h6 {
+    scroll-margin-top: 60px; /* keeps headings out from under fixed header */
+  }
 }
- 
+
 .page_content .bookshelves h2 {
   border-bottom: 0px none #ffffff;
 }
