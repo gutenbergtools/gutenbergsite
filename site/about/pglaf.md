@@ -25,25 +25,27 @@ PGLAF is a not-for-profit corporation registered in the state of Mississippi. Th
 
 ## Tax Status
 
-PGLAF has been granted tax exempt status by the IRS under section 501(c)(3) of the US Internal Revenue Code. It has EIN&nbsp;#64-6221541. Here are scans of the [initial IRS determination letter](/gutenberg/pglaf_irs_preliminary.pdf) from October 2000, and the [final IRS determination letter](/gutenberg/pglaf_irs_final.pdf) from October 2005.
+PGLAF has been granted tax exempt status by the IRS under section 501(c)(3) of the US Internal Revenue Code. It has EIN #64-6221541. 
 
-## Employees
+## Board of Directors
 
-PGLAF employs Patrick Webb as a part-time project coordinator and office manager. There are no other employees at this time.
+There are currently seven board members:
 
-## Board Members
-
-There are currently six board members:
-
-* Dr. Gregory Newby (Chair and Chief Executive Officer), New York
-* Dr. Douglas Bowman, Illinois
-* Dr. John Guagliardo, Hawaii
+* Gregory Newby (Chair and Chief Executive Officer), Yukon
+* Douglas Bowman, Illinois
+* John Guagliardo, Hawaii
 * Maitri Erwin, Texas
 * Mark Zinzow, Illinois
+* Eric Hellman, (Acting Executive Director) New Jersey
+* Robert Tonsing, Texas
 
 Past board members:
 
 * [Dr. Harry H. Hilton, Illinois](https://aerospace.illinois.edu/news/46217), who was a board member from PGLAF's inception in 2000 until his death in 2022.
+
+## Employees
+
+PGLAF employs Patrick Webb as a part-time project coordinator and office manager. There are no other employees at this time.
 
 ## Bylaws and Articles of Incorporation
 

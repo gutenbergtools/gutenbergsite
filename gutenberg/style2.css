@@ -250,7 +250,13 @@ ul {
 .bookshelves h2 {
   scroll-margin-top: 10rem; /* keeps heading out from under fixed header */
 }
- 
+
+@media (min-width: 1024px) {
+  h1, h2, h3, h4, h5, h6 {
+    scroll-margin-top: calc(60px + 0.5rem); /* keeps headings out from under fixed header */
+  }
+}
+
 .page_content .bookshelves h2 {
   border-bottom: 0px none #ffffff;
 }
@@ -404,6 +410,7 @@ ul {
   color: black;
   margin-top: 3.5em;
   word-break: break-word;
+  margin-bottom: 1em;
 }
 
 #slogan{
@@ -932,4 +939,77 @@ ul.results li::before {
     clip: auto;
     width: auto;
     height: auto;
+}
+
+/* =========== "SORT BY" DROPDOWN =========== */
+.sort-dropdown {
+  position: relative;
+  display: inline-block;
+  padding: 0.5em;
+  width: 100%;
+}
+
+.body p {
+  margin: 0;
+  padding: 0 0.5em;
+  font-weight: bold;
+}
+
+.sort-dropdown-toggle {
+  background: #ffffff;
+  color: #333;
+  padding: 10px 16px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  font-style: italic;
+}
+
+.sort-dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  min-width: 180px;
+  z-index: 10;
+}
+
+.sort-dropdown-menu a {
+  display: block;
+  padding: 10px 14px;
+  color: #333;
+  text-decoration: none!important;
+  border-radius: 2px;
+}
+
+.sort-dropdown:focus-within .sort-dropdown-menu {
+  display: block;
+}
+
+.sort-dropdown:hover .sort-dropdown-menu {
+  display: block;
+}
+
+.sort-dropdown-menu a:hover,
+.sort-dropdown-menu a:focus {
+  background-color: #c7dde3;
+}
+
+.sort-dropdown-menu a:active {
+  color: black;
+}
+
+/* Ensure keyboard users can tab through items */
+.sort-dropdown-toggle:focus,
+.sort-dropdown-menu a:focus-visible {
+  outline: 2px solid #7ebed0;
+  outline-offset: 2px;
 }
