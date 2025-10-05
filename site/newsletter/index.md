@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Newsletter | Project Gutenberg
-permalink: /about/
+permalink: /newsletter/
 ---
 
 Project Gutenberg News - Latest
