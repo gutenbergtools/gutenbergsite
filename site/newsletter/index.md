@@ -4,8 +4,7 @@ title: Newsletter | Project Gutenberg
 permalink: /newsletter/
 ---
 
-Project Gutenberg News
-======================
+# Project Gutenberg News
 
 ### October 2025
 

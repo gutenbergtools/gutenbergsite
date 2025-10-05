@@ -204,16 +204,13 @@ EOF;
 
     fputs ($hd, $s);
 
-    $links = " <div id=\"books-downloads-nav\" class=\"padded\">
-  <ul>
-   <li><a href=\"#books-last1\">Top $num EBooks yesterday</a></li>
-   <li><a href=\"#authors-last1\">Top $num Authors yesterday</a></li>
-   <li><a href=\"#books-last7\">Top $num EBooks last 7 days</a></li>
-   <li><a href=\"#authors-last7\">Top $num Authors last 7 days</a></li>
-   <li><a href=\"#books-last30\">Top $num EBooks last 30 days</a></li>
-   <li><a href=\"#authors-last30\">Top $num Authors last 30 days</a></li>
-  </ul>
- </div>
+    $links = "  <style>
+    #books-downloads-nav { display: inline-block; overflow: auto; border: solid 1px #eee; padding: 1em; background: #fafafa;}
+  </style>
+  <div id=\"books-downloads-nav\">
+    <b>Top 100 EBooks:</b> <a href=\"#books-last1\">Yesterday</a> - <a href=\"#books-last7\">7&nbsp;days</a> - <a href=\"#books-last30\">30&nbsp;days</a><br>
+    <b>Top 100 Authors:</b> <a href=\"#authors-last1\">Yesterday</a> - <a href=\"#authors-last7\">7&nbsp;days</a></li> - <a href=\"#authors-last30\">30&nbsp;days</a>
+  </div>
 ";
 
     // Yesterday
