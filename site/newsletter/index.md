@@ -190,10 +190,10 @@ Visit <http://pgdp.net> to learn how to create eBooks for Project Gutenberg. Pro
 
 ## Find Project Gutenberg on social media
 
-Facebook: <http://facebook.com/project.gutenberg>
+Facebook: <http://facebook.com/project.gutenberg>  
 Facebook news feed of new eBooks: <http://facebook.com/gutenberg.new>
 
-Mastodon: <https://mastodon.social/@gutenberg_org>
+Mastodon: <https://mastodon.social/@gutenberg_org>  
 Mastodon news feed of new eBooks: <https://mastodon.social/@gutenberg_new>
 
 Bluesky: <https://bsky.app/profile/gutenbergorg.bsky.social>
