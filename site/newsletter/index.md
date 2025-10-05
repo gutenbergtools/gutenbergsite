@@ -4,20 +4,15 @@ title: Newsletter | Project Gutenberg
 permalink: /newsletter/
 ---
 
-Project Gutenberg News - Latest
-===============================
+Project Gutenberg News
+======================
+
+### October 2025
+
+___Enjoy these eBooks. Share them. Celebrate them.___
 
 
-October 2025
-------------
-
-
----
-> \- Enjoy these eBooks. Share them. Celebrate them. -
----
-
-
-## CONTENTS
+## Contents
 
 * PGLAF CEO Greg Newby’s Medical Status
 * Eric Hellman appointed interim director of PGLAF
