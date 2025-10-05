@@ -8,7 +8,9 @@ Project Gutenberg News - Latest
 ===============================
 
 
-# The Project Gutenberg Newsletter for October 2025
+October 2025
+------------
+
 
 ---
 > \- Enjoy these eBooks. Share them. Celebrate them. -
