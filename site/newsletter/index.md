@@ -4,20 +4,14 @@ title: Newsletter | Project Gutenberg
 permalink: /newsletter/
 ---
 
-Project Gutenberg News - Latest
-===============================
+# Project Gutenberg News
+
+### October 2025
+
+___Enjoy these eBooks. Share them. Celebrate them.___
 
 
-October 2025
-------------
-
-
----
-> \- Enjoy these eBooks. Share them. Celebrate them. -
----
-
-
-## CONTENTS
+## Contents
 
 * PGLAF CEO Greg Newby’s Medical Status
 * Eric Hellman appointed interim director of PGLAF
@@ -201,5 +195,6 @@ Mastodon news feed of new eBooks: <https://mastodon.social/@gutenberg_new>
 Bluesky: <https://bsky.app/profile/gutenbergorg.bsky.social>
 
 Thanks to the Project Gutenberg Social Media Team for keeping these feeds interesting!
+
 
 
