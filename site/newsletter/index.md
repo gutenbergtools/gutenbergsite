@@ -4,28 +4,20 @@ title: Newsletter | Project Gutenberg
 permalink: /newsletter/
 ---
 
-Project Gutenberg News - Latest
-===============================
+# Project Gutenberg News
+
+### October 2025
+
+___Enjoy these eBooks. Share them. Celebrate them.___
 
 
-October 2025
-------------
-
-
----
-> \- Enjoy these eBooks. Share them. Celebrate them. -
----
-
-
-## CONTENTS
+## Contents
 
 * PGLAF CEO Greg Newby’s Medical Status
 * Eric Hellman appointed interim director of PGLAF
 * Welcome to the PGLAF Board: Robert Tonsing
 * Anyone can Help Make New eBooks!
 * More About Project Gutenberg: Writings and Podcasts
-* Join Distributed Proofreaders
-* Find Project Gutenberg on social media
 * Recent releases
 * Join Distributed Proofreaders
 * Find Project Gutenberg on social media
@@ -70,7 +62,7 @@ Congratulations to Distributed Proofreaders! October marks 25 years of this uniq
 
 ## More About Project Gutenberg
 
-* The History and Philosophy of Project Gutenberg by Michael Hart (1992) - Project Gutenberg began in 1971 when Michael Hart was given an operator’s account with computer time at the Xerox Sigma V mainframe at the Materials Research Lab at the University of Illinois. As it turned out two of a four operator crew happened to be the best friends of Michael’s and his brother. <http://gutenberg.org/about/background/history_and_philosophy.html>
+* The History and Philosophy of Project Gutenberg by Michael Hart (1992) - Project Gutenberg began in 1971 when Michael Hart was given an operator’s account with computer time at the Xerox Sigma V mainframe at the Materials Research Lab at the University of Illinois. As it turned out two of a four operator crew happened to be the best friends of Michael’s and his brother. <https://gutenberg.org/about/background/history_and_philosophy.html>
 
 * Dr. Greg Newby on being CEO of Project Gutenberg and being with the Government of Yukon Territory (2024) - Thanks to Neel Lopes for an interview podcast with Greg Newby, Director of the PGLAF. The podcast covers Greg's early involvement with Project Gutenberg, and discussion about the background and status of Project Gutenberg's role in the world of online literature. <https://youtu.be/p-HGtQSuhEc>
 
@@ -84,105 +76,129 @@ In the last month PGLAF with the help of DP added another *105* new public domai
 
 A selection of this month’s notable titles:
 
-<pre>
-The fair Mississippian [1908], Craddock, Charles Egbert
-443 pages; September 2, 2025
-PG #76784 <http://gutenberg.org/ebooks/76784>
 
-Heart of New England, Brown, Abbie Farwell
-158 pages; September 2, 2025
-PG #76783 <http://gutenberg.org/ebooks/76783>
+The fair Mississippian (1908)  
+Craddock, Charles Egbert  
+443 pages; September 2, 2025  
+PG #76784 <https://gutenberg.org/ebooks/76784>
 
-A Broken Blossom Vol. 2 of 3, Marryat, Florence
-247 pages; September 2, 2025
-PG #76780 <http://gutenberg.org/ebooks/76780>
+Heart of New England  
+Brown, Abbie Farwell  
+158 pages; September 2, 2025  
+PG #76783 <https://gutenberg.org/ebooks/76783>
 
-Eccentricities of Genius [1901], Pond, James Burton
-640 pages; September 13, 2025
-PG #76861 <http://gutenberg.org/ebooks/76861>
+A Broken Blossom Vol. 2 of 3  
+Marryat, Florence  
+247 pages; September 2, 2025  
+PG #76780 <https://gutenberg.org/ebooks/76780>
 
-The chocolate-plant (Theobroma cacao) and its products, Anonymous
-40 pages; September 10, 2025
-PG #76852 <http://gutenberg.org/ebooks/76852>
+Eccentricities of Genius (1901)  
+Pond, James Burton  
+640 pages; September 13, 2025  
+PG #76861 <https://gutenberg.org/ebooks/76861>
 
-First Course in Biology, Bailey, Liberty Hyde
-640 pages; September 10, 2025
-PG #76851 <http://gutenberg.org/ebooks/76851>
+The chocolate-plant (Theobroma cacao) and its products  
+Anonymous  
+40 pages; September 10, 2025  
+PG #76852 <https://gutenberg.org/ebooks/76852>
 
-The army behind the army [1919], Powell, E. Alexander
-535 pages; September 9, 2025
-PG #76843 <http://gutenberg.org/ebooks/76843>
+First Course in Biology  
+Bailey, Liberty Hyde  
+640 pages; September 10, 2025  
+PG #76851 <https://gutenberg.org/ebooks/76851>
 
-Arts and crafts of old Japan, Stewart Dick
-223 pages; September 9, 2025
-PG #76830 <http://gutenberg.org/ebooks/76830>
+The army behind the army (1919)  
+Powell, E. Alexander  
+535 pages; September 9, 2025  
+PG #76843 <https://gutenberg.org/ebooks/76843>
 
-Through the Dark Continent (Vol. 2 of 2), Stanley, Henry Morton
-490 pages; September 9, 2025
-PG #76825 <http://gutenberg.org/ebooks/76825>
+Arts and crafts of old Japan  
+Stewart Dick  
+223 pages; September 9, 2025  
+PG #76830 <https://gutenberg.org/ebooks/76830>
 
-Four American Poets [1899], Cody, Sherwin
-254 pages; September 9, 2025
-PG #76822 <http://gutenberg.org/ebooks/76822>
+Through the Dark Continent (Vol. 2 of 2)  
+Stanley, Henry Morton  
+490 pages; September 9, 2025  
+PG #76825 <https://gutenberg.org/ebooks/76825>
 
-The Great Roxhythe, Heyer, Georgette
-424 pages; September 9, 2025
-PG #76816 <http://gutenberg.org/ebooks/76816>
+Four American Poets (1899)  
+Cody, Sherwin  
+254 pages; September 9, 2025  
+PG #76822 <https://gutenberg.org/ebooks/76822>
 
-A devil of a fellow and the yellow cat, Steele, Wilbur Daniel
-64 pages; September 9, 2025
-PG #76815 <http://gutenberg.org/ebooks/76815>
+The Great Roxhythe  
+Heyer, Georgette  
+424 pages; September 9, 2025  
+PG #76816 <https://gutenberg.org/ebooks/76816>
 
-A Sailor's Life under Four Sovereigns (vol. 3 of 3), Keppel, Henry
-384 pages; September 4, 2025
-PG #76810 <http://gutenberg.org/ebooks/76810>
+A devil of a fellow and the yellow cat  
+Steele, Wilbur Daniel  
+64 pages; September 9, 2025  
+PG #76815 <https://gutenberg.org/ebooks/76815>
 
-A Sailor's Life under Four Sovereigns (vol. 2 of 3), Keppel, Henry
-355 pages; September 4, 2025
-PG #76809 <http://gutenberg.org/ebooks/76809>
+A Sailor's Life under Four Sovereigns (vol. 3 of 3)  
+Keppel, Henry  
+384 pages; September 4, 2025  
+PG #76810 <https://gutenberg.org/ebooks/76810>
 
-A Sailor's Life under Four Sovereigns (vol. 1 of 3), Keppel, Henry
-356 pages; September 4, 2025
-PG #76808 <http://gutenberg.org/ebooks/76808>
+A Sailor's Life under Four Sovereigns (vol. 2 of 3)  
+Keppel, Henry  
+355 pages; September 4, 2025  
+PG #76809 <https://gutenberg.org/ebooks/76809>
 
-Another year with Denise and Ned Toodles, Jackson, Gabrielle E.
-295 pages; September 4, 2025
-PG #76807 <http://gutenberg.org/ebooks/76807>
+A Sailor's Life under Four Sovereigns (vol. 1 of 3)  
+Keppel, Henry  
+356 pages; September 4, 2025  
+PG #76808 <https://gutenberg.org/ebooks/76808>
 
-The law of copyright, Wordsworth, William
-11 pages; September 4, 2025
-PG #76806 <http://gutenberg.org/ebooks/76806>
+Another year with Denise and Ned Toodles  
+Jackson, Gabrielle E.  
+295 pages; September 4, 2025  
+PG #76807 <https://gutenberg.org/ebooks/76807>
 
-Life of George Washington, volume 2 of 5, Irving, Washington
-502 pages; September 4, 2025
-PG #76805 <http://gutenberg.org/ebooks/76805>
+The law of copyright  
+Wordsworth, William  
+11 pages; September 4, 2025  
+PG #76806 <https://gutenberg.org/ebooks/76806>
 
-Hurlothrumbo: or: the super-natural, Johnson, Samuel
-59 pages; September 3, 2025
-PG #76792 <http://gutenberg.org/ebooks/76792>
+Life of George Washington, volume 2 of 5  
+Irving, Washington  
+502 pages; September 4, 2025  
+PG #76805 <https://gutenberg.org/ebooks/76805>
 
-Round the Horn before the Mast [1903], Lubbock, Basil
-413 pages; September 2, 2025
-PG #76788 <http://gutenberg.org/ebooks/76788>
+Hurlothrumbo: or: the super-natural  
+Johnson, Samuel  
+59 pages; September 3, 2025  
+PG #76792 <https://gutenberg.org/ebooks/76792>
 
-The blind bow-boy, Van Vechten, Carl
-271 pages; September 26, 2025
-PG #76934 <http://gutenberg.org/ebooks/76934>
+Round the Horn before the Mast (1903)  
+Lubbock, Basil  
+413 pages; September 2, 2025  
+PG #76788 <https://gutenberg.org/ebooks/76788>
 
-How and what to grow in a kitchen garden of one acre., Darlington, E. D., Moll, L. M.
-202 pages; September 26, 2025
-PG #76930 <http://gutenberg.org/ebooks/76930>
+The blind bow-boy  
+Van Vechten, Carl  
+271 pages; September 26, 2025  
+PG #76934 <https://gutenberg.org/ebooks/76934>
 
-Maugis, ye sorcerer: from ye ancient French, Gilhooley, Lord
-277 pages; September 26, 2025
-PG #76929 <http://gutenberg.org/ebooks/76929>
+How and what to grow in a kitchen garden of one acre  
+Darlington, E. D., Moll, L. M.  
+202 pages; September 26, 2025  
+PG #76930 <https://gutenberg.org/ebooks/76930>
 
-Madame Pierre Curie [1910], Béliard, O. & dessins Delannoy, A. (French)
-11 pages; September 26, 2025
-PG #76928 <http://gutenberg.org/ebooks/76928>
+Maugis, ye sorcerer: from ye ancient French  
+Gilhooley, Lord  
+277 pages; September 26, 2025  
+PG #76929 <https://gutenberg.org/ebooks/76929>
 
-The list of registered, operational mirrors is here:  http://gutenberg.org/MIRRORS.ALL
-</pre>
+Madame Pierre Curie (1910)  
+Béliard, O. & dessins Delannoy, A. (French)  
+11 pages; September 26, 2025  
+PG #76928 <https://gutenberg.org/ebooks/76928>
+
+The list of registered, operational mirrors is here:  
+<http://gutenberg.org/MIRRORS.ALL>
 
 
 ## Join Distributed Proofreaders
@@ -198,8 +214,13 @@ Facebook news feed of new eBooks: <http://facebook.com/gutenberg.new>
 Mastodon: <https://mastodon.social/@gutenberg_org>  
 Mastodon news feed of new eBooks: <https://mastodon.social/@gutenberg_new>
 
-Bluesky: <https://bsky.app/profile/gutenbergorg.bsky.social>
+Bluesky: <https://bsky.app/profile/gutenberg.org>  
+Bluesky news feed of new eBooks: <https://bsky.app/profile/new.gutenberg.org>
 
 Thanks to the Project Gutenberg Social Media Team for keeping these feeds interesting!
 
+---
 
+# Subscribe to the newsletter
+
+To receive the newsletter via email, follow the instructions here: <https://www.gutenberg.org/help/subscribe_how_to.html>
