@@ -78,105 +78,129 @@ In the last month PGLAF with the help of DP added another *105* new public domai
 
 A selection of this month’s notable titles:
 
-<pre>
-The fair Mississippian [1908], Craddock, Charles Egbert
-443 pages; September 2, 2025
+
+The fair Mississippian (1908)  
+Craddock, Charles Egbert  
+443 pages; September 2, 2025  
 PG #76784 <http://gutenberg.org/ebooks/76784>
 
-Heart of New England, Brown, Abbie Farwell
-158 pages; September 2, 2025
+Heart of New England  
+Brown, Abbie Farwell  
+158 pages; September 2, 2025  
 PG #76783 <http://gutenberg.org/ebooks/76783>
 
-A Broken Blossom Vol. 2 of 3, Marryat, Florence
-247 pages; September 2, 2025
+A Broken Blossom Vol. 2 of 3  
+Marryat, Florence  
+247 pages; September 2, 2025  
 PG #76780 <http://gutenberg.org/ebooks/76780>
 
-Eccentricities of Genius [1901], Pond, James Burton
-640 pages; September 13, 2025
+Eccentricities of Genius (1901)  
+Pond, James Burton  
+640 pages; September 13, 2025  
 PG #76861 <http://gutenberg.org/ebooks/76861>
 
-The chocolate-plant (Theobroma cacao) and its products, Anonymous
-40 pages; September 10, 2025
+The chocolate-plant (Theobroma cacao) and its products  
+Anonymous  
+40 pages; September 10, 2025  
 PG #76852 <http://gutenberg.org/ebooks/76852>
 
-First Course in Biology, Bailey, Liberty Hyde
-640 pages; September 10, 2025
+First Course in Biology  
+Bailey, Liberty Hyde  
+640 pages; September 10, 2025  
 PG #76851 <http://gutenberg.org/ebooks/76851>
 
-The army behind the army [1919], Powell, E. Alexander
-535 pages; September 9, 2025
+The army behind the army (1919)  
+Powell, E. Alexander  
+535 pages; September 9, 2025  
 PG #76843 <http://gutenberg.org/ebooks/76843>
 
-Arts and crafts of old Japan, Stewart Dick
-223 pages; September 9, 2025
+Arts and crafts of old Japan  
+Stewart Dick  
+223 pages; September 9, 2025  
 PG #76830 <http://gutenberg.org/ebooks/76830>
 
-Through the Dark Continent (Vol. 2 of 2), Stanley, Henry Morton
-490 pages; September 9, 2025
+Through the Dark Continent (Vol. 2 of 2)  
+Stanley, Henry Morton  
+490 pages; September 9, 2025  
 PG #76825 <http://gutenberg.org/ebooks/76825>
 
-Four American Poets [1899], Cody, Sherwin
-254 pages; September 9, 2025
+Four American Poets (1899)  
+Cody, Sherwin  
+254 pages; September 9, 2025  
 PG #76822 <http://gutenberg.org/ebooks/76822>
 
-The Great Roxhythe, Heyer, Georgette
-424 pages; September 9, 2025
+The Great Roxhythe  
+Heyer, Georgette  
+424 pages; September 9, 2025  
 PG #76816 <http://gutenberg.org/ebooks/76816>
 
-A devil of a fellow and the yellow cat, Steele, Wilbur Daniel
-64 pages; September 9, 2025
+A devil of a fellow and the yellow cat  
+Steele, Wilbur Daniel  
+64 pages; September 9, 2025  
 PG #76815 <http://gutenberg.org/ebooks/76815>
 
-A Sailor's Life under Four Sovereigns (vol. 3 of 3), Keppel, Henry
-384 pages; September 4, 2025
+A Sailor's Life under Four Sovereigns (vol. 3 of 3)  
+Keppel, Henry  
+384 pages; September 4, 2025  
 PG #76810 <http://gutenberg.org/ebooks/76810>
 
-A Sailor's Life under Four Sovereigns (vol. 2 of 3), Keppel, Henry
-355 pages; September 4, 2025
+A Sailor's Life under Four Sovereigns (vol. 2 of 3)  
+Keppel, Henry  
+355 pages; September 4, 2025  
 PG #76809 <http://gutenberg.org/ebooks/76809>
 
-A Sailor's Life under Four Sovereigns (vol. 1 of 3), Keppel, Henry
-356 pages; September 4, 2025
+A Sailor's Life under Four Sovereigns (vol. 1 of 3)  
+Keppel, Henry  
+356 pages; September 4, 2025  
 PG #76808 <http://gutenberg.org/ebooks/76808>
 
-Another year with Denise and Ned Toodles, Jackson, Gabrielle E.
-295 pages; September 4, 2025
+Another year with Denise and Ned Toodles  
+Jackson, Gabrielle E.  
+295 pages; September 4, 2025  
 PG #76807 <http://gutenberg.org/ebooks/76807>
 
-The law of copyright, Wordsworth, William
-11 pages; September 4, 2025
+The law of copyright  
+Wordsworth, William  
+11 pages; September 4, 2025  
 PG #76806 <http://gutenberg.org/ebooks/76806>
 
-Life of George Washington, volume 2 of 5, Irving, Washington
-502 pages; September 4, 2025
+Life of George Washington, volume 2 of 5  
+Irving, Washington  
+502 pages; September 4, 2025  
 PG #76805 <http://gutenberg.org/ebooks/76805>
 
-Hurlothrumbo: or: the super-natural, Johnson, Samuel
-59 pages; September 3, 2025
+Hurlothrumbo: or: the super-natural  
+Johnson, Samuel  
+59 pages; September 3, 2025  
 PG #76792 <http://gutenberg.org/ebooks/76792>
 
-Round the Horn before the Mast [1903], Lubbock, Basil
-413 pages; September 2, 2025
+Round the Horn before the Mast (1903)  
+Lubbock, Basil  
+413 pages; September 2, 2025  
 PG #76788 <http://gutenberg.org/ebooks/76788>
 
-The blind bow-boy, Van Vechten, Carl
-271 pages; September 26, 2025
+The blind bow-boy  
+Van Vechten, Carl  
+271 pages; September 26, 2025  
 PG #76934 <http://gutenberg.org/ebooks/76934>
 
-How and what to grow in a kitchen garden of one acre., Darlington, E. D., Moll, L. M.
-202 pages; September 26, 2025
+How and what to grow in a kitchen garden of one acre  
+Darlington, E. D., Moll, L. M.  
+202 pages; September 26, 2025  
 PG #76930 <http://gutenberg.org/ebooks/76930>
 
-Maugis, ye sorcerer: from ye ancient French, Gilhooley, Lord
-277 pages; September 26, 2025
+Maugis, ye sorcerer: from ye ancient French  
+Gilhooley, Lord  
+277 pages; September 26, 2025  
 PG #76929 <http://gutenberg.org/ebooks/76929>
 
-Madame Pierre Curie [1910], Béliard, O. & dessins Delannoy, A. (French)
-11 pages; September 26, 2025
+Madame Pierre Curie (1910)  
+Béliard, O. & dessins Delannoy, A. (French)  
+11 pages; September 26, 2025  
 PG #76928 <http://gutenberg.org/ebooks/76928>
 
-The list of registered, operational mirrors is here:  http://gutenberg.org/MIRRORS.ALL
-</pre>
+The list of registered, operational mirrors is here:  
+http://gutenberg.org/MIRRORS.ALL
 
 
 ## Join Distributed Proofreaders
@@ -195,6 +219,3 @@ Mastodon news feed of new eBooks: <https://mastodon.social/@gutenberg_new>
 Bluesky: <https://bsky.app/profile/gutenbergorg.bsky.social>
 
 Thanks to the Project Gutenberg Social Media Team for keeping these feeds interesting!
-
-
-
