@@ -19,8 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Project Gutenberg is a library of free eBooks.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.gutenberg.org/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: gutenberg_org
-github_username:  gbnewby
+github_username:  eshellman
 
 # Build settings
 markdown: kramdown

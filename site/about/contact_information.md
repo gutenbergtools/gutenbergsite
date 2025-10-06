@@ -44,17 +44,17 @@ Please select the most appropriate address from this list.
 
     See [cand.pglaf.org](http://cand.pglaf.org) before reporting potential misuse of copyrighted materials. Responses are typically sent within two days.
 
-5. gbnewby (at) pglaf.org
+5. eric (at) pglaf.org
 
-Contact the CEO of the Project Gutenberg Literary Archive Foundation, Dr. Gregory Newby. If you don't get a response within a few days, please first check your spam filters & similar for a response. Resend your message, if no response is received within a few days.
+Contact the Executive Director of the Project Gutenberg Literary Archive Foundation, Eric Hellman. If you don't get a response within a few days, please first check your spam filters & similar for a response. Resend your message, if no response is received within a few days.
 
 ## Postal Mail
 If you need to send printed mail, please consider instead scanning and emailing to the appropriate address above. But if you really need to send something physical, send to this address:
 
 ```
 Project Gutenberg Literary Archive Foundation
-PO Box 16327
-Salt Lake City, UT 84116
+41 Watchung Plaza #516
+Montclair NJ 07042
 ```
 
 ## Distributed Proofreaders

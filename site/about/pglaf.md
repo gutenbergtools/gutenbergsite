@@ -20,8 +20,8 @@ To:
 PGLAF is a not-for-profit corporation registered in the state of Mississippi. The business office address of the corporation is:
 
 <dl><dd>  Project Gutenberg Literary Archive Foundation</dd>
-<dd>  PO Box 16327</dd>
-<dd>  Salt Lake City, UT 84116</dd></dl>
+<dd>  41 Watchung Plaza, #516</dd>
+<dd>  Montclair, NJ 07042</dd></dl>
 
 ## Tax Status
 
