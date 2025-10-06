@@ -18,8 +18,6 @@ ___Enjoy these eBooks. Share them. Celebrate them.___
 * Welcome to the PGLAF Board: Robert Tonsing
 * Anyone can Help Make New eBooks!
 * More About Project Gutenberg: Writings and Podcasts
-* Join Distributed Proofreaders
-* Find Project Gutenberg on social media
 * Recent releases
 * Join Distributed Proofreaders
 * Find Project Gutenberg on social media
@@ -219,3 +217,9 @@ Mastodon news feed of new eBooks: <https://mastodon.social/@gutenberg_new>
 Bluesky: <https://bsky.app/profile/gutenbergorg.bsky.social>
 
 Thanks to the Project Gutenberg Social Media Team for keeping these feeds interesting!
+
+---
+
+# Subscribe to the newsletter
+
+To receive the newsletter via email, follow the instructions here: <https://www.gutenberg.org/help/subscribe_how_to.html>
