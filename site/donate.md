@@ -77,26 +77,14 @@ Project Gutenberg is provided with your name and donation amount, but not with y
 Send a check or money order (any currency) to:
 
 <dl><dd>Project Gutenberg Literary Archive Foundation</dd>
-<dd>PO Box 16327</dd>
-<dd>Salt Lake City, UT 84116</dd></dl>
+<dd>41 Watchung Plaza, #516</dd>
+<dd>  Montclair, NJ 07042</dd></dl>
 
 The bank we utilize, Wells Fargo, does not charge any fees for our bank account. They do charge a fee for processing non-US funds. This fee is difficult to know in advance, but usually seems to be five dollars or slightly more for checks of at least $USD 100 in value. The exchange rate to US funds is at market value.
 
 Any donation of $100 or over will receive a written "thank you" via postal mail, unless you do not provide a return address.
 
 Note that since fall 2023 we have had problems with some mail sent to our USPS post office box being delayed significantly. Delays of up to 6 months have occurred. This has been frustrating for donors, as well as for Project Gutenberg.
-
-
-<br>
-## <a name="givefreely"></a> Option 4 - Give Freely Browser Extension
-
-<a href="https://givefreely.com/" target="_blank" rel="noopener noreferrer">Give Freely</a> helps you find coupons at over 10.000 participating online stores and automatically donates to a charity of your choice when you make a purchase using one of their coupons.
-
-You start by installing their browser extension and specifiying your charity of choice (Project Gutenberg if you like). The extension detects when you visit a participating merchant online. Then, if you make a purchase, a donation is channeled from that merchant to your selected charity. There is no cost to you.
-
-This donation method is currently only available for people in the United States, Canada or the UK who are using the Chrome or Edge browser. Additional browser support is coming in summer 2024.
-
-Project Gutenberg has a (Google-hosted) <a href="https://docs.google.com/forms/d/e/1FAIpQLSdvk_QEXMmSWr042oJJ-HQf9JxGFJADEh5HJxTfOldQ-k0vLg/viewform?usp=sf_link" rel="noopener noreferrer">feedback form</a> for any input you might have about using the Give Freely donation platform.
 
 
 <br>

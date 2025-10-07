@@ -237,7 +237,7 @@ The GNU General Public License is explained in human language at:
   http://creativecommons.org/licenses/GPL/2.0/
 
 If you are uncertain about the terms of the license or whether your
-intended use is legitimate, please email gbnewby@pglaf.org for
+intended use is legitimate, please email eric@pglaf.org for
 clarification.
 
 Thank you for your interest in Project Gutenberg.  For more

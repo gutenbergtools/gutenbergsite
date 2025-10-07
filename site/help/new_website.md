@@ -83,7 +83,7 @@ If you have suggestions or find problems with the website pages (i.e., not the e
 
 ### Typos, wording changes, etc.
 
-The words and structure of the website are in a [github repository](https://github.com/gbnewby/gutenbergsite), and are available for submission of issues, pull requests, or examination.
+The words and structure of the website are in a [github repository](https://github.com/gutenbergtools/gutenbergsite), and are available for submission of issues, pull requests, or examination.
 
 You can also suggest changes or report problems as described above for layout and design.
 

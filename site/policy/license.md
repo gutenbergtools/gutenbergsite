@@ -141,17 +141,17 @@ Volunteers and financial support to provide volunteers with the assistance they 
 ### Section 3. Information about the Project Gutenberg Literary Archive Foundation
 The Project Gutenberg Literary Archive Foundation is a non profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service. The Foundation's EIN or federal tax identification number is 64-6221541. Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state's laws.
 
-The Foundation's principal office is located at 4557 Melan Dr. S. Fairbanks, AK, 99712., but its volunteers and employees are scattered throughout numerous locations. Its business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up to date contact information can be found at the Foundation's web site and official page at www.gutenberg.org/contact
+The Foundation's principal office is located in Montclair, New Jersey, but its volunteers and employees are scattered throughout numerous locations. Email contact links and up to date contact information can be found at the Foundation's web site and official page at www.gutenberg.org/contact
 
 For additional contact information: 
 <pre>
     Dr. Gregory B. Newby
     Chief Executive and Director
-    gbnewby@pglaf.org
+    gbnewby (at)pglaf.org
 </pre>
 
 ### Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation
-Project Gutenberg-tm depends upon and cannot survive without wide spread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine readable form accessible by the widest array of equipment including outdated equipment. Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.
+Project Gutenberg-tm depends upon and cannot survive without wide spread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine readable form accessible by the widest array of equipment including outdated equipment. Many small donations ($5 to $5,000) are particularly important to maintaining tax exempt status with the IRS.
 
 The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States. Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements. We do not solicit donations in locations where we have not received written confirmation of compliance. To SEND DONATIONS or determine the status of compliance for any particular state visit www.gutenberg.org/donate
 
