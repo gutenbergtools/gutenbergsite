@@ -37,7 +37,6 @@ The design of Project Gutenberg is that everything at www.gutenberg.org will alw
 Make a <strong>monthly donation</strong> (cancel any time): 
 
 <select name="os0">
-      <option value="One dollar">One dollar : $1.00USD</option>
       <option value="Five dollars">Five dollars : $5.00USD</option>
       <option value="Ten dollars">Ten dollars : $10.00USD</option>
       <option value="Fifteen dollars">Fifteen dollars : $15.00USD</option>
@@ -54,9 +53,9 @@ PayPal accepts credit cards, checks, and bank transfer payments. You will need t
 
 In addition to using the quick donation links above, you can also login into PayPal and select "Send Money." When prompted, specify 'donate2025@pglaf.org' as recipient and send the payment as you would any other.
 
-The fee charged by PayPal is their discounted rate for charities, which is 2.2% of the transaction plus 30 cents per transaction.
+The fee charged by PayPal is their discounted rate for charities, which is 1.99% of the transaction plus 49 cents per transaction. So don't bother with $1 amounts - only $0.49 will reach us!
 
-Unfortunately donations from some countries don't work when using the PayPal buttons above. Fixing this would involve using Paypal's Javascript code, which we'd rather avoid. Even in those cases, the more direct "Send Money" to 'donate2025@pglaf.org' method still works perfectly well though.
+Unfortunately donations from some countries don't work when using the PayPal buttons above. Even in those cases, the more direct "Send Money" to 'donate2025@pglaf.org' method still works perfectly well though.
 
 
 <br>
