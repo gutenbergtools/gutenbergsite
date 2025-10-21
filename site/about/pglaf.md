@@ -31,7 +31,7 @@ PGLAF has been granted tax exempt status by the IRS under section 501(c)(3) of t
 
 There are currently seven board members:
 
-* Gregory Newby (Chair and Chief Executive Officer), Yukon
+* [Gregory Newby](/about/newby.html) (Chair and Chief Executive Officer), Yukon
 * Douglas Bowman, Illinois
 * John Guagliardo, Hawaii
 * Maitri Erwin, Texas
