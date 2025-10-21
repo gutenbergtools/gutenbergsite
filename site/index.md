@@ -9,6 +9,13 @@ permalink: /
 
 <p id="sub-slogan"> Choose among free epub and Kindle eBooks, download them or read them online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for you to enjoy. </p>
 
+<!-- Memorial Section -->
+<div style="margin: 20px; padding: 15px; background-color: #ffffff; border: 3px solid #000000; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <p style="margin: 0; font-family: inherit; font-style:italic; font-size: 16px; line-height: 1.6; color: #333; text-align: center;">
+    The Project Gutenberg community mourns the passing of our CEO, Dr. Greg Newby. Without his years of leadership, Project Gutenberg wouldn't be what it is today. Learn more about him and his contributions <a href="/about/newby.html">here</a>.
+  </p>
+</div>
+
 <!-- Latest Books -->
 <div class="library">
   <div class="box_shadow">
@@ -19,12 +26,6 @@ permalink: /
  </div>
 </div>
 
-<!-- Memorial Section -->
-<div style="margin: 20px 0; padding: 20px; background-color: #ffffff; border: 1px solid #d9eaef; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-  <p style="margin: 0; font-family: inherit; font-size: 18px; line-height: 1.6; color: #333; text-align: center;">
-    <strong>In Memoriam:</strong> Today on ....day ...10.25 Dr. Greg Newby passed away. Greg has been Volunteer-CEO of Project Gutenberg for over 30 years and was part of the project right from the beginning. Without him Project Gutenberg wouldn't be what it is today. <a href="/about/newby.html" style="color: #007bff; text-decoration: none;">Learn more about him and his contribution.</a>
-  </p>
-</div>
 
 <div class="info-box-container">
   <div class="info-box">
