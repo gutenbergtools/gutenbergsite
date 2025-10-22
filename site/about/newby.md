@@ -7,6 +7,8 @@ permalink: /about/newby.html
 About Greg Newby
 ================
 
+_October 21, 2025:  We say goodby to our smart, kind, generous, wonderful friend and longtime leader, Greg Newby. More updates tomorrow._
+
 <img src="/gutenberg/greg-newby.jpeg" alt="headshot of Greg Newby" style="width:250px;float:right;padding:1em">
 Gregory B. Newby, PhD, MBA, MA, is a Fourth Industrial Revolution visionary whose life has been dedicated to blending cutting-edge science and information technology with civic mindedness and community organizing. Dr. Newby is an internationally recognized expert and published author who has delivered keynote presentations, participated on panels, and contributed papers to conference proceedings while editing volumes in the fields of information retrieval and visualization, grid computing, and supercomputing. He has spent decades combining professional activities with philanthropic work, from expanding global literacy to rescuing sled dogs to growing the hacking community to benefit the social good with Hackers on Planet Earth (HOPE).
 
