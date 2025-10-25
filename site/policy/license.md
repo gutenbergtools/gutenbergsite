@@ -145,9 +145,9 @@ The Foundation's principal office is located in Montclair, New Jersey, but its v
 
 For additional contact information: 
 <pre>
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby (at)pglaf.org
+    Eric Hellman
+    Acting Executive Director
+    eric (at) pglaf.org
 </pre>
 
 ### Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation
