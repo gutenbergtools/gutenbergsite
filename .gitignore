@@ -20,3 +20,4 @@ _includes/popular_covers.html
 to_delete
 BACKUP
 .aider*
+.DS_Store
