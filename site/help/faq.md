@@ -116,7 +116,6 @@ We have published music files, in MIDI and MUS formats. We have published the Hu
 
 Today the primary focus is to distribute literary works that were previously published and are now in the public domain. The [collection development](/policy/collection_development.html) policy has details.
 
-In 2011 we began the Project Gutenberg Self Publishing Portal to focus on distribution of new works. Since then the self-publishing portal has released over 20,000 titles. [self.gutenberg.org](http://self.gutenberg.org/)
 
 ### How does Project Gutenberg choose books to publish?
 
