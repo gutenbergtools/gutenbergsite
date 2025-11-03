@@ -143,7 +143,7 @@ We're looking at our history, and we're planning for the long term—the very lo
 
 Today, plain text can be read, written, copied and printed by just about every simple text editor on every computer in the world. This has been true for decades, and is likely to be so for the foreseeable future. We've seen formats and extended character sets come and go; plain text stays with us. We can still read Shakespeare's First Folios, the original Gutenberg Bible, the Domesday Book, and even the Dead Sea Scrolls and the Rosetta Stone (though we may have trouble with the language!), but we can't read many files made in various formats on computer media just 20 years ago.
 
-We're trying to build a library that will last not only decades, but centuries.
+We're building a library to last centuries, not just decades.
 
 The point of putting works in the PG library is that they are copied to many, many public sites and individual computers all over. No single disaster can destroy them; no single government can suppress them. Long after we're all dead and gone, when the very concept of an Internet Service Provider is as quaint as gas streetlamps, when HTML reads like Middle English, those texts will still be safe, copied, and available to our descendants.
 
