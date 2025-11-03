@@ -87,7 +87,7 @@ Spread the word! Invite your friends and colleagues to visit Project Gutenberg a
 
 Those are all entirely separate organizations. In many cases, Michael Hart gave permission for them to use the "Project Gutenberg" name, which is a registered trademark.
 
-These site operate within the copyright rules of their respective countries, and may focus on particular types of national works or languages.
+These sites operate within the copyright rules of their respective countries, and may focus on particular types of national works or languages.
 
 ## About Project Gutenberg publications
 
