@@ -6,216 +6,180 @@ permalink: /newsletter/
 
 # Project Gutenberg News
 
-### October 2025
+### November 2025
 
-___Enjoy these eBooks. Share them. Celebrate them.___
+___—Enjoy these eBooks. Share them. Celebrate them.—___
 
 
-## Contents
+**Contents**
 
-* PGLAF CEO Greg Newby’s Medical Status
-* Eric Hellman appointed interim director of PGLAF
-* Welcome to the PGLAF Board: Robert Tonsing
-* Anyone can Help Make New eBooks!
-* More About Project Gutenberg: Writings and Podcasts
-* Recent releases
+* Greg Newby, in Memoriam
+* Note From the Acting Executive Director
+* Selected New Releases
+* Project Gutenberg Self Publishing Portal
 * Join Distributed Proofreaders
 * Find Project Gutenberg on social media
 
 
-## PGLAF CEO Greg Newby’s Medical Status
+## In Memoriam: Greg Newby
 
-Greg has worked on Project Gutenberg since 1991, and directed the Project Gutenberg Literary Archive Foundation (PGLAF) as CEO since its founding in 2000. Greg has been the guiding hand of Project Gutenberg, and PGLAF, along with helping to launch Distributed Proofreaders, for more than 30 years.
+On October 21, 2025, Dr. Greg B. Newby left us a great legacy of optimism as well as a deep sorrow for our loss. Earlier this year Greg was diagnosed with an aggressive cancer. He entered hospice care in August as treatments were unable to push the cancer to remission. He died surrounded by loved ones at his home in Whitehorse, Yukon Territory, Canada.
 
-Earlier this year Greg was diagnosed with aggressive pancreatic cancer and has recently focused his energy on fighting the cancer with the support of his friends and family.
+Greg began working with Michael Hart in the fall of 1991, contributing eBooks #41 and #59 together with his wife, Ilana. While Michael championed eBooks and the concept of “public access” to the world, Greg focused on the technical and organizational side—maintaining infrastructure, coordinating volunteers, and managing operations.
 
-Greg started working with Michael Hart in the fall of 1991. At the time, PG was hosted by Illinois Benedictine College. Greg contributed eBook #51. As Michael continued to advocate for eBooks and public access in the public discussions, Greg took up the ‘back office’ efforts, including technical maintenance, coordinating volunteer efforts and more. When Michael passed in 2011, Greg was the stalwart foundation that kept the Project moving forward and continuing to grow.
+In 2000, Greg took on the role of founding CEO for the Project Gutenberg Literary Archive Foundation (PGLAF), and participated in the creation of Distributed Proofreaders (DP), a collaborative project developed by key Project Gutenberg volunteers. After Michael’s passing in 2011, Greg continued to guide Project Gutenberg, PGLAF, and DP, with diplomatic grace and enduring dedication.
 
-In 2000 Digital Proofreaders (DP) was established by a core group of PG volunteers with Greg as a champion for the project’s development. DP is now the primary source of new eBooks for PG.
+Over decades, admiration grew for his expertise, intellect, and passion. Greg was widely regarded for the kindness he showed everyone involved in his projects. Project Gutenberg wouldn't be what it is today, without his energy and foresight, his giving and guidance.
 
-All of us at PGLAF and DP wish him and his family resilience and strength, and send them our heartfelt love.
+We ask that you remember Greg Newby as we do: a man of great optimism for humanity; with abundant patience for all; a scholar of the highest caliber; and an ultramarathoner, always ready for the next chance to race and grow - always ready to bring us along.
 
-
-## Eric Hellman appointed interim director of PGLAF
-
-Eric Hellman began his involvement with the Project Gutenberg Literary Archive Foundation (PGLAF) 2018. Since then he has helped PG maintain and develop an array of essential software such as Ebookmaker and the gutenberg.org website.
-
-In September he was elected to the PGLAF Board of Directors, and has been asked to serve as the acting Executive Director in support of Greg. Eric’s technical and strategic contributions have been an essential part of the technical component that keeps the Project Gutenberg website and services running. We thank you Eric, for stepping up and stepping into the role.
+> More about Greg: <https://gutenberg.org/about/newby.html>
 
 
-## Welcome to the PGLAF Board: Robert Tonsing
+## Note from the Acting Executive Director
 
-Robert Tonsing began volunteering with PGLAF in 2018,  He coordinates eBook releases, posting announcements to PGLAF’s internal “posted” mailing list (e.g., #75259, Jan 2025; #76911, Sep 2025), and contributes to proofreading through Distributed Proofreaders, with credits on titles like The Roswell Report: Case Closed (#63659, 2021) and The Louvre: Fifty Plates in Colour (#63719, 2020). His ongoing volunteer work supports PGLAF’s mission to digitize and distribute free eBooks.
+Although we knew it was coming, the loss of Greg was very heavy for us all. Behind the scenes, while Greg stepped back to care for himself and his family, innumerable volunteers from both Project Gutenberg and Distributed Proofreaders stepped up with both time and effort to make sure that Project Gutenberg continued to run smoothly and without interruption. That effort has been ongoing for months and it continues.
 
-We would like to extend a sincere welcome to Robert as the newest board member.
+We still have a lot of work to do and gaps to fill. Many supporters have made donations to Project Gutenberg in Greg’s honor; these have given us a financial cushion to help address some of those gaps.
 
-
-## Anyone can Help Make New eBooks!
-
-Project Gutenberg was built by volunteers, and all new eBooks are the result of volunteer effort. The best way to help is to join Distributed Proofreaders. DP includes supportive forums for discussion, an online tutorial, and a variety of roles to suit different skills and interests. DP produces eBooks in many different languages.
+– _Eric Hellman_
 
 
-## Distributed Proofreaders Celebrates 25th Anniversary
+## Selected New Releases at Gutenberg.org - October 2025
 
-Congratulations to Distributed Proofreaders! October marks 25 years of this unique coordinated & distributed effort to digitize books and add them to the Project Gutenberg library. The amazing group of volunteers collectively spend massive numbers of hours making sure that great books are made available to everyone, across the planet.
+In the last month PGLAF added another *198* new public domain eBooks to the PG catalog. Of these 128 were added by PGDP. Thank you to all the volunteers who have helped to make these new titles freely available to the world.
 
+These eBooks are now available at:
 
-## More About Project Gutenberg
-
-* The History and Philosophy of Project Gutenberg by Michael Hart (1992) - Project Gutenberg began in 1971 when Michael Hart was given an operator’s account with computer time at the Xerox Sigma V mainframe at the Materials Research Lab at the University of Illinois. As it turned out two of a four operator crew happened to be the best friends of Michael’s and his brother. <https://gutenberg.org/about/background/history_and_philosophy.html>
-
-* Dr. Greg Newby on being CEO of Project Gutenberg and being with the Government of Yukon Territory (2024) - Thanks to Neel Lopes for an interview podcast with Greg Newby, Director of the PGLAF. The podcast covers Greg's early involvement with Project Gutenberg, and discussion about the background and status of Project Gutenberg's role in the world of online literature. <https://youtu.be/p-HGtQSuhEc>
-
-* Saving Alexandria with Project Gutenberg’s Dr. Greg Newby - a podcast from The Poor Prole’s Almanac. The discussion addresses Project Gutenberg’s successes with volunteerism, emphasis on freedom of information, and challenges of lengthened copyright protection terms, and the evolution of the PG collection development policy. <https://open.spotify.com/episode/6yduWJUXGCg1HpfmQYTwRj>
-
-
-
-## New Releases at Gutenberg.org Through September 2025
-
-In the last month PGLAF with the help of DP added another *105* new public domain eBooks to the PG catalog. These eBooks are now available at: [Project Gutenberg New Releases](http://gutenberg.org/ebooks/search/?sort_order=release_date)
+> <http://gutenberg.org/ebooks/search/?sort_order=release_date>
 
 A selection of this month’s notable titles:
 
+A sailor boy with Dewey; or, Afloat in the Philippines  
+Bonehill, Ralph (English)  
+263 pages; October 22, 2025  
+PG #77081 <https://www.gutenberg.org/ebooks/77081>  
 
-The fair Mississippian (1908)  
-Craddock, Charles Egbert  
-443 pages; September 2, 2025  
-PG #76784 <https://gutenberg.org/ebooks/76784>
+The Russian road to China  
+Bates, Lindon (English)  
+481 pages; October 22, 2025  
+PG #77082 <https://www.gutenberg.org/ebooks/77082>  
 
-Heart of New England  
-Brown, Abbie Farwell  
-158 pages; September 2, 2025  
-PG #76783 <https://gutenberg.org/ebooks/76783>
+Murder in the Gilded Cage  
+Spewack, Samuel (English)  
+250 pages; October 18, 2025  
+PG #77069 <https://www.gutenberg.org/ebooks/77069>  
 
-A Broken Blossom Vol. 2 of 3  
-Marryat, Florence  
-247 pages; September 2, 2025  
-PG #76780 <https://gutenberg.org/ebooks/76780>
+Old world masters in new world collections  
+Singleton, Esther (English)  
+475 pages; October 16, 2025  
+PG #77067 <https://www.gutenberg.org/ebooks/77067>  
 
-Eccentricities of Genius (1901)  
-Pond, James Burton  
-640 pages; September 13, 2025  
-PG #76861 <https://gutenberg.org/ebooks/76861>
+Catherine the Great  
+Anthony, Katharine (English)  
+342 pages; October 29, 2025  
+PG #77133 <https://www.gutenberg.org/ebooks/77133>  
 
-The chocolate-plant (Theobroma cacao) and its products  
-Anonymous  
-40 pages; September 10, 2025  
-PG #76852 <https://gutenberg.org/ebooks/76852>
+The girl he loved; or, Where love abides  
+Stirling, Adelaide. (English)  
+260 pages; October 30, 2025  
+PG #77154 <https://www.gutenberg.org/ebooks/77154>  
 
-First Course in Biology  
-Bailey, Liberty Hyde  
-640 pages; September 10, 2025  
-PG #76851 <https://gutenberg.org/ebooks/76851>
+The evolution of the oil industry  
+Ross, Victor (English)  
+212 pages; October 16, 2025  
+PG #77066 <https://www.gutenberg.org/ebooks/77066>  
 
-The army behind the army (1919)  
-Powell, E. Alexander  
-535 pages; September 9, 2025  
-PG #76843 <https://gutenberg.org/ebooks/76843>
+The barbarous babes  
+Ayrton, Edith (English)  
+152 pages; October 16, 2025  
+PG #77065 <https://www.gutenberg.org/ebooks/77065>  
 
-Arts and crafts of old Japan  
-Stewart Dick  
-223 pages; September 9, 2025  
-PG #76830 <https://gutenberg.org/ebooks/76830>
+William Shakspere and Robert Greene: The Evidence  
+Chapman, William Hall (English)  
+190 pages; October 16, 2025  
+PG #77063 <https://www.gutenberg.org/ebooks/77063>  
 
-Through the Dark Continent (Vol. 2 of 2)  
-Stanley, Henry Morton  
-490 pages; September 9, 2025  
-PG #76825 <https://gutenberg.org/ebooks/76825>
+The wilderness  
+Mack, Amy E (English)  
+30 pages; October 16, 2025  
+PG #77055 <https://www.gutenberg.org/ebooks/77055>  
 
-Four American Poets (1899)  
-Cody, Sherwin  
-254 pages; September 9, 2025  
-PG #76822 <https://gutenberg.org/ebooks/76822>
+The Adventures of Twinkly Eyes the Little Black Bear [1919]  
+Chaffee, Allen (English)  
+210 pages; October 16, 2025  
+PG #77049 <https://www.gutenberg.org/ebooks/77049>  
 
-The Great Roxhythe  
-Heyer, Georgette  
-424 pages; September 9, 2025  
-PG #76816 <https://gutenberg.org/ebooks/76816>
+The Works of the Reverend George Whitefield, Vol 5 of 6  
+Whitefield, George (English)  
+478 pages; October 13, 2025  
+PG #77034 <https://www.gutenberg.org/ebooks/77034>  
 
-A devil of a fellow and the yellow cat  
-Steele, Wilbur Daniel  
-64 pages; September 9, 2025  
-PG #76815 <https://gutenberg.org/ebooks/76815>
+The garden yard : a handbook of intensive farming  
+Hall, Bolton (English)  
+339 pages; October 13, 2025  
+PG #77032 <https://www.gutenberg.org/ebooks/77032>  
 
-A Sailor's Life under Four Sovereigns (vol. 3 of 3)  
-Keppel, Henry  
-384 pages; September 4, 2025  
-PG #76810 <https://gutenberg.org/ebooks/76810>
+The sinister mark, 1st ed.  
+Thayer, Lee (English)  
+313 pages; October 13, 2025  
+PG #77033 <https://www.gutenberg.org/ebooks/77033>  
 
-A Sailor's Life under Four Sovereigns (vol. 2 of 3)  
-Keppel, Henry  
-355 pages; September 4, 2025  
-PG #76809 <https://gutenberg.org/ebooks/76809>
+is 5  
+Cummings, E. E. [Edward Estlin] (English)  
+124 pages; October 10, 2025  
+PG #77021 <https://www.gutenberg.org/ebooks/77021>  
 
-A Sailor's Life under Four Sovereigns (vol. 1 of 3)  
-Keppel, Henry  
-356 pages; September 4, 2025  
-PG #76808 <https://gutenberg.org/ebooks/76808>
+The Story of the Sun, Moon, and Stars  
+Giberne, Agnes (English)  
+419 pages; October 7, 2025  
+PG #77004 <https://www.gutenberg.org/ebooks/77004>  
 
-Another year with Denise and Ned Toodles  
-Jackson, Gabrielle E.  
-295 pages; September 4, 2025  
-PG #76807 <https://gutenberg.org/ebooks/76807>
+China collecting in America  
+Earle, Alice Morse (English)  
+446 pages  October 7, 2025  
+PG #77000 <https://www.gutenberg.org/ebooks/77000>  
 
-The law of copyright  
-Wordsworth, William  
-11 pages; September 4, 2025  
-PG #76806 <https://gutenberg.org/ebooks/76806>
-
-Life of George Washington, volume 2 of 5  
-Irving, Washington  
-502 pages; September 4, 2025  
-PG #76805 <https://gutenberg.org/ebooks/76805>
-
-Hurlothrumbo: or: the super-natural  
-Johnson, Samuel  
-59 pages; September 3, 2025  
-PG #76792 <https://gutenberg.org/ebooks/76792>
-
-Round the Horn before the Mast (1903)  
-Lubbock, Basil  
-413 pages; September 2, 2025  
-PG #76788 <https://gutenberg.org/ebooks/76788>
-
-The blind bow-boy  
-Van Vechten, Carl  
-271 pages; September 26, 2025  
-PG #76934 <https://gutenberg.org/ebooks/76934>
-
-How and what to grow in a kitchen garden of one acre  
-Darlington, E. D., Moll, L. M.  
-202 pages; September 26, 2025  
-PG #76930 <https://gutenberg.org/ebooks/76930>
-
-Maugis, ye sorcerer: from ye ancient French  
-Gilhooley, Lord  
-277 pages; September 26, 2025  
-PG #76929 <https://gutenberg.org/ebooks/76929>
-
-Madame Pierre Curie (1910)  
-Béliard, O. & dessins Delannoy, A. (French)  
-11 pages; September 26, 2025  
-PG #76928 <https://gutenberg.org/ebooks/76928>
+With the Indians in France  
+Willcocks, James (English)  
+467 pages; October 7, 2025  
+PG #77003 <https://www.gutenberg.org/ebooks/77003>  
 
 The list of registered, operational mirrors is here:  
-<http://gutenberg.org/MIRRORS.ALL>
+
+>  <http://gutenberg.org/MIRRORS.ALL>
+
+
+## Project Gutenberg Self Publishing Portal
+
+Free Public Access to Create and Distribute eBooks via the Project Gutenberg Self Publishing system.
+
+Project Gutenberg has focused mostly on the re-creation of paper books rather than the distribution of new authors and material, and we have spent as much of our time on finding books and doing copyright research as on eBook creation and distribution. Project Gutenberg Self Publishing Portal focuses solely on distribution rather than creation.
+
+In 2011 Micheal Hart and John Guagliardo created the Project Gutenberg Self Publishing Portal and Author’s Community, <http://self.gutenberg.org>.  Since then we have published over 20,000 titles.  For the month of October there were 72 titles submitted and 42 approved, <http://self.gutenberg.org/RecentPublications>.
+
+> <http://self.gutenberg.org>
 
 
 ## Join Distributed Proofreaders
 
 Visit <http://pgdp.net> to learn how to create eBooks for Project Gutenberg. Proofreading a page a day is easy, fun, and a great way to help bring literature to the digital world. There are a variety of roles for the different steps involved in digitizing a printed book to make a Project Gutenberg eBook. Beginners are welcome, and there is an online tutorial to get started.
 
+> <http://pgdp.net>
+
 
 ## Find Project Gutenberg on social media
 
 Facebook: <http://facebook.com/project.gutenberg>  
-Facebook news feed of new eBooks: <http://facebook.com/gutenberg.new>
+Facebook New eBooks: <http://facebook.com/gutenberg.new>
 
 Mastodon: <https://mastodon.social/@gutenberg_org>  
-Mastodon news feed of new eBooks: <https://mastodon.social/@gutenberg_new>
+Mastodon New eBooks: <https://mastodon.social/@gutenberg_new>
 
 Bluesky: <https://bsky.app/profile/gutenberg.org>  
-Bluesky news feed of new eBooks: <https://bsky.app/profile/new.gutenberg.org>
+Bluesky New eBooks: <https://bsky.app/profile/new.gutenberg.org>
+
+Reddit: <https://reddit.com/r/ProjectGutenberg>
 
 Thanks to the Project Gutenberg Social Media Team for keeping these feeds interesting!
 
