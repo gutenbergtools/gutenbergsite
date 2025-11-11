@@ -119,7 +119,7 @@ Today the primary focus is to distribute literary works that were previously pub
 
 ### How does Project Gutenberg choose books to publish?
 
-Project Gutenberg, as such, does not choose books to publish. There is no central list of works that volunteers are asked to work on. Individual volunteers choose and produce eBooks from printed books according to their own tastes and values, and the availability of a suitable printed book for digitization.
+Project Gutenberg, as such, does not choose books to publish. There is no central list of works that volunteers are asked to work on. Individual volunteers (usually through our partner organization, [Distributed Proofreaders](https://pgdp.net)) choose and produce eBooks from printed books according to their own tastes and values, and the availability of a suitable printed book for digitization. 
 
 ### What languages does Project Gutenberg publish in?
 
