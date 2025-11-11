@@ -50,7 +50,7 @@ Read more about Project Gutenberg in the [About](/about/) section.
 
 ### Where did Project Gutenberg come from?
 
-In 1971, Michael Hart was given $100,000,000 worth of computer time on a mainframe of the era. Trying to figure out how to put these very expensive hours to good use, he envisaged a time when there would be millions of connected computers, and typed in the Declaration of Independence (all in upper case--there was no lower case available!). His idea was that everybody who had access to a computer could have a copy of the text. Now, decades later, his copy of the [Declaration of Independence](/ebooks/1) (with lower-case added!) is still available to anyone, anywhere.
+In 1971, Michael Hart was given $100,000,000 worth of computer time on a mainframe of the era. Trying to figure out how to put these very expensive hours to good use, he envisaged a time when there would be millions of connected computers, and typed in the Declaration of Independence (all in upper case letters—there was no lower case available!). His idea was that everybody who had access to a computer could have a copy of the text. Now, decades later, his copy of the [Declaration of Independence](/ebooks/1) (with lower-case added!) is still available to anyone, anywhere.
 
 During the 1970s, Michael added some more classic American texts, and through the 80s worked on the Bible and the collected works of Shakespeare. That edition of Shakespeare was never released, due to copyright law changes, but others followed.
 
@@ -60,16 +60,18 @@ There is more history and background in the [Background, History and Philosophy]
 
 ### Tell me about Project Gutenberg's longevity
 
-Project Gutenberg is the original, and oldest, eBook project on the Internet, founded in 1971. It is one of the oldest online content providers in the world that is still operating.
+Project Gutenberg is the original, and oldest, eBook project on the Internet, founded in 1971. It is one of the oldest online content providers in the world that is still operating. 
 
 ### Who runs Project Gutenberg?
 
-The Project Gutenberg Literary Archive Foundation is a 501(c)(3) organization, which operates Project Gutenberg. Dr. Gregory B. Newby is our volunteer CEO. Professor Michael Hart was our Founder and Executive Director. Michael died in 2011, and you can read obituary and memorial information [here](/attic/hart.html).
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3) organization, which operates Project Gutenberg. The board of directors has appointed an acting executive director as of 2025. 
+
+Previously, Dr. Gregory B. Newby was our volunteer CEO, until his death in October 2025. Professor Michael Hart was our Founder and Executive Director. Michael died in 2011, and you can read obituary and memorial information [here](/attic/hart.html).
 
 In terms of the day-to-day production of eBooks, our volunteers run themselves.&#160;:-) They produce books, and submit them when completed. The Posting Team, known as "whitewashers" after Mark Twain's <u>Tom Sawyer</u>, checks submitted eBooks and shepherds them online.
 
 ### How many people are in Project Gutenberg?
-Over the years, we estimate that over 10,000 people have helped Project Gutenberg, either by submitting new eBooks, or having some other role in support of Project Gutenberg.
+We estimate that over 10,000 people have helped Project Gutenberg, either by submitting new eBooks or having some other role in support of Project Gutenberg.
 
 ### How can I help Project Gutenberg?
 
@@ -79,13 +81,13 @@ Donate money! We're an all-volunteer project, and we don't have much to spend, s
 
 Help improve our eBooks! If you find an error, or something missing - or perhaps you have a suggestion for our website - please [get in touch](/about/contact_information.html).
 
-Spread the word! Invite your friends and colleagues to visit Project Gutenberg. When you find something you like, share it! See the [Terms of Use](/policy/terms_of_use.html) for details and limitations.
+Spread the word! Invite your friends and colleagues to visit Project Gutenberg. When you find something you like, share it via email, word-of-mouth, or on social media. Even [commercial use](/policy/terms_of_use.html) is possible.
 
 ### What is the relationship between Project Gutenberg, Project Gutenberg of Canada, Project Gutenberg of Europe, Projekt Gutenberg-DE, Project Gutenberg of Australia, and Project Runeberg?
 
 Those are all entirely separate organizations. In many cases, Michael Hart gave permission for them to use the "Project Gutenberg" name, which is a registered trademark.
 
-These site operate within the copyright rules of their respective countries, and may have specific focus on particular types of national works or languages.
+These sites operate within the copyright rules of their respective countries, and may focus on particular types of national works or languages.
 
 ## About Project Gutenberg publications
 
@@ -110,17 +112,18 @@ Two websites have a description of the copyright process, and the various checks
 
 ### What other things has Project Gutenberg published in the past?
 
-We have published some music files, in MIDI and MUS formats. We have published the Human Genome. We have published pictures of the prehistoric cave painting from the south of France. We have published some video files and some audio files, including tracks by award-winning singer/songwriter Janis Ian and readings from public domain books.
+We have published music files, in MIDI and MUS formats. We have published the Human Genome. We have published pictures of the prehistoric cave painting from the south of France. We have published video files and audio files, including tracks by award-winning singer/songwriter Janis Ian and readings from public domain books.
 
-Now, however, we only publish literary works that were previously published. The [collection development](/policy/collection_development.html) policy has details.
+Today the primary focus is to distribute literary works that were previously published and are now in the public domain. The [collection development](/policy/collection_development.html) policy has details.
+
 
 ### How does Project Gutenberg choose books to publish?
 
-Project Gutenberg, as such, does not choose books to publish. There is no central list of works that volunteers are asked to work on. Individual volunteers choose and produce eBooks from printed books according to their own tastes and values, and the availability of a suitable printed book for digitization.
+Project Gutenberg, as such, does not choose books to publish. There is no central list of works that volunteers are asked to work on. Individual volunteers (usually through our partner organization, [Distributed Proofreaders](https://pgdp.net)) choose and produce eBooks from printed books according to their own tastes and values, and the availability of a suitable printed book for digitization. 
 
 ### What languages does Project Gutenberg publish in?
 
-Whatever languages we can! As above, this is decided by what languages our volunteers choose to work with.
+Whatever languages we can! As above, this is determined by what languages our volunteers choose to work with.
 
 ### Why don't you have any / many books about history, geography, science, biography, etc.? Why aren't there any / more PG books available in French, Spanish, German, etc.?
 
@@ -130,17 +133,17 @@ We're always looking for new languages and topics, and always delighted to see p
 
 ### Why don't you have any books by Stephen King, Tom Clancy, Tolkien, etc.?
 
-Project Gutenberg can publish only books that are in the public domain in the United States. Current bestsellers have not yet entered the public domain.
+Project Gutenberg will publish only books that are in the public domain in the United States. Current bestsellers have not yet entered the public domain.
 
 ### Why is Project Gutenberg so set on using plain text?
 
 Project Gutenberg supports and publishes many open formats, but, yes, we do want to have a plain text version of everything possible.
 
-We're looking at our history, and we're planning for the long term--the very long term.
+We're looking at our history, and we're planning for the long term—the very long term.
 
-Today, plain text can be read, written, copied and printed by just about every simple text editor on every computer in the world. This has been so for decades, and is likely to be so for the foreseeable future. We've seen formats and extended character sets come and go; plain text stays with us. We can still read Shakespeare's First Folios, the original Gutenberg Bible, the Domesday Book, and even the Dead Sea Scrolls and the Rosetta Stone (though we may have trouble with the language!), but we can't read many files made in various formats on computer media just 20 years ago.
+Today, plain text can be read, written, copied and printed by just about every simple text editor on every computer in the world. This has been true for decades, and is likely to be so for the foreseeable future. We've seen formats and extended character sets come and go; plain text stays with us. We can still read Shakespeare's First Folios, the original Gutenberg Bible, the Domesday Book, and even the Dead Sea Scrolls and the Rosetta Stone (though we may have trouble with the language!), but we can't read many files made in various formats on computer media just 20 years ago.
 
-We're trying to build a library that will last not only decades, but centuries.
+We're building a library to last centuries, not just decades.
 
 The point of putting works in the PG library is that they are copied to many, many public sites and individual computers all over. No single disaster can destroy them; no single government can suppress them. Long after we're all dead and gone, when the very concept of an Internet Service Provider is as quaint as gas streetlamps, when HTML reads like Middle English, those texts will still be safe, copied, and available to our descendants.
 
