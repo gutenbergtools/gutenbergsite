@@ -60,7 +60,7 @@ There is more history and background in the [Background, History and Philosophy]
 
 ### Tell me about Project Gutenberg's longevity
 
-Project Gutenberg is the original, and oldest, eBook project on the Internet, founded in 1971. It is one of the oldest online content providers in the world that is still operating. It was established before the World Wide Web and even the Internet itself. Project Gutenberg started at one of the 15 ARPANET sites that later formed the core of the Internet.
+Project Gutenberg is the original, and oldest, eBook project on the Internet, founded in 1971. It is one of the oldest online content providers in the world that is still operating. 
 
 ### Who runs Project Gutenberg?
 
