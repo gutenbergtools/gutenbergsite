@@ -81,7 +81,7 @@ Donate money! We're an all-volunteer project, and we don't have much to spend, s
 
 Help improve our eBooks! If you find an error, or something missing - or perhaps you have a suggestion for our website - please [get in touch](/about/contact_information.html).
 
-Spread the word! Invite your friends and colleagues to visit Project Gutenberg at gutenberg.org. When you find something you like, share it via email, word-of-mouth, or on social media. If you want to redistribute the books yourself, see the [Terms of Use](/policy/terms_of_use.html) for details and limitations.
+Spread the word! Invite your friends and colleagues to visit Project Gutenberg. When you find something you like, share it via email, word-of-mouth, or on social media. Even [commercial use](/policy/terms_of_use.html) is possible.
 
 ### What is the relationship between Project Gutenberg, Project Gutenberg of Canada, Project Gutenberg of Europe, Projekt Gutenberg-DE, Project Gutenberg of Australia, and Project Runeberg?
 
