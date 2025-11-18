@@ -60,7 +60,7 @@ You can view or edit ASCII text using just about every text editor or viewer in 
 Big-5 is a set of 13,494 traditional Chinese characters. You will need to use an editor or viewer that supports the character set.
 
 ### Codepage 437, 850, 1252, etc. (Character Sets)
-These codepages are Microsoft-specific character sets which allow the display of accented characters and other symbols. To view a text that uses one of these, you will have to use a Microsoft application that supports them. Many of the fonts supplied with Word for Windows will display and edit CP-1252 correctly. For Codepages 437 and 850, you may have to open a Command Prompt and use a DOS editor like EDIT. A search form [www.microsoft.com](https://www.microsoft.com) should bring up information about the codepage you're interested in, or you can read the excellent overview at [aspell.net/charsets/codepages.html](http://aspell.net/charsets/codepages.html). For Unix users, iconv and recode provide translation facilities from one character set to another, and support many or all of the MS codepages.
+These codepages are Microsoft-specific character sets which allow the display of accented characters and other symbols. To view a text that uses one of these, you will have to use a Microsoft application that supports them. Many of the fonts supplied with Word for Windows will display and edit CP-1252 correctly. For Codepages 437 and 850, you may have to open a Command Prompt and use a DOS editor like EDIT. A search form [www.microsoft.com](https://www.microsoft.com) should bring up information about the codepage you're interested in, or you can read the excellent overview at [aspell.net/charsets/codepages.html](https://aspell.net/charsets/codepages.html). For Unix users, iconv and recode provide translation facilities from one character set to another, and support many or all of the MS codepages.
 
 ### DVI
 DVI stands for DeVice Independent, and is commonly used to store text and instructions for displaying it involving complex mathematical symbols and expressions, though it can be used for any content. Given a DVI file, you need a viewer to render it on the specific device you're using. Specifically, DVI is used as the standard output format for TeX, discussed below.
@@ -72,7 +72,7 @@ DVI stands for DeVice Independent, and is commonly used to store text and instru
 **This is the most frequently used master format**. HyperText Markup Language defines the standard format of web pages. You should be able to view these with any web browser, and edit them with any text editor or a specialized HTML editor. [www.w3.org](https://www.w3.org) is the definitive reference.
 
 ### ISO-8859/ISO-Latin (Character Sets)
-ISO-8859 is a series of character sets used to represent the accented characters most commonly used in European languages. There's ISO-8859-1, ISO-8859-2, and so on. ISO-Latin is just another name for the same thing. You can read the overview at [aspell.net/charsets/codepages.html](http://aspell.net/charsets/codepages.html).
+ISO-8859 is a series of character sets used to represent the accented characters most commonly used in European languages. There's ISO-8859-1, ISO-8859-2, and so on. ISO-Latin is just another name for the same thing. You can read the overview at [aspell.net/charsets/codepages.html](https://aspell.net/charsets/codepages.html).
 
 ### KF8
 This is a new format for Amazon Kindle ereaders. Generally, Kindle with up-to-date software can handle KF8 and EPUB equally well.

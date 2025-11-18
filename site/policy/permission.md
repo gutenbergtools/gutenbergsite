@@ -97,7 +97,7 @@ Project Gutenberg does not fill out permission forms or otherwise grant permissi
 We also do not process forms that somehow confirm non-copyright status. If you don't trust the statement in an eBook that an item is in the public domain in the US, then some sort of form from the same place (PG) that made the public domain determination would be meaningless! If you need further assurances or research that an item is in the public domain, we recommend you arrange for the research yourself, to your own specifications.
 
 ## US only
-PG is entirely based in the US, and we follow the United States laws for copyright. Not all items that are public domain in the US are public domain in other countries, and vice versa. If you are operating outside of the US, you should get professional guidance on how to proceed for things like redistributing Project Gutenberg's content. For basic information about copyright elsewhere, try this link to the [Online books page](http://onlinebooks.library.upenn.edu/okbooks.html). 
+PG is entirely based in the US, and we follow the United States laws for copyright. Not all items that are public domain in the US are public domain in other countries, and vice versa. If you are operating outside of the US, you should get professional guidance on how to proceed for things like redistributing Project Gutenberg's content. For basic information about copyright elsewhere, try this link to the [Online books page](https://onlinebooks.library.upenn.edu/okbooks.html). 
 
 ## No "sweat of the brow"
 Project Gutenberg claims no copyright for markup, formatting, spelling modernization, etc., and neither can you (at least in the United States). See our [No Sweat of the Brow How-To](/help/no_sweat_copyright.html)
@@ -113,7 +113,7 @@ If your commercial project has only a minor use of the Project Gutenberg tradema
 In particular, this means that any attempt to claim copyright on a Project Gutenberg item that's in the public domain, even after you "add value," will be invalid. 
 
 ## Higher resolution images
-If you're looking for higher resolution versions of our scans, you will probably need to find your own original and make your own scan. Many Project Gutenberg volunteers produce our scans, and we have no good way to track them down in order to help you. The Distributed Proofreaders [PGDP](http://www.pgdp.net) has some online forums (free registration required) where you can inquire after items that came from that source. Each eBook that DP contributes has a credit to them at the start. 
+If you're looking for higher resolution versions of our scans, you will probably need to find your own original and make your own scan. Many Project Gutenberg volunteers produce our scans, and we have no good way to track them down in order to help you. The Distributed Proofreaders [PGDP](https://www.pgdp.net) has some online forums (free registration required) where you can inquire after items that came from that source. Each eBook that DP contributes has a credit to them at the start. 
 
 ## More details on items
 Each eBook is complete and self-contained. If you want more information about an author, a publisher, the printed source(s) used, etc. and it's not in the eBook, we probably don't know either. Try another resource, such as your local librarian. Project Gutenberg does not enforce adherence of its eBooks to any particular print source. 

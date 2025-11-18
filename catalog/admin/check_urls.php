@@ -19,7 +19,7 @@ if ($db->FirstRow ()) {
 
     sleep (1);
 
-    if (!preg_match ("!^http://(.*?)(/.*)$!", $url, $matches)) {
+    if (!preg_match ("!^https?://(.*?)(/.*)$!", $url, $matches)) {
       echo ("$author\nNot a http url: $url\n");
       $cnt++;
       continue;

@@ -1,10 +1,7 @@
 <?php
 
-# gbn: Our high-speed mirrors. Sailor is gone.  20170417
-# $mirror      = 'http://www.gutenberg.lib.md.us/';
-$mirror      = 'http://aleph.gutenberg.org/';
-# $epub_mirror = 'http://gutenberg.pglaf.org/';
-$epub_mirror = 'http://aleph.gutenberg.org/';
+$mirror      = 'https://aleph.gutenberg.org/';
+$epub_mirror = 'https://aleph.gutenberg.org/';
 
 set_include_path(get_include_path() . PATH_SEPARATOR . "/public/vhost/g/gutenberg/dev/private/lib/php");
 include_once ("pgcat.phh");

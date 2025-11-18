@@ -91,6 +91,6 @@ You can usually do a Find and Replace on this character either in Word or in ano
 For those interested, the "funny character" is character 151 (97H), and is specific to Codepage 1252 [V.76]. 
 
 ### I saved my Word document as HTML, but the HTML looks terrible.
-Yes. Word is not unique in having this problem, but HTML saved from Word is the case we hear most about. Microsoft themselves offer a free plug-in to Word that saves the file in "Compact HTML", which is a bit better. You can fix it by hand, or you can use [HTML Tidy](http://tidy.sourceforge.net/), a handy utility, which will do some clean-up on the HTML. If you're working with HTML, you really need a copy of Tidy anyway, because it's such a great way to do a check on the correctness of your HTML.
+Yes. Word is not unique in having this problem, but HTML saved from Word is the case we hear most about. Microsoft themselves offer a free plug-in to Word that saves the file in "Compact HTML", which is a bit better. You can fix it by hand, or you can use [HTML Tidy](https://tidy.sourceforge.net/), a handy utility, which will do some clean-up on the HTML. If you're working with HTML, you really need a copy of Tidy anyway, because it's such a great way to do a check on the correctness of your HTML.
 
 Tidy is also embedded in some Windows GUI tools, like Tidy-GUI, HTML-Kit and NoteTab. 

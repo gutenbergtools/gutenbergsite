@@ -22,12 +22,12 @@ if ($db->FirstRow ()) {
 
     echo ("Checking $filename ...");
 
-    $url = "http://$config->domain/dirs/$filename";
+    $url = "https://$config->domain/dirs/$filename";
     $output = `/public/vhost/g/gutenberg/private/local/bin/checklink -q -s --broken $url`;
 
     if (preg_match ("/broken links/i", $output)) {
       echo (" ERRORS!\n$output\n");
-      $validator = "http://validator.w3.org/checklink?uri=" . urlencode ($url) . "&amp;hide_type=all&amp;depth=&amp;check=Check";
+      $validator = "https://validator.w3.org/checklink?uri=" . urlencode ($url) . "&amp;hide_type=all&amp;depth=&amp;check=Check";
       
       mail ("marcello@perathoner.de", "Broken links in $filename", 
             "Validator url:\n\n$validator\n\nValidator output was:\n$output",

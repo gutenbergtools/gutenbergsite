@@ -77,7 +77,7 @@ if (isupdate ()) {
 }
 
 pageheader ("$caption Attribute");
-p ("<a href=\"http://www.loc.gov/marc/umb/um07to10.html\">A Summary of Commonly Used MARC 21 Fields</a>");
+p ("<a href=\"https://www.loc.gov/marc/umb/um07to10.html\">A Summary of Commonly Used MARC 21 Fields</a>");
 $f->Output ($caption, $caption);
 pagefooter ();
 

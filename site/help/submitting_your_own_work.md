@@ -9,10 +9,10 @@ Submitting Your Own Work How-To
 
 Project Gutenberg's collection is focused on older literary works for which copyright in the US has expired. Contemporary works are not being accepted for the collection.
 
-Instead, our partner, the World Library Foundation runs [self.gutenberg.org](http://self.gutenberg.org), the Project Gutenberg self-publishing portal. This is a collection of author-contributed works. Works are generally submitted in PDF format, and all ownership remains with the author. The self-publishing portal subscribes to the Project Gutenberg principle of unlimited, free redistribution of all works.
+Instead, our partner, the World Library Foundation runs [self.gutenberg.org](https://self.gutenberg.org), the Project Gutenberg self-publishing portal. This is a collection of author-contributed works. Works are generally submitted in PDF format, and all ownership remains with the author. The self-publishing portal subscribes to the Project Gutenberg principle of unlimited, free redistribution of all works.
 
 ## Submitting to the Self-Publishing Portal
-1. Visit [self.gutenberg.org](http://self.gutenberg.org)
+1. Visit [self.gutenberg.org](https://self.gutenberg.org)
 2. Select "Get Published"
 3. Select "Individual Registration" and get your username set up (elibrary card).
 4. And then, when you go back to "Get Published" you will have ability to upload your book, and see upload status. 
@@ -25,7 +25,11 @@ The review process takes a week or two, and then your author portal will be upda
 
 Due to the size of the database at World Library, it can take a month or even longer for new items to be searchable. You can check status of your book upload, in your account dashboard ("My Uploads").
 
-Note that the World Library Foundation, which operates the self-publishing portal, has a helpdesk for support and any trouble you might encounter. Please contact them directly: *support @ worldlibrary.org*. 
+Note that the World Library Foundation, which operates the self-publishing portal, has a helpdesk for support and any trouble you might encounter. Please contact them directly: <a href="mailto:support@worldlibrary.org">support @ worldlibrary.org</a>. 
+
+## Other ways to distribute free ebooks
+
+You can post eBooks and other digital materials in many formats at our affiliate, [Internet Archive](archive.org).
 
 ## Why did Project Gutenberg stop accepting contemporary works?
 Michael Hart, Project Gutenberg's founder, was a great believer in experimentation and pushing limits. As one of the earliest active sites for books, Project Gutenberg was a magnet for books in every possible format, and many copyrighted items were added with permission of the author.

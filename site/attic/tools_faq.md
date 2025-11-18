@@ -7,7 +7,7 @@ permalink: /attic/tools_faq.html
 Tools FAQ (old)
 ===============
 
-This page is partially or entirely outdated: Please see current guidance in the [help section](/help/). Please visit [Distributed Proofreaders](/how_to/http://www.pgdp.net) to view forums where best practices are actively discussed and maintained. 
+This page is partially or entirely outdated: Please see current guidance in the [help section](/help/). Please visit [Distributed Proofreaders](https://www.pgdp.net) to view forums where best practices are actively discussed and maintained. 
 
 <div class="contents">
 <ol>
@@ -83,7 +83,7 @@ Gutcheck <[http://gutcheck.sourceforge.net](http://gutcheck.sourceforge.net)> wa
 In the survey, most volunteers preferred to handcraft their HTML using their normal editor. Those using a word processor edited the HTML as text, rather than composing a word processor file and then Saving As HTML. There was remarkable unanimity on this.
 
 Specific HTML editors that were mentioned for occasional use were: 
-|Mozilla Composer|[http://www.mozilla.org](http://www.mozilla.org)|
+|Mozilla Composer|[https://www.mozilla.org](https://www.mozilla.org)|
 |HTMLKit|[http://www.chami.com/html-kit/](http://www.chami.com/html-kit)|
 |HTMLPad|[http://www.intermania.com/htmlpad/](http://www.intermania.com/htmlpad/)|
 
@@ -103,19 +103,19 @@ Converts HTML to text
 
 Dave Raggett's HTML Tidy:
 Checks HTML for correctness, reformats and fixes
-<[http://tidy.sourceforge.net](http://tidy.sourceforge.net)>
+<[https://tidy.sourceforge.net](http://tidy.sourceforge.net)>
 
 W3C html2txt (web-based):
 Converts HTML to plain text.
-<[http://cgi.w3.org/cgi-bin/html2txt](http://cgi.w3.org/cgi-bin/html2txt)>
+<[https://cgi.w3.org/cgi-bin/html2txt](http://cgi.w3.org/cgi-bin/html2txt)>
 
 W3C Validator (web-based):
 The Last Word on the correctness of HTML.
-<[http://validator.w3.org](http://validator.w3.org)>
+<[https://validator.w3.org](http://validator.w3.org)>
 
 wget:
 A very neat utility for getting web pages
-<[http://www.gnu.org/software/wget/](http://www.gnu.org/software/wget/)>
+<[https://www.gnu.org/software/wget/](http://www.gnu.org/software/wget/)>
 
 ### Working with images
 There are two main applications of images in PG--images to be used within texts, like illustrations in HTML, and the management of page images for scanning. These packages are used by volunteers variously for both of those purposes. Their typical use within PG is indicated. "Advanced image processing" packages will permit you to edit and restore damaged images, but for PG work, we mostly just need to manage, convert, resize and crop them.
@@ -126,11 +126,11 @@ For image reviewing
 
 Adobe Photoshop
 For advanced image processing
-<[http://www.adobe.com/products/photoshop/main.html](http://www.adobe.com/products/photoshop/main.html)>
+<[https://www.adobe.com/products/photoshop/main.html](http://www.adobe.com/products/photoshop/main.html)>
 
 ImageMagick for *nix, Mac and Windows
 Resizing and format conversion
-<[http://www.imagemagick.org/](http://www.imagemagick.org/)>
+<[http://www.imagemagick.org/](https://www.imagemagick.org/)>
 
 Irfanview for Windows
 Image viewing, conversion, cropping and resizing

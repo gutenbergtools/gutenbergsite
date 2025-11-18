@@ -232,7 +232,7 @@ if (isupdate ()) {
     $table = new ListAuthorsTable ();
     $table->PrintTable ($db, "Authors", "pgdbdata");	
 
-    p ("<a href=\"http://www.loc.gov/marc/umb/um07to10.html\">A Summary of Commonly Used MARC 21 Fields</a>");
+    p ("<a href=\"https://www.loc.gov/marc/umb/um07to10.html\">A Summary of Commonly Used MARC 21 Fields</a>");
 
     // Uncontrolled Fields for book
     $db->exec ("select attributes.*, attriblist.name from attributes, attriblist " . 

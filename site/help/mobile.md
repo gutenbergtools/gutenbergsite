@@ -89,7 +89,7 @@ Amazon makes it challenging to know what transfer method, and which file formats
 
 First consider using EPUB (specifically, EPUB version 3 or EPUB3), rather than Kindle (K8) formats. The EPUB files are smaller and supported by the Kindle app and most Kindle devices. You can also use "send to Kindle" with EPUB.
 
-Visit the Amazon help pages for your specific Kindle model. The help pages for the devices we looked all have a page describing how to transfer files from your computer to your Kindle, which is sometimes called "side loading."  Side loading usually seems to work most reliably: save to your computer, and then copy to your device. Here is [Amazon's device help page](http://www.amazon.com/gp/help/customer/display.html?nodeId=200127470).
+Visit the Amazon help pages for your specific Kindle model. The help pages for the devices we looked all have a page describing how to transfer files from your computer to your Kindle, which is sometimes called "side loading."  Side loading usually seems to work most reliably: save to your computer, and then copy to your device. Here is [Amazon's device help page](https://www.amazon.com/gp/help/customer/display.html?nodeId=200127470).
 
 There are too many different products, with sometimes differing software or features, for us to keep up. Your best solution will be to look for guidance for your specific situation. Amazon seems to remove support for some capabilities from older Kindles, including web browser support for the modern secure web (https).
 

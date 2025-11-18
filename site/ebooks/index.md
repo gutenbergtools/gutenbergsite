@@ -564,7 +564,7 @@ permalink: /ebooks/index.html
       <p> Use search engines to search through all Gutenberg pages. </p>
       <form method="get" id="duck" action="https://duckduckgo.com/">
         <img src="/pics/duck.png" style="vertical-align:middle;" alt="DuckDuckGo logo">
-        <input type="hidden" name="sites" value="http://www.gutenberg.org">
+        <input type="hidden" name="sites" value="https://www.gutenberg.org">
         <input type="hidden" name="k8" value="#444444">
         <input type="hidden" name="k9" value="#D51920">
         <input type="hidden" name="kt" value="h">
