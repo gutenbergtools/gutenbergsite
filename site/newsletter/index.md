@@ -51,7 +51,7 @@ In the last month PGLAF added another *198* new public domain eBooks to the PG c
 
 These eBooks are now available at:
 
-> <http://gutenberg.org/ebooks/search/?sort_order=release_date>
+> <https://gutenberg.org/ebooks/search/?sort_order=release_date>
 
 A selection of this month’s notable titles:
 
@@ -147,7 +147,7 @@ PG #77003 <https://www.gutenberg.org/ebooks/77003>
 
 The list of registered, operational mirrors is here:  
 
->  <http://gutenberg.org/MIRRORS.ALL>
+>  <https://gutenberg.org/MIRRORS.ALL>
 
 
 ## Project Gutenberg Self Publishing Portal
@@ -156,22 +156,22 @@ Free Public Access to Create and Distribute eBooks via the Project Gutenberg Sel
 
 Project Gutenberg has focused mostly on the re-creation of paper books rather than the distribution of new authors and material, and we have spent as much of our time on finding books and doing copyright research as on eBook creation and distribution. Project Gutenberg Self Publishing Portal focuses solely on distribution rather than creation.
 
-In 2011 Micheal Hart and John Guagliardo created the Project Gutenberg Self Publishing Portal and Author’s Community, <http://self.gutenberg.org>.  Since then we have published over 20,000 titles.  For the month of October there were 72 titles submitted and 42 approved, <http://self.gutenberg.org/RecentPublications>.
+In 2011 Micheal Hart and John Guagliardo created the (Project Gutenberg Self Publishing Portal and Author’s Community](https://self.gutenberg.org).  Check out the [recent publications] (https://self.gutenberg.org/RecentPublications) there!
 
-> <http://self.gutenberg.org>
+> <https://self.gutenberg.org>
 
 
 ## Join Distributed Proofreaders
 
-Visit <http://pgdp.net> to learn how to create eBooks for Project Gutenberg. Proofreading a page a day is easy, fun, and a great way to help bring literature to the digital world. There are a variety of roles for the different steps involved in digitizing a printed book to make a Project Gutenberg eBook. Beginners are welcome, and there is an online tutorial to get started.
+Visit [Distributed Proofreaders](https://pgdp.net) to learn how to create eBooks for Project Gutenberg. Proofreading a page a day is easy, fun, and a great way to help bring literature to the digital world. There are a variety of roles for the different steps involved in digitizing a printed book to make a Project Gutenberg eBook. Beginners are welcome, and there is an online tutorial to get started.
 
-> <http://pgdp.net>
+> <https://pgdp.net>
 
 
 ## Find Project Gutenberg on social media
 
-Facebook: <http://facebook.com/project.gutenberg>  
-Facebook New eBooks: <http://facebook.com/gutenberg.new>
+Facebook: <https://facebook.com/project.gutenberg>  
+Facebook New eBooks: <https://facebook.com/gutenberg.new>
 
 Mastodon: <https://mastodon.social/@gutenberg_org>  
 Mastodon New eBooks: <https://mastodon.social/@gutenberg_new>
