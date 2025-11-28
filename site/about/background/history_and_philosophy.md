@@ -1,6 +1,6 @@
 ---
 layout: default
-title: History and Philosophy | Project Gutenberg
+title: History and Philosophy (1992) | Project Gutenberg
 permalink: /about/background/history_and_philosophy.html
 ---
 

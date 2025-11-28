@@ -51,10 +51,6 @@ The name "Project Gutenberg" is a registered trademark. The [Small Print License
 
 No permission is needed for non-commercial use. So, for example, you can freely redistribute any eBook, anywhere, any time, with or without the "Project Gutenberg" trademark included. The Small Print has more details. Note that if you are not in the US, you must confirm yourself whether an item is free to redistribute where you are. 
 
-## Crediting
-
-No permission is needed to credit Project Gutenberg as the source of something you use. This applies even for commercial use. 
-
 ## Linking
 
 No permission is needed to link to www.gutenberg.org or to any page or address within it.
@@ -62,6 +58,10 @@ No permission is needed to link to www.gutenberg.org or to any page or address w
 To link to a specific eBook, link to the landing page for that eBook, not to specific files. So, for example, you would link to www.gutenberg.org/ebooks/19033 rather than "deep linking" to the specific HTML, plain text, etc. www.gutenberg.org prohibits deep links automatically (based on the HTTP referrer), because from time to time the underlying structure of an eBook might change. 
 
 More detail, mostly for webmasters, is in our [linking](/policy/linking.html) document.
+
+## Crediting
+
+No permission is needed to credit Project Gutenberg as the source of something you use. This applies even for commercial use. A link to the landing page (wherebot HTML AND ebook files are presented) of a book is appreciated.
 
 ## Project Gutenberg as Publisher
 Project Gutenberg does not promise or enforce adherence to any particular source item. We typically make each eBook from a single print book, but sometimes multiple print books are used. Even with a single print book, we make many changes: spelling modernization, dehyphenation, conversion to HTML or other formats, etc. Therefore, we are the publisher of our eBooks, even if print sources were used from prior publishers.
@@ -83,7 +83,7 @@ It is permitted, but not required, for our volunteer eBook producers to include 
 ## Citing Project Gutenberg
 You can use any standard bibliographic format to cite the eBooks you find in Project Gutenberg. We use "Urbana, Illinois" as the publication source, since that is the long-time home of our efforts. Note that the publication date is also known as the "release date", which is included in each Project Gutenberg eBook's header information. Include illustrators, translators etc., as you would for any book. You should not cite Project Gutenberg or any eBook producers as "editors" unless they actually say they are edited (this happens rarely), because these eBooks are usually transcriptions, more or less, from printed sources. Here is an example in an APA-type format.
 
-Carroll, Lewis. (2006). <ul>Alice's Adventures in Wonderland<ul>. Urbana, Illinois: Project Gutenberg. Retrieved February 21, 2016, from[www.gutenberg.org/ebooks/19033](https://www.gutenberg.org/ebooks/19033).
+Carroll, Lewis. (2006). _>Alice's Adventures in Wonderland_. Urbana, Illinois: Project Gutenberg. Retrieved February 21, 2016, from [www.gutenberg.org/ebooks/19033](https://www.gutenberg.org/ebooks/19033).
 
 To cite the entire collection or Web site:
 

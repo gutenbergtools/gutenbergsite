@@ -29,19 +29,19 @@ PGLAF has been granted tax exempt status by the IRS under section 501(c)(3) of t
 
 ## Board of Directors
 
-There are currently seven board members:
+There are currently six board members:
 
-* [Gregory Newby](/about/newby.html) (Chair and Chief Executive Officer), Yukon
 * Douglas Bowman, Illinois
-* John Guagliardo, Hawaii
 * Maitri Erwin, Texas
-* Mark Zinzow, Illinois
+* John Guagliardo, Hawaii
 * Eric Hellman, (Acting Executive Director) New Jersey
 * Robert Tonsing, Texas
+* Mark Zinzow, Illinois
 
 Past board members:
 
 * [Dr. Harry H. Hilton, Illinois](https://aerospace.illinois.edu/news/46217), who was a board member from PGLAF's inception in 2000 until his death in 2022.
+* [Gregory Newby](/about/newby.html) (Chair and Chief Executive Officer), Yukon
 
 ## Employees
 
