@@ -23,7 +23,7 @@ Feeds of new eBooks are updated within an hour or so after publication or update
 
 ## RSS
 
-Use your favorite RSS reader to load [http://www.gutenberg.org/cache/epub/feeds/today.rss](http://www.gutenberg.org/cache/epub/feeds/today.rss). This includes eBooks posted or updated in the last 24 hours. *Freshness:* Updated nightly.
+Use your favorite RSS reader to load [https://www.gutenberg.org/cache/epub/feeds/today.rss](https://www.gutenberg.org/cache/epub/feeds/today.rss). This includes eBooks posted or updated in the last 24 hours. *Freshness:* Updated nightly.
 
 ## Email
 

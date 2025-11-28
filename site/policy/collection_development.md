@@ -100,7 +100,7 @@ works. Any eligible item, on any topic, is welcome.
 
 Project Gutenberg follows the principles of the American Library
 Association's Freedom to Read Statement (FTR), which may be found
-online at [www.ala.org](http://www.ala.org/advocacy/intfreedom/freedomreadstatement).
+online at [www.ala.org](https://www.ala.org/advocacy/intfreedom/freedomreadstatement).
 
 This commitment means that Project Gutenberg does not avoid difficult
 or unpopular topics. It also means that Project Gutenberg adds eBooks
