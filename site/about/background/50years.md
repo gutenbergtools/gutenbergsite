@@ -44,6 +44,8 @@ Project Gutenberg was built by volunteers, and all new eBooks are the result of 
 
 - [The History and Philosophy of Project Gutenberg by Michael Hart](/about/background/history_and_philosophy.html) (1992)
 
+- [Gregory B. Newby, February 9, 1965 – October 21, 2025](/about/newby.html)
+
 - Project Gutenberg eBooks by Marie Lebert covering the history of Project
 Gutenberg:
   - in English (2008): [Project Gutenberg (1971-2008)](https://www.gutenberg.org/ebooks/27045).

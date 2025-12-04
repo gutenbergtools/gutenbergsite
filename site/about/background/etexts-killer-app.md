@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How eTexts Will Become the "Killer App" of the Computer Revolution | Project Gutenberg
+title: How eTexts Will Become the "Killer App" of the Computer Revolution (2001) | Project Gutenberg
 permalink: /about/background/etexts-killer-app.html
 ---
 
@@ -71,4 +71,4 @@ There isn't a better investment you could make in Microsoft or in the Seattle-Ta
 
 So get out your favorite checkbook ... ! 
 
-(Undated)
+(Undated, but probably 2001 based on the "1,000 titles this year")
