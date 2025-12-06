@@ -283,15 +283,15 @@ The list of registered, operational mirrors is here:
 
 ## Join Distributed Proofreaders
 
-Visit <http://pgdp.net> to learn how to create eBooks for Project Gutenberg. Proofreading a page a day is easy, fun, and a great way to help bring literature to the digital world. There are a variety of roles for the different steps involved in digitizing a printed book to make a Project Gutenberg eBook. Beginners are welcome, and there is an online tutorial to get started.
+Visit [Distributed Proofreaders](https://pgdp.net) to learn how to create eBooks for Project Gutenberg. Proofreading a page a day is easy, fun, and a great way to help bring literature to the digital world. There are a variety of roles for the different steps involved in digitizing a printed book to make a Project Gutenberg eBook. Beginners are welcome, and there is an online tutorial to get started.
 
-> <http://pgdp.net>
+> <https://pgdp.net>
 
 
 ## Find Project Gutenberg on social media
 
-Facebook: <http://facebook.com/project.gutenberg>  
-Facebook New eBooks: <http://facebook.com/gutenberg.new>
+Facebook: <https://facebook.com/project.gutenberg>  
+Facebook New eBooks: <https://facebook.com/gutenberg.new>
 
 Mastodon: <https://mastodon.social/@gutenberg_org>  
 Mastodon New eBooks: <https://mastodon.social/@gutenberg_new>

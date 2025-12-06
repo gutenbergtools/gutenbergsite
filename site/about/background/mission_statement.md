@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mission Statement | Project Gutenberg
+title: Mission Statement (2004) | Project Gutenberg
 permalink: /about/background/mission_statement.html
 ---
 

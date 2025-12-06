@@ -42,7 +42,7 @@ Please select the most appropriate address from this list.
 
     For licensing questions, permissions and other such inquiries, the answer is probably in our [Permission How-To](/policy/permission.html). Please don't send email without first checking the How-To.
 
-    See [cand.pglaf.org](http://cand.pglaf.org) before reporting potential misuse of copyrighted materials. Responses are typically sent within two days.
+    See [cand.pglaf.org](https://cand.pglaf.org) before reporting potential misuse of copyrighted materials. Responses are typically sent within two days.
 
 5. eric (at) pglaf.org
 

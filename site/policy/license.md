@@ -70,6 +70,14 @@ If you want to use the name Project Gutenberg anywhere in the ebooks you distrib
 
 If you don't agree with any of the above mentioned restrictions, you may not use the Project Gutenberg trademark. You may still distribute the ebooks if you strip the Project Gutenberg license and all references to Project Gutenberg. 
 
+Examples of using the Project Gutenberg Trademark:
+
+- use of "Project Gutenberg" or "Gutenberg Project" in the title of a book, in promotional materials, on the cover or descriptions
+
+Examples that do _not_ constitute use of the Project Gutenberg Trademark:
+
+- references to Project Gutenberg (with links, please!) in acknowledgements sections, reference sections or colophons.
+
 ## The Full Project Gutenberg License in Legalese (normative)
 Updated editions will replace the previous one--the old editions will be renamed.
 

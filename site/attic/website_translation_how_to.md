@@ -44,13 +44,13 @@ Project Gutenberg welcomes other language versions of it's website. If you want 
 </div>
 
 ## What do you need?
-For translating PG's website into your native language you will need to know English and how to edit wikis. Please visit the [Editor's Help page](http://meta.wikimedia.org/wiki/Help:Editor).
+For translating PG's website into your native language you will need to know English and how to edit wikis. Please visit the [Editor's Help page](https://meta.wikimedia.org/wiki/Help:Editor).
 
 ## How long will the translation take?
 It depends on the number of translators. As of January 2007 PG's documentation had about 130.000 words (the equivalent to a 400 page book). The first translation (Portuguese) took 5 months (one main translator and two supporters).
 
 ## Creating an account
-The first thing to do is [create an account](http://www.gutenberg.org/wiki/Special:UserLogin) in order to able to edit PG's Wiki.
+The first thing to do is [create an account](https://www.gutenberg.org/wiki/Special:UserLogin) in order to able to edit PG's Wiki.
 
 ## International code for your language
 All pages in a language other than English must have a special prefix--the international code for that language. This makes it easier to organize them and, if needed, to develop some scripts for special features.
@@ -136,7 +136,7 @@ and in both of the pages above you must add a link to your translation. Say, it'
 <pre>
 [[nl:Name of the Dutch Page]]
 </pre>
-If you can't edit protected pages, ask your language coordinator. You can also ask [Marcello](http://www.gutenberg.org/wiki/User:Marcello) for some special privileges.  
+If you can't edit protected pages, ask your language coordinator. You can also ask [Marcello](https://www.gutenberg.org/wiki/User:Marcello) for some special privileges.  
 
 ### Categories
 

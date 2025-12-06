@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Principle of Minimal Regulation | Project Gutenberg
+title: Principle of Minimal Regulation (2004) | Project Gutenberg
 permalink: /about/background/minimal_regulation.html
 ---
 

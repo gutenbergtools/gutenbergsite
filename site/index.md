@@ -35,7 +35,7 @@ permalink: /
       <li><a href="/ebooks/categories">Main Categories</a>. The ones you'd find in any large bookstore.</li>
       <li><a href="/ebooks/bookshelf/">Reading Lists</a>. Hand-curated by volunteers.</li>
       <li><a href="/ebooks/">Search Options</a>. By author, title, subject, language, type, popularity, and more.</li>
-      <li>Visit <a href="http://self.gutenberg.org">self.gutenberg.org</a> for free eBooks by contemporary authors.</li>
+      <li>Visit <a href="https://self.gutenberg.org">self.gutenberg.org</a> for self-published eBooks at the World Library Foundation.</li>
     </ul>
   </div>
 

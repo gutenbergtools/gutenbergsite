@@ -10,7 +10,7 @@ Linking to Project Gutenberg
 If you want to do mass downloads, robot our site, learn about terms of use, or find out more about permissions, please see the [specific help pages](/help/) for those topics.
 
 - You may link to the Project Gutenberg website. You do not need permission to do so. Link to any page, but see the following for linking to eBook files themselves:
-- If you link to one of our eBooks, do not Link directly to specific eBook files, as the filenames or locations may change over time. Instead, link to the canonical eBook landing page, author page, or subject page. Landing pages are the site, followed by "ebooks," followed by an eBook number. For example, http://www.gutenberg.org/ebooks/48320
+- If you link to one of our eBooks, do not Link directly to specific eBook files, as the filenames or locations may change over time. Instead, link to the canonical eBook landing page, author page, or subject page. Landing pages are the site, followed by "ebooks," followed by an eBook number. For example, https://www.gutenberg.org/ebooks/48320
 - We do not participate in link exchanges or provide external links to unaffiliated products, services or sites.
 
 # More Information About Linking
@@ -31,7 +31,7 @@ Direct links to files will be redirected to the appropriate catalog page. Direct
 But if you run an independent search site for our books read the [independent search site section](#independent-project-gutenberg-search-sites) below.
 
 ## Canonical URLs to Books and Authors
-If you want to link to one of our books or authors please use only the URL formats described here. Either http:// or https:// is supported.
+If you want to link to one of our books or authors please use only the URL formats described here. 
 
 - **https://www.gutenberg.org/ebooks/12345** 
 
