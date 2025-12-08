@@ -83,9 +83,6 @@ The bank we utilize, Wells Fargo, does not charge any fees for our bank account.
 
 Any donation of $100 or over will receive a written "thank you" via postal mail, unless you do not provide a return address.
 
-Note that since fall 2023 we have had problems with some mail sent to our USPS post office box being delayed significantly. Delays of up to 6 months have occurred. This has been frustrating for donors, as well as for Project Gutenberg.
-
-
 <br>
 ## <a name="#additional-detail-on-how-to-donate"></a>Taxes, Privacy & Additional Details
 
