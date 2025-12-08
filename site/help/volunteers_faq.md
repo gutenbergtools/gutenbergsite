@@ -13,6 +13,9 @@ standards. Details of the process and the standards are at our
 copyright clearance site [copy.pglaf.org](https://copy.pglaf.org) and upload site
 [upload.pglaf.org](https://upload.pglaf.org).
 
+We rely heavily on open-source software, and we try to develop in the open as much as we can. Our website content is maintained in the [gutenbergsite repo on github](https://github.com/gutenbergtools/gutenbergsite), and our ebooks are produced from submitted html files by our [ebookmaker software](https://github.com/gutenbergtools/ebookmaker). If you're a software developer or designer looking for an impactful project, [take a look](https://github.com/gutenbergtools/)!
+
+
 Join Distributed Proofreaders, Instead
 --------------------------------------
 
