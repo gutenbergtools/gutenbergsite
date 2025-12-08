@@ -6,7 +6,7 @@ permalink: /newsletter/
 
 # Project Gutenberg News
 
-### November 2025
+### December 2025
 
 ___—Enjoy these eBooks. Share them. Celebrate them.—___
 
