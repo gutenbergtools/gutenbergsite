@@ -6,160 +6,280 @@ permalink: /newsletter/
 
 # Project Gutenberg News
 
-### November 2025
+### December 2025
 
 ___—Enjoy these eBooks. Share them. Celebrate them.—___
 
 
 **Contents**
 
-* Greg Newby, in Memoriam
-* Note From the Acting Executive Director
-* Selected New Releases
+* Illustration of Greg Newby and Michael Hart
+* In the News about eBooks for November 2025
+* Legal News: eBook Lending and Copyright
+* Reflecting on Public Domain Day 2025
+* Top 100 eBooks downloaded for the month of November
+* PG AI Audiobooks Coming Soon!
 * Project Gutenberg Self Publishing Portal
+* Recent PG Releases
 * Join Distributed Proofreaders
 * Find Project Gutenberg on social media
 
 
-## In Memoriam: Greg Newby
+## Celebrating Greg Newby in Illustration
 
-On October 21, 2025, Dr. Greg B. Newby left us a great legacy of optimism as well as a deep sorrow for our loss. Earlier this year Greg was diagnosed with an aggressive cancer. He entered hospice care in August as treatments were unable to push the cancer to remission. He died surrounded by loved ones at his home in Whitehorse, Yukon Territory, Canada.
-
-Greg began working with Michael Hart in the fall of 1991, contributing eBooks #41 and #59 together with his wife, Ilana. While Michael championed eBooks and the concept of “public access” to the world, Greg focused on the technical and organizational side—maintaining infrastructure, coordinating volunteers, and managing operations.
-
-In 2000, Greg took on the role of founding CEO for the Project Gutenberg Literary Archive Foundation (PGLAF), and participated in the creation of Distributed Proofreaders (DP), a collaborative project developed by key Project Gutenberg volunteers. After Michael’s passing in 2011, Greg continued to guide Project Gutenberg, PGLAF, and DP, with diplomatic grace and enduring dedication.
-
-Over decades, admiration grew for his expertise, intellect, and passion. Greg was widely regarded for the kindness he showed everyone involved in his projects. Project Gutenberg wouldn't be what it is today, without his energy and foresight, his giving and guidance.
-
-We ask that you remember Greg Newby as we do: a man of great optimism for humanity; with abundant patience for all; a scholar of the highest caliber; and an ultramarathoner, always ready for the next chance to race and grow - always ready to bring us along.
-
-> More about Greg: <https://gutenberg.org/about/newby.html>
+On behalf of all of us at PGLAF, we sincerely appreciate the illustrated likeness of Michael Hart and Gregory Newby. Note about the illustration, illustrator Denis Renard, and publication by Marie Lebert.
+> <https://marielebert.wordpress.com/2022/10/07/denis-renard/>
 
 
-## Note from the Acting Executive Director
+## In the news about eBooks for November 2025
 
-Although we knew it was coming, the loss of Greg was very heavy for us all. Behind the scenes, while Greg stepped back to care for himself and his family, innumerable volunteers from both Project Gutenberg and Distributed Proofreaders stepped up with both time and effort to make sure that Project Gutenberg continued to run smoothly and without interruption. That effort has been ongoing for months and it continues.
+Key eBook news items and trends as November 2025 include:
 
-We still have a lot of work to do and gaps to fill. Many supporters have made donations to Project Gutenberg in Greg’s honor; these have given us a financial cushion to help address some of those gaps.
+AI and Copyright Lawsuits: There is news about publisher OverDrive suing OpenAI over AI training data and related copyright issues, a significant development for authors concerned about intellectual property rights.
 
-– _Eric Hellman_
+Audiobook Growth: The rise in consumer demand for audiobooks means entrepreneurial authors and publishers are embracing an "audio-first" trend, seeking to leverage advances against audio rights while potentially self-publishing eBooks separately.
+
+Spotify has expanded audiobook access for Premium subscribers in five additional European countries.
+
+## Legal News: eBook Lending and Copyright
+
+A significant legal development in late 2024 involved the Internet Archive's legal battle over its digital lending practices. The organization decided not to appeal a U.S. Court of Appeals ruling that found its "controlled digital lending" (CDL) model, which involved lending scanned digital copies of physical books, was not a "fair use" under copyright law. The case, Hachette Book Group, Inc. v. Internet Archive, was a closely watched dispute involving major publishers and had a significant impact on how libraries approach digital lending of copyrighted materials.
+
+AI and Copyright Tensions: Mid-November saw heated debates on X about AI training data, with authors accusing OpenAI of scraping books (including public domain ones) without consent. A related lawsuit gained traction, potentially affecting how AI models handle free eBooks.
+
+November's X conversations about PG had some trending, with users recommending Gutenberg for classics like Dracula and Meditations. A viral thread noted how public domain status means "no fees, no licenses," sparking eBook recommendation lists.
+
+> Dracula by Bram Stoker  
+  <https://www.gutenberg.org/ebooks/345>
+
+> Meditations by Emperor of Rome Marcus Aurelius  
+  <https://www.gutenberg.org/ebooks/2680>
+
+## Reflecting on Public Domain Day 2025
+
+Last year, in November 2024, the primary focus in public domain eBooks news was centered on the impending Public Domain Day on January 1, 2025, when thousands of works from 1929 (plus 1924 sound recordings) entered into the U.S. public domain. This event has always generated significant buzz among digital libraries, authors, and readers, with platforms like Project Gutenberg and Standard eBooks preparing free eBook releases. Discussions emphasized how these additions will enrich free digital collections, allowing unrestricted sharing, adaptation, and remixing of classics. Here's a breakdown of the Major Works Entering the Public Domain 11 months ago:
+
+These titles, now free for eBooks distribution and adaptation, include literary heavyweights from the late 1920s. Highlights featured last November:
+
+* Ernest Hemingway’s, A Farewell to Arms  
+  Iconic war novel; expected to see new eBooks editions and adaptations.  
+  <https://www.gutenberg.org/ebooks/75201>
+
+* Virginia Woolf’s, A Room of One's Own  
+  Feminist essay; poised for fresh digital annotations and audiobooks.  
+  <https://gutenberg.net.au/ebooks02/0200791h.html>  
+  — From Project Gutenberg Australia!
+
+* William Faulkner’s, The Sound and the Fury  
+  Modernist masterpiece; highlights the "Roaring '20s" cultural wave entering free access.  
+  <https://www.gutenberg.org/ebooks/75170>
+
+* Agatha Christie’s The Seven Dials Mystery  
+  Early detective story; boosts mystery genre.  
+  <https://www.gutenberg.org/ebooks/75288>
+
+* Dashiell Hammett’s, The Maltese Falcon (serialized version)  
+  Hardboiled noir classic; anticipated for graphic novel and eBook remixes.  
+  <https://gutenberg.ca/ebooks/hammettd-maltesefalcon/hammettd-maltesefalcon-00-h.html>  
+  — From Project Gutenberg Canada!
+
+Other notables include All Quiet on the Western Front by Erich Maria Remarque and early Tintin comics by Hergé. Also sound recordings like George Gershwin's Rhapsody in Blue.
+
+_Next month, we will have a list of works newly available in 2026._
+
+## Top 10 eBooks downloaded for the month of November 2025
+
+1. Frankenstein; Or, The Modern Prometheus by Mary Wollstonecraft Shelley (303,221)
+1. Moby Dick; Or, The Whale by Herman Melville (119,658)
+1. Pride and Prejudice by Jane Austen (85,862)
+1. The King in Yellow by Robert W. Chambers (76,744)
+1. Romeo and Juliet by William Shakespeare (73,678)
+1. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson (65,938)
+1. Alice's Adventures in Wonderland by Lewis Carroll (63,702)
+1. The Complete Works of William Shakespeare by William Shakespeare (57,775)
+1. Middlemarch by George Eliot (53,818)
+1. A Room with a View by E. M. Forster (53,757)
 
 
-## Selected New Releases at Gutenberg.org - October 2025
+## PG AI Audiobooks coming soon!
 
-In the last month PGLAF added another *198* new public domain eBooks to the PG catalog. Of these 128 were added by PGDP. Thank you to all the volunteers who have helped to make these new titles freely available to the world.
+The next-generation of PG audiobooks is coming soon. There will likely be two audiobooks per book (one male and one female). Feedback and demand have been positive. We are looking forward to continuing this collaboration. 
 
-These eBooks are now available at:
-
-> <https://gutenberg.org/ebooks/search/?sort_order=release_date>
-
-A selection of this month’s notable titles:
-
-A sailor boy with Dewey; or, Afloat in the Philippines  
-Bonehill, Ralph (English)  
-263 pages; October 22, 2025  
-PG #77081 <https://www.gutenberg.org/ebooks/77081>  
-
-The Russian road to China  
-Bates, Lindon (English)  
-481 pages; October 22, 2025  
-PG #77082 <https://www.gutenberg.org/ebooks/77082>  
-
-Murder in the Gilded Cage  
-Spewack, Samuel (English)  
-250 pages; October 18, 2025  
-PG #77069 <https://www.gutenberg.org/ebooks/77069>  
-
-Old world masters in new world collections  
-Singleton, Esther (English)  
-475 pages; October 16, 2025  
-PG #77067 <https://www.gutenberg.org/ebooks/77067>  
-
-Catherine the Great  
-Anthony, Katharine (English)  
-342 pages; October 29, 2025  
-PG #77133 <https://www.gutenberg.org/ebooks/77133>  
-
-The girl he loved; or, Where love abides  
-Stirling, Adelaide. (English)  
-260 pages; October 30, 2025  
-PG #77154 <https://www.gutenberg.org/ebooks/77154>  
-
-The evolution of the oil industry  
-Ross, Victor (English)  
-212 pages; October 16, 2025  
-PG #77066 <https://www.gutenberg.org/ebooks/77066>  
-
-The barbarous babes  
-Ayrton, Edith (English)  
-152 pages; October 16, 2025  
-PG #77065 <https://www.gutenberg.org/ebooks/77065>  
-
-William Shakspere and Robert Greene: The Evidence  
-Chapman, William Hall (English)  
-190 pages; October 16, 2025  
-PG #77063 <https://www.gutenberg.org/ebooks/77063>  
-
-The wilderness  
-Mack, Amy E (English)  
-30 pages; October 16, 2025  
-PG #77055 <https://www.gutenberg.org/ebooks/77055>  
-
-The Adventures of Twinkly Eyes the Little Black Bear [1919]  
-Chaffee, Allen (English)  
-210 pages; October 16, 2025  
-PG #77049 <https://www.gutenberg.org/ebooks/77049>  
-
-The Works of the Reverend George Whitefield, Vol 5 of 6  
-Whitefield, George (English)  
-478 pages; October 13, 2025  
-PG #77034 <https://www.gutenberg.org/ebooks/77034>  
-
-The garden yard : a handbook of intensive farming  
-Hall, Bolton (English)  
-339 pages; October 13, 2025  
-PG #77032 <https://www.gutenberg.org/ebooks/77032>  
-
-The sinister mark, 1st ed.  
-Thayer, Lee (English)  
-313 pages; October 13, 2025  
-PG #77033 <https://www.gutenberg.org/ebooks/77033>  
-
-is 5  
-Cummings, E. E. [Edward Estlin] (English)  
-124 pages; October 10, 2025  
-PG #77021 <https://www.gutenberg.org/ebooks/77021>  
-
-The Story of the Sun, Moon, and Stars  
-Giberne, Agnes (English)  
-419 pages; October 7, 2025  
-PG #77004 <https://www.gutenberg.org/ebooks/77004>  
-
-China collecting in America  
-Earle, Alice Morse (English)  
-446 pages  October 7, 2025  
-PG #77000 <https://www.gutenberg.org/ebooks/77000>  
-
-With the Indians in France  
-Willcocks, James (English)  
-467 pages; October 7, 2025  
-PG #77003 <https://www.gutenberg.org/ebooks/77003>  
-
-The list of registered, operational mirrors is here:  
-
->  <https://gutenberg.org/MIRRORS.ALL>
+The team of talented, and bright collaborators, have recently made some great progress on a v2 version of the open audiobook collection. They have been working on for the past few months to expand the collection to all 70K books, through the use of LLMs to automatically determine what should be read aloud and what should not be. Unlike the previous effort, which involved a lot of manual cleaning effort, this new effort will automate that with a series of LLM prompts so that we can automatically read things more like a human would. The AI audiobooks use some newer speech models to generate recordings, and tackle the issue of male and female voices.
 
 
 ## Project Gutenberg Self Publishing Portal
 
-Free Public Access to Create and Distribute eBooks via the Project Gutenberg Self Publishing system.
+> _Free Public Access to Create and Distribute eBooks via the Project Gutenberg Self Publishing system._
 
 Project Gutenberg has focused mostly on the re-creation of paper books rather than the distribution of new authors and material, and we have spent as much of our time on finding books and doing copyright research as on eBook creation and distribution. Project Gutenberg Self Publishing Portal focuses solely on distribution rather than creation.
 
-In 2011 Micheal Hart and John Guagliardo created the (Project Gutenberg Self Publishing Portal and Author’s Community](https://self.gutenberg.org).  Check out the [recent publications] (https://self.gutenberg.org/RecentPublications) there!
+In 2011 Michael Hart and John Guagliardo created the Project Gutenberg Self Publishing Portal and Author’s Community, <https://self.gutenberg.org>.  Since then we have published over 20,000 titles.  For the month of November there were 107 titles submitted and 73 approved, <https://self.gutenberg.org/RecentPublications>.
 
-> <https://self.gutenberg.org>
+If you or anyone you know, ever wished to have their title published at Project Gutenberg, visit <https://self.gutenberg.org> and join the author’s community. It is also a great place to find thousands of contemporary self-published titles.
 
+
+## Selected New Releases at Gutenberg.org - November 2025
+
+In the last month PGLAF added another **211** new public domain eBooks to the PG catalog. Of the new books, 136 were added by PGDP. Thank you to all the volunteers who have helped to make these new titles freely available to the world.
+
+These eBooks are now available at:
+
+> <http://gutenberg.org/ebooks/search/?sort_order=release_date>
+
+A selection of this month’s notable titles:
+
+Flaxius: Leaves from the Life of an Immortal,    
+Leland, Charles Godfrey (English)    
+334 pages; December 1, 2025    
+PG #77376 <https://www.gutenberg.org/ebooks/77376>
+
+The brave little maid of Goldau (1892),  
+Mary Elizabeth Jennings (English)  
+47 pages; December 1, 2025  
+PG #77374 <https://www.gutenberg.org/ebooks/77374>
+
+Brake Up; or, The Young Peacemakers,  
+Optic, Oliver (English)  
+318 pages; December 1, 2025  
+PG #77372 <https://www.gutenberg.org/ebooks/77372>
+
+Hold 'Em, Wyndham!, Barbour,  
+Ralph Henry (English)  
+285 pages; December 1, 2025  
+PG #77370 <https://www.gutenberg.org/ebooks/77370>
+
+Skum [1922],  
+Øberg, Edith (Norwegian)  
+137 pages; December 1, 2025  
+PG #77368 <https://www.gutenberg.org/ebooks/77368>
+
+Among the Isles of Shoals, Thaxter, Celia (English)  
+193 pages; November 29, 2025  
+PG #77366 <https://www.gutenberg.org/ebooks/77366>
+
+Bound to get there; or, A boy who could not be downed,  
+Franklin, Roy (English)  
+324 pages; November 29, 2025  
+PG #77365 <https://www.gutenberg.org/ebooks/77365>
+
+Les conversations d'Émilie,  
+Épinay, Louise d' (French)  
+208 pages; November 29, 2025  
+PG #77364 <https://www.gutenberg.org/ebooks/77364>
+
+Genesis (1910), A Critical and Exegetical Commentary on,  
+Skinner, John, 1851-1925. (English)  
+671 pages; November 29, 2025  
+PG #77363 <https://www.gutenberg.org/ebooks/77363>
+
+Adrift on the Amazon,  
+Miller, Leo (English)  
+286 pages; November 28, 2025  
+PG #77361 <https://www.gutenberg.org/ebooks/77361>
+
+American medicinal barks,  
+Henkel, Alice (English)  
+61 pages; November 28, 2025  
+PG #77360 <https://www.gutenberg.org/ebooks/77360>
+
+Letters of John Huss, written during his exile and imprisonment,  
+Bonnechose, Émile de (English)  
+248 pages; November 28, 2025  
+PG #77359 <https://www.gutenberg.org/ebooks/77359>
+
+A lady's cruise in a French man-of-war [1882],  
+Gordon-Cumming, Constance Frederica (English)  
+397 pages; November 28, 2025  
+PG #77356 <https://www.gutenberg.org/ebooks/77356>
+
+Household words, no. 330, July 19, 1856: A weekly journal,  
+Dickens, Charles (editor) (English)  
+48 pages; November 28, 2025  
+PG #77354 <https://www.gutenberg.org/ebooks/77354>
+
+Historia de la instrucción pública en Puerto Rico hasta el año de 1898,  
+Coll y Toste, Cayetano (Spanish)  
+212 pages; November 28, 2025  
+PG #77353 <https://www.gutenberg.org/ebooks/77353>
+
+Ten years in a Portsmouth slum,  
+Dolling, Robert R. (English)  
+318 pages; November 28, 2025  
+PG #77351 <https://www.gutenberg.org/ebooks/77351>
+
+Bacchus; or, Wine To-day and To-morrow,  
+Shand, P. Morton (English with French)  
+96 pages; November 27, 2025  
+PG #77340 <https://www.gutenberg.org/ebooks/77340>
+
+The English works of Thomas Hobbes of Malmesbury, vol 6 of 11,  
+Hobbes, Thomas (English)  
+540 pages; November 26, 2025  
+PG #77338 <https://www.gutenberg.org/ebooks/77338>
+
+Leben und Taten des scharfsinnigen Edlen  
+Don Quijote von la Mancha 1 {Fraktur}, Miguel de Cervantes Saavedra (Übers.: Tieck) (German)  
+379 pages; November 26, 2025  
+PG #77337 <https://www.gutenberg.org/ebooks/77337>
+
+Hecuba and Other Plays, Euripides;  
+Michael Wodhull [tr.] (English)  
+288 pages; November 26, 2025  
+PG #77336 <https://www.gutenberg.org/ebooks/77336>
+
+Poems: Scots and English,  
+Buchan, John (English with Scots)  
+107 pages; November 25, 2025  
+PG #77335 <https://www.gutenberg.org/ebooks/77335>
+
+El proceso,  
+Franz Kafka (Spanish)  
+385 pages; November 25, 2025  
+PG #77334 <https://www.gutenberg.org/ebooks/77334>
+
+Green Thursday: Stories,  
+Peterkin, Julia M. (English)  
+189 pages; November 25, 2025  
+PG #77332 <https://www.gutenberg.org/ebooks/77332>
+
+The way of all earth, Delano,  
+Edith Barnard (English)  
+283 pages; November 25, 2025  
+PG #77331 <https://www.gutenberg.org/ebooks/77331>
+
+La rive d'Asie,  
+Anet, Claude (French)  
+240 pages; November 24, 2025  
+PG #77330 <https://www.gutenberg.org/ebooks/77330>
+
+The Best Short Stories of 1925, and the Yearbook of the American Short Story,  
+O'Brien, Edward J. [ed.] (English)  
+520 pages; November 24, 2025  
+PG #77328 <https://www.gutenberg.org/ebooks/77328>
+
+The work of the War refugees committee,  
+Shaw, Flora L. (English)  
+43 pages; November 24, 2025  
+PG #77327 <https://www.gutenberg.org/ebooks/77327>
+
+Insomnia: Its causes and cure,  
+Sawyer, James (English)  
+66 pages; November 24, 2025  
+PG #77326 <https://www.gutenberg.org/ebooks/77326>
+
+Bernini, and other studies in the history of art,  
+Norton, Richard (English)  
+367 pages; November 24, 2025  
+PG #77325 <https://www.gutenberg.org/ebooks/77325>
+
+The Dark Year of Dundee (1867),  
+Alcock, Deborah (English)  
+350 pages; November 24, 2025  
+PG #77324 <https://www.gutenberg.org/ebooks/77324>
+
+The list of registered, operational mirrors is here:  
+>  <http://gutenberg.org/MIRRORS.ALL>
 
 ## Join Distributed Proofreaders
 
