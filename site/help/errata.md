@@ -7,7 +7,7 @@ permalink: /help/errata.html
 Submitting Errata, Fixes and Bug Reports
 ========================================
 
-Errata reports, typos, etc. are welcome and appreciated. Email reports to errata2025 @ pglaf.org (remove the spaces around the @). Suggested formats for reports are described below.
+Errata reports, typos, etc. are welcome and appreciated. Email reports to errata2026 @ pglaf.org (remove the spaces around the @). Suggested formats for reports are described below.
 
 Corrections should be against the main source(s) of the Project
 Gutenberg books. These are usually found under the “more files” link
@@ -102,4 +102,4 @@ When you are able to find the eBook's title in an online eBook such as "The Inte
 
 Any errata submissions are freely made, without obligation, and are entirely in the public domain. 
 
-If you are not sure whether your pull request was received, or need guidance on the process, email errata2025 @ pglaf.org. 
+If you are not sure whether your pull request was received, or need guidance on the process, email errata2026 @ pglaf.org. 
