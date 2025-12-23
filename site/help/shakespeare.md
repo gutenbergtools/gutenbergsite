@@ -73,7 +73,7 @@ consistently with the 1500 series (*i.e.*, any updates to those are also in #100
 ============================================================================
 
 * The 1100 and 2200 series are taken from the *First Folio* of Shakespeare’s plays, and
-are duplicates, with the exception of #2270, *Shakespeare's First Folio<*, containing all the plays from that edition.
+are duplicates, with the exception of #2270, *Shakespeare's First Folio*, containing all the plays from that edition.
 * See the <a href="https://en.wikipedia.org/wiki/First_Folio">Wikipedia article</a> on the *First Folio*.
 
 
@@ -84,8 +84,8 @@ The other series have not been updated as much as the 1500 series and #100. Gene
 readers are advised to instead choose from those.
 
 **1765–1802 series:** From the World Library.
-* Similar to the 1500 series.*
-* Three works are missing from this series: #1766, #1767, and #1789.*
+* Similar to the 1500 series.
+* Three works are missing from this series: #1766, #1767, and #1789.
 * This series had been listed as copyrighted (© 1990-1993) based on “sweat of
 the brow” effort to transcribe printed works. Based on contemporary
 <a href="https://en.wikipedia.org/wiki/Feist_Publications,_Inc.,_v._Rural_Telephone_Service_Co.">copyright
