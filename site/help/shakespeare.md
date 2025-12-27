@@ -17,7 +17,7 @@ This page describes Project Gutenberg's multiple versions of the works of Willia
 * <a href="copyright">About copyright status</a>
 
 
-## <a name="first">Project Gutenberg's first Shakespeare in 1994</a>
+## <span id="first">Project Gutenberg's first Shakespeare in 1994</span>
 
 The works of William Shakespeare have a special meaning for the Project
 Gutenberg collection. Founder Michael Hart's father was a Shakespeare
@@ -31,7 +31,7 @@ to fix typos and other errors, and to be made consistent with the
 individual works that were published later by Project Gutenberg as
 separate eBooks.
 
-## <a name="additional">Additional Shakespeare over the years</a>
+## <span id="additional">Additional Shakespeare over the years</span>
 
 Other Shakespeare versions were added later to Project Gutenberg.
 They had different print sources and were digitized by different volunteers.
@@ -50,7 +50,7 @@ Some series include “apocryphal” plays—works with uncertain or disputed au
 For further information on those, refer to <a href="https://en.wikipedia.org/wiki/Shakespeare_apocrypha">Shakespeare apocrypha</a> on Wikipedia.
 
 
-## <a name="where">Where to start for everyday reading enjoyment</a>
+## <span id="where">Where to start for everyday reading enjoyment</span>
 
 For readers who want to enjoy Shakespeare, probably the best starting point is
 the 1500 series, along with #100, #1041 and #1045. This series is generally the
@@ -64,14 +64,14 @@ consistently with the 1500 series (*i.e.*, any updates to those are also in #100
 * Three plays are duplicated: #1520, #1527 and #1542 are from other editions.
 
 
-## <a name="specialized">For scholars and others with specialized interests</a>
+## <span id="specialized">For scholars and others with specialized interests</span>
 
 * The 1100 and 2200 series are taken from the *First Folio* of Shakespeare’s plays, and
 are duplicates, with the exception of #2270, *Shakespeare's First Folio*, containing all the plays from that edition.
 * See the <a href="https://en.wikipedia.org/wiki/First_Folio">Wikipedia article</a> on the *First Folio*.
 
 
-## <a name="other">Other versions</a>
+## <span id="other">Other versions</span>
 
 The other series have not been updated as much as the 1500 series and #100. Generally,
 readers are advised to instead choose from those.
@@ -92,7 +92,7 @@ and individual plays, volumes 2–8 are posted complete, and volume 9 is in prod
 
 **Other:** Miscellaneous individual plays and poems from various sources and editions, and audio books.
 
-## <a name="table">The works</a>
+## <span id="table">The works</span>
 
 <table style="border: 2px solid black;">
   <colgroup>
