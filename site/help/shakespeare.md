@@ -4,291 +4,730 @@ title: Shakespeare | Project Gutenberg
 permalink: /help/shakespeare.html
 ---
 
-Project Gutenberg's Shakespeare Books
--------------------------------------
+# Project Gutenberg's Shakespeare Books
 
-This page describes Project Gutenberg's multiple versions of the works
-of William Shakespeare.
+This page describes Project Gutenberg's multiple versions of the works of William Shakespeare.
 
 * <a href="#first">Project Gutenberg's first Shakespeare in 1994</a>
 * <a href="#additional">Additional Shakespeare over the years</a>
 * <a href="#where">Where to start for everyday reading enjoyment</a>
 * <a href="#specialized">For scholars and others with specialized interests</a>
 * <a href="#other">Other versions</a>
+* <a href="#table">Table of the works</a>
 * <a href="copyright">About copyright status</a>
 
 
-<a name="first">Project Gutenberg's first Shakespeare in 1994
-=============================================================
+## <span id="first">Project Gutenberg's first Shakespeare in 1994</span>
 
-The works of William Shakespeare have a special role for the Project
+The works of William Shakespeare have a special meaning for the Project
 Gutenberg collection. Founder Michael Hart's father was a Shakespeare
 scholar, and Michael collaborated with his father throughout the 1980s
 to digitize the complete works of Shakespeare.
 
 The result was #100, [The Complete Works of William Shakespeare](/ebooks/100).
 
-Since 1994, #100 has been updated many times to provide an HTML file,
+Since 1994, #100 has been updated many times—to provide an HTML file,
 to fix typos and other errors, and to be made consistent with the
 individual works that were published later by Project Gutenberg as
-separate books.
+separate eBooks.
 
+## <span id="additional">Additional Shakespeare over the years</span>
 
-<a name="additional">Additional Shakespeare over the years</a>
-==============================================================
-
-Other Shakespeare versions were added to Project Gutenberg after #100. 
-They had different print sources and were digitized by different
-volunteers.
+Other Shakespeare versions were added later to Project Gutenberg.
+They had different print sources and were digitized by different volunteers.
+For simplicity, we refer in this document to the 1100 series, the 1500 series,
+the 1100 series, the 1700 series, the 2200 series, the Cambridge 1863 series. and “Others”.
 
 By the 2010s, the Project Gutenberg errata team was working on fixing
 typos and other errors, ensuring there were HTML versions of all works
 (rather than just plain text, as was originally the case), and
 that duplicate or near-duplicate files were merged.
-
-In this document, we refer to different document series. Project
-Gutenberg assigns a unique accession number to every book. #100 was
-the 100th book, for example. 
-
-Groups of Shakespeare books were published by Project Gutenberg over
-the years. For simplicity, we refer in this document to the 1100
-series, the 1500 series, the 1700 series, and the 2200 series. You can
-hover over every link to see which series it was part of.
-
 Some titles were maintained over the years such that they are best
-grouped with another series, such as Venus and Adonis which, while its
-book number is 1045, we group with the 1500 series.
+grouped with another series, such as *Venus and Adonis* which, while its
+book number is #1045, we group with the 1500 series.
+
+Some series include “apocryphal” plays—works with uncertain or disputed authorship.
+For further information on those, refer to <a href="https://en.wikipedia.org/wiki/Shakespeare_apocrypha">Shakespeare apocrypha</a> on Wikipedia.
 
 
+## <span id="where">Where to start for everyday reading enjoyment</span>
 
-<a name="where">Where to start for everyday reading enjoyment</a>
-=================================================================
+For readers who want to enjoy Shakespeare, probably the best starting point is
+the 1500 series, along with #100, #1041 and #1045. This series is generally the
+most complete—it includes *Pericles*, *The Two Noble Kinsmen*,
+and the five longer poems, and features modernized English.
 
-For readers who want to enjoy Shakespeare, these are probably the best
-starting points. They are the #1500 series, along with #1041 and #1045. 
-
-The #1500 series is generally the most complete. It contains Pericles,
-The Two Noble Kinsmen, and the five longer poems.  Note that in this
-document we present titles in sorted order including words like
-"A" and "The."
-
-* [A Lover's Complaint, by William Shakespeare](/ebooks/1543)
-* [A Midsummer Night's Dream, by William Shakespeare](/ebooks/1514)
-* [All's Well That Ends Well, by William Shakespeare](/ebooks/1529)
-* [Antony and Cleopatra, by William Shakespeare](/ebooks/1534)
-* [As You Like It, by William Shakespeare](/ebooks/1523)
-* [Coriolanus, by William Shakespeare](/ebooks/1535)
-* [Cymbeline, by William Shakespeare](/ebooks/1538)
-* [Hamlet, by William Shakespeare](/ebooks/1524)
-* [Julius Caesar, by William Shakespeare](/ebooks/1522)
-* [King Henry IV, Part 1, by William Shakespeare](/ebooks/1516)
-* [King Henry IV, Part 2, by William Shakespeare](/ebooks/1518)
-* [King Henry V, by William Shakespeare](/ebooks/1521)
-* [King Henry VI, Part 1, by William Shakespeare](/ebooks/1500)
-* [King Henry VI, Part 2, by William Shakespeare](/ebooks/1501)
-* [King Henry VI, Part 3, by William Shakespeare](/ebooks/1502)
-* [King Henry VIII, by William Shakespeare](/ebooks/1541)
-* [King John, by William Shakespeare](/ebooks/1511)
-* [King Lear, by William Shakespeare](/ebooks/1532)
-* [King Richard II, by William Shakespeare](/ebooks/1512)
-* [King Richard III, by William Shakespeare](/ebooks/1503)
-* [Locrine, by William Shakespeare](/ebooks/1548)
-* [Love's Labour's Lost, by William Shakespeare](/ebooks/1510)
-* [Macbeth, by William Shakespeare](/ebooks/1533)
-* [Measure for Measure, by William Shakespeare](/ebooks/1530)
-* [Mucedorus, by William Shakespeare](/ebooks/1545)
-* [Much Ado About Nothing, by William Shakespeare](/ebooks/1519)
-* [Much Ado About Nothing, by William Shakespeare](/ebooks/1520)
-* [Othello, the Moor of Venice, by William Shakespeare](/ebooks/1531)
-* [Pericles, by William Shakespeare](/ebooks/1537)
-* [Romeo and Juliet, by William Shakespeare](/ebooks/1513)
-* [Shakespeare's Sonnets, by William Shakespeare](/ebooks/1041)
-* [Sir Thomas More, by William Shakespeare](/ebooks/1547)
-* [Sonnets To Sundry Notes of Music, by William Shakespeare](/ebooks/1546)
-* [The Comedy of Errors, by William Shakespeare](/ebooks/1504)
-* [The Merchant of Venice, by William Shakespeare](/ebooks/1515)
-* [The Merry Wives of Windsor, by William Shakespeare](/ebooks/1517)
-* [The Passionate Pilgrim, by William Shakespeare](/ebooks/1544)
-* [The Phoenix and the Turtle, by William Shakespeare](/ebooks/1525)
-* [The Rape of Lucrece, by William Shakespeare](/ebooks/1505)
-* [The Rape of Lucrece, by William Shakespeare](/ebooks/1506)
-* [The Taming of the Shrew, by William Shakespeare](/ebooks/1508)
-* [The Tempest, by William Shakespeare](/ebooks/1540)
-* [The Tragedy of Titus Andronicus, by William Shakespeare](/ebooks/1507)
-* [The Two Noble Kinsmen, by William Shakespeare and John Fletcher](/ebooks/1542)
-* [The Winter's Tale, by William Shakespeare](/ebooks/1539)
-* [Timon of Athens, by William Shakespeare](/ebooks/1536)
-* [Troilus and Cressida, by William Shakespeare](/ebooks/1528)
-* [Twelfth Night, by William Shakespeare](/ebooks/1526)
-* [Twelfth Night, by William Shakespeare](/ebooks/1527)
-* [Two Gentlemen of Verona, by William Shakespeare](/ebooks/1509)
-* [Venus and Adonis, by William Shakespeare](/ebooks/1045)
-
-The Complete Works has every play, and it has been maintained
-consistently with #1041, #1045 and the 1500 series (i.e., any
-changes/updates to those are also update in #100).
-
-* [The Complete Works of William Shakespeare](/ebooks/100)
-
-The 1500 series has covers taken from the First Folio, although they are
-not First Folio versions.
+* Created in 1998 by the PG Shakespeare Team, a team of about twenty Project Gutenberg volunteers.
+* *The Complete Works* has every play, and it has been maintained
+consistently with the 1500 series (*i.e.*, any updates to those are also in #100).
+* Includes some apocryphal plays and poetry.
+* Three plays are duplicated: #1520, #1527 and #1542 are from other editions.
 
 
-<a name="specialized">For scholars and others with specialized interests</a>
-============================================================================
+## <span id="specialized">For scholars and others with specialized interests</span>
 
-The 1100 series books are taken from The Shakespeare First Folio.  
-
-* [A Lover's Complaint, by William Shakespeare](/ebooks/1137)
-* [A Midsummer Night's Dream, by William Shakespeare](/ebooks/1113)
-* [All's Well that End's Well, by William Shakespeare](/ebooks/1125)
-* [Antony and Cleopatra, by William Shakespeare](/ebooks/1130)
-* [As You Like It, by William Shakespeare](/ebooks/1121)
-* [Cymbeline, by William Shakespeare](/ebooks/1133)
-* [Hamlet, Prince of Denmark, by William Shakespeare](/ebooks/1122)
-* [History of Troilus and Cressida, by William Shakespeare](/ebooks/1124)
-* [Julius Caesar, by William Shakespeare](/ebooks/1120)
-* [King Henry IV, Part 1, by William Shakespeare](/ebooks/1115)
-* [King Henry IV, Part 2, by William Shakespeare](/ebooks/1117)
-* [King Henry V, by William Shakespeare](/ebooks/1119)
-* [King Henry VIII, by William Shakespeare](/ebooks/1136)
-* [King Henry the Sixth, Part 1, by William Shakespeare](/ebooks/1100)
-* [King Henry the Sixth, Part 2, by William Shakespeare](/ebooks/1101)
-* [King Henry the Sixth, Part 3, by William Shakespeare](/ebooks/1102)
-* [King John, by William Shakespeare](/ebooks/1110)
-* [King Lear, by William Shakespeare](/ebooks/1128)
-* [King Richard II, by William Shakespeare](/ebooks/1111)
-* [King Richard III, by William Shakespeare](/ebooks/1103)
-* [Love's Labour's Lost, by William Shakespeare](/ebooks/1109)
-* [Macbeth, by William Shakespeare](/ebooks/1129)
-* [Measure for Measure, by William Shakespeare](/ebooks/1126)
-* [Much Ado about Nothing, by William Shakespeare](/ebooks/1118)
-* [Othello, The Moor of Venice, by William Shakespeare](/ebooks/1127)
-* [Romeo and Juliet, by William Shakespeare](/ebooks/1112)
-* [The Comedy of Errors, by William Shakespeare](/ebooks/1104)
-* [The Life of Timon of Athens, by William Shakespeare](/ebooks/1132)
-* [The Merchant of Venice, by William Shakespeare](/ebooks/1114)
-* [The Merry Wives of Windsor, by William Shakespeare](/ebooks/1116)
-* [The Shakespearian Sonnets, by William Shakespeare](/ebooks/1105)
-* [The Taming of the Shrew, by William Shakespeare](/ebooks/1107)
-* [The Tempest, by William Shakespeare](/ebooks/1135)
-* [The Tragedy of Coriolanus, by William Shakespeare](/ebooks/1131)
-* [The Winter's Tale, by William Shakespeare](/ebooks/1134)
-* [Titus Andronicus, by William Shakespeare](/ebooks/1106)
-* [Twelfth Night; or What You Will, by William Shakespeare](/ebooks/1123)
-* [Two Gentlemen of Verona, by William Shakespeare](/ebooks/1108)
-
-The First Folio is, as the title implies, from the 1623 printing.
-
-* [The Complete Shakespeare's First Folio, 36 Plays](/ebooks/2270)
+* The 1100 and 2200 series are taken from the *First Folio* of Shakespeare’s plays, and
+are duplicates, with the exception of #2270, *Shakespeare's First Folio*, containing all the plays from that edition.
+* See the <a href="https://en.wikipedia.org/wiki/First_Folio">Wikipedia article</a> on the *First Folio*.
 
 
-<a name="other">Other versions</a>
-==================================
+## <span id="other">Other versions</span>
 
-The 1700 and 2200 series are near-duplicates of each other. These
-Project Gutenberg books were originally created by different
-volunteers and had somewhat different layout, but since then they have
-been updated and each pair of titles is, or will be, identical.
+The other series have not been updated as much as the 1500 series and #100. Generally,
+readers are advised to instead choose from those.
 
-These have mostly not had errata reports applied (as of late 2023),
-and are mostly only available as plain text.
+**1765–1802 series:** From the World Library.
+* Similar to the 1500 series.
+* Three works are missing from this series: #1766, #1767, and #1789.
+* This series had been listed as copyrighted (© 1990-1993) based on “sweat of
+the brow” effort to transcribe printed works. Based on contemporary
+<a href="https://en.wikipedia.org/wiki/Feist_Publications,_Inc.,_v._Rural_Telephone_Service_Co.">copyright
+law interpretations</a>, the metadata for these was updated in October 2023 to indicate that they are in the public
+domain in the U.S.
 
-The 1700 series (<a href="copyright">below</a>) and 2200 titles have
-not been updated as much as the 1500 series and #100.  Generally,
-readers are advised to instead choose from the 1500 series or #100.
+**Cambridge 1863 series:** The 9-volume Cambridge Edition of *The Works of William Shakespeare*, 1863–1866.
+* See the <a href="https://en.wikipedia.org/wiki/The_Cambridge_Shakespeare">Wikipedia article</a> about this edition.
+* Volume 1 is split into introductory material (#[23401](/ebooks/23401))
+and individual plays, volumes 2–8 are posted complete, and volume 9 is in production.
 
-The 2200 series:
-* [A Midsummer Night,s Dream, by William Shakespeare](/ebooks/2242)
-* [All's well that Ends well, by William Shakespeare](/ebooks/2246)
-* [As you Like it, by William Shakespeare](/ebooks/2244)
-* [Coriolanus, by William Shakespeare](/ebooks/2259)
-* [Cymbeline, by William Shakespeare](/ebooks/2269)
-* [Hamlet, by William Shakespeare](/ebooks/2265)
-* [Henry IV Part 1, by William Shakespeare](/ebooks/2251)
-* [Henry IV Part 2, by William Shakespeare](/ebooks/2252)
-* [Henry V, by William Shakespeare](/ebooks/2253)
-* [Henry VI Part 1, by William Shakespeare](/ebooks/2254)
-* [Henry VI Part 2, by William Shakespeare](/ebooks/2255)
-* [Henry VI Part 3, by William Shakespeare](/ebooks/2256)
-* [Henry VIII, by William Shakespeare](/ebooks/2258)
-* [Julius Caesar, by William Shakespeare](/ebooks/2263)
-* [King John, by William Shakespeare](/ebooks/2249)
-* [King Lear, by William Shakespeare](/ebooks/2266)
-* [Loves Labour Lost, by William Shakespeare](/ebooks/2241)
-* [Macbeth, by William Shakespeare](/ebooks/2264)
-* [Measure for Measure, by William Shakespeare](/ebooks/2238)
-* [Much ado about Nothing, by William Shakespeare](/ebooks/2240)
-* [Othello, by William Shakespeare](/ebooks/2267)
-* [Richard II, by William Shakespeare](/ebooks/2250)
-* [Richard III, by William Shakespeare](/ebooks/2257)
-* [Romeo and Juliet, by William Shakespeare](/ebooks/2261)
-* [The Comedy of Errors, by William Shakespeare](/ebooks/2239)
-* [The Merchant of Venice, by William Shakespeare](/ebooks/2243)
-* [The Merry Wives of Windsor, by William Shakespeare](/ebooks/2237)
-* [The Taming of the Shrew, by William Shakespeare](/ebooks/2245)
-* [The Tempest, by William Shakespeare](/ebooks/2235)
-* [The Tragedie of Anthony and Cleopatra, by William Shakespeare](/ebooks/2268)
-* [The Two Gentlemen of Verona, by William Shakespeare](/ebooks/2236)
-* [The Winters Tale, by William Shakespeare](/ebooks/2248)
-* [Timon of Athens, by William Shakespeare](/ebooks/2262)
-* [Titus Andronicus, by William Shakespeare](/ebooks/2260)
-* [Twelfe-Night, by William Shakespeare](/ebooks/2247)
+**Other:** Miscellaneous individual plays and poems from various sources and editions, and audio books.
 
-Note that #2270, The Shakespeare First Folio, is listed among the
-recommended titles <a href="#where">above</a>. This has been kept
-consistent with the #1500 series.
+## <span id="table">The works</span>
 
-<a name="copyright">About copyright status</a>
-==============================================
+<table style="border: 2px solid black;">
+  <colgroup>
+    <col style="min-width: 6em;">
+    <col span="6" style="width: 6em; text-align: center;">
+  </colgroup>
+  <thead>
+  <tr>
+    <th rowspan="2" style="font-size: larger;">Title</th>
+    <th colspan="6">Series</th>
+  </tr>
+  <tr>
+    <th>Modernized</th>
+    <th colspan="2">First Folio</th>
+    <th>World Library</th>
+    <th>Cambridge 1863</th>
+    <th>Other</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td colspan=7 style="font-size: x-large; font-weight: bold; text-align: center; padding: 0.5em;">Plays</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;"><b>The Complete Works</b></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/100">100</a></td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2270">2270</a></td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">All's Well That Ends Well</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1529">1529</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1125">1125</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2246">2246</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1791">1791</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/50559">50559</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Antony and Cleopatra</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1534">1534</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1130">1130</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2268">2268</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1796">1796</a></td>
+    <td style="text-align: center;" title="In development">Vol. 9</td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">As You Like It</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1523">1523</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1121">1121</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2244">2244</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1786">1786</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/45128">45128</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">The Comedy of Errors</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1504">1504</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1104">1104</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2239">2239</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1769">1769</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/23046">23046</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Coriolanus</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1535">1535</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1131">1131</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2259">2259</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1797">1797</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/49007">49007</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Cymbeline</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1538">1538</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1133">1133</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2269">2269</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1799">1799</a></td>
+    <td style="text-align: center;" title="In development">Vol. 9</td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Hamlet</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1524">1524</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1122">1122</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2265">2265</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1787">1787</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/49008">49008</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/9077">9077</a><a id="FNeb9077" href="#eb9077" class="fnanchor">[a]</a>,
+      <a href="https://www.gutenberg.org/ebooks/10606">10606</a><a id="FNeb10606" href="#eb10606" class="fnanchor">[b]</a>,
+      <a href="https://www.gutenberg.org/ebooks/22761">22761</a><a id="FNeb22761" href="#kean" class="fnanchor">[c]</a></td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Julius Caesar</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1522">1522</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1120">1120</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2263">2263</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1785">1785</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/47715">47715</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/28334">28334</a><a id="FNeb28334" href="#hudson" class="fnanchor">[d]</a></td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">King Henry IV, Part 1</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1516">1516</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1115">1115</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2251">2251</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1780">1780</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/50095">50095</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">King Henry IV, Part 2</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1518">1518</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1117">1117</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2252">2252</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1782">1782</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/50095">50095</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">King Henry V</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1521">1521</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1119">1119</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2253">2253</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1784">1784</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/50095">50095</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/22791">22791</a><a id="FNeb22791" href="#kean" class="fnanchor">[c]</a></td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">King Henry VI, Part 1</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1500">1500</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1100">1100</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2254">2254</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1765">1765</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/49297">49297</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">King Henry VI, Part 2</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1501">1501</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1101">1101</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2255">2255</a></td>
+    <td style="text-align: center;" title="missing">1766?</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/49297">49297</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">King Henry VI, Part 3</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1502">1502</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1102">1102</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2256">2256</a></td>
+    <td style="text-align: center;" title="missing">1767?</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/49297">49297</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">King Henry VIII</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1541">1541</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1136">1136</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2258">2258</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1802">1802</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/49007">49007</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">King John</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1511">1511</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1110">1110</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2249">2249</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1775">1775</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/50095">50095</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">King Lear</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1532">1532</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1128">1128</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2266">2266</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1794">1794</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/49008">49008</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/26224">26224</a> 🕪</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">King Richard II</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1512">1512</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1111">1111</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2250">2250</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1776">1776</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/50095">50095</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">King Richard III</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1503">1503</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1103">1103</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2257">2257</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1768">1768</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/49297">49297</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Love's Labour's Lost</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1510">1510</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1109">1109</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2241">2241</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1774">1774</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/45128">45128</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Macbeth</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1533">1533</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1129">1129</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2264">2264</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1795">1795</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/47715">47715</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Measure for Measure</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1530">1530</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1126">1126</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2238">2238</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1792">1792</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/23045">23045</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">The Merchant of Venice</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1515">1515</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1114">1114</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2243">2243</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1779">1779</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/45128">45128</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">The Merry Wives of Windsor</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1517">1517</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1116">1116</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2237">2237</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1781">1781</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/23044">23044</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">A Midsummer Night's Dream</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1514">1514</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1113">1113</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2242">2242</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1778">1778</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/45128">45128</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/8609">8609</a> 🕪</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Much Ado about Nothing</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1519">1519</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1118">1118</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2240">2240</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1783">1783</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/45128">45128</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1520">1520</a></td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Othello</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1531">1531</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1127">1127</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2267">2267</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1793">1793</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/49008">49008</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Pericles, Prince of Tyre</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1537">1537</a></td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;" title="In development">Vol. 9</td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">The Rape of Lucrece</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1505">1505</a></td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Romeo and Juliet </td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1513">1513</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1112">1112</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2261">2261</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1777">1777</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/47715">47715</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/26268">26268</a> 🕪,
+      <a href="https://www.gutenberg.org/ebooks/47960">47960</a><a id="FNeb47960" href="#rolfe" class="fnanchor">[e]</a></td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">The Taming of the Shrew</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1508">1508</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1107">1107</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2245">2245</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1772">1772</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/50559">50559</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">The Tempest</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1540">1540</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1135">1135</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2235">2235</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1801">1801</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/23042">23042</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/47518">47518</a><a id="FNeb47518" href="#oxford" class="fnanchor">[f]</a></td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Timon of Athens</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1536">1536</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1132">1132</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2262">2262</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1798">1798</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/47715">47715</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Titus Andronicus</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1507">1507</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1106">1106</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2260">2260</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1771">1771</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/49007">49007</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Troilus and Cressida</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1528">1528</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1124">1124</a></td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1790">1790</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/49007">49007</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Twelfth Night</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1526">1526</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1123">1123</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2247">2247</a></td>
+    <td style="text-align: center;" title="missing">1789?</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/50559">50559</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1527">1527</a>,<br>
+      <a href="https://www.gutenberg.org/ebooks/38901">38901</a><a id="FNeb38901" href="#kemble" class="fnanchor">[h]</a></td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">The Two Gentlemen of Verona</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1509">1509</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1108">1108</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2236">2236</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1773">1773</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/23043">23043</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">The Two Noble Kinsmen</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1506">1506</a></td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1542">1542</a><a id="FNeb1542" href="#eb1542" class="fnanchor">[g]</a></td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">The Winter's Tale</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1539">1539</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1134">1134</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/2248">2248</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1800">1800</a></td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/50559">50559</a></td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td colspan=7 style="font-size: x-large; font-weight: bold; text-align: center; padding: 0.5em;">Apocrypha (attribution is questionable)</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Arden of Faversham</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/43440">43440</a></td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Fair Em</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/5137">5137</a></td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">King Edward III</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1770">1770</a></td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Locrine</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1548">1548</a></td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">The London Prodigal</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/4031">4031</a></td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">The Merry Devil of Edmonton</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/4774">4774</a></td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Mucedorus</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1545">1545</a></td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">The Puritan Widow</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/4214">4214</a></td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Sir John Oldcastle</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1788">1788</a></td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Sir Thomas More</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1547">1547</a><a id="FNeb1547" href="#harleian" class="fnanchor">[i]</a></td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Thomas Lord Cromwell</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1736">1736</a></td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">A Yorkshire Tragedy</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/4255">4255</a></td>
+  </tr>
+  <tr>
+    <td colspan=7 style="font-size: x-large; font-weight: bold; text-align: center; padding: 0.5em;">Poetry</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">A Lover's Complaint</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1543">1543</a></td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1137">1137</a><a id="FN1137" href="#notfolio" class="fnanchor">[j]</a></td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">The Passionate Pilgrim</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1544">1544</a></td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">The Phoenix and the Turtle</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1525">1525</a></td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Sonnet #29</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/12719">12719</a> 🕪</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Sonnet #40</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/12720">12720</a> 🕪</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Sonnet #55</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/12721">12721</a> 🕪</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Sonnet #100</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/12722">12722</a> 🕪</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Sonnet #106</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/12723">12723</a> 🕪</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Sonnet #116</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/12724">12724</a> 🕪</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Sonnets</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1041">1041</a></td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1105">1105</a><a id="FNnotfolio" href="#notfolio" class="fnanchor">[j]</a></td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Sonnets on Sundry Notes of Music</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1546">1546</a></td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  <tr>
+    <td style="padding-left: 0.3em;">Venus and Adonis</td>
+    <td style="text-align: center;"><a href="https://www.gutenberg.org/ebooks/1045">1045</a></td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+    <td style="text-align: center;">——</td>
+  </tr>
+  </tbody>
+</table>
 
-A number of Project Gutenberg's Shakespeare versions had been listed
-as copyrighted based on "sweat of the brow" effort to transcribe
-printed works. Based on contemporary
-[copyright law interpretations](https://en.wikipedia.org/wiki/Feist_Publications,_Inc.,_v._Rural_Telephone_Service_Co.),
-we have updated metadata for these to indicate they are in the public
-domain in the US. The metadata changes were made in October 2023 to these
-Shakespeare versions:
 
-* The First Folio in the #1100 series, which appears <a href="#specialized">above</a>
+### Notes:
 
-The 1700 series:
-* [A Midsummer Night's Dream, by William Shakespeare](/ebooks/1778)
-* [All's Well That Ends Well, by William Shakespeare](/ebooks/1791)
-* [Antony and Cleopatra, by William Shakespeare](/ebooks/1796)
-* [As You Like It, by William Shakespeare](/ebooks/1786)
-* [Coriolanus, by William Shakespeare](/ebooks/1797)
-* [Cymbeline, by William Shakespeare](/ebooks/1799)
-* [Hamlet, by William Shakespeare](/ebooks/1787)
-* [Henry the Sixth, Part One, by William Shakespeare](/ebooks/1765)
-* [Julius Caesar, by William Shakespeare](/ebooks/1785)
-* [King Edward the Third, by William Shakespeare](/ebooks/1770)
-* [King Henry IV, Part 1, by William Shakespeare](/ebooks/1780)
-* [King Henry IV, Part 2, by William Shakespeare](/ebooks/1782)
-* [King Henry V, by William Shakespeare](/ebooks/1784)
-* [King Henry VIII, by William Shakespeare](/ebooks/1802)
-* [King John, by William Shakespeare](/ebooks/1775)
-* [King Lear, by William Shakespeare](/ebooks/1794)
-* [King Richard II, by William Shakespeare](/ebooks/1776)
-* [King Richard III, by William Shakespeare](/ebooks/1768)
-* [Love's Labour's Lost, by William Shakespeare](/ebooks/1774)
-* [Macbeth, by William Shakespeare](/ebooks/1795)
-* [Measure for Measure, by William Shakespeare](/ebooks/1792)
-* [Much Ado About Nothing, by William Shakespeare](/ebooks/1783)
-* [Othello, by William Shakespeare](/ebooks/1793)
-* [Romeo and Juliet, by William Shakespeare](/ebooks/1777)
-* [Sir John Oldcastle, by William Shakespeare](/ebooks/1788)
-* [The Comedy of Errors, by William Shakespeare](/ebooks/1769)
-* [The Life and Death of the Lord Cromwell, by William Shakespeare](/ebooks/1736)
-* [The Merchant of Venice, by William Shakespeare](/ebooks/1779)
-* [The Merry Wives of Windsor, by William Shakespeare](/ebooks/1781)
-* [The Taming of the Shrew, by William Shakespeare](/ebooks/1772)
-* [The Tempest, by William Shakespeare](/ebooks/1801)
-* [The Winter's Tale, by William Shakespeare](/ebooks/1800)
-* [Timon of Athens, by William Shakespeare](/ebooks/1798)
-* [Titus Andronicus, by William Shakespeare](/ebooks/1771)
-* [Troilus and Cressida, by William Shakespeare](/ebooks/1790)
-* [Two Gentlemen of Verona, by William Shakespeare](/ebooks/1773)
+<ul style="list-style-type: none;">
+<li><a> 🕪</a> Audio book.</li>
 
+<li><a id="eb9077" href="#FNeb9077">[a]</a> 1603 Trundell printing, text source only.</li>
 
+<li><a id="eb10606" href="#FNeb10606">[b]</a> <cite>First Folio</cite> with student study, text source only.</li>
 
+<li><a id="kean">[c]</a> 1859 Charles Kean edition.</li>
+
+<li><a id="hudson" href="#FNeb28334">[d]</a> <cite>The New Hudson Shakespeare</cite>.</li>
+
+<li><a id="rolfe" href="#FNeb47960">[e]</a> Illustrated edition, Rolfe 1879.</li>
+
+<li><a id="oxford" href="#FNeb47518">[f]</a> Illustrated by Edmund Dulac, text from the Oxford edition.</li>
+
+<li><a id="eb1542" href="#FNeb1542">[g]</a> From C. F. Tucker Brooke’s 1908 edition of <cite>The Shakespeare Apocrypha.</cite></li>
+
+<li><a id="kemble" href="#FNeb38901">[h]</a> Kemble 1811 edition.</li>
+
+<li><a id="harleian" href="#FNeb1547">[i]</a> Re-edited from the Harleian MS. 7368 in the British Museum.</li>
+
+<li><a id="notfolio" href="#FNnotfolio">[j]</a> Sonnets and poems are not included in the <cite>First Folio</cite>, this is in modern English.</li>
+</ul>

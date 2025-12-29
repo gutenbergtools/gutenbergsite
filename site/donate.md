@@ -19,7 +19,7 @@ The design of Project Gutenberg is that everything at www.gutenberg.org will alw
 
 
 <br>
-## <a name="using-paypal"></a> Option 1 - Via Paypal
+## <span id="using-paypal"></span> Option 1 - Via Paypal
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="new">
   Make a <strong>one-time</strong> donation:
   <input type="hidden" name="cmd" value="_s-xclick" >
@@ -59,7 +59,7 @@ Unfortunately donations from some countries don't work when using the PayPal but
 
 
 <br>
-## <a name="using-buymeacoffee"></a> Option 2 - Via BuyMeACoffee
+## <span id="using-buymeacoffee"></span> Option 2 - Via BuyMeACoffee
 
 Visit <a href="https://BuyMeACoffee.com/projgutenberg">BuyMeACoffee.com/projgutenberg</a> to make a one-time donation or to sign up for a monthly donation. Cancel any time.
 
@@ -71,7 +71,7 @@ Project Gutenberg is provided with your name and donation amount, but not with y
 
 
 <br>
-## <a name="by-check-or-money-order"></a> Option 3 - Check or Money Order (any currency)
+## <span id="by-check-or-money-order"></span> Option 3 - Check or Money Order (any currency)
 
 Send a check or money order (any currency) to:
 
@@ -84,11 +84,11 @@ The bank we utilize, Wells Fargo, does not charge any fees for our bank account.
 Any donation of $100 or over will receive a written "thank you" via postal mail, unless you do not provide a return address.
 
 <br>
-## <a name="#additional-detail-on-how-to-donate"></a>Taxes, Privacy & Additional Details
+## <span id="#additional-detail-on-how-to-donate"></span>Taxes, Privacy & Additional Details
 
 [Project Gutenberg](/about/pglaf.html) is a 501(c)(3) charity, so donations are tax-deductable to the extent permitted by law.
 
-<a name="privacy-policy-for-donations"></a>In order to meet IRS tax regulations, PGLAF keeps track of the names, addresses, donation amounts and donation methods of non-anonymous donors.
+<span id="privacy-policy-for-donations"></span>In order to meet IRS tax regulations, PGLAF keeps track of the names, addresses, donation amounts and donation methods of non-anonymous donors.
 We do not provide any information about donors to any party outside of PGLAF and its employees and contractors for any purpose, except if required by law. We will not send subsequent postal or electronic mail or attempt to phone you. We do not add you to any mailing list or email list. If you would like to subscribe to one of the Project Gutenberg email lists please visit [our mailing list pages](https://lists.pglaf.org) for instructions.
 
 Donations are made to the [Project Gutenberg Literary Archive Foundation](/about/pglaf.html), a non-profit corporation registered in the US State of Mississippi. PGLAF is approved as a charitable 501(c)(3) organization by the US Internal Revenue Service, and has the Federal Employee Information Number (EIN) 64-6221541.
