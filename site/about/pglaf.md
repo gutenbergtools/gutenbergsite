@@ -32,9 +32,10 @@ PGLAF has been granted tax exempt status by the IRS under section 501(c)(3) of t
 There are currently six board members:
 
 * Douglas Bowman, Illinois
-* Maitri Erwin, Texas
+* Maitri Erwin, (Treasurer) Texas
 * John Guagliardo, Hawaii
-* Eric Hellman, (Acting Executive Director) New Jersey
+* Linda Hamilton, Ontario
+* Eric Hellman, (Executive Director) New Jersey
 * Robert Tonsing, Texas
 * Mark Zinzow, Illinois
 
@@ -43,9 +44,6 @@ Past board members:
 * [Dr. Harry H. Hilton, Illinois](https://aerospace.illinois.edu/news/46217), who was a board member from PGLAF's inception in 2000 until his death in 2022.
 * [Gregory Newby](/about/newby.html) (Chair and Chief Executive Officer), Yukon
 
-## Employees
-
-PGLAF employs Patrick Webb as a part-time project coordinator and office manager. There are no other employees at this time.
 
 ## Bylaws and Articles of Incorporation
 
