@@ -51,11 +51,11 @@ Make a <strong>monthly donation</strong> (cancel any time):
 
 PayPal accepts credit cards, checks, and bank transfer payments. You will need to make a PayPal account.
 
-In addition to using the quick donation links above, you can also login into PayPal and select "Send Money." When prompted, specify 'donate2025@pglaf.org' as recipient and send the payment as you would any other.
+In addition to using the quick donation links above, you can also login into PayPal and select "Send Money." When prompted, specify 'donate2026@pglaf.org' as recipient and send the payment as you would any other.
 
 The fee charged by PayPal is their discounted rate for charities, which is 1.99% of the transaction plus 49 cents per transaction. So don't bother with $1 amounts - only $0.49 will reach us!
 
-Unfortunately donations from some countries don't work when using the PayPal buttons above. Even in those cases, the more direct "Send Money" to 'donate2025@pglaf.org' method still works perfectly well though.
+Unfortunately donations from some countries don't work when using the PayPal buttons above. Even in those cases, the more direct "Send Money" to 'donate2026@pglaf.org' method still works perfectly well though.
 
 
 <br>

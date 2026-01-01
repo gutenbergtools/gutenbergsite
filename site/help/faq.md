@@ -64,7 +64,7 @@ Project Gutenberg is the original, and oldest, eBook project on the Internet, fo
 
 ### Who runs Project Gutenberg?
 
-The Project Gutenberg Literary Archive Foundation is a 501(c)(3) organization, which operates Project Gutenberg. The board of directors has appointed an acting executive director as of 2025. 
+The [Project Gutenberg Literary Archive Foundation](/about/pglaf.org) is a 501(c)(3) organization, which operates Project Gutenberg. Its Board of Directors appointed Eric Hellman as Executive Director effective January 1, 2026. 
 
 Previously, Dr. Gregory B. Newby was our volunteer CEO, until his death in October 2025. Professor Michael Hart was our Founder and Executive Director. Michael died in 2011, and you can read obituary and memorial information [here](/attic/hart.html).
 

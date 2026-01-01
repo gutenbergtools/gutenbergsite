@@ -615,7 +615,7 @@ if ($hd = fopen ($file = "$config->documentroot/$dir_feeds/today.rss", "w")) {
        This feed is regenerated every night.
     </description>
     <language>en-us</language>
-    <webMaster>webmaster2025@pglaf.org</webMaster>
+    <webMaster>webmaster@gutenberg.org</webMaster>
     <pubDate>$pubdate</pubDate>
     <lastBuildDate>$pubdate</lastBuildDate>
 
