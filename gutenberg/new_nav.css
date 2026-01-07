@@ -1,25 +1,3 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-/* The following 2 lines can be removed if the "mini reset"
-   above using the * selector is removed.
-*/
-dt {margin-bottom: .2em;}
-dd {margin-bottom: 1em; margin-left: 2em;}
-
-header {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 1000;
-}
-
 .logo-container {
   position: absolute;
   left: 0;

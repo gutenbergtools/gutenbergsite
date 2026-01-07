@@ -1,0 +1,168 @@
+/*------------------------------------*\
+  BASE STYLES
+\*------------------------------------*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* GLOBAL VARS */
+
+  /* background colors */
+  --main-bg-color: #ffffff; /* #FFFCD7; */
+  --pre-bg-color: #f9f9f9;
+  --table-bg-color: #f8f9fa;
+  --input-submit-bg-color: #60a3bc;
+
+
+  /* text colors */
+  --main-txt-color: #000000; /* #A01F13; */
+  --table-txt-color: #222;
+  --input-submit-txt-color: #fff;
+
+  /* border colors */
+  --pre-border-color: #2f6fab;
+  --table-border-color: #a2a9b1;
+
+  /* animation colors */
+  --link-visited-color: #654b24;
+  --input-submit-text-shadow-color: rgba(255, 255, 255, 1);
+  --input-submit-box-shadow-color: rgba(0, 0, 0, 0.57);
+
+  /* dimensions */
+  --input-submit-box-shadow-dims: 0px 5px 40px -10px;
+
+
+
+  /* root stylings (inherited) */
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  line-height: 1.5em;
+  letter-spacing: 0.01mm;
+
+}
+
+/*------------------------------------*\
+  HTML ELEMENT STYLES
+\*------------------------------------*/
+
+html {
+  height: 100%;
+  overflow-y: scroll;
+}
+
+body {
+  background-color: var(--main-bg-color);
+  color: var(--main-txt-color);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  max-width: 100vw;
+  width: 100%;
+}
+
+header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+a {
+  color: var(--main-txt-color);
+}
+
+caption {
+  font-weight: bold;
+}
+
+/* The following 2 lines can be removed if the "mini reset"
+   in Base Styles above using the * selector is removed.
+*/
+dt {margin-bottom: .2em;}
+dd {margin-bottom: 1em; margin-left: 2em;}
+
+ol {
+  margin: 0 2em;
+}
+
+ul {
+  list-style-type: "\2022";
+  margin: 0;
+  padding-left: 10px;
+}
+
+pre {
+  border: 1px dashed var(--pre-border-color);
+  background-color: var(--pre-bg-color);
+  padding: 1em;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  empty-cells: show;
+}
+
+table,
+th,
+td {
+  background-color: var(--table-bg-color);
+  color: var(--table-txt-color);
+  margin: 1em 0;
+  border: 1px solid 
+}
+
+/* HTML ELEMENT STYLES WITH SUBTYPES AND ANIMATIONS */
+
+a:link {
+  color: currentColor;
+  text-decoration: none;
+}
+
+a:visited {
+  color: var(--link-visited-color);
+}
+
+a:hover {
+  color: currentColor;
+  text-decoration: underline;
+}
+
+a:active {
+  color: currentColor;
+}
+
+input[type="submit"] {
+  color: var(--input-submit-txt-color);
+  text-decoration: none;
+  background: var(--input-submit-bg-color);
+  padding: 6px;
+  border-radius: 45px 45px;
+  display: inline-block;
+  border: none;
+}
+
+input[type="submit"]:hover {
+  text-shadow: 0px 0px 6px var(--input-submit-text-shadow-color);
+  -webkit-box-shadow: var(--input-submit-box-shadow-dims) var(--input-submit-box-shadow-color);
+  -moz-box-shadow: var(--input-submit-box-shadow-dims) var(--input-submit-box-shadow-color);
+  box-shadow: var(--input-submit-box-shadow-dims) var(--input-submit-box-shadow-color);
+  transition: all 0.4s ease 0s;
+}
+
+/*------------------------------------*\
+  CSS CLASS STYLES
+\*------------------------------------*/
+
+ol .inner_1, ol .inner_2 {
+  margin: 0 1.5em;
+}
+
+
