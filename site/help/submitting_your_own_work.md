@@ -21,17 +21,19 @@ Don't forget to look at the Submission Guidelines under "Get Published"
 
 The self-publishing portal accepts eBooks in PDF and other formats, and allows different types of licenses.
 
-The review process takes a week or two, and then your author portal will be updated. There are automated messages about this - be sure to check whether email messages land in your spam folder.
+If you would like to publish it at Project Gutenberg Self Publishing Press and become part of the Authors Community, please visit https://self.gutenberg.org/ and click on the Register link on the top right hand corner of the page. Fill-out the registration request, then log in into your account and select the Upload tab, also on the top right hand corner. Then begin uploading your publication. All publications will also be simultaneously included in dozens of affiliated library websites, part of the World Library Foundation's consortium of eBook Authors Community, [World Library](https://worldlibrary.org/).
 
-Due to the size of the database at World Library, it can take a month or even longer for new items to be searchable. You can check status of your book upload, in your account dashboard ("My Uploads").
+All publications will be available for public access from your Member's Page after your uploaded titles are approved. The review process usually takes up to 48 hours, and will take a little longer for new items to be added to the online public access catalog and eBook finder.
 
-Note that the World Library Foundation, which operates the self-publishing portal, has a helpdesk for support and any trouble you might encounter. Please contact them directly: <a href="mailto:support@worldlibrary.org">support @ worldlibrary.org</a>. 
+Note that the self-publishing portal, has a helpdesk for support and any trouble you might encounter. Please contact the self-publishing portal directly: <a href="mailto:central.gutenberg@gmail.com">central.gutenberg@gmail.com</a>.
+
 
 ## Other ways to distribute free ebooks
 
 You can post eBooks and other digital materials in many formats at our affiliate, [Internet Archive](archive.org).
 
 ## Why did Project Gutenberg stop accepting contemporary works?
+
 Michael Hart, Project Gutenberg's founder, was a great believer in experimentation and pushing limits. As one of the earliest active sites for books, Project Gutenberg was a magnet for books in every possible format, and many copyrighted items were added with permission of the author.
 
 Today, there are many more mechanisms for authors to distribute their works electronically. Project Gutenberg's website does not have, and will not have, the needed features and services for contemporary authors. For example, we do not accept works in Word or PDF (instead, master formats must include HTML, text, TeX and/or RsT). Another example is that our processes of putting new eBooks online is laborious, and is not a self-service process. This is simply not up to par with modern publishing platforms.
