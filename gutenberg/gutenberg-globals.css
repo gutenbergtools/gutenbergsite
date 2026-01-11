@@ -3,9 +3,9 @@
 \*------------------------------------*/
 
 * {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 
 :root {
@@ -57,21 +57,26 @@ html {
 body {
   background-color: var(--main-bg-color);
   color: var(--main-txt-color);
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   max-width: 100vw;
+  min-height: 100vh;
   width: 100%;
 }
 
 header {
-  width: 100%;
   display: flex;
   flex-direction: column;
+  left: 0;
   position: fixed;
   top: 0;
-  left: 0;
+  width: 100%;
   z-index: 1000;
+}
+
+h2 {
+  font-size: 130%;
+  text-align: left;
 }
 
 a {
@@ -85,8 +90,15 @@ caption {
 /* The following 2 lines can be removed if the "mini reset"
    in Base Styles above using the * selector is removed.
 */
-dt {margin-bottom: .2em;}
-dd {margin-bottom: 1em; margin-left: 2em;}
+dt {
+
+margin-bottom: .2em;
+}
+dd {
+margin-bottom: 1em;
+
+margin-left: 2em;
+}
 
 ol {
   margin: 0 2em;
@@ -99,8 +111,8 @@ ul {
 }
 
 pre {
-  border: 1px dashed var(--pre-border-color);
   background-color: var(--pre-bg-color);
+  border: 1px dashed var(--pre-border-color);
   padding: 1em;
 }
 
@@ -116,7 +128,8 @@ td {
   background-color: var(--table-bg-color);
   color: var(--table-txt-color);
   margin: 1em 0;
-  border: 1px solid 
+
+border: 1px solid
 }
 
 /* HTML ELEMENT STYLES WITH SUBTYPES AND ANIMATIONS */
@@ -140,21 +153,21 @@ a:active {
 }
 
 input[type="submit"] {
-  color: var(--input-submit-txt-color);
-  text-decoration: none;
   background: var(--input-submit-bg-color);
-  padding: 6px;
-  border-radius: 45px 45px;
-  display: inline-block;
   border: none;
+  border-radius: 45px 45px;
+  color: var(--input-submit-txt-color);
+  display: inline-block;
+  padding: 6px;
+  text-decoration: none;
 }
 
 input[type="submit"]:hover {
+  box-shadow: var(--input-submit-box-shadow-dims) var(--input-submit-box-shadow-color);
   text-shadow: 0px 0px 6px var(--input-submit-text-shadow-color);
+  transition: all 0.4s ease 0s;
   -webkit-box-shadow: var(--input-submit-box-shadow-dims) var(--input-submit-box-shadow-color);
   -moz-box-shadow: var(--input-submit-box-shadow-dims) var(--input-submit-box-shadow-color);
-  box-shadow: var(--input-submit-box-shadow-dims) var(--input-submit-box-shadow-color);
-  transition: all 0.4s ease 0s;
 }
 
 /*------------------------------------*\
