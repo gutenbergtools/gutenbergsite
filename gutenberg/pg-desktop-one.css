@@ -453,6 +453,30 @@ h1 .icon {
   margin-left: 20px;
 }
 
+.icon_flattr {
+  background-position: 0px 0px;
+  width: 93px;
+  height: 20px;
+}
+
+.icon_paypal {
+  background-position: 0px -21px;
+  width: 92px;
+  height: 26px;
+}
+
+.icon_logo {
+  background-position: 0px -48px;
+  width: 72px;
+  height: 72px;
+}
+
+.icon_logo_yellow {
+  background-position: 0px -121px;
+  width: 72px;
+  height: 72px;
+}
+
 .icon_gdrive {
   background-position: 0px -194px;
   width: 24px;
@@ -477,8 +501,20 @@ h1 .icon {
   height: 22px;
 }
 
-.icon_book {
-  background-position: -69px -334px;
+.icon_subject {
+  background-position: 0px -219px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon_back {
+  background-position: -23px -219px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon_bibrec {
+  background-position: -46px -219px;
   width: 22px;
   height: 22px;
 }
@@ -489,8 +525,62 @@ h1 .icon {
   height: 22px;
 }
 
+.icon_external {
+  background-position: 0px -242px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon_book_no_images {
+  background-position: -23px -242px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon_home {
+  background-position: -46px -242px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon_bookshelf {
+  background-position: -69px -242px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon_alpha {
+  background-position: 0px -265px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon_download {
+  background-position: -23px -265px;
+  width: 22px;
+  height: 22px;
+}
+
 .icon_rss {
   background-position: -46px -265px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon_search {
+  background-position: -69px -265px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon_language {
+  background-position: 0px -288px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon_author {
+  background-position: -23px -288px;
   width: 22px;
   height: 22px;
 }
@@ -501,8 +591,32 @@ h1 .icon {
   height: 22px;
 }
 
+.icon_audiobook {
+  background-position: -69px -288px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon_alias {
+  background-position: 0px -311px;
+  width: 22px;
+  height: 22px;
+}
+
 .icon_dropbox {
   background-position: -23px -311px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon_internal {
+  background-position: -46px -311px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon_suggestion {
+  background-position: -69px -311px;
   width: 22px;
   height: 22px;
 }
@@ -515,6 +629,24 @@ h1 .icon {
 
 .icon_folder {
   background-position: -23px -334px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon_quantity {
+  background-position: -46px -334px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon_book {
+  background-position: -69px -334px;
+  width: 22px;
+  height: 22px;
+}
+
+.icon_more {
+  background-position: 0px -357px;
   width: 22px;
   height: 22px;
 }
@@ -541,4 +673,34 @@ h1 .icon {
   background-position: 0px -380px;
   width: 16px;
   height: 16px;
+}
+
+.icon_next {
+  background-position: -17px -380px;
+  width: 16px;
+  height: 16px;
+}
+
+.icon_smsearch {
+  background-position: -34px -380px;
+  width: 16px;
+  height: 16px;
+}
+
+.icon_cancel {
+  background-position: -51px -380px;
+  width: 16px;
+  height: 16px;
+}
+
+.icon_qrtab {
+  background-position: -68px -380px;
+  width: 14px;
+  height: 14px;
+}
+
+.icon_external_link {
+  background-position: -83px -380px;
+  width: 10px;
+  height: 10px;
 }
