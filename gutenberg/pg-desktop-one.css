@@ -351,13 +351,10 @@ div.copyright {
   height: 20px;
 }
 
-th,
-.shaded,
-.subcaption,
-.msgsubcaption,
-.msgcaption {
+th {
   background-color: #eceadf;
 }
+
 
 
 .h1 {
