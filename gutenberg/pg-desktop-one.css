@@ -370,8 +370,7 @@ img.cover-art {
 table.bibrec,
 table.files,
 table.results,
-table.helpbox,
-table.pg_social {
+table.helpbox {
   width: 100%;
   background-color: white;
   border: 1px solid #d9d6c4;
@@ -382,17 +381,14 @@ table.bibrec caption,
 table.files caption,
 table.results caption,
 table.helpbox caption,
-table.pg_social caption,
 table.bibrec th,
 table.files th,
 table.results th,
 table.helpbox th,
-table.pg_social th,
 table.bibrec td,
 table.files td,
 table.results td,
-table.helpbox td,
-table.pg_social td {
+table.helpbox td {
   border: 1px solid #d9d6c4;
   padding: 0.5em;
 }
@@ -400,8 +396,7 @@ table.pg_social td {
 table.bibrec caption,
 table.files caption,
 table.results caption,
-table.helpbox caption,
-table.pg_social caption {
+table.helpbox caption {
   border-width: 2px 2px 0 2px;
   font-weight: bold;
 }
@@ -410,20 +405,17 @@ table.bibrec th,
 table.files th,
 table.results th,
 table.helpbox th,
-table.pg_social th,
 table.bibrec td,
 table.files td,
 table.results td,
-table.helpbox td,
-table.pg_social td {
+table.helpbox td {
   text-align: left;
 }
 
 table.bibrec th,
 table.files th,
 table.results th,
-table.helpbox th,
-table.pg_social th {
+table.helpbox th {
   font-weight: bold;
 }
 
