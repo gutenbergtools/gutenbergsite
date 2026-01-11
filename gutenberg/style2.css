@@ -8,9 +8,7 @@
 }
 
 /* animations */
-.fadein {
-  animation: fadein 1s;
-}
+
 
 @-moz-keyframes fadein {
   from {
@@ -42,9 +40,7 @@
   }
 }
 
-.fadeinup {
-  animation: fadeInUp 1s both ease;
-}
+
 
 @-moz-keyframes fadeInUp {
   from {
@@ -200,18 +196,9 @@
 }
 
 /* ====================== book ============================ */
-.book-container {
-  align-items: center;
-  justify-content: center;
-  margin: 50px;
-  max-width: 1000px;
-}
 
-@media only screen and (min-width: 1001px) {
-  .book-container {
-    display: flex;
-  }
-}
+
+
 
 .book.page_content {
   background-color: #f5f5f5;
@@ -237,7 +224,7 @@
   vertical-align: top;
 }
 
-.book .details .id {
+.book .details {
   font-family: Consolas, Courier, monospace;
 }
 
@@ -246,33 +233,33 @@
 }
 
 @media only screen and (min-width: 1001px) {
-  .book .download {
+  .book {
     line-height: 25px;
     width: 130px;
   }
 
-  .book .download a li {
+  .book a li {
     display: block;
   }
 
-  .book .download ul {
+  .book ul {
     list-style: square inside;
   }
 
-  .book .share {
+  .book {
     line-height: 25px;
     width: 20px;
     word-wrap: break-word;
   }
 
-  .book .share a {
+  .book a {
     display: block;
     margin: 10px 0;
   }
 }
 
 @media only screen and (max-width: 1000px) {
-  .book .section {
+  .book {
     display: block;
     text-align: center;
   }
@@ -281,14 +268,14 @@
     text-align: center;
   }
 
-  .book .download a {
+  .book a {
     display: inline-block;
     text-align: center;
     width: 20%;
     max-width: 75px;
   }
 
-  .book .share a {
+  .book a {
     display: inline-block;
     margin: 5px;
   }
@@ -558,21 +545,11 @@ ul.results li::before {
   background-repeat: no-repeat;
 }
 
-.cover-thumb-small {
-  width: 100px;
-  height: 150px;
-}
 
-.cover-thumb-medium {
-  width: 210px;
-  height: 310px;
-}
 
-.box_announce {
-  padding: 0em 1em;
-  background-color: #f2dede;
-  border: 1px solid #ebccd1;
-}
+
+
+
 
 /* Different HTML for mobile and Desktop display */
 #standard {
@@ -686,21 +663,7 @@ ul.results li::before {
 
 /* CUSTOM CSS FOR STYLE UPGRADE OF BIBREC.html */
 /* Styling for the "read online" link */
-.read_html {
-  display: inline-block; /* Fallback for browsers that don't support clamp() */
-  padding: 8px clamp(8px, 7vw, 50px);
-  background-color: #c7dde3;
-  color: black !important;
-  border-radius: 8px;
-  text-decoration: none !important;
-  transition: all 0.3s ease;
-  font-size: 16px;
-  font-weight: bold;
-  border: 1px solid #d6d3d1;
-  max-width: 100%;
-  box-sizing: border-box;
-  white-space: nowrap;
-}
+
 
 .read_html:hover {
   background-color: #e6e6e6;

@@ -51,15 +51,6 @@ img {
   border: 0;
 }
 
-img.coverpage {
-  float: right;
-  width: 50%;
-  max-width: 200px;
-  margin: 1ex;
-  border: 1px solid gray;
-  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.7);
-}
-
 .results {
   display: block;
   list-style-type: none;
@@ -81,18 +72,9 @@ li.header {
   background: linear-gradient(#8c8ca6, #a9a9bc);
 }
 
-li.grayed {
-  background: #e2e2e9;
-}
 
-.table {
-  display: table;
-  width: 100%;
-}
 
-.row {
-  display: table-row;
-}
+
 
 .cell {
   display: table-cell;
@@ -116,29 +98,13 @@ li.grayed {
   display: inline-block;
 }
 
-.icon_flattr {
-  background-position: 0px 0px;
-  width: 93px;
-  height: 20px;
-}
 
-.icon_paypal {
-  background-position: 0px -21px;
-  width: 92px;
-  height: 26px;
-}
 
-.icon_logo {
-  background-position: 0px -48px;
-  width: 72px;
-  height: 72px;
-}
 
-.icon_logo_yellow {
-  background-position: 0px -121px;
-  width: 72px;
-  height: 72px;
-}
+
+
+
+
 
 .icon_gdrive {
   background-position: 0px -194px;
@@ -164,23 +130,11 @@ li.grayed {
   height: 22px;
 }
 
-.icon_subject {
-  background-position: 0px -219px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_back {
-  background-position: -23px -219px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_bibrec {
-  background-position: -46px -219px;
-  width: 22px;
-  height: 22px;
-}
+
+
+
 
 .icon_date {
   background-position: -69px -219px;
@@ -188,41 +142,17 @@ li.grayed {
   height: 22px;
 }
 
-.icon_external {
-  background-position: 0px -242px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_book_no_images {
-  background-position: -23px -242px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_home {
-  background-position: -46px -242px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_bookshelf {
-  background-position: -69px -242px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_alpha {
-  background-position: 0px -265px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_download {
-  background-position: -23px -265px;
-  width: 22px;
-  height: 22px;
-}
+
+
+
+
+
+
 
 .icon_rss {
   background-position: -46px -265px;
@@ -230,23 +160,11 @@ li.grayed {
   height: 22px;
 }
 
-.icon_search {
-  background-position: -69px -265px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_language {
-  background-position: 0px -288px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_author {
-  background-position: -23px -288px;
-  width: 22px;
-  height: 22px;
-}
+
+
+
 
 .icon_print {
   background-position: -46px -288px;
@@ -254,17 +172,9 @@ li.grayed {
   height: 22px;
 }
 
-.icon_audiobook {
-  background-position: -69px -288px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_alias {
-  background-position: 0px -311px;
-  width: 22px;
-  height: 22px;
-}
+
+
 
 .icon_dropbox {
   background-position: -23px -311px;
@@ -272,17 +182,9 @@ li.grayed {
   height: 22px;
 }
 
-.icon_internal {
-  background-position: -46px -311px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_suggestion {
-  background-position: -69px -311px;
-  width: 22px;
-  height: 22px;
-}
+
+
 
 .icon_popular {
   background-position: 0px -334px;
@@ -296,23 +198,11 @@ li.grayed {
   height: 22px;
 }
 
-.icon_quantity {
-  background-position: -46px -334px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_book {
-  background-position: -69px -334px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_more {
-  background-position: 0px -357px;
-  width: 22px;
-  height: 22px;
-}
+
+
+
 
 .icon_masto {
   background-position: -23px -357px;
@@ -338,39 +228,17 @@ li.grayed {
   height: 16px;
 }
 
-.icon_next {
-  background-position: -17px -380px;
-  width: 16px;
-  height: 16px;
-}
 
-.icon_smsearch {
-  background-position: -34px -380px;
-  width: 16px;
-  height: 16px;
-}
 
-.icon_cancel {
-  background-position: -51px -380px;
-  width: 16px;
-  height: 16px;
-}
 
-.icon_qrtab {
-  background-position: -68px -380px;
-  width: 14px;
-  height: 14px;
-}
 
-.icon_external_link {
-  background-position: -83px -380px;
-  width: 10px;
-  height: 10px;
-}
 
-.suggestion {
-  display: none;
-}
+
+
+
+
+
+
 
 a {
   text-decoration: none;
@@ -392,11 +260,6 @@ span.subtitle {
 span.extra {
   display: block;
   color: gray;
-}
-
-span.nextpage {
-  display: block;
-  font-weight: bold;
 }
 
 #query {

@@ -3,23 +3,15 @@
   display: none;
 }
 
-.italic {
-  font-style: italic;
-}
 
-.display {
-  margin-left: 2em;
-  margin-right: 2em;
-}
+
+
 
 .center {
   text-align: center;
 }
 
-.blockcenter {
-  margin-left: auto;
-  margin-right: auto;
-}
+
 
 .right {
   text-align: right;
@@ -29,51 +21,27 @@
   font-size: 70%;
 }
 
-.hide {
-  display: none;
-}
 
-.inline {
-  display: inline;
-}
 
-.float {
-  float: left;
-  margin-right: 1em;
-}
 
-.floatright {
-  float: right;
-  margin-left: 1em;
-}
 
-.clear {
-  clear: both;
-}
+
+
+
+
+
 
 .narrow {
   width: 1%;
 }
 
-.wide {
-  width: 100%;
-}
 
-.boxed {
-  border: 1px solid #d9d6c4;
-  padding: 1ex 1em;
-}
 
-.epigraph {
-  margin: 0 0 0 10em;
-  text-align: right;
-}
 
-.pagedesc {
-  border: 1px solid #d9d6c4;
-  padding: 1ex 1em;
-  color: inherit;
-}
+
+
+
+
 
 .hstrut {
   clear: both;
@@ -83,27 +51,15 @@
   visibility: hidden;
 }
 
-.caption {
-  font-weight: bold;
-}
 
-.subcaption {
-  text-align: center;
-}
 
-.ftshighlight {
-  color: inherit;
-  background-color: yellow;
-}
 
-.red {
-  color: red;
-  background-color: inherit;
-}
 
-.shaded {
-  color: inherit;
-}
+
+
+
+
+
 
 div.breadcrumbs,
 div.header,
@@ -160,15 +116,6 @@ div.breadcrumbs {
   *width: auto;
 }
 
-div.badge {
-  display: inline-block;
-  margin-left: 1em;
-}
-
-div.badge:hover {
-  opacity: 0.8;
-}
-
 #fb-badge {
   width: 1%;
 }
@@ -204,11 +151,6 @@ div.badge:hover {
   border-bottom: 1px solid #cfcaaf;
 }
 
-#menubar span.grayed {
-  margin-left: 1em;
-  color: gray;
-}
-
 #menubar #menubar-first {
   margin-left: 0;
 }
@@ -217,18 +159,9 @@ div.badge:hover {
   padding: 0.5em 0.5em;
 }
 
-#search table.borderless {
-  background: white;
-  *width: auto;
-}
-
 #search td {
   border: 1px solid #d9d5bf;
   background: transparent;
-}
-
-#search form.focused {
-  outline: 1px solid rgba(101, 75, 36, 0.5);
 }
 
 #search button {
@@ -370,24 +303,12 @@ div.breadcrumbs > ul > li.next:before {
   background-position: 0 0;
 }
 
-.qrcode.qrcode-mobile {
-  background-position: -120px 0;
-}
-
 #tabs-wrapper {
   margin: 0 1em 0 200px;
 }
 
 #tabs {
   margin-left: 2em;
-}
-
-div.clearfix {
-  clear: both;
-  content: ".";
-  display: block;
-  height: 0;
-  visibility: hidden;
 }
 
 div.copyright {
@@ -400,65 +321,31 @@ div.copyright {
   height: 21px;
 }
 
-.flattr-button {
-  position: relative;
-  top: 1px;
-}
 
-.fb-js-button {
-  display: none;
-}
 
-.fb-js-like-button {
-  width: 90px;
-  height: 20px;
-}
 
-.fb-js-share-button {
-  height: 21px;
-}
 
-.masto-js-button {
-  display: none;
-}
 
-.masto-js-plus1-button {
-  width: 90px;
-  height: 20px;
-}
 
-.masto-js-share-button {
-  width: 90px;
-  height: 20px;
-}
 
-.bsky-js-button {
-  display: none;
-}
 
-.bsky-js-plus1-button {
-  width: 90px;
-  height: 20px;
-}
 
-.bsky-js-share-button {
-  width: 90px;
-  height: 20px;
-}
 
-.twitter-js-button {
-  display: none;
-}
 
-.twitter-js-share-button {
-  width: 170px;
-  height: 20px;
-}
 
-.twitter-js-follow-button {
-  width: 170px;
-  height: 20px;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .rss-follow-button {
   height: 20px;
@@ -468,12 +355,10 @@ th,
 .shaded,
 .subcaption,
 .msgsubcaption,
-table.tablet,
-table.tablet td,
-.msgcaption,
-.pagedesc {
+.msgcaption {
   background-color: #eceadf;
 }
+
 
 .h1 {
   font-weight: bold;
@@ -483,23 +368,13 @@ img.cover-art {
   max-width: 100%;
 }
 
-span.tab {
-  display: block;
-  background-repeat: no-repeat;
-  background-position: left center;
-  padding-left: 24px;
-}
 
-.fb_iframe_widget {
-  background-color: transparent;
-}
 
 table.bibrec,
 table.files,
 table.results,
 table.helpbox,
-table.pg_social,
-table.social {
+table.pg_social {
   width: 100%;
   background-color: white;
   border: 1px solid #d9d6c4;
@@ -511,19 +386,16 @@ table.files caption,
 table.results caption,
 table.helpbox caption,
 table.pg_social caption,
-table.social caption,
 table.bibrec th,
 table.files th,
 table.results th,
 table.helpbox th,
 table.pg_social th,
-table.social th,
 table.bibrec td,
 table.files td,
 table.results td,
 table.helpbox td,
-table.pg_social td,
-table.social td {
+table.pg_social td {
   border: 1px solid #d9d6c4;
   padding: 0.5em;
 }
@@ -532,8 +404,7 @@ table.bibrec caption,
 table.files caption,
 table.results caption,
 table.helpbox caption,
-table.pg_social caption,
-table.social caption {
+table.pg_social caption {
   border-width: 2px 2px 0 2px;
   font-weight: bold;
 }
@@ -543,13 +414,11 @@ table.files th,
 table.results th,
 table.helpbox th,
 table.pg_social th,
-table.social th,
 table.bibrec td,
 table.files td,
 table.results td,
 table.helpbox td,
-table.pg_social td,
-table.social td {
+table.pg_social td {
   text-align: left;
 }
 
@@ -557,14 +426,8 @@ table.bibrec th,
 table.files th,
 table.results th,
 table.helpbox th,
-table.pg_social th,
-table.social th {
+table.pg_social th {
   font-weight: bold;
-}
-
-table.social td {
-  width: 33%;
-  vertical-align: middle;
 }
 
 table.helpbox {
@@ -575,17 +438,6 @@ table.helpbox {
 
 table.helpbox + table {
   margin-right: 0;
-}
-
-table.borderless {
-  border-width: 0px;
-}
-
-table.borderless caption,
-table.borderless th,
-table.borderless td {
-  border-width: 0px;
-  padding: 0.5ex 0.5em;
 }
 
 .icon {
@@ -681,29 +533,13 @@ h1 .icon {
   margin-left: 20px;
 }
 
-.icon_flattr {
-  background-position: 0px 0px;
-  width: 93px;
-  height: 20px;
-}
 
-.icon_paypal {
-  background-position: 0px -21px;
-  width: 92px;
-  height: 26px;
-}
 
-.icon_logo {
-  background-position: 0px -48px;
-  width: 72px;
-  height: 72px;
-}
 
-.icon_logo_yellow {
-  background-position: 0px -121px;
-  width: 72px;
-  height: 72px;
-}
+
+
+
+
 
 .icon_gdrive {
   background-position: 0px -194px;
@@ -729,23 +565,11 @@ h1 .icon {
   height: 22px;
 }
 
-.icon_subject {
-  background-position: 0px -219px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_back {
-  background-position: -23px -219px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_bibrec {
-  background-position: -46px -219px;
-  width: 22px;
-  height: 22px;
-}
+
+
+
 
 .icon_date {
   background-position: -69px -219px;
@@ -753,41 +577,17 @@ h1 .icon {
   height: 22px;
 }
 
-.icon_external {
-  background-position: 0px -242px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_book_no_images {
-  background-position: -23px -242px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_home {
-  background-position: -46px -242px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_bookshelf {
-  background-position: -69px -242px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_alpha {
-  background-position: 0px -265px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_download {
-  background-position: -23px -265px;
-  width: 22px;
-  height: 22px;
-}
+
+
+
+
+
+
 
 .icon_rss {
   background-position: -46px -265px;
@@ -795,23 +595,11 @@ h1 .icon {
   height: 22px;
 }
 
-.icon_search {
-  background-position: -69px -265px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_language {
-  background-position: 0px -288px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_author {
-  background-position: -23px -288px;
-  width: 22px;
-  height: 22px;
-}
+
+
+
 
 .icon_print {
   background-position: -46px -288px;
@@ -819,17 +607,9 @@ h1 .icon {
   height: 22px;
 }
 
-.icon_audiobook {
-  background-position: -69px -288px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_alias {
-  background-position: 0px -311px;
-  width: 22px;
-  height: 22px;
-}
+
+
 
 .icon_dropbox {
   background-position: -23px -311px;
@@ -837,17 +617,9 @@ h1 .icon {
   height: 22px;
 }
 
-.icon_internal {
-  background-position: -46px -311px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_suggestion {
-  background-position: -69px -311px;
-  width: 22px;
-  height: 22px;
-}
+
+
 
 .icon_popular {
   background-position: 0px -334px;
@@ -861,23 +633,11 @@ h1 .icon {
   height: 22px;
 }
 
-.icon_quantity {
-  background-position: -46px -334px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_book {
-  background-position: -69px -334px;
-  width: 22px;
-  height: 22px;
-}
 
-.icon_more {
-  background-position: 0px -357px;
-  width: 22px;
-  height: 22px;
-}
+
+
+
 
 .icon_masto {
   background-position: -23px -357px;
@@ -903,36 +663,14 @@ h1 .icon {
   height: 16px;
 }
 
-.icon_next {
-  background-position: -17px -380px;
-  width: 16px;
-  height: 16px;
-}
 
-.icon_smsearch {
-  background-position: -34px -380px;
-  width: 16px;
-  height: 16px;
-}
 
-.icon_cancel {
-  background-position: -51px -380px;
-  width: 16px;
-  height: 16px;
-}
 
-.icon_qrtab {
-  background-position: -68px -380px;
-  width: 14px;
-  height: 14px;
-}
 
-.icon_external_link {
-  background-position: -83px -380px;
-  width: 10px;
-  height: 10px;
-}
 
-.suggestion {
-  display: none;
-}
+
+
+
+
+
+

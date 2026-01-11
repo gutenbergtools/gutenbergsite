@@ -14,10 +14,7 @@
 }
 
 /* Make all tab content sections have consistent responsive behavior */
-.tabcontent > div {
-    width: 100%;
-    max-width: 100%;
-}
+
 
 /* Ensure Advanced Search box matches other sections' responsiveness */
 .page .box {
@@ -334,7 +331,7 @@
 }
 
 @media (max-width: 600px) {
-  .page .container, .page .icons-section, .page .menu-and-content, .page .narrow, .page .wide, .page .boxed {
+  .page .container, .page .icons-section, .page .menu-and-content, .page .narrow, .page, .page {
     width: 100% !important;
     min-width: 0 !important;
     max-width: 100% !important;

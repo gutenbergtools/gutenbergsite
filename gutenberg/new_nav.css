@@ -64,15 +64,9 @@
   z-index: 5;
 }
 
-.paypal-link {
-  display: flex;
-  align-items: center;
-}
 
-.paypal-img {
-  height: 25px;
-  width: auto;
-}
+
+
 
 .donbtn {
   height: 25px;
