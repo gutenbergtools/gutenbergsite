@@ -1,17 +1,10 @@
-
 .noscreen {
   display: none;
 }
 
-
-
-
-
 .center {
   text-align: center;
 }
-
-
 
 .right {
   text-align: right;
@@ -21,27 +14,9 @@
   font-size: 70%;
 }
 
-
-
-
-
-
-
-
-
-
-
 .narrow {
   width: 1%;
 }
-
-
-
-
-
-
-
-
 
 .hstrut {
   clear: both;
@@ -50,16 +25,6 @@
   height: 0;
   visibility: hidden;
 }
-
-
-
-
-
-
-
-
-
-
 
 div.breadcrumbs,
 div.header,
@@ -321,41 +286,9 @@ div.copyright {
   height: 21px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .rss-follow-button {
   height: 20px;
 }
-
-th {
-  background-color: #eceadf;
-}
-
-
 
 .h1 {
   font-weight: bold;
@@ -364,8 +297,6 @@ th {
 img.cover-art {
   max-width: 100%;
 }
-
-
 
 table.bibrec,
 table.files,
@@ -522,14 +453,6 @@ h1 .icon {
   margin-left: 20px;
 }
 
-
-
-
-
-
-
-
-
 .icon_gdrive {
   background-position: 0px -194px;
   width: 24px;
@@ -566,29 +489,11 @@ h1 .icon {
   height: 22px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 .icon_rss {
   background-position: -46px -265px;
   width: 22px;
   height: 22px;
 }
-
-
-
-
-
-
 
 .icon_print {
   background-position: -46px -288px;
@@ -596,19 +501,11 @@ h1 .icon {
   height: 22px;
 }
 
-
-
-
-
 .icon_dropbox {
   background-position: -23px -311px;
   width: 22px;
   height: 22px;
 }
-
-
-
-
 
 .icon_popular {
   background-position: 0px -334px;
@@ -621,12 +518,6 @@ h1 .icon {
   width: 22px;
   height: 22px;
 }
-
-
-
-
-
-
 
 .icon_masto {
   background-position: -23px -357px;
@@ -651,15 +542,3 @@ h1 .icon {
   width: 16px;
   height: 16px;
 }
-
-
-
-
-
-
-
-
-
-
-
-

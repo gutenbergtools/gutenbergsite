@@ -298,13 +298,6 @@
 Remove sticky header at this breakpoint.
 */
 @media (max-width: 1024px) {
-  header {
-    position: relative;
-  }
-
-  body {
-    padding-top: 0;
-  }
 
   .logo-container {
     height: 100px; /* Restore original logo height */
