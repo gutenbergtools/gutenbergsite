@@ -130,12 +130,11 @@ li.header {
   height: 22px;
 }
 
-
-
-
-
-
-
+.icon_book {
+  background-position: -69px -334px;
+  width: 22px;
+  height: 22px;
+}
 .icon_date {
   background-position: -69px -219px;
   width: 22px;
