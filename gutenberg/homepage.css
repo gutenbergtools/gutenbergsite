@@ -1,6 +1,7 @@
 /* ---------- Base Styles ---------- */
 
-.rf-homepage__body {
+
+body {
   line-height: 1.6;
   color: #333;
 }

@@ -122,6 +122,23 @@
   background-color: transparent;
 }
 
+.bookshelves {
+  margin: 0 auto;
+  padding: 0;
+  column-count: 3;
+  column-gap: 0px;
+  cursor: default;
+  width: 100%;
+}
+
+.bookshelves h2 {
+    break-after: avoid-column;
+}
+
+.bookshelves ul {
+    break-inside: avoid;
+}
+
 /* Ensure headings stay in the same column as the list */
 .bookshelves .book-list {
   break-inside: avoid;
