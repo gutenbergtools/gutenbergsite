@@ -9,8 +9,9 @@
       c. div[] */
 /* 3. CLASS STYLES
       a. .class, .class div
-      b. .icon__classes
-      c. div.class, div.class > div, div div.class, etc. */
+      b. homepage specific styles and classes
+      c. .icon__classes
+      d. div.class, div.class > div, div div.class, etc. */
 /* 4. ID STLYES (ex: #idinhtml, #id > div)
 /* 5. ANIMATIONS */
 
@@ -1447,6 +1448,232 @@ Remove sticky header at this breakpoint.
   }
 }
 
+/* ====== homepage styles and classes ====== */
+
+.homepage__body{
+  line-height: 1.6;
+  color: #333;
+}
+
+.homepage i { /* didn't see any <i> tags in homepage, but if created use this. */
+  font-style: normal; 
+  font-size: 1.25rem; 
+}
+
+.homepage p i + a { 
+  font-size: 0.85rem;
+  padding: 2px 12px;
+  border-radius: 4px;
+}
+
+/* Links */
+.homepage a {
+  color: #007bff;
+  text-decoration: none;
+  transition: color 0.15s ease-in-out,
+              transform 0.2s ease-in-out,
+              box-shadow 0.2s ease-in-out;
+}
+
+.homepage a:hover { color: #0056b3; }
+
+.homepage h2, 
+.homepage h3, 
+.homepage h4, 
+.homepage h5, 
+.homepage h6 {
+  font-weight: 500;
+  color: #212529;
+}
+
+/* ---------- 'Find more' link ---------- */
+
+.box_shadow {
+  border: none;
+  border-radius: 10px;
+  display: inline-block;
+  min-width: 100%;
+}
+
+.box_shadow p a {
+  background-color: #C7DDE3;
+  padding: 5px 12px;
+  border-radius: 3px;
+}
+
+.box_shadow p a:hover {
+  background-color: #7ebed0;
+}
+
+/* Responsive width for cover carousels */
+/* Library wrapper */
+.library .box_shadow {
+  width: 100%;
+}
+
+/* Box Shadow heading label */
+.box_shadow label { font-size: 1.35rem; }
+
+/* ---------- Category Grid ---------- */
+.category-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  list-style: none;
+  padding: 0;
+  margin: 55px 0px 65px 0px;
+}
+
+.category-grid a {
+  flex: 0 0 280px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 20px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  background: linear-gradient(135deg, #fff 0%, #f8f9fa 100%);
+  border: 1px solid #e9ecef;
+  border-radius: 12px;
+  color: #495057;
+  font-weight: 500;
+  font-size: 1.1rem;
+  text-decoration: none !important;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+.category-grid a:hover {
+  background: #7EBED0;
+  text-decoration: none !important;
+  transform: translateY(-4px);
+}
+
+.category-grid a:before {
+  content: attr(data-emoji);
+  font-size: 1.5rem;
+  filter: grayscale(0.3);
+  transition: all 0.3s ease;
+}
+
+.category-grid a:hover:before {
+  filter: grayscale(0);
+  transform: scale(1.1);
+}
+
+/* Category Grid – Responsive */
+@media (max-width: 768px) {
+  .category-grid {
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .category-grid { grid-template-columns: 1fr; }
+}
+
+/* ---------- Info Boxes ---------- */
+.info-box-container {
+  display: flex;
+  gap: 30px;
+  margin: 40px 0;
+}
+
+.info-box {
+  flex: 1;
+  background-color: #F0F0F0;
+  border-radius: 10px;
+  padding: 20px 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+  transition: transform 0.2s ease-in-out,
+              box-shadow 0.2s ease-in-out;
+}
+
+.info-box:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.info-box h3 {
+  color: #212529;
+  margin: 0 0 15px 0;
+  font-size: 1.35rem;
+}
+
+.info-box ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.info-box ul li { margin-bottom: 14px; line-height: 1.5; }
+
+.info-box .highlight-text {
+  color: #212529;
+  margin-bottom: 10px;
+  font-size: 0.95rem;
+}
+
+/* Info Boxes – Responsive */
+@media (max-width: 768px) {
+  .info-box-container { flex-direction: column; }
+  .info-box { margin-bottom: 15px; }
+}
+
+/* ---------- Latest Releases & Random Selection ---------- */
+.lib.latest {
+  overflow-x: auto;
+  display: flex;
+  gap: 28px;
+  padding: 0px 0px 50px 0px;
+}
+
+.lib.latest::-webkit-scrollbar {
+  height: 10px;
+}
+
+.lib.latest::-webkit-scrollbar-thumb {
+  background-color: #b8b8b8;
+  border-radius: 10px;
+}
+
+.lib.latest::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+  border-radius: 10px;
+}
+
+.lib.latest .cover_image {
+  flex-shrink: 0;
+  transition: transform 0.2s ease-in-out;
+}
+
+.lib.latest .cover_image:hover { transform: translateY(-4px); }
+
+.lib.latest .cover_img img {
+  width: 120px;
+  height: 180px;
+  border-radius: 6px;
+  box-shadow: none;
+  transition: all 0.2s ease-in-out;
+}
+
+.lib.latest .cover_img img:hover {
+  box-shadow: none;
+}
+
+.lib.latest .cover_title { margin-top: 12px; max-width: 140px; }
+
+.lib.latest .cover_title h5 {
+  font-size: 0.85rem;
+  line-height: 1.3;
+  margin: 0;
+  color: #495057;
+  width: 120px;
+}
+
 
 
 
@@ -1922,10 +2149,6 @@ h1 .icon {
   CSS ID STYLES
 \*------------------------------------*/
 
-#slogan {
-  color: #9a772b;
-}
-
 #print-head {
   position: absolute;
   left: 0;
@@ -2368,6 +2591,23 @@ Remove sticky header at this breakpoint.
     justify-content: flex-start; /* Align the form within the header */
   }
 }
+
+/* ====== HOMEPAGE IDS ====== */
+
+
+#slogan {
+  color: #9a772b;
+  font-size: 32px;
+}
+
+/* Slogan responsive line-height */
+@media (max-width: 960px) {
+  #slogan { line-height: 1.2; }
+}
+
+#sub-slogan { font-size: 18px; }
+
+
 
 
 /*------------------------------------*\

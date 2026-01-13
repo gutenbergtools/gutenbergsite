@@ -5,6 +5,8 @@ permalink: /
 ---
 <link rel="stylesheet" href="/gutenberg/homepage.css">
 
+<div class="homepage homepage__body">
+
 <h1 id="slogan"> Project Gutenberg is a library of over 75,000 free eBooks </h1>
 
 <p id="sub-slogan"> Choose among free epub and Kindle eBooks, download them or read them online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for you to enjoy. </p>
@@ -140,4 +142,6 @@ permalink: /
       </a></li>
     </ul>
   </div>
+</div>
+
 </div>
