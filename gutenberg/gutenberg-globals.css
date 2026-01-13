@@ -1718,11 +1718,6 @@ Remove sticky header at this breakpoint.
 
 /* ====== classes inside specific elements ====== */
 
-ol .inner_1,
-ol .inner_2 {
-  margin: 0 1.5em;
-}
-
 div.breadcrumbs,
 div.header,
 div.footer {
@@ -1817,6 +1812,26 @@ table.helpbox + table {
     word-wrap: break-word;
     word-break: break-word;
   }
+}
+
+ol .inner_1,
+ol .inner_2 {
+  margin: 0 1.5em;
+}
+
+
+li.navlink {
+  display: inline-block;
+  padding: 0.1em 1.5em;
+}
+
+ul.icon-list {
+  list-style-type: none;
+}
+
+ul.icon-list li {
+  display: inline-block;
+  padding: 30px;
 }
 
 ul.results {
