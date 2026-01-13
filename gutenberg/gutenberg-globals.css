@@ -325,7 +325,7 @@ input[type="submit"]:hover {
 .cell.content {
   display: block;
   padding-left: 1em;
-  color: var(--library-main-color)
+  color: var(--library-txt-color)
 }
 
 .cell.content:hover {
@@ -346,6 +346,14 @@ input[type="submit"]:hover {
   width: 100%;
   position: relative;
   flex: 1;
+}
+
+@media (max-width: 1024px) {
+  .container {
+    min-height: 0;
+    padding: 0;
+    margin-top: 0;
+  }
 }
 
 @media screen and (orientation: landscape) {
@@ -476,13 +484,6 @@ test_index for latest covers from gutenberg1*/
   scroll-margin-top: 10rem; /* keeps heading out from under fixed header */
 }
 
-@media only screen and (max-width: 750px) {
-  .page_content h2 {
-    font-size: 1.5em;
-    text-align: center;
-  }
-}
-
 .book.page_content {
   background-color: #f5f5f5;
   box-shadow: none;
@@ -567,6 +568,27 @@ test_index for latest covers from gutenberg1*/
   padding-right: 5vw;
 }
 
+/*
+* Remove sticky header at this breakpoint
+*/
+@media (max-width: 1024px) {
+  .page_content {
+    margin-top: 60px;
+    margin-bottom: 30px;
+    padding: 0 5vw;
+  }
+  .page_content h1 {
+    margin-top: 0;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  .page_content h2 {
+    font-size: 1.5em;
+    text-align: center;
+  }
+}
+
 .page_content .bookshelves h2 {
   border-bottom: 0px none #ffffff;
 }
@@ -636,6 +658,7 @@ test_index for latest covers from gutenberg1*/
   display: inline-block;
   width: 1em;
 }
+
 @media only screen and (min-width: 750px) {
   .page_content > ul li::before {
     font-size: small;
@@ -860,25 +883,6 @@ test_index for latest covers from gutenberg1*/
   }
 }
 
-/*
-* Remove sticky header at this breakpoint
-*/
-@media (max-width: 1024px) {
-  .container {
-    min-height: 0;
-    padding: 0;
-    margin-top: 0;
-  }
-  .page_content {
-    margin-top: 60px;
-    margin-bottom: 30px;
-    padding: 0 5vw;
-  }
-  .page_content h1 {
-    margin-top: 0;
-  }
-}
-
 /* DROPDOWN */
 
 .visually-hidden {
@@ -987,37 +991,37 @@ test_index for latest covers from gutenberg1*/
   }
 }
 
-@media (max-width: 835px) {
+@media (max-width: 835px) and (min-width: 735px) {
   .logo-container {
     height: 85px; /* Smaller logo for medium screens */
   }
 }
 
-@media (max-width: 935px) {
+@media (max-width: 935px) and (min-width: 835px) {
   .logo-container {
     height: 90px; /* Smaller logo for medium screens */
-  }
-}
-
-@media (max-width: 1200px) {
-  .logo-container {
-    height: 85px; /* Smaller logo for medium screens */
-  }
-}
-
-@media (max-width: 1110px) {
-  .logo-container {
-    height: 60px; /* Match top header height */
   }
 }
 
 /*
 Remove sticky header at this breakpoint.
 */
-@media (max-width: 1024px) {
+@media (max-width: 1024px) and (min-width: 935px) {
 
   .logo-container {
     height: 100px; /* Restore original logo height */
+  }
+}
+
+@media (max-width: 1110px) and (min-width: 1024px) {
+  .logo-container {
+    height: 60px; /* Match top header height */
+  }
+}
+
+@media (max-width: 1200px) and (min-width: 1110px) {
+  .logo-container {
+    height: 85px; /* Smaller logo for medium screens */
   }
 }
 
@@ -1058,13 +1062,13 @@ Remove sticky header at this breakpoint.
   }
 }
 
-@media (max-width: 550px) {
+@media (max-width: 550px) and (min-width: 500px) {
   .search-form {
     width: 200px;
   }
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1024px) and (min-width: 550px) {
   .search-form {
     width: 300px;
   }
@@ -1112,47 +1116,21 @@ Remove sticky header at this breakpoint.
   transition: height 0.2s ease;
 }
 
-@media (max-width: 1400px) {
-  .donbtn {
-    height: 20px;
-  }
-
-  .donate-link {
-    padding: 4px 18px;
-    font-size: 14px;
-  }
-}
-
-@media (max-width: 768px) {
-  .donbtn {
-    height: 15px;
-  }
-
-  .donate-link {
-    padding: 3px 15px;
-    font-size: 13px;
-  }
-}
-
-@media (max-width: 715px) {
-  .donatelink {
-    display: none;
-  }
-
-  .donate-link {
-    padding: 5px 22px;
-    font-size: 16px;
-  }
-}
-
 @media (max-width: 620px) {
   .donbtn {
     height: 12px;
   }
+}
 
-  .donate-link {
-    padding: 3px 12px;
-    font-size: 12px;
+@media (max-width: 768px) and (min-width: 620px) {
+  .donbtn {
+    height: 15px;
+  }
+}
+
+@media (max-width: 1400px) and (min-width: 768px) {
+  .donbtn {
+    height: 20px;
   }
 }
 
@@ -1170,15 +1148,49 @@ Remove sticky header at this breakpoint.
     font-size 0.2s ease;
 }
 
-.donate-container .donate-link:hover {
-  opacity: 0.9;
-}
-
 @media (max-width: 400px) {
   .donate-container .donate-link {
     padding: 5px 18px;
     font-size: 11px;
   }
+}
+
+@media (max-width: 715px) {
+  .donatelink {
+    display: none;
+  }
+}
+
+@media (max-width: 620px) {
+  .donate-link {
+    padding: 3px 12px;
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 715px) and (min-width: 620px) {
+  .donate-link {
+    padding: 5px 22px;
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 768px) and (min-width: 715px) {
+  .donate-link {
+    padding: 3px 15px;
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 1400px) and (min-width: 768px) {
+  .donate-link {
+    padding: 4px 18px;
+    font-size: 14px;
+  }
+}
+
+.donate-container .donate-link:hover {
+  opacity: 0.9;
 }
 
 .lower-header {
@@ -1203,21 +1215,24 @@ Remove sticky header at this breakpoint.
   }
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1024px) and (min-width: 435px) {
 
   .lower-header {
     padding-left: 10px;
     padding-right: 10px;
   }
 
-  .lower-header .main-links .link-freq-downloaded,
-  .lower-header .main-links .link-main-categories {
-    display: none;
-  }
-
   .lower-header .dropdown-button,
   .lower-header .main-links a {
     margin: 0 15px;
+  }
+}
+
+@media (max-width: 1024px) {
+
+  .lower-header .main-links .link-freq-downloaded,
+  .lower-header .main-links .link-main-categories {
+    display: none;
   }
 }
 
@@ -1324,6 +1339,10 @@ Remove sticky header at this breakpoint.
   flex-shrink: 0;
 }
 
+.main-links a:visited {
+    color: var(--hover-visited-color);
+}
+
 .main-links a:hover,
 .dropdown-button:hover {
   text-decoration: underline;
@@ -1341,6 +1360,16 @@ Remove sticky header at this breakpoint.
   min-height: 60px;
 }
 
+.tertiary-header .tertiary-link {
+  display: none;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
 @media (max-width: 435px) {
   .tertiary-header {
     padding-left: 5px;
@@ -1356,14 +1385,25 @@ Remove sticky header at this breakpoint.
 @media (max-width: 1024px) {
   .tertiary-header {
     display: flex;
+  }
+  .tertiary-header .tertiary-link {
+    display: inline-block;
+  }
+}
+
+@media (max-width: 1024px) and (min-width: 435px) {
+  .tertiary-header {
     padding-left: 10px;
     padding-right: 10px;
   }
 
   .tertiary-header .tertiary-link {
-    display: inline-block;
     margin: 0 15px;
   }
+}
+
+.tertiary-header .tertiary-link:hover {
+  text-decoration: underline;
 }
 
 .tertiary-header a,
@@ -1380,20 +1420,6 @@ Remove sticky header at this breakpoint.
 .tertiary-header a:hover,
 .tertiary-header::before:hover,
 .tertiary-header::after:hover {
-  text-decoration: underline;
-}
-
-.tertiary-header .tertiary-link {
-  display: none;
-  color: black;
-  text-decoration: none;
-  font-weight: bold;
-  font-size: 16px;
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-
-.tertiary-header .tertiary-link:hover {
   text-decoration: underline;
 }
 
@@ -2505,14 +2531,14 @@ h1 .icon {
   }
 }
 
-@media (max-width: 835px) {
+@media (max-width: 835px) and (min-width: 735px) {
 
   #main_logo img {
     height: 85px; /* Smaller logo for medium screens */
   }
 }
 
-@media (max-width: 935px) {
+@media (max-width: 935px) and (min-width: 835px) {
 
   #main_logo img {
     height: 90px; /* Smaller logo for medium screens */
@@ -2522,26 +2548,28 @@ h1 .icon {
 /*
 Remove sticky header at this breakpoint.
 */
-@media (max-width: 1024px) {
+@media (max-width: 1024px) and (min-width: 935px) {
 
   #main_logo img {
     height: 100px; /* Restore original logo height */
   }
 }
 
-@media (max-width: 1110px) {
+@media (max-width: 1110px) and (min-width: 1024px) {
 
   #main_logo img {
     height: 60px; /* Match top header height */
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1200px) and (min-width: 1110px){
 
   #main_logo img {
     height: 85px; /* Smaller logo for medium screens */
   }
 }
+
+
 
 #about-toggle:checked ~ .dropdown-overlay {
   display: block;
