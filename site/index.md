@@ -3,7 +3,6 @@ layout: default
 title: Free eBooks | Project Gutenberg
 permalink: /
 ---
-<link rel="stylesheet" href="/gutenberg/homepage.css">
 
 <div class="homepage homepage__body">
 
