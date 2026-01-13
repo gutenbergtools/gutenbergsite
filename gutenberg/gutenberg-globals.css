@@ -586,16 +586,6 @@ test_index for latest covers from gutenberg1*/
     margin-bottom: 30px;
     padding: 0 5vw;
   }
-  .page_content h1 {
-    margin-top: 0;
-  }
-}
-
-@media only screen and (max-width: 750px) {
-  .page_content h2 {
-    font-size: 1.5em;
-    text-align: center;
-  }
 }
 
 .page_content .bookshelves h2 {
@@ -638,6 +628,12 @@ test_index for latest covers from gutenberg1*/
   margin-bottom: 1em;
 }
 
+@media (max-width: 1024px) {
+  .page_content h1 {
+    margin-top: 0;
+  }
+}
+
 .page_content h2::before {
   display: block;
   content: "";
@@ -652,6 +648,13 @@ test_index for latest covers from gutenberg1*/
   margin-bottom: 15px;
   width: 100%;
   color: black;
+}
+
+@media only screen and (max-width: 750px) {
+  .page_content h2 {
+    font-size: 1.5em;
+    text-align: center;
+  }
 }
 
 .page_content h3::before {
@@ -877,16 +880,16 @@ test_index for latest covers from gutenberg1*/
   font-size: 1.5rem;
 }
 
+.breadcrumbs li a:link {
+  color: black;
+  text-decoration: none;
+}
+
 @media screen and (max-width: 768px) {
 
   .breadcrumbs ul {
     line-height: 1;
   }
-}
-
-.breadcrumbs li a:link {
-  color: black;
-  text-decoration: none;
 }
 
 /* Custom CSS for bibrec */
