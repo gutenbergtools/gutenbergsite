@@ -3,7 +3,8 @@ layout: default
 title: Free eBooks | Project Gutenberg
 permalink: /
 ---
-<link rel="stylesheet" href="/gutenberg/homepage.css">
+
+<div class="homepage homepage__body">
 
 <h1 id="slogan"> Project Gutenberg is a library of over 75,000 free eBooks </h1>
 
@@ -140,4 +141,6 @@ permalink: /
       </a></li>
     </ul>
   </div>
+</div>
+
 </div>
