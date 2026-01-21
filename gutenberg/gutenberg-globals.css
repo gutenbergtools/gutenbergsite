@@ -331,6 +331,10 @@ input[id^="collapsible"] {
   vertical-align: top;
 }
 
+.cell.leftcell.with-cover {
+  width: 105px; /* const width so that cell text is aligned */
+}
+
 .cell.content {
   display: block;
   padding-left: 1em;
