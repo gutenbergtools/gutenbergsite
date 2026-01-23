@@ -2834,7 +2834,7 @@ ul.results li {
 }
 
 ul.results li a.link {
-  display: block;
+  display: flex;
   text-decoration: none;
 }
 
