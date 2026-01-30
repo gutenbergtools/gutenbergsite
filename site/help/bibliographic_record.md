@@ -164,7 +164,7 @@ Release Date
 Copyright Status
 : Whether the eBook is copyrighted in the U.S. If you don't live in the U.S. you have to check the copyright laws of your country before downloading an eBook! PG does not know the copyright status of any of its ebooks in any country except the U.S. You may download a copyrighted ebook for your personal use but have to contact the copyright owner if you want to redistribute it.
 
-Over 95% of Project Gutenberg eBooks do not have copyright protection in the U.S., usually because their copyright term expired. These tend to be older items. See the [collection development policy](/policy/collection_development.html) for details. 
+Over 95% of Project Gutenberg eBooks do not have copyright restriction in the U.S., usually because their copyright term expired. These tend to be older items. See the [collection development policy](/policy/collection_development.html) for details. 
 
 Downloads
 : The approximate number of downloads in the last 30 days (updated daily).

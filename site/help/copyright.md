@@ -26,7 +26,7 @@ Contents
 <li><a href="#phase-1-biographical-research">Phase 1: Biographical Research</a></li>
 <li><a href="#phase-2-bibliographical-research">Phase 2: Bibliographical Research</a></li>
 <li><a href="#phase-3-renewal-research">Phase 3: Renewal Research</a></li>
-<li><a href="#situations-that-prevent-a-determination-of-not-having-copyright-protection-under-rule-6">Situations that Prevent a Determination of Not Having Copyright Protection under Rule 6</a></li>
+<li><a href="#situations-that-prevent-a-determination-of-not-having-copyright-restriction-under-rule-6">Situations that Prevent a Determination of Not Having Copyright Restriction under Rule 6</a></li>
 <li><a href="#time-span-for-renewal-records">Time span for Renewal Records</a></li>
 <li><a href="#what-to-submit">What to Submit</a></li>
 <li><a href="#alternate-methodology">Alternate methodology</a></li>
@@ -34,7 +34,7 @@ Contents
 </ol>
 </li>
 <li><a href="#rule-8-us-government-works">Rule 8: U.S. Government Works</a></li>
-<li><a href="#rule-10-protection-of-foreign-works-in-the-us-under-us-copyright-law">Rule 10: Protection of Foreign Works in the U.S. Under U.S. Copyright Law</a>
+<li><a href="#rule-10-restriction-of-foreign-works-in-the-us-under-us-copyright-law">Rule 10: Restriction of Foreign Works in the U.S. Under U.S. Copyright Law</a>
 <ol class="inner_2">
 <li><a href="#preamble-1">Preamble</a></li>
 <li><a href="#additional-definitions-for-foreign-works">Additional Definitions for Foreign Works</a></li>
@@ -51,7 +51,7 @@ Contents
 <ol class="inner_1">
 <li><a href="#copyright-rules-for-other-countries">Copyright Rules for other countries</a></li>
 <li><a href="#whose-law-applies">Whose law applies?</a></li>
-<li><a href="#what-changes-have-taken-place-in-the-term-of-copyright-protection-in-the-united-states">What changes have taken place in the term of copyright protection in the United States?</a></li>
+<li><a href="#what-changes-have-taken-place-in-the-term-of-copyright-restriction-in-the-united-states">What changes have taken place in the term of copyright restriction in the United States?</a></li>
 </ol>
 </li>
 <li><a href="#how-to-submit-copyright-clearance-materials-for-project-gutenberg-ebook">How to Submit Copyright Clearance Materials for Project Gutenberg eBook</a></li>
@@ -69,7 +69,7 @@ applies, please [submit the item](https://copy.pglaf.org) for our consideration.
 - [Rule 5. Pre-1989 U.S. works without a copyright notice](#rule-5-publication-and-distribution-of-us-works-prior-to-march-1-1989-without-proper-notice)
 - [Rule 6. Pre-1964 U.S. works but timely renewed](#rule-6-failure-of-us-works-to-comply-with-renewal-requirements-prior-to-1964)
 - [Rule 8. Government copyright](#rule-8-us-government-works)
-- [Rule 10. Foreign Works](#rule-10-protection-of-foreign-works-in-the-us-under-us-copyright-law)
+- [Rule 10. Foreign Works](#rule-10-restriction-of-foreign-works-in-the-us-under-us-copyright-law)
 
 (rules 7 and 9 are not currently in use) 
 
@@ -82,24 +82,24 @@ A "U.S. Work" is a work where (i) one or more of the authors was a national or d
 
 Summary: As of 2026, qualifying Works published in 1930 or earlier do not have copyright restrictions in the U.S.
 
-Detail: For Works published prior to January 1, 1978, the maximum term of copyright protection is 95 years from the date of first publication. This is regardless of whether the Work complied with U.S. requirements for notice, registration and renewal. This is regardless of where the Work was published or the nationality of the authors.
+Detail: For Works published prior to January 1, 1978, the maximum term of copyright restriction is 95 years from the date of first publication. This is regardless of whether the Work complied with U.S. requirements for notice, registration and renewal. This is regardless of where the Work was published or the nationality of the authors.
 
-Historical detail: For Works first published before January 1, 1923, the maximum term of copyright protection was 75 years from the date of first publication. This was regardless of whether the Work complied with U.S. requirements for notice, registration and renewal. This was regardless of where the Work was published. Thus, any such Works published prior to 1923 have been in the public domain in the U.S. since 1998 or earlier.
+Historical detail: For Works first published before January 1, 1923, the maximum term of copyright restriction was 75 years from the date of first publication. This was regardless of whether the Work complied with U.S. requirements for notice, registration and renewal. This was regardless of where the Work was published. Thus, any such Works published prior to 1923 have been in the public domain in the U.S. since 1998 or earlier.
 
 Rule 1 is the rule we use the most, and it may be utilized for Works published before 1978. Works published in 1978 or later are not subject to Rule 1.
 
 ### Rule 2: Works first created by natural persons on or after January 1, 1978
-Works first created on or after January 1, 1978 are protected under U.S. copyright law until 70 years after the death of the author if the author is a natural person. (Copyright protection will not expire for any works under this rule until at least January 1, 2049.) 
+Works first created on or after January 1, 1978 are restricted under U.S. copyright law until 70 years after the death of the author if the author is a natural person. (Copyright restriction will not expire for any works under this rule until at least January 1, 2049.) 
 
 ### Rule 3: Works first created by corporate authors on or after January 1, 1978
-Works first created on or after January 1, 1978 that are created by a corporate author are protected under U.S. copyright law until 95 years after publication or 120 years after creation whichever occurs first. (Copyright protection will not expire for any works under this rule until at least January 1, 2074.)
+Works first created on or after January 1, 1978 that are created by a corporate author are restricted under U.S. copyright law until 95 years after publication or 120 years after creation whichever occurs first. (Copyright restriction will not expire for any works under this rule until at least January 1, 2074.)
 
 ### Rule 4: Works first created before January 1, 1978 but not published before that date
-Works created before January 1, 1978 but not published before that date are copyrighted under rules similar to rules 2 and 3 above, except that in no case will the copyright on a work not published prior to January 1, 1978 expire before December 31, 2002. If the work was published before December 31, 2002, its copyright will not expire before December 31, 2047. (This rule extends copyright protection to a lot of manuscripts that we would otherwise think of as not protected by U.S. copyright law because of their age.) 
+Works created before January 1, 1978 but not published before that date are copyrighted under rules similar to rules 2 and 3 above, except that in no case will the copyright on a work not published prior to January 1, 1978 expire before December 31, 2002. If the work was published before December 31, 2002, its copyright will not expire before December 31, 2047. (This rule extends copyright restriction to a lot of manuscripts that we would otherwise think of as not restricted by U.S. copyright law because of their age.) 
 
 ### Rule 5: Publication and Distribution of U.S. Works Prior to March 1, 1989 Without Proper Notice
 
-If a substantial number of copies of a U.S. Work were printed and distributed in the U.S. prior to March 1, 1989 without a copyright notice, and the work is of entirely American authorship or is considered to be first published in the United States, the work is not protected under U.S. copyright law. (Note that we cannot clear items printed/published outside of the U.S. under this rule.)
+If a substantial number of copies of a U.S. Work were printed and distributed in the U.S. prior to March 1, 1989 without a copyright notice, and the work is of entirely American authorship or is considered to be first published in the United States, the work is not restricted under U.S. copyright law. (Note that we cannot clear items printed/published outside of the U.S. under this rule.)
 
 When Rule 5 relies on being printed and distributed in the U.S., bibliographic research must be provided that demonstrates where it was first published and distributed.
 
@@ -109,11 +109,11 @@ When Rule 5 relies on being of entirely US authorship, research must include bio
 Rule 6 copyright research is only accepted from known volunteers with demonstrated competency in the required evidence steps to provide non-renewal evidence. 
 
 #### Preamble
-Project Gutenberg's "Rule 6" from the Copyright How-To provides a mechanism for demonstrating that items no longer have copyright protection, due to non-renewal of copyright. Rule 6 may only be used for items first published in the US between 95 years ago and December 31, 1963.
+Project Gutenberg's "Rule 6" from the Copyright How-To provides a mechanism for demonstrating that items no longer have copyright restriction, due to non-renewal of copyright. Rule 6 may only be used for items first published in the US between 95 years ago and December 31, 1963.
 
 Based on review of the US Library of Congress' historical renewal records, Project Gutenberg has estimated that over 85% of all registered books and monographs are never renewed. The procedures described here are intended to identify whether a particular item is among those that were not renewed.
 
-These procedures are to enact a good faith effort by Project Gutenberg to establish safe harbor categories of works which clearly are not protected by copyright due to non-renewal, and whose non-renewal status may be determined unambiguously. These determinations enable PG to move forward and use its resources wisely in its efforts to build its library collection. 
+These procedures are to enact a good faith effort by Project Gutenberg to establish safe harbor categories of works which clearly are not restricted by copyright due to non-renewal, and whose non-renewal status may be determined unambiguously. These determinations enable PG to move forward and use its resources wisely in its efforts to build its library collection. 
 
 #### Scope
 Rule 6 may be applied to published books, monographs, serials, or portions of these items. It may not be applied to unpublished items, such as manuscripts and letters. It may not be applied to other types of items, such as audio recordings or speeches. It may only be applied when first publication was in the US, by authors residing in the US.
@@ -145,10 +145,10 @@ If the Catalog of Copyright Entries is available for the initial publication, an
 
 Search for renewal records. Provide details on which resources (print or online) were used. Search for all variations on title, author, compilation, etc. Provide details on search terms used and other variations. 
 
-#### Situations that Prevent a Determination of Not Having Copyright Protection under Rule 6
+#### Situations that Prevent a Determination of Not Having Copyright Restriction under Rule 6
 Renewals that would be due on the 28th year after first publication could actually occur or be registered earlier or later. For this reason, we consider an otherwise valid renewal to be applicable if it is found in the 27th, 28th, 29th or 30th year after first publication. Thus, renewals need to be searched plus or minus two years of the 28th year after first publication. 
 
-If a variation is found to be renewed for the 28th year after publication (plus or minus 2 years), then Project Gutenberg will not assert that the item no longer has copyright protection. Variations include very similar items (such as reprints). 
+If a variation is found to be renewed for the 28th year after publication (plus or minus 2 years), then Project Gutenberg will not assert that the item no longer has copyright restriction. Variations include very similar items (such as reprints). 
 
 For serial items, renewals for the entire work (with all serial parts combined) will be deemed to apply to each serial part. However, this only applies when the item and/or the renewal are within the four year period (27th, 28th, 29th and 30th year after first publication). 
 
@@ -189,7 +189,7 @@ Documentation of your research must accompany a Rule 6 clearance request, as sub
 For all renewal research, list the specific resources utilized. 
 
 #### Alternate methodology
-A letter from the publisher, written statements from the author or heirs, or court cases are examples of evidence for copyright protection status that, if available, may supersede the other research. Such evidence might confirm or deny copyright protection status. 
+A letter from the publisher, written statements from the author or heirs, or court cases are examples of evidence for copyright restriction status that, if available, may supersede the other research. Such evidence might confirm or deny copyright restriction status. 
 
 If these types of data are available, please discuss with the Project Gutenberg copyright clearance team to determine how to proceed.
 
@@ -207,12 +207,12 @@ To summarize, PG #11800 has (non-drama) book renewals for 1950-1977, periodicals
 Most recent update: August 21, 2016 (with minor typographical changes on January 13, 2019).
 
 ### Rule 8: U.S. Government Works
-Items published by the United States Government do not have copyright protection in the US. We need to be careful with this rule, because some items distributed by the U.S. Government might have been authored by other entities who are entitled to a copyright. 
+Items published by the United States Government do not have copyright restriction in the US. We need to be careful with this rule, because some items distributed by the U.S. Government might have been authored by other entities who are entitled to a copyright. 
 
-### Rule 10: Protection of Foreign Works in the U.S. Under U.S. Copyright Law
+### Rule 10: Restriction of Foreign Works in the U.S. Under U.S. Copyright Law
 
 #### Preamble
-The key concept for protection of published foreign works under U.S. copyright law is to grant copyright protection in the U.S. under U.S. law, equivalent to that afforded to U.S. Works created and first published at a similar time, to works of foreign countries who grant reciprocity to U.S. works in their territories under their copyright laws. The countries whose works qualify for this protection are called Treaty Parties or Proclamation Countries. Because of this equivalency principle, many of the rules for foreign works will seem similar to rules for U.S. Works. However, different research is required because it is first necessary to determine i) what were the authors' nationalities and domiciles at the time of first publication, ii) what is the work's source country, and iii) whether the work's source country currently qualifies as a Treaty Party or a Proclamation Country. Research into publication with or without notice or into registration or renewal is not necessary because foreign works from Treaty Parties and Proclamation Countries are no longer required to comply with U.S. formalities including notice, registration, and renewal. The remainder of the maximum term of protection under U.S. law has been restored for all works of Treaty Parties and Proclamation Countries which previously may have lost copyright protection under U.S. law for failure to comply with notice, registration and renewal requirements. 
+The key concept for restriction of published foreign works under U.S. copyright law is to grant copyright restriction in the U.S. under U.S. law, equivalent to that afforded to U.S. Works created and first published at a similar time, to works of foreign countries who grant reciprocity to U.S. works in their territories under their copyright laws. The countries whose works qualify for this restriction are called Treaty Parties or Proclamation Countries. Because of this equivalency principle, many of the rules for foreign works will seem similar to rules for U.S. Works. However, different research is required because it is first necessary to determine i) what were the authors' nationalities and domiciles at the time of first publication, ii) what is the work's source country, and iii) whether the work's source country currently qualifies as a Treaty Party or a Proclamation Country. Research into publication with or without notice or into registration or renewal is not necessary because foreign works from Treaty Parties and Proclamation Countries are no longer required to comply with U.S. formalities including notice, registration, and renewal. The remainder of the maximum term of restriction under U.S. law has been restored for all works of Treaty Parties and Proclamation Countries which previously may have lost copyright restriction under U.S. law for failure to comply with notice, registration and renewal requirements. 
 
 #### Additional Definitions for Foreign Works
 A "Treaty Party" is a country or intergovernmental organization other than the United States that is a party to
@@ -223,7 +223,7 @@ A "Treaty Party" is a country or intergovernmental organization other than the U
 	5. the WIPO Copyright Treaty concluded at Geneva, Switzerland, on December 20, 1996;
 	6. the WIPO Performances and Phonograms Treaty concluded at Geneva, Switzerland, on December 20, 1996.; and any other copyright treaty to which the United States is a party.
 
-A "Presidential Proclamation Country" is a country for which a presidential proclamation has been issued finding that the particular foreign nation extends, to works by authors who are nationals or domiciliaries of the United States or to works that are first published in the United States, copyright protection on substantially the same basis as that on which the foreign nation extends protection to works of its own nationals and domiciliaries and works first published in that nation. 
+A "Presidential Proclamation Country" is a country for which a presidential proclamation has been issued finding that the particular foreign nation extends, to works by authors who are nationals or domiciliaries of the United States or to works that are first published in the United States, copyright restriction on substantially the same basis as that on which the foreign nation extends restriction to works of its own nationals and domiciliaries and works first published in that nation. 
 
 The "Source Country" for a published work is a Treaty Party or Presidential Proclamation country 
 	1. in which the work is first published, or
@@ -234,24 +234,24 @@ An "eligible foreign work" is a published work satisfying one or more of the fol
 	2. the work is first published in a foreign nation that, on the date of first publication, is a treaty party; or
 	3. the work is a sound recording that was first fixed in a treaty party; or
 	4. the work is a pictorial, graphic, or sculptural work that is incorporated in a building or other structure, or an architectural work that is embodied in a building and the building or structure is located in a treaty party; or
-	5. the work comes within the scope of a Presidential proclamation extending U.S. copyright protection to works of which one or more of the authors is, on the date of first publication, a national, domiciliary, or sovereign authority of that nation, or which was first published in that nation.
+	5. the work comes within the scope of a Presidential proclamation extending U.S. copyright restriction to works of which one or more of the authors is, on the date of first publication, a national, domiciliary, or sovereign authority of that nation, or which was first published in that nation.
 
 #### Rule 10(a) - Unpublished Works of Foreign Authors
-U.S. law grants exactly the same protection to unpublished works created by foreign authors as it grants to unpublished works created by U.S. authors regardless of the nationality of any foreign authors or the treaty status of the authors' countries of nationality or domicile. Apply Rules 2, 3 and 4. 
+U.S. law grants exactly the same restriction to unpublished works created by foreign authors as it grants to unpublished works created by U.S. authors regardless of the nationality of any foreign authors or the treaty status of the authors' countries of nationality or domicile. Apply Rules 2, 3 and 4. 
 
 #### Rule 10(b) - Works of Treaty Parties and Proclamation Countries First Published Before 1923
-The maximum term of protection under U.S. copyright law for eligible foreign works first published before January 1, 1923 expired no more than 75 years from the date of first publication. Hence, all works which would otherwise qualify as eligible foreign works first published before 1923 are no longer protected by U.S. copyright law, regardless of where they were published. 
+The maximum term of restriction under U.S. copyright law for eligible foreign works first published before January 1, 1923 expired no more than 75 years from the date of first publication. Hence, all works which would otherwise qualify as eligible foreign works first published before 1923 are no longer restricted by U.S. copyright law, regardless of where they were published. 
 
 #### Rule 10(c) - Works of Treaty Parties and Proclamation Countries First Published Between 1923 and 1978
-The maximum term of copyright protection for eligible foreign works first published between 1923-1978 expires 95 years from the date of first publication. 2019 was the first year in which works could be cleared under this rule. 
+The maximum term of copyright restriction for eligible foreign works first published between 1923-1978 expires 95 years from the date of first publication. 2019 was the first year in which works could be cleared under this rule. 
 
 #### Rule 10(d) - Works of Treaty Parties and Proclamation Countries First Published On or After January 1, 1978
-1. Eligible foreign work first created by authors who are natural persons on or after January 1, 1978 are protected under U.S. copyright law until 70 years after the death of the author. ( Copyright protection will not expire for any works under this rule until at least January 1, 2049.).
-2.  Eligible foreign works first created on or after January 1, 1978 by a corporate author are protected under U.S. copyright law until 95 years after publication or 120 years after creation whichever occurs first. (Copyright protection will not expire for any works under this rule until at least January 1, 2074.)
-3. Eligible foreign works created before January 1, 1978 but not published before that date are protected under U.S. copyright law under rules similar to (1) and (2) above, except that in no case will the copyright on a work not published prior to January 1, 1978 expire before December 31, 2002. If the work *is* published before December 31, 2002, its copyright will not expire before December 31, 2047. (This rule extends copyright protection to a lot of manuscripts that we would otherwise think of as not protected by U.S. copyright law because of their age.)
+1. Eligible foreign work first created by authors who are natural persons on or after January 1, 1978 are restricted under U.S. copyright law until 70 years after the death of the author. ( Copyright restriction will not expire for any works under this rule until at least January 1, 2049.).
+2.  Eligible foreign works first created on or after January 1, 1978 by a corporate author are restricted under U.S. copyright law until 95 years after publication or 120 years after creation whichever occurs first. (Copyright restriction will not expire for any works under this rule until at least January 1, 2074.)
+3. Eligible foreign works created before January 1, 1978 but not published before that date are restricted under U.S. copyright law under rules similar to (1) and (2) above, except that in no case will the copyright on a work not published prior to January 1, 1978 expire before December 31, 2002. If the work *is* published before December 31, 2002, its copyright will not expire before December 31, 2047. (This rule extends copyright restriction to a lot of manuscripts that we would otherwise think of as not restricted by U.S. copyright law because of their age.)
 
 #### Rule 10(e) - Published Works From Countries Who Do Not Qualify as Treaty Parties or Proclamation Countries
-If the source country for a work is not the United States or a Treaty Party country or a Presidential Proclamation country, then the work has no protection in the United States under U.S. copyright law. Very few countries fit in this category. 
+If the source country for a work is not the United States or a Treaty Party country or a Presidential Proclamation country, then the work has no restriction in the United States under U.S. copyright law. Very few countries fit in this category. 
 
 <div class="box_shadow">
 THOSE ARE ALL THE RULES WE USE. PLEASE CONTACT US BEFORE DECIDING THAT A RULE APPLIES TO A WORK YOU ARE INTERESTED IN, AS WE NEED TO HAVE THE FINAL DECISION. DUE TO THE RISKS OF COPYRIGHT VIOLATION, WE MUST PERFORM "DUE DILIGENCE" TO MAKE SURE THAT WE HAVE RIGHTS TO USE THE ITEMS WE DISTRIBUTE.
@@ -262,20 +262,20 @@ NOTE THAT PROJECT GUTENBERG COPYRIGHT RESEARCH IS ONLY FOR PROJECT GUTENBERG, AN
 ## More Copyright Law
 Below is a little more background and detail on U.S. copyright law as it pertains to Project Gutenberg: 
 
-**Caveat:** Each edition of a work may have its own period of copyright protection (this depends on whether the new edition involves "authorship" or simply corrects punctuation). Every translation has independent copyright protection. A new edition does not extend the protection of the original edition.
+**Caveat:** Each edition of a work may have its own period of copyright restriction (this depends on whether the new edition involves "authorship" or simply corrects punctuation). Every translation has independent copyright restriction. A new edition does not extend the restriction of the original edition.
 
 ### Copyright Rules for other countries
-The general rule for the minimum term of copyright protection is life of the author plus 50 years (extended to life plus 70 years in many countries, as a result of globalization of copyright laws and pressure from content owners). No major country other than the United States has required copyright notice, and refused protection for works without copyright notice. Rules on corporate authors differ. 
+The general rule for the minimum term of copyright restriction is life of the author plus 50 years (extended to life plus 70 years in many countries, as a result of globalization of copyright laws and pressure from content owners). No major country other than the United States has required copyright notice, and refused restriction for works without copyright notice. Rules on corporate authors differ. 
 
 ### Whose law applies?
 When someone publishes or distributes in the United States, U.S. law applies. When someone publishes or distributes in other countries, their law applies. 
 
-### What changes have taken place in the term of copyright protection in the United States?
-Under the 1909 Copyright Act, the original term lasted 28 years (not 26). It was renewable for an extra 28 years, for a total of 56 years. Until 1992, copyright protection would expire if renewal was not filed in a timely manner. However, even with diligent research, it is difficult to determine with assurance that renewal was not filed. 
+### What changes have taken place in the term of copyright restriction in the United States?
+Under the 1909 Copyright Act, the original term lasted 28 years (not 26). It was renewable for an extra 28 years, for a total of 56 years. Until 1992, copyright restriction would expire if renewal was not filed in a timely manner. However, even with diligent research, it is difficult to determine with assurance that renewal was not filed. 
 
 In the mid 1950's Congress started working on a major revision of the copyright act, but by 1960 it was clear that this would not be a short process. By 1962, the copyright had expired on everything published before 1906. It was clear that the new act would grant existing works a total term of 75 years. To prevent these works from losing out on the 75 year extension while Congress worked out all the other details of the new act, Congress started passing extension acts in 1962. Such extensions prevented copyright expirations before the passage of the 1976 Copyright Act, with the result that all copyrights in existence in 1962 were extended to at least 1976 when the 75-year term kicked in. 
 
-Effective in 1998, after copyright protection for works first published in 1922 had expired, the copyright term was extended for all works as to which copyright protection had not yet expired. Thus, for works published in 95+ years ago, and thereafter (provided they were renewed, or were exempt from renewal requirements) the effective term will be 95 years. 
+Effective in 1998, after copyright restriction for works first published in 1922 had expired, the copyright term was extended for all works as to which copyright restriction had not yet expired. Thus, for works published in 95+ years ago, and thereafter (provided they were renewed, or were exempt from renewal requirements) the effective term will be 95 years. 
 
 The rules on public speeches, musical performances, and other works not originally fixed in a tangible medium of expression are somewhat different, and require a determination based on the facts of the individual instance. 
 

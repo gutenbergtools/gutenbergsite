@@ -13,7 +13,7 @@ Also see the [/policy/permission.html](permission) page, which provides addition
 <ol>
 <li ><a href="#the-project-gutenberg-license-explained-informative">The Project Gutenberg License Explained (informative)</a>
 <ol class="inner_1">
-<li><a href="#books-not-protected-under-us-copyright-law">Books Not Protected Under U.S. Copyright Law</a></li>
+<li><a href="#books-not-protected-under-us-copyright-law">Books Not Restricted Under U.S. Copyright Law</a></li>
 <li><a href="#copyrighted-books">Copyrighted Books</a></li>
 <li><a href="#using-the-project-gutenberg-trademark">Using the Project Gutenberg Trademark</a></li>
 </ol>

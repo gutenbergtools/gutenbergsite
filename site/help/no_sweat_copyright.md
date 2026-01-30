@@ -9,7 +9,7 @@ No Sweat of the Brow Copyright
 
 Work performed on a public domain item, known as sweat of the brow, does not result in a new copyright. This is the judgment of Project Gutenberg's copyright lawyers, and is founded in a study of case law in the United States. This is founded in the notion of authorship, which is a prerequisite for a new copyright. Non-authorship activities do not create a new copyright.
 
-Some organizations erroneously claim a new copyright when they add value to a public domain item, such as to an old printed book. But despite the difficulty of the work involved, none of these activities result in new copyright protection when performed on a public domain item: 
+Some organizations erroneously claim a new copyright when they add value to a public domain item, such as to an old printed book. But despite the difficulty of the work involved, none of these activities result in new copyright restriction when performed on a public domain item: 
 
 - scanning and optical character recognition (OCR)
 - proofreading and OCR error correction
