@@ -13,7 +13,7 @@ Also see the [/policy/permission.html](permission) page, which provides addition
 <ol>
 <li ><a href="#the-project-gutenberg-license-explained-informative">The Project Gutenberg License Explained (informative)</a>
 <ol class="inner_1">
-<li><a href="#books-not-protected-under-us-copyright-law">Books Not Restricted Under U.S. Copyright Law</a></li>
+<li><a href="#books-not-restricted-under-us-copyright-law">Books Not Restricted Under U.S. Copyright Law</a></li>
 <li><a href="#copyrighted-books">Copyrighted Books</a></li>
 <li><a href="#using-the-project-gutenberg-trademark">Using the Project Gutenberg Trademark</a></li>
 </ol>
@@ -46,20 +46,20 @@ The Project Gutenberg license is hard to understand because it addresses three d
 
 It also addresses two categories of ebooks:
 
-- books not protected by U.S. copyright laws, usually because any period of protection under U.S. law has expired, and
+- books not restricted by U.S. copyright laws, usually because any period of restriction under U.S. law has expired, and
 - copyrighted books whose author gave Project Gutenberg permission to distribute them.
 
 ### Books Not Protected Under U.S. Copyright Law
-These books are not protected by copyright in the United States and anyone located in the United States — including Project Gutenberg and you — may read and distribute them. If you don't live in the United States you'll have to check the laws of the country you live in before downloading and distributing our ebooks.
+These books are not restricted by copyright in the United States and anyone located in the United States — including Project Gutenberg and you — may read and distribute them. If you don't live in the United States you'll have to check the laws of the country you live in before downloading and distributing our ebooks.
 
-Such a Project Gutenberg ebook is made out of two parts: the book text not protected by U.S. copyright lawand the non public domain Project Gutenberg trademark and license. If you strip the Project Gutenberg license and all references to Project Gutenberg from the text, you are left with a text unprotected by U.S. intellectual property law. You can do anything you want with that text in the United States and most of the rest of the world.
+Such a Project Gutenberg ebook is made out of two parts: the book text not restricted by U.S. copyright lawand the non public domain Project Gutenberg trademark and license. If you strip the Project Gutenberg license and all references to Project Gutenberg from the text, you are left with a text unrestricted by U.S. intellectual property law. You can do anything you want with that text in the United States and most of the rest of the world.
 
 Note that Project Gutenberg no longer uses the term public domain, because of the many different ways people interpret that term leading to misunderstandings concerning who may do what with Project Gutenberg texts. 
 
 ### Copyrighted Books
 Some authors give Project Gutenberg permission to distribute their book(s). This permission does not automatically expand to include you. If you want to distribute a copyrighted ebook you found on PG, you have to contact the author and stipulate an agreement.
 
-N.B. The catalog will tell you if an ebook is protected by U.S. copyright law, but sometimes the catalog is wrong. Always look at the license inside the ebook to tell whether it is protected by U.S. copyright or not. 
+N.B. The catalog will tell you if an ebook is restricted by U.S. copyright law, but sometimes the catalog is wrong. Always look at the license inside the ebook to tell whether it is restricted by U.S. copyright or not. 
 
 ### Using the Project Gutenberg Trademark
 If you want to use the name Project Gutenberg anywhere in the ebooks you distribute or on the distribution medium or in advertising you have to obey these rules:
@@ -81,7 +81,7 @@ Examples that do _not_ constitute use of the Project Gutenberg Trademark:
 ## The Full Project Gutenberg License in Legalese (normative)
 Updated editions will replace the previous one--the old editions will be renamed.
 
-Creating the works from print editions not protected by U.S. copyright law means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties. Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a registered trademark, and may not be used if you charge for the eBooks, unless you receive specific permission. If you do not charge anything for copies of this eBook, complying with the rules is very easy. You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research. They may be modified and printed and given away--you may do practically ANYTHING in the United States with eBooks not protected by U.S. copyright law. Redistribution is subject to the trademark license, especially commercial redistribution. 
+Creating the works from print editions not restricted by U.S. copyright law means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties. Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a registered trademark, and may not be used if you charge for the eBooks, unless you receive specific permission. If you do not charge anything for copies of this eBook, complying with the rules is very easy. You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research. They may be modified and printed and given away--you may do practically ANYTHING in the United States with eBooks not restricted by U.S. copyright law. Redistribution is subject to the trademark license, especially commercial redistribution. 
 
 ### START: FULL LICENSE
 THE FULL PROJECT GUTENBERG LICENSE
@@ -95,9 +95,9 @@ To protect the Project Gutenberg-tm mission of promoting the free distribution o
 
 1.B. "Project Gutenberg" is a registered trademark. It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement. There are a few things that you can do with most Project Gutenberg-tm electronic works even without complying with the full terms of this agreement. See paragraph 1.C below. There are a lot of things you can do with Project Gutenberg-tm electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg-tm electronic works. See paragraph 1.E below.
 
-1.C. The Project Gutenberg Literary Archive Foundation ("the Foundation" or PGLAF), owns a compilation copyright in the collection of Project Gutenberg-tm electronic works. Nearly all the individual works in the collection are in the public domain in the United States. If an individual work is unprotected by copyright law in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed. Of course, we hope that you will support the Project Gutenberg-tm mission of promoting free access to electronic works by freely sharing Project Gutenberg-tm works in compliance with the terms of this agreement for keeping the Project Gutenberg-tm name associated with the work. You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg-tm License when you share it without charge with others.
+1.C. The Project Gutenberg Literary Archive Foundation ("the Foundation" or PGLAF), owns a compilation copyright in the collection of Project Gutenberg-tm electronic works. Nearly all the individual works in the collection are in the public domain in the United States. If an individual work is unrestricted by copyright law in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed. Of course, we hope that you will support the Project Gutenberg-tm mission of promoting free access to electronic works by freely sharing Project Gutenberg-tm works in compliance with the terms of this agreement for keeping the Project Gutenberg-tm name associated with the work. You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg-tm License when you share it without charge with others.
 
-[*] This particular work is one of the few individual works protected by copyright law in the United States and most of the remainder of the world, included in the Project Gutenberg collection with the permission of the copyright holder. Information on the copyright owner for this particular work and the terms of use imposed by the copyright holder on this work are set forth at the beginning of this work.
+[*] This particular work is one of the few individual works restricted by copyright law in the United States and most of the remainder of the world, included in the Project Gutenberg collection with the permission of the copyright holder. Information on the copyright owner for this particular work and the terms of use imposed by the copyright holder on this work are set forth at the beginning of this work.
 
 1.D. The copyright laws of the place where you are located also govern what you can do with this work. Copyright laws in most countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg-tm work. The Foundation makes no representations concerning the copyright status of any work in any country outside the United States. 
 
@@ -107,7 +107,7 @@ To protect the Project Gutenberg-tm mission of promoting the free distribution o
 
 This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org. If you are not located in the United States, you'll have to check the laws of the country where you are located before using this ebook.
 
-1.E.2. If an individual Project Gutenberg-tm electronic work is derived from texts not protected by U.S. copyright law (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges. If you are redistributing or providing access to a work with the phrase "Project Gutenberg" associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+1.E.2. If an individual Project Gutenberg-tm electronic work is derived from texts not restricted by U.S. copyright law (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges. If you are redistributing or providing access to a work with the phrase "Project Gutenberg" associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
 1.E.3. If an individual Project Gutenberg-tm electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder. Additional terms will be linked to the Project Gutenberg-tm License for all works posted with the permission of the copyright holder found at the beginning of this work.
 
@@ -129,7 +129,7 @@ This eBook is for the use of anyone anywhere in the United States and most other
 
 1.F.
 
-1.F.1. Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread works not protected by U.S. copyright law in creating the Project Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm electronic works, and the medium on which they may be stored, may contain "Defects," such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
+1.F.1. Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread works not restricted by U.S. copyright law in creating the Project Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm electronic works, and the medium on which they may be stored, may contain "Defects," such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
 
 1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right of Replacement or Refund" described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg-tm trademark, and any other party distributing a Project Gutenberg-tm electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
 
@@ -154,7 +154,7 @@ The Foundation's principal office is located in Montclair, New Jersey, but its v
 For additional contact information: 
 <pre>
     Eric Hellman
-    Acting Executive Director
+    Executive Director
     eric (at) pglaf.org
 </pre>
 
@@ -172,7 +172,7 @@ Please check the Project Gutenberg Web pages for current donation methods and ad
 ### Section 5. General Information About Project Gutenberg-tm electronic works.
 Professor Michael S. Hart was the originator of the Project Gutenberg-tm concept of a library of electronic works that could be freely shared with anyone. For forty years, he produced and distributed Project Gutenberg-tm eBooks with only a loose network of volunteer support.
 
-Project Gutenberg-tm eBooks are often created from several printed editions, all of which are confirmed as not protected by copyright in the U.S. unless a copyright notice is included. Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.
+Project Gutenberg-tm eBooks are often created from several printed editions, all of which are confirmed as not restricted by copyright in the U.S. unless a copyright notice is included. Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility: www.gutenberg.org
 
