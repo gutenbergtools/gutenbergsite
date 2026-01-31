@@ -24,7 +24,7 @@ ___—Enjoy these eBooks. Share them. Celebrate them.—___
 
 ## Mourning -> Celebrating
 
-
+Greg Newby left us in October; we've had a mourning box on our homepage since. Greg's birthday was February 9th, so it seemed like an appropriate moment to turn from mourning his passing to celebrating his accomplishments, while working to continue them. So, Happy Birthday Greg, we miss you! There's a birthday cake on our homepage now.
 
 ## Tributes and Thanks from our Community
 
@@ -173,9 +173,9 @@ Thank you Dr. Newby, for leading Project Gutenberg so thoughtfully. You have lef
 
 This is just gut-wrenching! I know @gbnewby from his time as CTO of #ComputeCanada during a time where we went from having thirty-plus #HPC clusters of various sizes in >20 data centres to having only four big systems in as many data centres. My thoughts go out to Greg and his family and I wish them all the strength they need in such a difficult time!
 
-Sad news <https://www.2600.com/content/sad-news>
+### From Eric (Executive Director)
 
-
+I thought about Greg this morning. I ran a 5K race called the "Penguin Pace". I came in 7th (of 12) in my age group. It was 8°F at the start. In my running club there are people who have run umpteen marathons (I've run one) and folks who do triathlons and ultramarathons. One friend recently did a 100-miler. I used to brag to them that I knew a guy who ran ARCTIC ULTRAS!!! That was Greg. Arctic ultramarathons are multi-day races where you have to pull your gear on a sled behind you so that you can stop and rest without freezing to death. After Greg had to quit halfway one time due to frostbite, he tried the next year and finished! Compared to that, my race was a balmy walk in the park. Thank you Greg, for pulling Project Gutenberg for so long and doing it so well. 
 
 
 ## A new feature: `ark:` linking
