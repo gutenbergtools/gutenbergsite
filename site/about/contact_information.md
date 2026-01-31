@@ -4,7 +4,7 @@ title: Contact Information | Project Gutenberg
 permalink: /about/contact_information.html
 ---
 
-Contact Information
+Contact Us
 ===================
 
 ## Email
