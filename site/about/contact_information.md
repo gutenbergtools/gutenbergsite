@@ -10,15 +10,17 @@ Contact Information
 ## Email
 The best way to get in touch is by email. 
 
-Please note:
+### Before You Write
 
-- You cannot click on the address, but must copy it to your email program manually and adjust it to be a valid email address. We apologize for the inconvenience but this helps hiding our addresses from spammers.
 - Include a descriptive subject line, or your email may end up in our spam jail.
 - Don't send email as HTML only, or only within attachments.
 - Be patient. We get a lot of email. Most inquiries get a response within a day or so, but sometimes this takes longer.
 - Didn't get a response? Please check your spam filter, since items sometimes end up there.
+- The email addresses below are not clickable — please type them manually. This helps us avoid spam.
 
-Please select the most appropriate address from this list. 
+<div style="margin-top: 1.25em;"></div>
+
+### Email Addresses
 
 1. help2026 (at) pglaf.org
 
