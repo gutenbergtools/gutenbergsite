@@ -25,7 +25,7 @@ PGLAF is a not-for-profit corporation registered in the state of Mississippi. Th
 
 ## Tax Status
 
-PGLAF has been granted tax exempt status by the IRS under section 501(c)(3) of the US Internal Revenue Code. It has EIN #64-6221541. 
+PGLAF has been granted tax exempt status by the IRS under section 501(c)(3) of the US Internal Revenue Code. It has EIN #64-6221541. Our most recently filed IRS return is [here](/gutenberg/990-EZ.pdf)
 
 ## Board of Directors
 

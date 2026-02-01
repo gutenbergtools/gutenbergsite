@@ -23,9 +23,11 @@ ___—Enjoy these eBooks. Share them. Celebrate them.—___
 
 ## Mourning -> Celebrating
 
-Greg Newby left us in October; we've had a _mourning box_ on our homepage since. Greg's birthday was February 9th, so it seemed like an appropriate moment to turn from mourning his passing to _celebrating his accomplishments_, while working to continue them. So, Happy Birthday Greg, we miss you! There's a birthday cake on our homepage now.
+Greg Newby left us in October; we've had a _mourning box_ on our homepage since. Greg's birthday was February 9th, so it seemed like an appropriate moment to turn from mourning his passing to _celebrating his accomplishments_, while working to continue them. So, Happy Birthday Greg, we miss you! There's are birthday cakes on our homepage now.
 
 ## Tributes and Notes from our Community
+
+_[Biography on our website](https://gutenberg.org/about/newby.html)_
 
 _From the_ [eServices for Citizens](https://yukon.ca/en/digital-blog/staff-profile-meet-greg-newby) _team, a department of the Youkon Territory government, Greg's ‘day job’:_
 
@@ -192,7 +194,7 @@ This past week, we sent emails or letters to about 200 donors of $100 or more, w
 
 As you must know, Project Gutenberg is a dynamic, impactful organization that does amazing work sending out over a million free ebooks a day. It has a small budget (which we hope to grow!) financed mostly by small donations from over a thousand users, ranging from the 5 dollar bill we recently received in the mail from a schoolgirl in East Setauket, NY to *slightly* larger donations.
 
-We've posted our recently-filed IRS Form 990 return for our fiscal year ending June 30, 2025 on the website. It shows donation income of $117,756 (not bad!) and a deficit of *-23,397* (not good). On the bright side, donations for the current fiscal year are up by ~30% over last year (very good!). The closure of our Salt Lake City office will save us a lot of money. (sad, but necessary.)
+We've posted our [recently-filed IRS Form 990](/about/pglaf.html#tax_status) return for our fiscal year ending June 30, 2025 on the website. It shows donation income of $117,756 (not bad!) and a deficit of *-23,397* (not good). On the bright side, donations for the current fiscal year are up by ~30% over last year (very good!). The closure of our Salt Lake City office will save us a lot of money. (sad, but necessary.)
 
 
 ## New Releases at Gutenberg.org — January 2026
