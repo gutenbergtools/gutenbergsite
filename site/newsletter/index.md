@@ -41,6 +41,10 @@ _Presenting at the_ [HAL2001 Hackers At Large](https://monoskop.org/Hackers_At_L
 
 > Presentation title: "Hacker Ethics: How to Teach them, and What they Are". One of the great quotes from the 45 minutes presentation is _Writing code can instrument our ethics._ Watch the full presentation here: <https://youtu.be/sYfYqDPYhWc>
 
+_From John Guagliardo, Project Gutenberg Board Member_
+
+> Greg carried forward Michael Hart’s vision with extraordinary dedication, building the infrastructure, partnerships, and volunteer networks that sustained Project Gutenberg for decades. Yet his life was equally defined by an extraordinary passion for endurance and the outdoors. Greg was an avid ultramarathon runner, competing in numerous races, marathons, and grueling ultras that tested body and spirit. His love for pushing limits extended to the far north, where he and his wife Ilana ran StinkyPup Kennel, a sled dog rescue operation in Whitehorse, Yukon (and earlier in Alaska). He participated in dog sled races—including 100-mile events and Arctic ultramarathons—often enduring extreme conditions, even frostbite to his toes. Caring for dozens of retired huskies over the years, Greg embodied resilience, community, and generosity in both his digital work and his adventures on trails and snow. These pursuits weren’t separate from his Project Gutenberg role; they reflected the same optimistic, never-give-up ethos that kept him volunteering unpaid for 25 years, always ready for the next challenge—whether digitizing texts or mushing through the wilderness.
+
 ### Notes sent with donations
 
 * This donation is in loving memory of Greg Newby. I'm so grateful to have worked with Greg. Greg is truly inspirational, a wonderful role model, and a kind person. Sending my heartfelt condolences to Ilana and all of Greg's family and friends.
