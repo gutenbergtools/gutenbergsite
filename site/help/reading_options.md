@@ -77,7 +77,7 @@ Each Kindle has its own email address to which you can send files.
    - On Amazon's website: Open Menu → Manage Your Content and Devices → Devices tab (small) → select Kindle and see info
 3. Add your email address as an approved sender:
    - On Amazon's website: Open Menu → Manage Your Content and Devices → Preferences tab (small) → scroll down to "Approved Personal Document E-mail List" section and add your email address
-4. Email EPUB file as an attachment to your Kindle
+4. Email EPUB3 file as an attachment to your Kindle
 5. The book will appear on your Kindle shortly
 
 
