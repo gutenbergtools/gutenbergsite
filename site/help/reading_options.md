@@ -132,7 +132,7 @@ If you prefer a different reading app (Kobo, Libby, etc.), that works too. Just 
 
 Getting started on Android is straightforward:
 
-1. Download the **EPUB** file
+1. Download the **EPUB3** file
 2. Tap the downloaded file and choose which app to open it with
 
 There are plenty of free reading apps to choose from: ReadEra, Moon+ Reader, Kobo, and Google Play Books (note: Play Books requires uploading the file to your Google library rather than opening it directly).
