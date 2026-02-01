@@ -17,7 +17,7 @@ ___—Enjoy these eBooks. Share them. Celebrate them.—___
 * [Tributes and Thanks from our community](#tributes-and-notes-from-our-community)
 * [A new feature: `ARK` linking](#a-new-feature-ark-linking)
 * [Our finances](#our-finances)
-* [New Releases at Gutenberg.org — January 2026](#new-releases-at-gutenberg-org--january-2026)
+* [New Releases at Gutenberg.org — January 2026](#new-releases-at-gutenbergorg--january-2026)
 * [Links](#links)
 
 
