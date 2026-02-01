@@ -95,7 +95,7 @@ You can also plug your Kindle into your computer and copy files directly to it. 
 
 # More E-readers
 
-Most e-readers use EPUB as their standard format. So all you need to do is download the EPUB and transfer it to your device.
+Most e-readers use EPUB3 as their standard format. So all you need to do is download the EPUB3 and transfer it to your device. If your e-reader is on the old side, or you're trying to use Adobe Digital Editions you may have better luck with the EPUB file.
 
 ## Kobo
 
