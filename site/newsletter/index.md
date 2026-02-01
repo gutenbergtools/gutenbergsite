@@ -13,12 +13,12 @@ ___—Enjoy these eBooks. Share them. Celebrate them.—___
 
 **Contents**
 
-* [Mourning -> Celebrating](#mourning---celebrating)
-* [Tributes and Thanks from our community](#tributes-and-notes-from-our-community)
-* [A new feature: `ARK` linking](#a-new-feature-ark-linking)
-* [Our finances](#our-finances)
-* [New Releases at Gutenberg.org — January 2026](#new-releases-at-gutenbergorg--january-2026)
-* [Links](#links)
+* Mourning -> Celebrating
+* Tributes and Thanks from our community
+* A new feature: `ARK` linking
+* Our finances
+* New Releases at Gutenberg.org — January 2026
+* Links
 
 
 ## Mourning -> Celebrating
