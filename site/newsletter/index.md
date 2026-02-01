@@ -17,7 +17,6 @@ ___—Enjoy these eBooks. Share them. Celebrate them.—___
 * [Tributes and Thanks from our community](#tributes_and_thanks_from_our_community)
 * [A new feature: `ARK` linking](#a_new_feature_ARK_linking)
 * [Our finances](#our_finances)
-* [Top 10 eBooks downloaded for the month of January 2026](#top_10_eBooks_downloaded_for_the_month_of_january)
 * [New Releases at Gutenberg.org — January 2026](#new_releases_at_gutenberg_org__january_2026)
 * [Links](#links)
 
@@ -30,7 +29,7 @@ Greg Newby left us in October; we've had a mourning box on our homepage since. G
 
 ### About Greg
 
-A lot of people might not know that Greg was also eService’s unofficially official beach volleyball team captain! Our department has an annual staff barbecue and beach volleyball tournament. Greg was always the first to put out a call to get everyone out at lunch to practice before the event.
+A lot of people might not know that Greg was also eService’s informally official beach volleyball team captain! Our department has an annual staff barbecue and beach volleyball tournament. Greg was always the first to put out a call to get everyone out at lunch to practice before the event.
 
 Newby served as a co-organizer for the conference Hackers on Planet Earth (HOPE) for many years. He presented about hacker ethics in 2000 and "hacker" as a positive term in 2002. At HOPE XV in 2024, he spoke about opportunities to mitigate climate change. <https://en.wikipedia.org/wiki/Gregory_B._Newby>
 
@@ -121,7 +120,7 @@ Well that's a bummer, not even terribly old. I never met the guy but I love Gute
 Sad. I grew up in Champaign-Urbana and remember attending a talk he was giving about Prairienet.
 Bobanrocky RIP. Thanks for making this world a tiny bit better - gyc
 
-### Via our social medias (Reddit r/2600)
+### Via our social medias
 
 Greg was always incredibly kind and supportive of everyone and made HOPE so welcoming. Absolutely a real one. What a loss. - alreadyburnt
 
@@ -197,10 +196,6 @@ This past week, we sent emails or letters to about 200 donors of $100 or more, w
 As you must know, Project Gutenberg is a dynamic, impactful organization that does amazing work sending out over a million free ebooks a day. It has a small budget (which we hope to grow!) financed mostly by small donations from over a thousand users, ranging from the 5 dollar bill we recently received in the mail from a schoolgirl in East Setauket, NY to *slightly* larger donations.
 
 We've posted our recently filed 990 return for our fiscal year ending June 30, 2025 on the website. It shows donation income of $117,756 (not bad!) and a deficit of *-23,397* (not good). On the bright side, donations for the current fiscal year are up by ~30% over last year (very good!). The closure of our Salt Lake City office will save us a lot of money. (sad, but necessary.)
-
-
-## Top 10 eBooks downloaded for December 2025
-
 
 
 ## New Releases at Gutenberg.org — January 2026
