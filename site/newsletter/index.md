@@ -23,7 +23,7 @@ ___—Enjoy these eBooks. Share them. Celebrate them.—___
 
 ## Mourning -> Celebrating
 
-Greg Newby left us in October; we've had a _mourning box_ on our homepage since. Greg's birthday was February 9th, so it seemed like an appropriate moment to turn from mourning his passing to _celebrating his accomplishments_, while working to continue them. So, Happy Birthday Greg, we miss you! There's are birthday cakes on our homepage now.
+Greg Newby left us in October; we've had a _mourning box_ on our homepage since. Greg's birthday was February 9th, so it seemed like an appropriate moment to turn from mourning his passing to _celebrating his accomplishments_, while working to continue them. So, Happy Birthday Greg, we miss you! There are birthday cakes on our homepage now.
 
 ## Tributes and Notes from our Community
 _[Biography on our website](https://gutenberg.org/about/newby.html)_
