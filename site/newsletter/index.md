@@ -29,6 +29,8 @@ Greg Newby left us in October; we've had a mourning box on our homepage since. G
 
 ### About Greg
 
+[Biography on our website](/about/newby.html)
+
 A lot of people might not know that Greg was also eService’s informally official beach volleyball team captain! Our department has an annual staff barbecue and beach volleyball tournament. Greg was always the first to put out a call to get everyone out at lunch to practice before the event.
 
 Newby served as a co-organizer for the conference Hackers on Planet Earth (HOPE) for many years. He presented about hacker ethics in 2000 and "hacker" as a positive term in 2002. At HOPE XV in 2024, he spoke about opportunities to mitigate climate change. <https://en.wikipedia.org/wiki/Gregory_B._Newby>
@@ -200,7 +202,7 @@ We've posted our recently filed 990 return for our fiscal year ending June 30, 2
 
 ## New Releases at Gutenberg.org — January 2026
 
-In the last month PGLAF added another [**233** new public domain eBooks](202601.md) to the PG catalog. Of the new books, ??? were added by PGDP. Thank you to all the volunteers who have helped to make these new titles freely available to the world.
+In the last month PGLAF added another [**233** new public domain eBooks](202601.md) to the PG catalog. Of the new books, 146 were added by PGDP. Thank you to all the volunteers who have helped to make these new titles freely available to the world.
 
 January 1
 
