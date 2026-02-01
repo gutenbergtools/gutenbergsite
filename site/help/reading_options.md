@@ -60,7 +60,7 @@ All you need is a functional web browser like Chrome, Safari or Firefox.
 
 Amazon provides a website that you can use to upload files to your Kindle.
 
-1. Download the **EPUB** file from Project Gutenberg
+1. Download the **EPUB3** file from Project Gutenberg
 2. Go to Amazon's "Send to Kindle" page and upload the file.
     - In the US the page is [amazon.com/sendtokindle](https://www.amazon.com/sendtokindle){:target="_blank"}. Outside the US use your country's domain
     (e.g. amazon.co.uk, amazon.fr) or google for "send to kindle" + your country
