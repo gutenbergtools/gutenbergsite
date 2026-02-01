@@ -13,13 +13,13 @@ ___—Enjoy these eBooks. Share them. Celebrate them.—___
 
 **Contents**
 
-* Mourning -> Celebrating
-* Tributes and Thanks from our community
-* A new feature: `ark:` linking
-* Our finances
-* Top 10 eBooks downloaded for the month of January 2026
-* New Releases at Gutenberg.org — January 2026
-* Links
+* [Mourning -> Celebrating](#mourning__celebrating)
+* [Tributes and Thanks from our community](#tributes_and_thanks_from_our_community)
+* [A new feature: `ARK` linking](#a_new_feature_ARK_linking)
+* [Our finances](#our_finances)
+* [Top 10 eBooks downloaded for the month of January 2026](#top_10_eBooks_downloaded_for_the_month_of_january)
+* [New Releases at Gutenberg.org — January 2026](#new_releases_at_gutenberg_org__january_2026)
+* [Links](#links)
 
 
 ## Mourning -> Celebrating
@@ -178,9 +178,17 @@ This is just gut-wrenching! I know @gbnewby from his time as CTO of #ComputeCana
 I thought about Greg this morning. I ran a 5K race called the "Penguin Pace". I came in 7th (of 12) in my age group. It was 8°F at the start. In my running club there are people who have run umpteen marathons (I've run one) and folks who do triathlons and ultramarathons. One friend recently did a 100-miler. I used to brag to them that I knew a guy who ran ARCTIC ULTRAS!!! That was Greg. Arctic ultramarathons are multi-day races where you have to pull your gear on a sled behind you so that you can stop and rest without freezing to death. After Greg had to quit halfway one time due to frostbite, he tried the next year and finished! Compared to that, my race was a balmy walk in the park. Thank you Greg, for pulling Project Gutenberg for so long and doing it so well. 
 
 
-## A new feature: `ark:` linking
+## A new feature: `ARK` linking
 
+[Archival Resource Keys](https://arks.org/) (ARKs) serve as persistent identifiers, or stable, trusted references for information objects. Among other things, they aim to be web addresses (URLs) that don’t return 404 Page Not Found errors. 
 
+End users, especially researchers, rely on ARKs for long term access to the global scientific and cultural record. Since 2001 some 15.3 billion ARKs have been created by over 1700 organizations — libraries, data centers, archives, museums, publishers, government agencies, and vendors.
+
+In January, Project Gutenberg joined the world of ARKs. This means that if you know Project Gutenberg's number for a book, for example, "Pride and Prejudice" is # 1342, You can use that number from any ARK resolving system. So, for example, while you would normally use the url <https://www.gutenberg.org/ebooks/1342> to get the book's landing page, you can also use <https://www.gutenberg.org/ark:/64303/1342>. Now that's not very interesting. But because ARKs can be resolved by any ARK resolver, you can also use <https://n2t.net/ark:/64303/1342> or if you want to use the resolver in France, <https://ark.bnf.fr/ark:/64303/1342>. (64303 is the number that identifies Project Gutenberg)
+
+Greg Newby decided that Project Gutenberg should support ARKs, because of the potential benefit of preserving PG content into the future, because ARK is a free and open system, unlike, for example ISBN. We had a test version running last summer, but there were snags putting it into production, and then other things happened.
+
+Project Gutenberg has a long history of innovation and support for free and open systems that help to preserve its content, and ARK implementation is a continuation of that tradition.
 
 ## Our Finances and New Address
 
@@ -197,11 +205,7 @@ We've posted our recently filed 990 return for our fiscal year ending June 30, 2
 
 ## New Releases at Gutenberg.org — January 2026
 
-In the last month PGLAF added another **219** new public domain eBooks to the PG catalog. Of the new books, 131 were added by PGDP. Thank you to all the volunteers who have helped to make these new titles freely available to the world.
-
-These eBooks are now available at:
-
-> <http://gutenberg.org/ebooks/search/?sort_order=release_date>
+In the last month PGLAF added another [**219** new public domain eBooks](202601.md) to the PG catalog. Of the new books, ??? were added by PGDP. Thank you to all the volunteers who have helped to make these new titles freely available to the world.
 
 
 ## Links
