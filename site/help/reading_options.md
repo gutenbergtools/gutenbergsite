@@ -123,7 +123,7 @@ You can either read our ebooks [directly in your browser](#read-online) or downl
 
 Apple Books comes pre-installed on every iPhone and iPad, and it can handle EPUB files. So you're good to go right out of the box.
 
-1. Download the **EPUB** file from Safari
+1. Download the **EPUB3** file from Safari
 2. When prompted, choose "Open in Books"—or save to Files first and open from there
 
 If you prefer a different reading app (Kobo, Libby, etc.), that works too. Just use the Share menu to open the file in your preferred app.
