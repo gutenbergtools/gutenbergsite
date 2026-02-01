@@ -139,7 +139,7 @@ There are plenty of free reading apps to choose from: ReadEra, Moon+ Reader, Kob
 
 # Computer
 
-As mentioned, the easiest option is to open the website of a particular ebook [directly in your browser](#read-online) and start reading right away (use "Read now!" button). But if you'd rather read offline, you can download the EPUB files and use a desktop reading app of your choice:
+As mentioned, the easiest option is to open the website of a particular ebook [directly in your browser](#read-online) and start reading right away (use "Read now!" button). But if you'd rather read offline, you can download the EPUB3 files and use a desktop reading app of your choice:
 
 - **Calibre** (Windows/Mac/Linux) — The Swiss army knife of ebook software. Manages your library, converts between formats, and syncs to devices.
 - **Thorium Reader** (Windows/Mac/Linux) — A clean, open-source EPUB reader.
