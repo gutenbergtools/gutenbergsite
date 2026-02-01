@@ -46,7 +46,7 @@ Project Gutenberg offers over 75,000 entirely free ebooks. These are the ways in
 
 # Read Online
 
-Every Project Gutenberg ebook has its own dedicated website. That means you can just go to the website of any book you like and start reading right away. On any device - smartphone, tablet or PC.
+Every Project Gutenberg ebook has its own dedicated webpage. That means you can just go to the website of any book you like and start reading right away. On any device - smartphone, tablet or PC.
 
 1. Go to [gutenberg.org](https://www.gutenberg.org)
 2. Find a book you like
