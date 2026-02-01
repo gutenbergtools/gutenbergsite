@@ -72,7 +72,7 @@ Amazon provides a website that you can use to upload files to your Kindle.
 
 Each Kindle has its own email address to which you can send files.
 
-1. Download the **EPUB** file from Project Gutenberg
+1. Download the **EPUB3** file from Project Gutenberg
 2. Find your Kindle's email address:
    - On Amazon's website: Open Menu → Manage Your Content and Devices → Devices tab (small) → select Kindle and see info
 3. Add your email address as an approved sender:
