@@ -101,7 +101,7 @@ Most e-readers use EPUB3 as their standard format. So all you need to do is down
 
 Kobo makes things easy. When you plug it into your computer, it shows up as a USB drive. Then you just drag and drop your book onto it.
 
-1. Download the **EPUB** file
+1. Download the **EPUB3** file
 2. Connect your Kobo to your computer via USB
 3. Tap "Connect" on your Kobo's screen
 4. Drag the file into the Kobo drive that appears
