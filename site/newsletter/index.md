@@ -146,7 +146,7 @@ We've posted our [recently-filed IRS Form 990](/about/pglaf.html#tax_status) ret
 
 ## New Releases at Gutenberg.org — January 2026
 
-In the last month PGLAF added another [**233** new public domain eBooks](202601.md) to the PG catalog. Of the new books, 146 were added by PGDP. Thank you to all the volunteers who have helped to make these new titles freely available to the world.
+In the last month PGLAF added another [**233** new public domain eBooks](202601.htnl) to the PG catalog. Of the new books, 146 were added by PGDP. Thank you to all the volunteers who have helped to make these new titles freely available to the world.
 
 January 1
 
