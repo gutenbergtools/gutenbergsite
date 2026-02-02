@@ -25,6 +25,10 @@
   BASE STYLES
 \*------------------------------------*/
 
+* {
+  box-sizing: border-box;
+}
+
 :root {
   /* ====== GLOBAL VARS ======= */
   /* mostly colors used more than once */
