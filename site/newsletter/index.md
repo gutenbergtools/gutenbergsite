@@ -141,8 +141,10 @@ This past week, we sent emails or letters to about 200 donors of $100 or more, w
 
 As you must know, Project Gutenberg is a dynamic, impactful organization that does amazing work sending out over a million free ebooks a day. It has a small budget (which we hope to grow!) financed mostly by small donations from over a thousand users, ranging from the 5 dollar bill we recently received in the mail from a schoolgirl in East Setauket, NY to *slightly* larger donations.
 
-We've posted our [recently-filed IRS Form 990](/about/pglaf.html#tax_status) return for our fiscal year ending June 30, 2025 on the website. It shows donation income of $117,756 (not bad!) and a deficit of *-23,397* (not good). On the bright side, donations for the current fiscal year are up by ~30% over last year (very good!). The closure of our Salt Lake City office will save us a lot of money. (sad, but necessary.)
+We've posted our [recently-filed IRS Form 990](https://www.gutenberg.org/about/pglaf.html#tax_status) return for our fiscal year ending June 30, 2025 on the website. It shows donation income of $117,756 (not bad!) and a deficit of *-23,397* (not good). On the bright side, donations for the current fiscal year are up by ~30% over last year (very good!). The closure of our Salt Lake City office will save us a lot of money. (sad, but necessary.)
 
+If you want to send us paper mail, the address is:
+> Project Gutenberg Literary Archive Foundation <br> 41 Watchung Plaza #516<br> Montclair NJ 07042
 
 ## New Releases at Gutenberg.org — January 2026
 
