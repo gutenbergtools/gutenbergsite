@@ -13,12 +13,12 @@ ___—Enjoy these eBooks. Share them. Celebrate them.—___
 
 **Contents**
 
-* Mourning -> Celebrating
-* Tributes and Thanks from our community
-* A new feature: `ARK` linking
-* Our finances
-* New Releases at Gutenberg.org — January 2026
-* Links
+* [Mourning -> Celebrating](#mourning---celebrating)
+* [Tributes and Thanks from our community](#tributes-and-notes-from-our-community)
+* [A new feature: `ARK` linking](#a-new-feature-ark-linking)
+* [Our finances](#our-finances)
+* [New Releases at Gutenberg.org — January 2026](#new-releases-at-gutenbergorg--january-2026)
+* [Links](#links)
 
 
 ## Mourning -> Celebrating
@@ -137,7 +137,7 @@ Project Gutenberg has a long history of innovation and support for free and open
 
 ## Our Finances and New Address
 
-This past week, we sent emails or letters to about 200 donors of $100 or more, which can be used for tax purposes. If you don't receive yours within a week and need a letter, please email donate@gutenberg.org. 
+This past week, we sent emails or letters to about 200 donors of $100 or more, which can be used for tax purposes. If you don't receive yours within a week and need a letter, please email us. 
 
 As you must know, Project Gutenberg is a dynamic, impactful organization that does amazing work sending out over a million free ebooks a day. It has a small budget (which we hope to grow!) financed mostly by small donations from over a thousand users, ranging from the 5 dollar bill we recently received in the mail from a schoolgirl in East Setauket, NY to *slightly* larger donations.
 
