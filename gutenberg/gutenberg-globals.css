@@ -332,7 +332,7 @@ input[id^="collapsible"] {
 }
 
 .cell.leftcell.with-cover {
-  width: 105px; /* const width so that cell text is aligned */
+  min-width: 105px; /* const width so that cell text is aligned */
 }
 
 
