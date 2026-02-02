@@ -27,7 +27,7 @@ Contents
 ## What types of works are eligible?
 
 Project Gutenberg accepts only donations of eBooks (i.e., written
-works) that are not currently protected by copyright in the United
+works) that are not currently restricted by copyright in the United
 States. Such works are in the public domain.  New Project Gutenberg
 eBooks are typically digitized versions of books that were published
 long ago and for which any US copyright has expired.

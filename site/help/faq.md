@@ -102,7 +102,7 @@ For more details, see the [collection development](/policy/collection_developmen
 ### What books does Project Gutenberg publish?
 Any books that meet our collection development policy, and that our volunteers want to work on.
 
-We do not publish any books that still have copyright protection. This generally means that our texts are taken from books published 95+ years ago. (It's more complicated than that, as our [Copyright FAQ](/help/copyright.html) explains, but 95+ criterion is a good first rule-of-thumb.)
+We do not publish any books that still have copyright restriction. This generally means that our texts are taken from books published 95+ years ago. (It's more complicated than that, as our [Copyright FAQ](/help/copyright.html) explains, but 95+ criterion is a good first rule-of-thumb.)
 
 This means that you won't find the latest bestsellers or modern computer books here. You will find the classic books from the start of the 20th century and previous centuries, from authors like Shakespeare, Poe, Dante, as well as well-loved favorites like the Sherlock Holmes stories by Sir Arthur Conan Doyle, the Tarzan and Mars books of Edgar Rice Burroughs, Alice's adventures in Wonderland as told by Lewis Carroll, and thousands of others.
 
