@@ -9,6 +9,10 @@ permalink: /help/reading_options.html
 .page_content h1 { margin-top: 2em; }
 .page_content h1:first-child { margin-top: 0; }
 .page_content h2 { margin-top: 1.4em; }
+.contents ol { margin: 0 2em 0 0; }
+@media (max-width: 750px) {
+  .page_content h2 { text-align: left; }
+}
 </style>
 
 Reading Options & Kindle
