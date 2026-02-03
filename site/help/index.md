@@ -37,6 +37,7 @@ Here are pages that give background about Project Gutenberg, including how new i
        <li><a href="/policy/privacy_policy.html">Privacy policy</a></li>
        <li><a href="/help/public_domain_ebook_submission.html">Public Domain eBook submission how-to</a></li>
       </ul><h2>R</h2><ul>
+       <li><a href="/help/reading_options.html">Reading Options &amp; Kindle</a></li>
        <li><a href="/policy/robot_access.html">Roboting our site</a> for automated bulk downloads</li>
       </ul><h2>S</h2><ul>
        <li><a href="/help/shakespeare.html">Shakespeare Books</a></li>
