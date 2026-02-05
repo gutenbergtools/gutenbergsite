@@ -199,16 +199,25 @@ th {
   }
 }
 
-@media (min-width: 1024px) {
+/* for laptops and desktops, when clicking anchors account for sticky header offset */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  scroll-margin-top: 130px
+}
+
+/* for tablets and phones, header is not sticky */
+@media (max-width: 1024px) {
   h1,
   h2,
   h3,
   h4,
   h5,
   h6 {
-    scroll-margin-top: calc(
-      60px + 0.5rem
-    ); /* keeps headings out from under fixed header */
+    scroll-margin-top: 10px
   }
 }
 
