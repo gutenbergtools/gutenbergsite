@@ -40,7 +40,7 @@ The ibiblio site is the main home of Project Gutenberg, but it is not the fastes
 
 To rsync the main collection: 
 <pre>
- rsync -av --del ftp.ibiblio.org::gutenberg /var/www/gutenberg
+ rsync -av --del rsync.ibiblio.org::gutenberg /var/www/gutenberg
  rsync -av --del aleph.gutenberg.org::gutenberg /var/www/gutenberg
 </pre>
 
@@ -48,7 +48,7 @@ The last parameter is the directory where you want the stuff placed in your driv
 
 To rsync the generated content: 
 <pre>
- rsync -av --del ftp@ftp.ibiblio.org::gutenberg-epub /var/www/gutenberg-generated
+ rsync -av --del rsync.ibiblio.org::gutenberg-epub /var/www/gutenberg-generated
  rsync -av --del aleph.gutenberg.org::gutenberg-epub /var/www/gutenberg-generated
 </pre>
 
