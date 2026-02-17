@@ -78,9 +78,9 @@ permalink: /
   <div class="info-box">
     <h3> Get Help </h3>
     <ul>
+      <li><a href="/help/reading_options.html">Reading Options & Kindle</a>: How to read and enjoy our ebooks. </li>
       <li><a href="/help/faq.html">Frequently Asked Questions</a> about Project Gutenberg.</li>
       <li><a href="/help/">Help, How-To and FAQs</a>: In depth information about many topics.</li>
-      <li><a href="/help/mobile.html">Tablets, phones and eReaders How-To</a>: Using tablets, Kindle, Nook, cell phone, and other mobile devices and readers.</li>
       <h3> How to Help </h3> 
       <li><a href="https://www.pgdp.net">Distributed Proofreaders</a> welcomes new volunteers. This is the main source of new Project Gutenberg eBooks. Getting started is easy, and just a page a day will help! </li>
       <li><a href="/help/errata.html">Fix and improve</a> Project Gutenberg by reporting errors, bugs, typos, and suggesting changes.</li>
