@@ -181,28 +181,7 @@ foreach ($langs as $l) {
 
     fputs ($hd, mk_header ("Top $titlesuffix"));
 
-    $s = <<< EOF
-<h1>Frequently Viewed or Downloaded</h1>
-
-<p>Calculated from the number of times each eBook gets
-downloaded. (Multiple downloads from the same Internet
-address on the same day count as one download. Addresses
-that download more than 100 eBooks in a day are considered
-robots and are not counted.)</p>
-
-<table id="books-downloads-table">
-  <caption>Downloaded Books</caption>
-  <tr><th>$latest</th><td class="right">$d1</td></tr>
-  <tr><th>last 7 days</th><td class="right">$d7</td></tr>
-  <tr><th>last 30 days</th><td class="right">$d30</td></tr>
-</table>
-
-<p>Visualizations and graphs are available as
-<a href="/about/pretty-pictures.html">pretty pictures</a>.</p>
-
-EOF;
-
-    fputs ($hd, $s);
+    fputs ($hd, "<h1>Frequently Viewed or Downloaded</h1>\n\n");
 
     $links = "  <style>
     #books-downloads-nav { display: inline-block; overflow: auto; border: solid 1px #eee; padding: 1em; background: #fafafa;}
@@ -262,6 +241,30 @@ EOF;
     fputs ($hd, topauthors ($num, "$langwhere date >= current_date - interval '30 days'"));
 
     fputs ($hd, $links);
+
+    $s = <<< EOF
+
+<h1>Download Statistics</h1>
+
+<p>Calculated from the number of times each eBook gets
+downloaded. (Multiple downloads from the same Internet
+address on the same day count as one download. Addresses
+that download more than 100 eBooks in a day are considered
+robots and are not counted.)</p>
+
+<table id="books-downloads-table">
+  <caption>Downloaded Books</caption>
+  <tr><th>$latest</th><td class="right">$d1</td></tr>
+  <tr><th>last 7 days</th><td class="right">$d7</td></tr>
+  <tr><th>last 30 days</th><td class="right">$d30</td></tr>
+</table>
+
+<p>Visualizations and graphs are available as
+<a href="/about/pretty-pictures.html">pretty pictures</a>.</p>
+
+EOF;
+
+    fputs ($hd, $s);
 
     fputs ($hd, "<?php pagefooter (); ?>\n");
     fclose ($hd);
