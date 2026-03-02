@@ -34,13 +34,7 @@ In 2023 we completed a two-year-long effort to convert all 70,000 books in our c
 
 But we still have a lot of work to do. In 2024 we took a census of the images in our books and found that our collection has more than 400,000 images without the appropriate “alt text” needed to make the books more accessible. Many technologists believe that machine vision systems will someday come to the rescue, but so far, even the most powerful AI systems produce descriptions that are often humorously mystifying or imaginative. Here’s an example image and the description returned by Anthropic’s Opus model. The image you see below is accurate, it is simply a black line, used as a section break in a book.
 
-\[picture]: —————————————————————————
-
-\[picture]: <svg width="200" height="2" viewBox="0 0 200 4" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="200" height="2" fill="black"/></svg>
-
-\[circle](data:image/svg+xml,<svg width="200" height="2" viewBox="0 0 200 4" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="200" height="2" fill="black"/></svg>)
-
-![circle](data:image/svg+xml,<svg width="200" height="2" viewBox="0 0 200 4" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="200" height="2" fill="black"/></svg>)
+\[picture]: <code>—————————————————————————</code>
 
 \[AI description]: “The image shows a close-up view of a grey wolf standing in a grassy field. The wolf has thick grey fur, pointed ears, and is looking directly at the camera with its golden eyes. A shallow depth of field keeps the background blurred while the wolf’s face is in sharp focus.”
 
