@@ -26,11 +26,11 @@ ___—Enjoy these eBooks. Share them. Celebrate them.—___
 
 ## Message from the Executive Director: Accessibility at Project Gutenberg
 
-Both Project Gutenberg and Distributed Proofreaders have long worked to make our ebooks accessible to users with vision impairments. Our accessibility roadmap was launched over 15 years ago, when Distributed Proofreaders published these guidelines: https://www.pgdp.net/wiki/Accessibility_Recipes
+Both Project Gutenberg and Distributed Proofreaders have long worked to make our ebooks accessible to users with vision impairments. Our accessibility roadmap was launched over 15 years ago, when Distributed Proofreaders published these guidelines: <https://www.pgdp.net/wiki/Accessibility_Recipes>
 
 In 2023 we completed a two-year-long effort to convert all 70,000 books in our collection to HTML5 and EPUB3. These formats allow for accessibility metadata, as found today in all our EPUB3 files. Last year we rolled out a refined website design with many attributes to improve accessibility and enable people to enjoy our books using screen readers or refreshable braille displays.
 
-But we still have a lot of work to do. In 2024 we took a census of the images in our books and found that our collection has more than 400,000 images without the appropriate “alt text” needed to make the books more accessible. Many technologists believe that machine vision systems will someday come to the rescue, but so far, even the most powerful AI systems produce descriptions that are often humorously mystifying or imaginative. Here’s an example image and the description returned by Anthropic’s Opus model. The image you see below is accurate, it is simply a black line, used as a section break in a book.
+We still have a lot of work to do. In 2024 we took a census of the images in our books and found that our collection has more than 400,000 images without the appropriate “alt text” needed to make the books more accessible. Many technologists believe that machine vision systems will someday come to the rescue, but so far, even the most powerful AI systems produce descriptions that are often humorously mystifying or imaginative. Here’s an example image and the description returned by Anthropic’s Opus model. The image you see below is accurate, it is simply a black line, used as a section break in a book.
 
 \[picture]: —————————————————————————
 
@@ -62,15 +62,15 @@ To celebrate these observations, Project Gutenberg created a new bookshelf title
 
 <https://www.gutenberg.org/ebooks/bookshelf/706>
 
-* “Philosophical Letters: or, Modest Reflections Upon Some Opinions in Natural Philosophy” (1664) by Margaret Cavendish: she criticized Descartes, Hobbes, and mechanical philosophy and argued that Nature is organic, not mechanical.
-* “Eléments de la philosophie de Neuton: Mis à la portée de tout le monde” (1738) by Voltaire and Émilie du Châtelet: she translated into French, and wrote an extensive commentary on Isaac Newton’s “Philosophiæ Naturalis Principia Mathematica”.
-* “Eminent Literary and Scientific Men of Italy, Spain, and Portugal” and “Lives of the Most Eminent Literary and Scientific Men of France” are biographical encyclopedia series written by Mary Shelley for Lardner’s Cabinet Cyclopædia in the 1830s. Shelley’s approach combined biographical narrative with literary criticism; emphasized personal lives and psychological portraits; explored how historical and social contexts shaped creativity; feminist perspective on women writers and the constraints they faced.
-* “The Mechanism of the Heavens” (1831) by Mary Sommerville: She translated Laplace’s work (Mécanique Céleste) from algebra into common language. “On the Connexion of the Physical Sciences” (1834): she employed an interdisciplinary approach to understanding nature.
-* “Sketch of the Analytical Engine invented by Charles Babbage”, Esq. by Menabrea, translated by Ada Lovelace (1843): her added notes are important in the early history of computers, especially since Note G described, in complete detail, a method for calculating a sequence of Bernoulli numbers using the Analytical Engine, which might have run correctly had it ever been built. Lovelace is often considered the first computer programmer.
-* “Notes on Nursing: What It Is, and What It Is Not” (1859) and are influential works by Florence Nightingale: it was written for ordinary women managing household health and aimed to educate the public about disease prevention and health maintenance. “Subsidiary Notes as to the Introduction of Female Nursing into Military Hospitals in Peace and in War” (1858): she advocated systematic reform of military medical services.
-* “Recherches sur les substances radioactives” (1903) by Marie Curie: she described the discovery and isolation of radium and polonium. “La radiologie et la guerre” (1921): she showed an advanced field of medical imaging and proposed a model for future medical emergency response.
-* “The Desert and the Sown” (1907) by Gertrude Lowthian Bell: she provided detailed ethnographic and political information on the Arab world which was later used by the British government for Middle East policy.
-* “Stellar atmospheres: A contribution to the observational study of high temperature in the reversing layers of stars” (1925) by Cecilia Payne-Gaposchkin: she demonstrated that spectral differences among stars result primarily from temperature differences, not compositional differences, and stars are composed overwhelmingly of hydrogen and helium, contrary to prevailing belief that stars had Earth-like composition.
+* __“Philosophical Letters: or, Modest Reflections Upon Some Opinions in Natural Philosophy”__ (1664) by Margaret Cavendish: she criticized Descartes, Hobbes, and mechanical philosophy and argued that Nature is organic, not mechanical.
+* __“Eléments de la philosophie de Neuton: Mis à la portée de tout le monde”__ (1738) by Voltaire and Émilie du Châtelet: she translated into French, and wrote an extensive commentary on Isaac Newton’s __“Philosophiæ Naturalis Principia Mathematica”__.
+* __“Eminent Literary and Scientific Men of Italy, Spain, and Portugal”__ and __“Lives of the Most Eminent Literary and Scientific Men of France”__ are biographical encyclopedia series written by Mary Shelley for Lardner’s Cabinet Cyclopædia in the 1830s. Shelley’s approach combined biographical narrative with literary criticism; emphasized personal lives and psychological portraits; explored how historical and social contexts shaped creativity; feminist perspective on women writers and the constraints they faced.
+* __“The Mechanism of the Heavens”__ (1831) by Mary Sommerville: She translated Laplace’s work (Mécanique Céleste) from algebra into common language. __“On the Connexion of the Physical Sciences”__ (1834): she employed an interdisciplinary approach to understanding nature.
+* __“Sketch of the Analytical Engine invented by Charles Babbage”__, Esq. by Menabrea, translated by Ada Lovelace (1843): her added notes are important in the early history of computers, especially since Note G described, in complete detail, a method for calculating a sequence of Bernoulli numbers using the Analytical Engine, which might have run correctly had it ever been built. Lovelace is often considered the first computer programmer.
+* __“Notes on Nursing: What It Is, and What It Is Not”__ (1859) and are influential works by Florence Nightingale: it was written for ordinary women managing household health and aimed to educate the public about disease prevention and health maintenance. __“Subsidiary Notes as to the Introduction of Female Nursing into Military Hospitals in Peace and in War”__ (1858): she advocated systematic reform of military medical services.
+* __“Recherches sur les substances radioactives”__ (1903) by Marie Curie: she described the discovery and isolation of radium and polonium. __“La radiologie et la guerre”__ (1921): she showed an advanced field of medical imaging and proposed a model for future medical emergency response.
+* __“The Desert and the Sown”__ (1907) by Gertrude Lowthian Bell: she provided detailed ethnographic and political information on the Arab world which was later used by the British government for Middle East policy.
+* __“Stellar atmospheres: A contribution to the observational study of high temperature in the reversing layers of stars”__ (1925) by Cecilia Payne-Gaposchkin: she demonstrated that spectral differences among stars result primarily from temperature differences, not compositional differences, and stars are composed overwhelmingly of hydrogen and helium, contrary to prevailing belief that stars had Earth-like composition.
 
 ## Christine de Pizan
 
@@ -84,7 +84,7 @@ Christine de Pizan (1364–1430), an Italian-French court writer, was the first 
 
 ## Ebooks used for educational purposes
 
-Most of our readers are looking for new titles in our catalog they can read, right? Wrong! Some of them have been using our ebooks to learn new languages. Two recent cases prove this fact: one German scholar is reading children’s stories to learn Italian. Another fellow is improving his knowledge with books on Serbian literature. Join us in learning.
+Many of our readers are reading ebooks from our catalog just for pleasure. Others have been using our ebooks to learn about our history. Some are even using them to learn new languages! Two recent cases prove this fact: one German scholar is reading children’s stories to learn Italian. Another fellow is improving his knowledge with books on Serbian literature. Join us in learning.
 
 <https://www.gutenberg.org/ebooks/bookshelf/636>
 
@@ -449,7 +449,7 @@ February 28
 ## Links
 
 * Support Project Gutenberg: <https://www.gutenberg.org/donate/>
-* Distributed Proofreaders: <https://pgdp.net>
+* Volunteer with Distributed Proofreaders: <https://pgdp.net>
 * Project Gutenberg Self Publishing Portal: <https://self.gutenberg.org>
 
 ## Social Media
