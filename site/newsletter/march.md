@@ -16,7 +16,6 @@ ___—Enjoy these eBooks. Share them. Celebrate them.—___
 * Message from the Executive Director: Accessibility at Project Gutenberg
 * International Women’s Day and Women’s History Month
 * Christine de Pizan
-* Ebooks used for educational purposes
 * 100th Anniversary of “The Blue Castle”
 * Finances
 * New Releases for February 2026
@@ -81,12 +80,6 @@ An interesting article was published by Marie Lebert: Christine de Pizan, a medi
 Christine de Pizan (1364–1430), an Italian-French court writer, was the first woman to make a living from her writing in a male-dominated world. Writing enabled her to provide for her family following the death of her husband and father. A prolific author of poetry, novels, and biographies in vernacular French, she is best known for The Book of the City of Ladies.
 
 <https://www.gutenberg.org/ebooks/26608>
-
-## Ebooks used for educational purposes
-
-Many of our readers are reading ebooks from our catalog just for pleasure. Others have been using our ebooks to learn about our history. Some are even using them to learn new languages! Two recent cases prove this fact: one German scholar is reading children’s stories to learn Italian. Another fellow is improving his knowledge with books on Serbian literature. Join us in learning.
-
-<https://www.gutenberg.org/ebooks/bookshelf/636>
 
 ## Happy 100th Anniversary! of “The Blue Castle”, a novel by L. M. Montgomery
 
