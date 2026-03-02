@@ -26,7 +26,9 @@ ___—Enjoy these eBooks. Share them. Celebrate them.—___
 
 ## Message from the Executive Director: Accessibility at Project Gutenberg
 
-Both Project Gutenberg and Distributed Proofreaders have long worked to make our ebooks accessible to users with vision impairments. Our accessibility roadmap was launched over 15 years ago, when Distributed Proofreaders published these guidelines: https://www.pgdp.net/wiki/Accessibility_Recipes
+Both Project Gutenberg and Distributed Proofreaders have long worked to make our ebooks accessible to users with vision impairments. Our accessibility roadmap was launched over 15 years ago, when Distributed Proofreaders published these guidelines:
+
+> <https://www.pgdp.net/wiki/Accessibility_Recipes>
 
 In 2023 we completed a two-year-long effort to convert all 70,000 books in our collection to HTML5 and EPUB3. These formats allow for accessibility metadata, as found today in all our EPUB3 files. Last year we rolled out a refined website design with many attributes to improve accessibility and enable people to enjoy our books using screen readers or refreshable braille displays.
 
@@ -34,19 +36,25 @@ But we still have a lot of work to do. In 2024 we took a census of the images in
 
 \[picture]: —————————————————————————
 
+\[picture]: <svg width="200" height="2" viewBox="0 0 200 4" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="200" height="2" fill="black"/></svg>
+
+\[circle](data:image/svg+xml,<svg width="200" height="2" viewBox="0 0 200 4" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="200" height="2" fill="black"/></svg>)
+
+![circle](data:image/svg+xml,<svg width="200" height="2" viewBox="0 0 200 4" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="200" height="2" fill="black"/></svg>)
+
 \[AI description]: “The image shows a close-up view of a grey wolf standing in a grassy field. The wolf has thick grey fur, pointed ears, and is looking directly at the camera with its golden eyes. A shallow depth of field keeps the background blurred while the wolf’s face is in sharp focus.”
 
 \[My description]: “A horizontal black line.”
 
 But it’s not just images that can be a barrier to accessibility. With a little help from experts at the Library of Congress, I worked on Project Gutenberg’s version of “Winnie-the-Pooh”.
 
-<https://www.gutenberg.org/ebooks/67098>
+> <https://www.gutenberg.org/ebooks/67098>
 
 I really enjoyed the process of describing each of the 116 drawings so that the description fit the narrative of the story. Each description was like solving a little puzzle. There was some inaccessible text in the scene where Kanga is jumping up and down, and the text jumps with her! But with the jumping text rendered as three separate lines with awkward spacing, a screen reader would make the text incomprehensible. It wasn’t hard to fix in the HTML.
 
 This year, we have even more motivation to make our books verifiably accessible. April 2026 marks the start of the “Web and Mobile Application Accessibility Rule” which falls under Title II of the Americans with Disabilities Act. This rule requires any publicly funded school or library to have documentation that any digital resource they offer is either accessible or that there is a plan in place to make it accessible. (Wikipedia short link to “Web Content Accessibility Guidelines” / “WCAG referenced by law”)
 
-<https://w.wiki/7g3Z>
+> <https://w.wiki/7g3Z>
 
 In December, the PGLAF board approved an effort to take PG’s accessibility to a new level and start documenting books so that schools and libraries can use them without worries about legal compliance. I hope to be able to tell you more about that second part soon.
 
@@ -60,7 +68,7 @@ International Women’s Day is celebrated annually during the week of 8 March. I
 
 To celebrate these observations, Project Gutenberg created a new bookshelf titled Women in Science, Technology, Engineering, and Mathematics. Some samples are given below.
 
-<https://www.gutenberg.org/ebooks/bookshelf/706>
+> <https://www.gutenberg.org/ebooks/bookshelf/706>
 
 * “Philosophical Letters: or, Modest Reflections Upon Some Opinions in Natural Philosophy” (1664) by Margaret Cavendish: she criticized Descartes, Hobbes, and mechanical philosophy and argued that Nature is organic, not mechanical.
 * “Eléments de la philosophie de Neuton: Mis à la portée de tout le monde” (1738) by Voltaire and Émilie du Châtelet: she translated into French, and wrote an extensive commentary on Isaac Newton’s “Philosophiæ Naturalis Principia Mathematica”.
@@ -76,23 +84,23 @@ To celebrate these observations, Project Gutenberg created a new bookshelf title
 
 An interesting article was published by Marie Lebert: Christine de Pizan, a medieval woman writer, was the first professional woman writer in Europe and the first feminist writer.
 
-<https://marielebert.wordpress.com/2025/09/09/women-writers-translators/>
+> <https://marielebert.wordpress.com/2025/09/09/women-writers-translators/>
 
 Christine de Pizan (1364–1430), an Italian-French court writer, was the first woman to make a living from her writing in a male-dominated world. Writing enabled her to provide for her family following the death of her husband and father. A prolific author of poetry, novels, and biographies in vernacular French, she is best known for The Book of the City of Ladies.
 
-<https://www.gutenberg.org/ebooks/26608>
+> <https://www.gutenberg.org/ebooks/26608>
 
 ## Ebooks used for educational purposes
 
 Most of our readers are looking for new titles in our catalog they can read, right? Wrong! Some of them have been using our ebooks to learn new languages. Two recent cases prove this fact: one German scholar is reading children’s stories to learn Italian. Another fellow is improving his knowledge with books on Serbian literature. Join us in learning.
 
-<https://www.gutenberg.org/ebooks/bookshelf/636>
+> <https://www.gutenberg.org/ebooks/bookshelf/636>
 
-## Happy 100th Anniversary! of “The Blue Castle”, a novel by L. M. Montgomery
+## Happy 100th Anniversary! of _The Blue Castle_, a novel by L. M. Montgomery
 
-Almost all editions of The Blue Castle lack dust jackets, and the true first edition does not have any illustration at all on the front boards. It was added after Montgomery had commented, “Not so pretty. A plain cover.” We have added the beautiful castle illustration to the cover of the ebook in tribute to her.
+Almost all editions of _The Blue Castle_ lack dust jackets, and the true first edition does not have any illustration at all on the front boards. It was added after Montgomery had commented, “Not so pretty. A plain cover.” We have added the beautiful castle illustration to the cover of the ebook in tribute to her.
 
-<https://www.gutenberg.org/ebooks/67979>
+> <https://www.gutenberg.org/ebooks/67979>
 
 ## Finances
 
@@ -462,10 +470,9 @@ February 28
    New eBooks: <https://bsky.app/profile/new.gutenberg.org>
 * Reddit: <https://reddit.com/r/projectgutenberg>
 
-If you use social media, please feel invited to respond with upvotes or
-comments or questions. Your shares and reposts help spread awareness of Project Gutenberg’s library.
+If you use social media, please feel invited to respond with upvotes or comments or questions. Your shares and reposts help spread awareness of Project Gutenberg’s library.
 
 ## Newsletter Subscription
 
 * PG Mailing List (subscribe or unsubscribe here):
-   <https://lists.pglaf.org/mailman3/lists/gmonthly.lists.pglaf.org/>
+> <https://lists.pglaf.org/mailman3/lists/gmonthly.lists.pglaf.org/>
