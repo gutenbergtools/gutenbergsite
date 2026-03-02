@@ -3215,12 +3215,32 @@ h1 .icon {
   display: none;
 }
 
+#reading_help_hint {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#reading_help_hint a {
+  text-decoration: underline;
+  color: #003366;
+}
+
+@media (max-width: 750px) {
+  #reading_help_hint {
+    text-align: center;
+  }
+}
+
 /* Custom styles for tables and headers */
 #download_options_table,
 #about_book_table {
   background-color: white;
   border-collapse: collapse;
   border: none;
+}
+
+#download_options_table {
+  margin-top: 0px;
 }
 
 #download_options_table th,
@@ -3263,6 +3283,10 @@ h1 .icon {
   color: black;
   margin-top: 3.25rem;
   font-size: 1.5rem;
+}
+
+#download_options_header {
+  margin-bottom: 0px;
 }
 
 #content .breadcrumbs {

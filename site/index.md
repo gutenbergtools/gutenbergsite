@@ -20,14 +20,6 @@ permalink: /
  </div>
 </div>
 
-<!-- Memorial Section -->
-<div style="margin: 10px; padding: 10px; background-color: #ffffff; border: 1px solid #E866FF; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-  <p style="margin: 0; font-family: inherit; font-style:italic; font-size: 14px; line-height: 1.4; color: #333; text-align: center;">
-    <span style="font-size: 24px;">🎂 🎂</span> This month, Project Gutenberg community celebrates the birthday of our late CEO, Dr. Greg Newby. Read the February Newsletter <a href="/newsletter/">here</a>. <span style="font-size: 24px;">🎂 🎂</span> 
-  </p>
-</div>
-
-
 <div class="info-box-container">
   <div class="info-box">
     <h3>Find Free eBooks</h3>
@@ -47,7 +39,9 @@ permalink: /
       <li>✓ <strong>No Apps Required</strong> - only regular Web browsers or eBook readers needed</li>
       <li>✓ <strong>50+ Years</strong> - Pioneering free eBooks <a href="/about/background/50years.html" title="history, 1971-2021">since 1971</a></li>
       <li>✓ <strong>Volunteer-based</strong> - hundreds of volunteers have contributed over the years</li>
+      <li>✓ Read about our late CEO, <strong>Dr. Greg Newby</strong>. <a href="/newsletter/february.html">here</a>. </li>
       <li class="small-text">Consider a small donation to help us digitize more books: <a href="/donate"> donate </a></li>
+      
     </ul>
   </div>
 </div>
@@ -78,9 +72,9 @@ permalink: /
   <div class="info-box">
     <h3> Get Help </h3>
     <ul>
+      <li><a href="/help/reading_options.html">Reading Options & Kindle</a>: How to read and enjoy our ebooks. </li>
       <li><a href="/help/faq.html">Frequently Asked Questions</a> about Project Gutenberg.</li>
       <li><a href="/help/">Help, How-To and FAQs</a>: In depth information about many topics.</li>
-      <li><a href="/help/mobile.html">Tablets, phones and eReaders How-To</a>: Using tablets, Kindle, Nook, cell phone, and other mobile devices and readers.</li>
       <h3> How to Help </h3> 
       <li><a href="https://www.pgdp.net">Distributed Proofreaders</a> welcomes new volunteers. This is the main source of new Project Gutenberg eBooks. Getting started is easy, and just a page a day will help! </li>
       <li><a href="/help/errata.html">Fix and improve</a> Project Gutenberg by reporting errors, bugs, typos, and suggesting changes.</li>
