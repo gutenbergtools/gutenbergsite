@@ -183,23 +183,6 @@ foreach ($langs as $l) {
 
     $s = <<< EOF
 <h1>Frequently Viewed or Downloaded</h1>
-
-<p>Calculated from the number of times each eBook gets
-downloaded. (Multiple downloads from the same Internet
-address on the same day count as one download. Addresses
-that download more than 100 eBooks in a day are considered
-robots and are not counted.)</p>
-
-<table id="books-downloads-table">
-  <caption>Downloaded Books</caption>
-  <tr><th>$latest</th><td class="right">$d1</td></tr>
-  <tr><th>last 7 days</th><td class="right">$d7</td></tr>
-  <tr><th>last 30 days</th><td class="right">$d30</td></tr>
-</table>
-
-<p>Visualizations and graphs are available as
-<a href="/about/pretty-pictures.html">pretty pictures</a>.</p>
-
 EOF;
 
     fputs ($hd, $s);
