@@ -1150,7 +1150,7 @@ Remove sticky header at this breakpoint.
 }
 
 .search-button {
-  background-color: #4C8FA8;
+  background-color: #47879E;
   color: white;
   border: none;
   padding: 0px 24px;
@@ -1202,12 +1202,12 @@ Remove sticky header at this breakpoint.
 }
 
 .donate-container .donate-link {
-  background-color: #4C8FA8;
+  background-color: #47879E;
   color: white;
   text-decoration: none;
   font-weight: bold;
   padding: 5px 22px;
-  border: 2px solid #4C8FA8;
+  border: 2px solid #47879E;
   border-radius: 4px;
   transition:
     opacity 0.2s ease,
@@ -1504,9 +1504,9 @@ Remove sticky header at this breakpoint.
 
   .search-icon-btn {
     display: inline-block;
-    background-color: #4C8FA8;
+    background-color: #47879E;
     color: white;
-    border: 2px solid #4C8FA8;
+    border: 2px solid #47879E;
     padding: 4px 8px;
     border-radius: 4px;
     font-size: 16px;
@@ -1516,9 +1516,9 @@ Remove sticky header at this breakpoint.
 
   .search-close-btn {
     display: none;
-    background-color: #4C8FA8;
+    background-color: #47879E;
     color: white;
-    border: 2px solid #4C8FA8;
+    border: 2px solid #47879E;
     padding: 4px 8px;
     border-radius: 4px;
     font-size: 16px;
