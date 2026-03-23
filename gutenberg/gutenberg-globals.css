@@ -432,7 +432,7 @@ test_index for latest covers from gutenberg1*/
   text-decoration: none;
 }
 
-.library .latest a:hover h5 {
+.library .latest a:hover h5, .library .latest a:hover .h5 {
   overflow-y: visible;
   height: auto;
 }
@@ -838,7 +838,7 @@ test_index for latest covers from gutenberg1*/
 
 /* COVER */
 
-.cover_title h5 {
+.cover_title h5, .cover_title .h5{
   white-space: break-spaces;
   overflow: hidden;
   height: 5em;
@@ -849,13 +849,13 @@ test_index for latest covers from gutenberg1*/
 }
 
 @media only screen and (max-width: 750px) {
-   .cover_title h5 {
+   .cover_title h5, .cover_title .h5 {
       overflow-y: scroll;
       height: 100px;
   }
 }
 
-.cover_title h5:hover {
+.cover_title h5:hover, .cover_title .h5:hover {
   overflow-y: visible;
   height: auto;
 }
@@ -1150,7 +1150,7 @@ Remove sticky header at this breakpoint.
 }
 
 .search-button {
-  background-color: #4C8FA8;
+  background-color: #427E94;
   color: white;
   border: none;
   padding: 0px 24px;
@@ -1202,12 +1202,12 @@ Remove sticky header at this breakpoint.
 }
 
 .donate-container .donate-link {
-  background-color: #4C8FA8;
+  background-color: #427E94;
   color: white;
   text-decoration: none;
   font-weight: bold;
   padding: 5px 22px;
-  border: 2px solid #4C8FA8;
+  border: 2px solid #427E94;
   border-radius: 4px;
   transition:
     opacity 0.2s ease,
@@ -1504,9 +1504,9 @@ Remove sticky header at this breakpoint.
 
   .search-icon-btn {
     display: inline-block;
-    background-color: #4C8FA8;
+    background-color: #427E94;
     color: white;
-    border: 2px solid #4C8FA8;
+    border: 2px solid #427E94;
     padding: 4px 8px;
     border-radius: 4px;
     font-size: 16px;
@@ -1516,9 +1516,9 @@ Remove sticky header at this breakpoint.
 
   .search-close-btn {
     display: none;
-    background-color: #4C8FA8;
+    background-color: #427E94;
     color: white;
-    border: 2px solid #4C8FA8;
+    border: 2px solid #427E94;
     padding: 4px 8px;
     border-radius: 4px;
     font-size: 16px;
@@ -2257,7 +2257,7 @@ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 .homepage h2, 
 .homepage h3, 
 .homepage h4, 
-.homepage h5, 
+.homepage h5, .h5
 .homepage h6 {
   font-weight: 500;
   color: #212529;
@@ -2289,7 +2289,7 @@ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 /* Box Shadow heading label */
-.box_shadow label { font-size: 1.35rem; }
+.box_shadow .label { font-size: 1.35rem; }
 
 /* ---------- Category Grid ---------- */
 .category-grid {
@@ -2443,7 +2443,7 @@ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 
 .lib.latest .cover_title { margin-top: 12px; max-width: 140px; }
 
-.lib.latest .cover_title h5 {
+.lib.latest .cover_title h5, .lib.latest .cover_title .h5 {
   font-size: 0.85rem;
   line-height: 1.3;
   margin: 0;
@@ -2910,7 +2910,7 @@ span.subtitle {
 
 span.extra {
   display: block;
-  color: gray;
+  color: #757575;
 }
 
 h1 .icon {
@@ -3008,7 +3008,7 @@ h1 .icon {
 
 #menubar span.grayed {
   margin-left: 1em;
-  color: gray;
+  color: #757575;
 }
 
 #menubar #menubar-first {
@@ -3121,7 +3121,7 @@ h1 .icon {
 #no-cover {
   width: 200px;
   height: 300px;
-  border: 1px solid gray;
+  border: 1px solid #757575;
 }
 
 #no-cover > div.icon {
