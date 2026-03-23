@@ -2910,7 +2910,7 @@ span.subtitle {
 
 span.extra {
   display: block;
-  color: gray;
+  color: #757575;
 }
 
 h1 .icon {
@@ -3008,7 +3008,7 @@ h1 .icon {
 
 #menubar span.grayed {
   margin-left: 1em;
-  color: gray;
+  color: #757575;
 }
 
 #menubar #menubar-first {
@@ -3121,7 +3121,7 @@ h1 .icon {
 #no-cover {
   width: 200px;
   height: 300px;
-  border: 1px solid gray;
+  border: 1px solid #757575;
 }
 
 #no-cover > div.icon {
