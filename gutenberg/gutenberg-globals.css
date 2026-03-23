@@ -432,7 +432,7 @@ test_index for latest covers from gutenberg1*/
   text-decoration: none;
 }
 
-.library .latest a:hover h5 {
+.library .latest a:hover h5, .library .latest a:hover .h5 {
   overflow-y: visible;
   height: auto;
 }
@@ -838,7 +838,7 @@ test_index for latest covers from gutenberg1*/
 
 /* COVER */
 
-.cover_title h5 {
+.cover_title h5, .cover_title .h5{
   white-space: break-spaces;
   overflow: hidden;
   height: 5em;
@@ -849,13 +849,13 @@ test_index for latest covers from gutenberg1*/
 }
 
 @media only screen and (max-width: 750px) {
-   .cover_title h5 {
+   .cover_title h5, .cover_title .h5 {
       overflow-y: scroll;
       height: 100px;
   }
 }
 
-.cover_title h5:hover {
+.cover_title h5:hover, .cover_title .h5:hover {
   overflow-y: visible;
   height: auto;
 }
@@ -2257,7 +2257,7 @@ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 .homepage h2, 
 .homepage h3, 
 .homepage h4, 
-.homepage h5, 
+.homepage h5, .h5
 .homepage h6 {
   font-weight: 500;
   color: #212529;
@@ -2443,7 +2443,7 @@ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 
 .lib.latest .cover_title { margin-top: 12px; max-width: 140px; }
 
-.lib.latest .cover_title h5 {
+.lib.latest .cover_title h5, .lib.latest .cover_title .h5 {
   font-size: 0.85rem;
   line-height: 1.3;
   margin: 0;
