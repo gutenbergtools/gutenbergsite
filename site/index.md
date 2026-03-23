@@ -75,7 +75,9 @@ permalink: /
       <li><a href="/help/reading_options.html">Reading Options & Kindle</a>: How to read and enjoy our ebooks. </li>
       <li><a href="/help/faq.html">Frequently Asked Questions</a> about Project Gutenberg.</li>
       <li><a href="/help/">Help, How-To and FAQs</a>: In depth information about many topics.</li>
-      <h3> How to Help </h3> 
+    </ul>
+    <h3> How to Help </h3>
+    <ul>
       <li><a href="https://www.pgdp.net">Distributed Proofreaders</a> welcomes new volunteers. This is the main source of new Project Gutenberg eBooks. Getting started is easy, and just a page a day will help! </li>
       <li><a href="/help/errata.html">Fix and improve</a> Project Gutenberg by reporting errors, bugs, typos, and suggesting changes.</li>
       <li>Record audiobooks with our friends at <a href="https://librivox.org">LibriVox</a>.</li>
@@ -111,7 +113,6 @@ permalink: /
   <div class="info-box">
     <h3>Our Social Media</h3>
     <ul class="icon-list">
-      <br>
       <li><a href="https://www.facebook.com/project.gutenberg">
         <img src="/gutenberg/f_icon.png" alt="Facebook icon" >
       </a></li>
@@ -121,9 +122,9 @@ permalink: /
       <li><a href="https://bsky.app/profile/gutenberg.org" rel="me">
         <img src="/gutenberg/b_icon.png" alt="Bluesky icon" >
       </a></li>
-      <br>
-      <h3>News Feeds of new eBooks</h3>
-      <br>
+    </ul>
+    <h3>News Feeds of new eBooks</h3>
+    <ul class="icon-list">
       <li><a href="https://www.facebook.com/gutenberg.new">
         <img src="/gutenberg/f_news_icon.png" alt="Facebook news feed icon" >
       </a></li>
