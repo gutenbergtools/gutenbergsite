@@ -63,7 +63,7 @@ requirements of the upload portal.
 public domain by the author.
 - Items that were not previously published or distributed.
 - Contemporary translations of Public Domain works.
-- Contemporary collections of Public Domain works that are separately copyrighted.
+- Contemporary collections of Public Domain works that were separately copyrighted.
 
 ## How is a Project Gutenberg eBook related to the source(s) it was based on?
 
