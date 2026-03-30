@@ -6,492 +6,460 @@ permalink: /newsletter/
 
 # Project Gutenberg News
 
-### February 2026
+
+### March 2026
 
 ___—Enjoy these eBooks. Share them. Celebrate them.—___
 
 
 **Contents**
 
-* [Mourning -> Celebrating](#mourning---celebrating)
-* [Tributes and Thanks from our community](#tributes-and-notes-from-our-community)
-* [A new feature: `ARK` linking](#a-new-feature-ark-linking)
-* [Our finances](#our-finances)
-* [New Releases at Gutenberg.org — January 2026](#new-releases-at-gutenbergorg--january-2026)
-* [Links](#links)
-
-
-## Mourning -> Celebrating
-
-Greg Newby left us in October; we've had a _mourning box_ on our homepage since. Greg's birthday was February 9th, so it seemed like an appropriate moment to turn from mourning his passing to _celebrating his accomplishments_, while working to continue them. So, Happy Birthday Greg, we miss you! There are birthday cakes on our homepage now.
-
-## Tributes and Notes from our Community
-_[Biography on our website](https://gutenberg.org/about/newby.html)_
-
-_From the_ [eServices for Citizens](https://yukon.ca/en/digital-blog/staff-profile-meet-greg-newby) _team, a department of the Youkon Territory government, Greg's ‘day job’:_
-> **About Greg:** A lot of people might not know that Greg was also eService’s informally official beach volleyball team captain! Our department has an annual staff barbecue and beach volleyball tournament. Greg was always the first to put out a call to get everyone out at lunch to practice before the event.
-
-_Quoted from the_ [Greg. B. Newby article](https://en.wikipedia.org/wiki/Gregory_B._Newby) _article at Wikipedia:_
-> Newby served as a co-organizer for the conference Hackers on Planet Earth (HOPE) for many years. He presented about hacker ethics in 2000 and "hacker" as a positive term in 2002. At HOPE XV in 2024, he spoke about opportunities to mitigate climate change. 
-
-_Presenting at the_ [HAL2001 Hackers At Large](https://monoskop.org/Hackers_At_Large) _conference, held at the University of Twente near Enschede, The Netherlands in August of 2001:_
-> Presentation title: "Hacker Ethics: How to Teach them, and What they Are". One of the great quotes from the 45 minutes presentation is _Writing code can instrument our ethics._ Watch the full presentation here: <https://youtu.be/sYfYqDPYhWc>
-
-_From John Guagliardo, Project Gutenberg Board Member_
-> Greg carried forward Michael Hart’s vision with extraordinary dedication, building the infrastructure, partnerships, and volunteer networks that sustained Project Gutenberg for decades. Yet his life was equally defined by an extraordinary passion for endurance and the outdoors. Greg was an avid ultramarathon runner, competing in numerous races, marathons, and grueling ultras that tested body and spirit. His love for pushing limits extended to the far north, where he and his wife Ilana ran StinkyPup Kennel, a sled dog rescue operation in Whitehorse, Yukon (and earlier in Alaska). He participated in dog sled races—including 100-mile events and Arctic ultramarathons—often enduring extreme conditions, even frostbite to his toes. Caring for dozens of retired huskies over the years, Greg embodied resilience, community, and generosity in both his digital work and his adventures on trails and snow. These pursuits weren’t separate from his Project Gutenberg role; they reflected the same optimistic, never-give-up ethos that kept him volunteering unpaid for 25 years, always ready for the next challenge—whether digitizing texts or mushing through the wilderness.
-
-### Notes sent with donations
+* Message from the Executive Director: Accessibility at Project Gutenberg
+* International Women’s Day and Women’s History Month
+* Christine de Pizan
+* 100th Anniversary of “The Blue Castle”
+* Finances
+* New Releases for February 2026
+* Top 10 eBooks downloaded for the month of February
+* Links
+* Find Project Gutenberg on Social Media
 
-* This donation is in loving memory of Greg Newby. I'm so grateful to have worked with Greg. Greg is truly inspirational, a wonderful role model, and a kind person. Sending my heartfelt condolences to Ilana and all of Greg's family and friends.
-* In memory of Greg Newby, a wonderful colleague.
-* In memory of Dr. Greg Newby. Thanks for the fries with mustard & introducing me to the world of public domain books.
-* I didn't know Greg, but the description I just read about him makes him sound irreplaceable. That being said, please try! 
-* In Memory of Greg Newby in support of his wife Ilana. May his work and contributions continue on.
-* In honor of Greg Newby. Greg was my classmate and friend at Schreiber High School. I last saw Greg at our 2013 reunion where, along with our friends, we danced to our favorite 80's music.
-* When I was 10, My father gave me a set of Dave Dawson books that were his when he was a child. I just found them on your site. Now they are on my ebook reader. I think there are a couple I didn't have. Time to go down memory lane.
-* Donation is given with love in memory of my cousin Greg Newby.
-* Sad to hear of the passing of Greg Newby. Sorry it's not much. Hope his loved ones are taking care of themselves as best they can.
-* In the memory of Greg Newby whom I was honored to know, and for the persistence of PG.
-* In memory of GREG NEWBY and his work to enable literacy. Thank you from a grateful recipient.	
-* To honor Greg Newby! May his spirit and important work continue to drive literacy and opportunities for those without! We pledge our ongoing support.
-* We were very sorry to hear about the passing of Dr. Newby. His legacy will be remembered.	
+## Message from the Executive Director: Accessibility at Project Gutenberg
 
-_(about 30 other messages were variants of "In memory of Greg.")_
+Both Project Gutenberg and Distributed Proofreaders have long worked to make our ebooks accessible to users with vision impairments. Our accessibility roadmap was launched over 15 years ago, when Distributed Proofreaders published these guidelines: <https://www.pgdp.net/wiki/Accessibility_Recipes>
 
-### Newsletter Responses
+In 2023 we completed a two-year-long effort to convert all 70,000 books in our collection to HTML5 and EPUB3. These formats allow for accessibility metadata, as found today in all our EPUB3 files. Last year we rolled out a refined website design with many attributes to improve accessibility and enable people to enjoy our books using screen readers or refreshable braille displays.
 
-* That is pretty rough. I wish him the best, although I have no idea what "prayers" are or would do.
-* Much thanks to Greg and what he has done for PG.
-* This is a project that has quietly influenced my career and life as well as the lives and technology and careers of many others.
-* Greg Newby has also been serving generously as Editor for the Open Grid Forum for many years, guiding many groups through the process of creating the many public documents available at https://ogf.org/documents and lately contributing to uploading standards ready for broader adoption to other standards developing organizations. We appreciate these contributions deeply and also wish to convey our deep thanks and regards.
-* Thank you @gbnewby I am really grateful for your generous work.
-* I know @gbnewby from his time as CTO of #ComputeCanada during a time where we went from having thirty-plus #HPC clusters of various sizes in >20 data centres to having only four big systems in as many data centres.
-My thoughts go out to Greg and his family and I wish them all the strength they need in such a difficult time!
-
-### From readers of the Globe and Mail obituary
-
-* Thank you for this obituary of Mr. Newby. I've used the Project Gutenberg website many times. It's the important result of a noble ambition. - Faustus
-* What a legacy of accomplishment Greg Newby leaves us. Project Gutenberg is an amazing contribution to humanity. - T. Stewart2
-
-### Comments via Hacker News
-
-* I'm shocked and saddened to hear this. Greg was a deep source of knowledge and support as I started and shepherded Standard Ebooks. He was generous with his time and experience, and unbelievably patient with me, some guy he had never heard of or met before who was just another cold-email in what must have been an endless stream in his inbox. We should all aspire to his high spirit of camaraderie, charity, and kindness. The world has lost a champion of both literature and the free web. - acabal
-* RIP. Project Gutenberg and IMSLP are two of my favourite websites. Every January, when new works enter the public domain, I go and download a bunch of books and sheet music. HN readers, let's not forget to donate to these websites that keep the Internet worth surfing. - Mastazi
-* Please also accept my condolences and best wishes - I've known Greg since the earliest HOPE conventions. - rsync
-* Every year, Project Gutenberg becomes a little closer to giving us access to every book worth reading, often in multiple editions and languages. It’s a treasure. - sevensor
-* Genuinely saddened by this. I had Dr. Newby for a Linux admin class in college in the late 90s and it was one of the courses that got me interested in systems administration. I remember him as patient, kind, and enthusiastic about open-source and the possibilities Linux represented for changing the Internet. - Castillar76
-* I am very sad to hear this. Greg was my mentor during my first internship at the Arctic Region Supercomputing Center in Fairbanks Alaska back in the very early 2000s. - JoeMattie
-* I met Greg when I was an undergraduate at Syracuse University and he was earning his PhD. I helped out a bit with some of the graphics programming for his thesis. Greg was a class act, always patient and kind. It was super helpful to me when I went to UIUC for graduate schools and he showed up as a faculty member there; he knew how to get access to campus resources and was more willing to help me than faculty in my own department. He was a model. RIP. - razeh
-* Met him at HAL 2001, volunteered together a bit there. I think he was heading the speakers herald team I was part of. First encounter with the hacker conference scene, he guided me wisely.  
-Patient and kind indeed. He's the reason I kept going around European hacking / free software events. I owe him cultural discoveries, long lasting friendships and tech partnerships. Very saddened by this news. So far the thread is full of similar interactions with him.  
-That person changed so many lives, by his contributions to culture and technology but more importantly (?) because he had tremendous impacts on the lives of many people he took time to interact with. I know that these threads are always full of "this recently deceased people made the world a better place". I lived with him 4 days 24 years ago so I can't say I knew him...but I know I wouldn't be writing this about more "famous" people I interacted with.
-So long, and thanks for all the fish. - karmabahh
-* Greg Newby was also very actively involved in the production of the HOPE Conference. If there's a broadcast tonight, Off The Hook (AKA The Hacker Radio Show) show on WBAI (99.5 FM in NY) and wbai.org will almost certainly be in his honor. -ethangnawl
-* I will cherish his email response to me when I emailed PG about a donation issue a few years ago and he helped resolve the situation. I remain grateful to PG for their amazing work. RIP Greg. - abawany
-* I did some volunteer work with/for Greg a lifetime ago. He will be missed, and the world is a better place due to his work. - toomuchtodo
-* Well that's a bummer, not even terribly old. I never met the guy but I love Gutenberg. Back before I had any money it was always this constant force that would be guaranteed to provide something entertaining. - tombert
-* Sad. I grew up in Champaign-Urbana and remember attending a talk he was giving about Prairienet. - Bobanrocky
-* RIP. Thanks for making this world a tiny bit better - gyc
+We still have a lot of work to do. In 2024 we took a census of the images in our books and found that our collection has more than 400,000 images without the appropriate “alt text” needed to make the books more accessible. Many technologists believe that machine vision systems will someday come to the rescue, but so far, even the most powerful AI systems produce descriptions that are often humorously mystifying or imaginative. Here’s an example image and the description returned by Anthropic’s Opus model. The image you see below is accurate, it is simply a black line, used as a section break in a book.
 
-### Via various social media platforms
-
-* Greg was always incredibly kind and supportive of everyone and made HOPE so welcoming. Absolutely a real one. What a loss. - alreadyburnt
-* Greg was always kind at HOPE and, when not running around like mad (because being staff at a con is like that) was always both pleasant and fun to talk to. I always made sure to thank him at the end of every HOPE I went to. - virtualadept
-* It's hard to believe it's been only two years since Emmanuel and Kyle went up to Yukon to assist Greg in a dog sledding competition. A good reminder to take nothing for granted. RIP to a great one. - D…_spawner126
-* My heart bleeds for the loss of Mr. Newby. Sadly, I never got the honor to meet him. He was an inspiration to myself & many others! May he never be forgotten for all the great work he has done on this planet. R.I.P. Greg - digitalwatch_tower
-* Thank you all. Project Gutenberg is a heritage for humanity. - Marco Bolognini
-* I love love love your project. Thank you, Dr. Newby. May you rest in peace. -Eugene Abramchuk
-* RIP. It's sad when relatively young people die. - Marko Tosevski
-* Project Gutenberg gives me access to old books not available through my local library's inner-library-loan system. Thank you all for giving me such a wonderful digital library. -Karen Martin
-* I worked with Dr. Newby at the University of Illinois. He mentored a great many people. He taught a class on how to set up information services--including how to set up and configure NCSA HTTPD. This wasn't taught in the CS department at the time, so many CS students came over to Library Science to learn about it. - Todd Markle
-* Thank you for the Gutenberg texts made available to everyone. -Catherine Diamond
-* The real Internet heroes. - Miklos Kallo
-* We owe him a great debt. - Anna Kamaralli
-* Used your books for years perhaps decades. Incredible results! Thank you for all your years of work and accomplishments. - Brian L Altonen
-* Greg led the document preparation process for @OpenGridForum for nearly two decades and helped in many ways from small to large in getting the majority of the publications in <https://ogf.org/documents> reviewed by the community and published for the betterment of the community. He was a tremendous contributor and friend, and he will be missed. - OpenGridForum
-* The entire @openlibrary.org team would like to express our deep sadness at the loss of our friend Greg Newby who, for years, has seeded @gutenberg.org  with public good, open access values worth continuing to follow. Thank you for your beautiful contributions. You are missed. -Brewster Kahle
-* Thank you, Greg, your accomplishments on Project Gutenberg were substantial, good natured, and selfless. Following our good friend Michael Hart on the vision of having all books available in all languages, the PG set was the starting point for every ereader, every AI project, every digital humanities project.
-* I remember him as the guy who insisted fries with mustard are great. He was kind of right & kind of wrong because mayonnaise & mustard was better . Ofc also introduced me into the world of public domain (e)-books & Gutenberg project. Will make some fries with mustard in his honour. My condolences to his friends & family 
-* We are deeply saddened by the loss of Greg Newby, who led Project Gutenberg with passion and purpose. Greg’s belief in free and open access to knowledge continues to inspire us and so many others working to preserve our shared culture online. - Internet Archive
-* Lots of online public-good projects don't outlast their founders. I'm grateful for Greg Newby's leadership of Project Gutenberg, which has been crucial for sustaining the project for years both before and after Michael Hart's passing. Now I mourn Greg's own passing, and wish the best for Eric Hellman and the Project Gutenberg board, volunteers, and contributors to keep providing free, accessible literature online for many more years to come. - John Mark Ockerbloom
-* We join others in mourning the loss of Dr. Greg Newby, Project Gutenberg’s leader. We are indebted to @gutenberg.org 's essential and historic role to make published materials available online and to Greg's leadership for helping digital libraries evolve and thrive throughout the decades. -HathiTrust
-* Thank you Dr. Newby, for leading Project Gutenberg so thoughtfully. You have left us with the gift of abundance, and we are better read and informed for it. May your memory be even more of a blessing than it already is.
-* This is just gut-wrenching! I know @gbnewby from his time as CTO of #ComputeCanada during a time where we went from having thirty-plus #HPC clusters of various sizes in >20 data centres to having only four big systems in as many data centres. My thoughts go out to Greg and his family and I wish them all the strength they need in such a difficult time!
+\[picture]: —————————————————————————
 
-### From Eric (PG's Executive Director)
+\[AI description]: “The image shows a close-up view of a grey wolf standing in a grassy field. The wolf has thick grey fur, pointed ears, and is looking directly at the camera with its golden eyes. A shallow depth of field keeps the background blurred while the wolf’s face is in sharp focus.”
 
-> I thought about Greg this morning. I ran a 5K race called the "Penguin Pace". I came in 7th (of 12) in my age group. It was 8°F at the start. In my running club there are people who have run umpteen marathons (I've run one) and folks who do triathlons and ultramarathons. One friend recently did a 100-miler. I used to brag to them that I knew a guy who ran ARCTIC ULTRAS!!! That was Greg. Arctic ultramarathons are multi-day races where you have to pull your gear on a sled behind you so that you can stop and rest without freezing to death. After Greg had to quit halfway one time due to frostbite, he tried the next year and finished! Compared to that, my race was a balmy walk in the park. Thank you Greg, for pulling Project Gutenberg for so long and doing it so well.
+\[My description]: “A horizontal black line.”
 
+But it’s not just images that can be a barrier to accessibility. With a little help from experts at the Library of Congress, I worked on Project Gutenberg’s version of “Winnie-the-Pooh”.
 
-## A new feature: `ARK` linking
+<https://www.gutenberg.org/ebooks/67098>
 
-[Archival Resource Keys](https://arks.org/) (ARKs) serve as persistent identifiers, or stable, trusted references for information objects. Among other things, they aim to be web addresses (URLs) that don’t return 404 Page Not Found errors. 
+I really enjoyed the process of describing each of the 116 drawings so that the description fit the narrative of the story. Each description was like solving a little puzzle. There was some inaccessible text in the scene where Kanga is jumping up and down, and the text jumps with her! But with the jumping text rendered as three separate lines with awkward spacing, a screen reader would make the text incomprehensible. It wasn’t hard to fix in the HTML.
 
-End users, especially researchers, rely on ARKs for long term access to the global scientific and cultural record. Since 2001 some 15.3 billion ARKs have been created by over 1700 organizations — libraries, data centers, archives, museums, publishers, government agencies, and vendors.
+This year, we have even more motivation to make our books verifiably accessible. April 2026 marks the start of the “Web and Mobile Application Accessibility Rule” which falls under Title II of the Americans with Disabilities Act. This rule requires any publicly funded school or library to have documentation that any digital resource they offer is either accessible or that there is a plan in place to make it accessible. (Wikipedia short link to “Web Content Accessibility Guidelines” / “WCAG referenced by law”)
 
-In January, Project Gutenberg joined the world of ARKs. This means that if you know Project Gutenberg's number for a book, for example, "Pride and Prejudice" is # 1342, You can use that number from any ARK resolving system. So, for example, while you would normally use the url <https://www.gutenberg.org/ebooks/1342> to get the book's landing page, you can also use <https://www.gutenberg.org/ark:/64303/1342>. Now that's not very interesting. But because ARKs can be resolved by any ARK resolver, you can also use <https://n2t.net/ark:/64303/1342> or if you want to use the resolver in France, <https://ark.bnf.fr/ark:/64303/1342>. (64303 is the number that identifies Project Gutenberg)
+<https://w.wiki/7g3Z>
 
-Greg Newby decided that Project Gutenberg should support ARKs, because of the potential benefit of preserving PG content into the future, because ARK is a free and open system, unlike, for example ISBN. We had a test version running last summer, but there were snags putting it into production, and then other things happened.
+In December, the PGLAF board approved an effort to take PG’s accessibility to a new level and start documenting books so that schools and libraries can use them without worries about legal compliance. I hope to be able to tell you more about that second part soon.
 
-Project Gutenberg has a long history of innovation and support for free and open systems that help to preserve its content, and ARK implementation is a continuation of that tradition.
+Before I took the Executive Director job at Project Gutenberg, I was leading the Free Ebook Foundation’s effort to develop a tool called  “AltPoet” that will enable creation and editing of alt text for images in the Project Gutenberg catalog, with the help of AI systems. This effort is being moved into Project Gutenberg. Creating alt text requires some training and a different set of skills from the proofreading and HTML formatting work that Distributed Proofreaders and Project Gutenberg have done so well at. I’m hoping that people who care about accessibility and have a knack for describing things will try out AltPoet.
 
-## Our Finances and New Address
+If you have any interest in helping with this project, I invite you to email me at eric@pglaf.org. Put the word “AltPoet” in the email subject line. Either way, thank you for supporting Project Gutenberg!
 
-This past week, we sent emails or letters to about 200 donors of $100 or more, which can be used for tax purposes. If you don't receive yours within a week and need a letter, please email us. 
+## International Women’s Day and Women’s History Month
 
-As you must know, Project Gutenberg is a dynamic, impactful organization that does amazing work sending out over a million free ebooks a day. It has a small budget (which we hope to grow!) financed mostly by small donations from over a thousand users, ranging from the 5 dollar bill we recently received in the mail from a schoolgirl in East Setauket, NY to *slightly* larger donations.
+International Women’s Day is celebrated annually during the week of 8 March. It commemorates the fight for women’s equality and liberation along with the women’s rights movement. Women’s History Month is the annual celebration of the contributions and achievements that women have made. It is celebrated throughout the month of March each year.
 
-We've posted our [recently-filed IRS Form 990](https://www.gutenberg.org/about/pglaf.html#tax_status) return for our fiscal year ending June 30, 2025 on the website. It shows donation income of $117,756 (not bad!) and a deficit of *-23,397* (not good). On the bright side, donations for the current fiscal year are up by ~30% over last year (very good!). The closure of our Salt Lake City office will save us a lot of money. (sad, but necessary.)
+To celebrate these observations, Project Gutenberg created a new bookshelf titled Women in Science, Technology, Engineering, and Mathematics. Some samples are given below.
 
-If you want to send us paper mail, the address is:
-> Project Gutenberg Literary Archive Foundation <br> 41 Watchung Plaza #516<br> Montclair NJ 07042
+<https://www.gutenberg.org/ebooks/bookshelf/706>
 
-## New Releases at Gutenberg.org — January 2026
+* __“Philosophical Letters: or, Modest Reflections Upon Some Opinions in Natural Philosophy”__ (1664) by Margaret Cavendish: she criticized Descartes, Hobbes, and mechanical philosophy and argued that Nature is organic, not mechanical.
+* __“Eléments de la philosophie de Neuton: Mis à la portée de tout le monde”__ (1738) by Voltaire and Émilie du Châtelet: she translated into French, and wrote an extensive commentary on Isaac Newton’s __“Philosophiæ Naturalis Principia Mathematica”__.
+* __“Eminent Literary and Scientific Men of Italy, Spain, and Portugal”__ and __“Lives of the Most Eminent Literary and Scientific Men of France”__ are biographical encyclopedia series written by Mary Shelley for Lardner’s Cabinet Cyclopædia in the 1830s. Shelley’s approach combined biographical narrative with literary criticism; emphasized personal lives and psychological portraits; explored how historical and social contexts shaped creativity; feminist perspective on women writers and the constraints they faced.
+* __“The Mechanism of the Heavens”__ (1831) by Mary Sommerville: She translated Laplace’s work (Mécanique Céleste) from algebra into common language. __“On the Connexion of the Physical Sciences”__ (1834): she employed an interdisciplinary approach to understanding nature.
+* __“Sketch of the Analytical Engine invented by Charles Babbage”__, Esq. by Menabrea, translated by Ada Lovelace (1843): her added notes are important in the early history of computers, especially since Note G described, in complete detail, a method for calculating a sequence of Bernoulli numbers using the Analytical Engine, which might have run correctly had it ever been built. Lovelace is often considered the first computer programmer.
+* __“Notes on Nursing: What It Is, and What It Is Not”__ (1859) and are influential works by Florence Nightingale: it was written for ordinary women managing household health and aimed to educate the public about disease prevention and health maintenance. __“Subsidiary Notes as to the Introduction of Female Nursing into Military Hospitals in Peace and in War”__ (1858): she advocated systematic reform of military medical services.
+* __“Recherches sur les substances radioactives”__ (1903) by Marie Curie: she described the discovery and isolation of radium and polonium. __“La radiologie et la guerre”__ (1921): she showed an advanced field of medical imaging and proposed a model for future medical emergency response.
+* __“The Desert and the Sown”__ (1907) by Gertrude Lowthian Bell: she provided detailed ethnographic and political information on the Arab world which was later used by the British government for Middle East policy.
+* __“Stellar atmospheres: A contribution to the observational study of high temperature in the reversing layers of stars”__ (1925) by Cecilia Payne-Gaposchkin: she demonstrated that spectral differences among stars result primarily from temperature differences, not compositional differences, and stars are composed overwhelmingly of hydrogen and helium, contrary to prevailing belief that stars had Earth-like composition.
 
-In the last month PGLAF added another [**233** new public domain eBooks](202601.html) to the PG catalog. Of the new books, 146 were added by PGDP. Thank you to all the volunteers who have helped to make these new titles freely available to the world.
+## Christine de Pizan
 
-January 1
+An interesting article was published by Marie Lebert: Christine de Pizan, a medieval woman writer, was the first professional woman writer in Europe and the first feminist writer.
 
-* [Lost over Greenland](https://www.gutenberg.org/ebooks/77606/) - Richard H. Stone
-* [The Maltese falcon](https://www.gutenberg.org/ebooks/77600/) - Dashiell Hammett
-* ["The Daily Graphic" special war cartoons, no. 1](https://www.gutenberg.org/ebooks/77594/) - Daily graphic (London, England)
-* [Tom Swift and his big dirigible](https://www.gutenberg.org/ebooks/77599/) - Victor Appleton
-* [Maza of the Moon](https://www.gutenberg.org/ebooks/77596/) - Otis Adelbert Kline
-* [Buckin' the air](https://www.gutenberg.org/ebooks/77592/) - Bud La Mar
-* [The documents in the case](https://www.gutenberg.org/ebooks/77601/) - Dorothy L. Sayers and Robert Eustace
-* [The great airport mystery](https://www.gutenberg.org/ebooks/77595/) - Franklin W. Dixon
-* [The hills of the dead](https://www.gutenberg.org/ebooks/77603/) - Robert E. Howard
-* [Signs, omens and superstitions](https://www.gutenberg.org/ebooks/77597/) - Astra Cielo
-* [Le livre de Olivier de Castille et de Artus d'Algarbe](https://www.gutenberg.org/ebooks/77593/) - Filipe Camuz
-* [The hidden staircase](https://www.gutenberg.org/ebooks/77602/) - Carolyn Keene
-* [Kings of the night](https://www.gutenberg.org/ebooks/77604/) - Robert E. Howard
-* [The Moon of Skulls](https://www.gutenberg.org/ebooks/77605/) - Robert E. Howard
-* [Picturesque views on the river Wye, from its source at Plinlimmon Hill, to its junction with the Severn below Chepstow](https://www.gutenberg.org/ebooks/77598/) - Samuel Ireland
+<https://marielebert.wordpress.com/2025/09/09/women-writers-translators/>
 
-January 2
+Christine de Pizan (1364–1430), an Italian-French court writer, was the first woman to make a living from her writing in a male-dominated world. Writing enabled her to provide for her family following the death of her husband and father. A prolific author of poetry, novels, and biographies in vernacular French, she is best known for The Book of the City of Ladies.
 
-* [A brand new world](https://www.gutenberg.org/ebooks/77608/) - Ray Cummings
-* [Landesverein Sächsischer Heimatschutz — Mitteilungen Band XVI, Heft 1–2](https://www.gutenberg.org/ebooks/77607/) - Landesverein Sächsischer Heimatschutz
-* [A winter holiday](https://www.gutenberg.org/ebooks/77609/) - Bliss Carman
+<https://www.gutenberg.org/ebooks/26608>
 
-January 3
-
-* [Courses of study in library science](https://www.gutenberg.org/ebooks/77611/) - Reginald Gordon Williams
-* [Valuable cooking receipts](https://www.gutenberg.org/ebooks/77612/) - Thomas J. Murrey
-* [The color of space](https://www.gutenberg.org/ebooks/77610/) - Charles R. Tanner
-
-January 4
-
-* [Le disciple](https://www.gutenberg.org/ebooks/77617/) - Paul Bourget
-* [Lost city](https://www.gutenberg.org/ebooks/77613/) - Kathleen Montgomery Wallace
-* [Varastaiteilija](https://www.gutenberg.org/ebooks/77616/) - E. W. Hornung
-* [La arlesiana](https://www.gutenberg.org/ebooks/77614/) - Alphonse Daudet
-* [Fenn és lenn](https://www.gutenberg.org/ebooks/77615/) - Ferenc Herczeg
-* [Joulu-yön tarina](https://www.gutenberg.org/ebooks/77618/) - Larin-Kyösti
-* [Cordage and cordage hemp and fibres](https://www.gutenberg.org/ebooks/77619/) - Thomas Woodhouse and Peter Kilgour
-
-January 5
-
-* [Három mester](https://www.gutenberg.org/ebooks/77620/) - Stefan Zweig
-* [Magnolia Flower](https://www.gutenberg.org/ebooks/77621/) - Zora Neale Hurston
-* [Impressions of great naturalists](https://www.gutenberg.org/ebooks/77622/) - Henry Fairfield Osborn
-* [Evening songs](https://www.gutenberg.org/ebooks/77623/) - Vítězslav Hálek
-
-January 6
-
-* [Rupert Godwin](https://www.gutenberg.org/ebooks/77631/) - M. E. Braddon
-* [The earliest historical relations between Mexico and Japan](https://www.gutenberg.org/ebooks/77632/) - Zelia Nuttall
-* [La venuta dei Normanni in Sicilia nella poesia e nella leggenda](https://www.gutenberg.org/ebooks/77626/) - Michele Catalano
-* [La détresse des Harpagon](https://www.gutenberg.org/ebooks/77628/) - Pierre Mille
-* [Mariners catalans célebres](https://www.gutenberg.org/ebooks/77624/) - Lluís Maria Soler y Puig
-* [Die Brücke im Dschungel](https://www.gutenberg.org/ebooks/77625/) - B. Traven
-* [Further nonsense verse and prose](https://www.gutenberg.org/ebooks/77627/) - Lewis Carroll and Langford Reed
-* [Kék mesekönyv](https://www.gutenberg.org/ebooks/77629/) - Elek Benedek
-* [An essay on combustion, with a view to a new art of dying and painting](https://www.gutenberg.org/ebooks/77630/) - Mrs. Fulhame
-
-January 7
-
-* [The clue of the silver key](https://www.gutenberg.org/ebooks/77643/) - Edgar Wallace
-* [The troubadours](https://www.gutenberg.org/ebooks/77644/) - Francis Hueffer
-* [Peter makes good, and stories of other dogs](https://www.gutenberg.org/ebooks/77634/) - Gertrude Thomas
-* [Servants and service](https://www.gutenberg.org/ebooks/77633/) - Ruth Lamb
-* [Kuoleman voittaja](https://www.gutenberg.org/ebooks/77639/) - Franz Werfel
-* [Kahden tulen välissä](https://www.gutenberg.org/ebooks/77640/) - Frans Talaskivi
-* [Mornings in Mexico](https://www.gutenberg.org/ebooks/77641/) - D. H. Lawrence
-* [Az ördög](https://www.gutenberg.org/ebooks/77642/) - Ferenc Molnár
-* [Kansojen historia 2](https://www.gutenberg.org/ebooks/77635/) - Carl Gustaf Grimberg
-* [Life among the ants](https://www.gutenberg.org/ebooks/77638/) - Vance Randolph and E. Haldeman-Julius
-* [Sonnets from a prison camp](https://www.gutenberg.org/ebooks/77636/) - Archibald Allan Bowman
-* [Napoleon and Josephine](https://www.gutenberg.org/ebooks/77637/) - Walter Geer
-
-January 8
-
-* [The friends, and other stories](https://www.gutenberg.org/ebooks/77648/) - Stacy Aumonier
-* [Oberland](https://www.gutenberg.org/ebooks/77646/) - Dorothy M. Richardson
-* [A vörös malom](https://www.gutenberg.org/ebooks/77650/) - Ferenc Molnár
-* [Från Washingtons salonger och hvardagslif m. m.](https://www.gutenberg.org/ebooks/77645/) - F. U. Wrangel
-* [Aamusta iltaan](https://www.gutenberg.org/ebooks/77649/) - Reino Rauanheimo
-* [Soldiers unmasked](https://www.gutenberg.org/ebooks/77647/) - William Addleman Ganoe
-
-January 9
-
-* [Joan's handful](https://www.gutenberg.org/ebooks/77651/) - Amy Le Feuvre
-* [Asoka's alibi](https://www.gutenberg.org/ebooks/77653/) - Talbot Mundy
-* [Shades of Davy Crockett](https://www.gutenberg.org/ebooks/77662/) - Theodore Pratt
-* [The Táin](https://www.gutenberg.org/ebooks/77663/) - Mary A. Hutton and John Patrick Campbell
-* [Afterglow](https://www.gutenberg.org/ebooks/77657/) - Julia C. R. Dorr
-* [The Swedes on the Delaware, 1638-1664](https://www.gutenberg.org/ebooks/77652/) - Amandus Johnson
-* [Young man with a trumpet](https://www.gutenberg.org/ebooks/77664/) - Frank Belknap Long
-* [The cybernetic kid](https://www.gutenberg.org/ebooks/77658/) - John Jakes
-* [Grandma's lie soap](https://www.gutenberg.org/ebooks/77659/) - Robert Abernathy
-* [Os Lusiadas (The Lusiads), vol. 1 of 2](https://www.gutenberg.org/ebooks/77660/) - Luís de Camões and Lady Isabel Burton
-* [Os Lusiadas (The Lusiads), vol. 2 of 2](https://www.gutenberg.org/ebooks/77661/) - Luís de Camões and Lady Isabel Burton
-* [The forbidden zone](https://www.gutenberg.org/ebooks/77655/) - Mary Borden
-* [Szegedi parasztok és egyéb urak](https://www.gutenberg.org/ebooks/77654/) - István Tömörkény
-* [Plotting the short story](https://www.gutenberg.org/ebooks/77656/) - Seymour Cunningham Chunn
-* [The man who had spiders](https://www.gutenberg.org/ebooks/77665/) - Roger D. Aycock
-
-January 10
-
-* [How glands affect personality](https://www.gutenberg.org/ebooks/77671/) - Grace Kinckle Adams and E. Haldeman-Julius
-* [A magyarságért](https://www.gutenberg.org/ebooks/77669/) - Jenő Rákosi
-* [Mon curé chez les riches](https://www.gutenberg.org/ebooks/77666/) - Clément Vautel
-* [Diminutive dramas](https://www.gutenberg.org/ebooks/77668/) - Maurice Baring
-* [Der Teufelsschlosser](https://www.gutenberg.org/ebooks/77667/) - Adele Gaus-Bachmann
-* [Kynäelmiä IV](https://www.gutenberg.org/ebooks/77670/) - Kaarlo Hemmo
-
-January 11
-
-* [The giant, and other nonsense verse](https://www.gutenberg.org/ebooks/77672/) - Albert W. Smith
-* [Confessions of an anarchist](https://www.gutenberg.org/ebooks/77674/) - W. C. Hart
-* [Agar Halfi the mystic](https://www.gutenberg.org/ebooks/77673/) - Roland Filkin
-* [Atoms and electrons](https://www.gutenberg.org/ebooks/77675/) - J. W. N. Sullivan
-
-January 12
-
-* [Dentologia](https://www.gutenberg.org/ebooks/77677/) - Solyman Brown
-* [Legends of the conquest of Spain](https://www.gutenberg.org/ebooks/77685/) - Washington Irving
-* [Lyrics selected from the works of A. Mary F. Robinson](https://www.gutenberg.org/ebooks/77682/) - A. Mary F. Robinson
-* [De oudheidkenner](https://www.gutenberg.org/ebooks/77684/) - Walter Scott
-* [The Trent affair](https://www.gutenberg.org/ebooks/77681/) - Thomas L. Harris
-* [The big town](https://www.gutenberg.org/ebooks/77676/) - Ring Lardner
-* [Yiddish short stories](https://www.gutenberg.org/ebooks/77680/) - Isaac Goldberg and E. Haldeman-Julius
-* [Die Zelle und die Gewebe (Vol. 1/2)](https://www.gutenberg.org/ebooks/77678/) - Oscar Hertwig
-* [My tussle with the devil, and other stories](https://www.gutenberg.org/ebooks/77686/) - O. Henry
-* [Obstipation](https://www.gutenberg.org/ebooks/77683/) - Thomas Charles Martin
-* [Die Zelle und die Gewebe (Vol. 2/2)](https://www.gutenberg.org/ebooks/77679/) - Oscar Hertwig
-
-January 13
-
-* [Jerry Todd and the rose-colored cat](https://www.gutenberg.org/ebooks/77687/) - Leo Edwards
-* [The natural history of Aleppo, and parts adjacent](https://www.gutenberg.org/ebooks/77691/) - Alexander Russell
-* [Battles of the nineteenth century, vol. 1 of 7](https://www.gutenberg.org/ebooks/77688/) - Archibald Forbes et al.
-* [Lord Lister No. 0040: De valsche spoorwegdief](https://www.gutenberg.org/ebooks/77693/) - Kurt Matull and Theo von Blankensee
-* [Isten igájában II.](https://www.gutenberg.org/ebooks/77695/) - József Nyirő
-* [The sword decides](https://www.gutenberg.org/ebooks/77689/) - Marjorie Bowen
-* [A bold bad butterfly](https://www.gutenberg.org/ebooks/77690/) - Oliver Herford
-* [Outward bound](https://www.gutenberg.org/ebooks/77696/) - Sutton Vane
-* [Isten igájában I.](https://www.gutenberg.org/ebooks/77694/) - József Nyirő
-* [Motion pictures, January-June 1977](https://www.gutenberg.org/ebooks/77697/) - Library of Congress. Copyright Office
-* [Spanish colonial literature in South America](https://www.gutenberg.org/ebooks/77692/) - Bernard Moses
-
-January 14
-
-* [Entstehung und Ausbreitung der Alchemie, mit einem Anhange](https://www.gutenberg.org/ebooks/77700/) - Edmund O. von Lippmann
-* [A greater than Napoleon](https://www.gutenberg.org/ebooks/77699/) - Sir Basil Henry Liddell Hart
-* [Molly Gavin's own cookbook](https://www.gutenberg.org/ebooks/77698/) - Molly Gavin
-* [Ueber den Umgang mit Menschen](https://www.gutenberg.org/ebooks/77701/) - Freiherr von Adolf Knigge
-
-January 16
-
-* [Yes and no, Volume 2 (of 2)](https://www.gutenberg.org/ebooks/77720/) - Marquess of Constantine Henry Phipps Normanby
-* [Queer people](https://www.gutenberg.org/ebooks/77709/) - Basil Thomson
-* [Disarm! Disarm!](https://www.gutenberg.org/ebooks/77705/) - Bertha von Suttner
-* [La pédagogie d'un saint](https://www.gutenberg.org/ebooks/77712/) - A. Auffray
-* [Life of George Washington, volume 3 of 5](https://www.gutenberg.org/ebooks/77704/) - Washington Irving
-* [A dictionary of scientific terms](https://www.gutenberg.org/ebooks/77721/) - Leo Markun and E. Haldeman-Julius
-* [Capital punishment among the Jews](https://www.gutenberg.org/ebooks/77702/) - David de Sola Pool
-* [The conquest of the Philippines by the United States, 1898-1925](https://www.gutenberg.org/ebooks/77710/) - Moorfield Storey and Marcial Primitivo Lichauco
-* [Yes and no, Volume 1 (of 2)](https://www.gutenberg.org/ebooks/77719/) - Marquess of Constantine Henry Phipps Normanby
-* [Ruben and Ivy Sên](https://www.gutenberg.org/ebooks/77722/) - Louise Jordan Miln
-* [The story of Mary Jones and her Bible](https://www.gutenberg.org/ebooks/77715/) - Mary E. Ropes
-* [Final exam](https://www.gutenberg.org/ebooks/77718/) - Jr. Sam Merwin
-* [A little child's wreath](https://www.gutenberg.org/ebooks/77707/) - Elizabeth Rachel Chapman
-* [The Pilgrimage of Grace, 1536-1537, and the Exeter Conspiracy, 1538, Volume 1 (of 2)](https://www.gutenberg.org/ebooks/77706/) - Madeleine Hope Dodds and Ruth Dodds
-* [Kansojen historia 3](https://www.gutenberg.org/ebooks/77713/) - Carl Gustaf Grimberg
-* [Wanda](https://www.gutenberg.org/ebooks/77708/) - Juliusz Rawicz Przyjemski
-* [The Cohansey tea-fight](https://www.gutenberg.org/ebooks/77716/) - Lucy Ellen Guernsey
-* [Racconti poetici](https://www.gutenberg.org/ebooks/77714/) - Aleksandr Sergeevich Pushkin
-* [Passage to anywhere](https://www.gutenberg.org/ebooks/77717/) - Jr. Sam Merwin
-* [Hämärän huoneen arvoitus](https://www.gutenberg.org/ebooks/77711/) - Edgar Wallace
-* [Recuerdos de un anciano](https://www.gutenberg.org/ebooks/77703/) - Antonio Alcalá Galiano
-
-January 17
-
-* [Popular lectures on scientific subjects](https://www.gutenberg.org/ebooks/77725/) - Hermann von Helmholtz
-* [Korpinäkyjä 2](https://www.gutenberg.org/ebooks/77724/) - Larin-Kyösti
-* [Jungle days](https://www.gutenberg.org/ebooks/77723/) - William Beebe
-
-January 18
-
-* [A hattyú](https://www.gutenberg.org/ebooks/77726/) - Ferenc Molnár
-* [The book of ice-cream](https://www.gutenberg.org/ebooks/77728/) - W. W. Fisk
-* [The kedge-anchor](https://www.gutenberg.org/ebooks/77729/) - William N. Brady
-* [Kolme](https://www.gutenberg.org/ebooks/77730/) - Elina Vaara et al.
-* [Cinderella](https://www.gutenberg.org/ebooks/77727/) - John R. Neill
-* [Szinház](https://www.gutenberg.org/ebooks/77731/) - Ferenc Molnár
-* [Tulta ja tuhkaa](https://www.gutenberg.org/ebooks/77732/) - Iris Uurto
-
-January 19
-
-* [Les incertitudes de l'heure présente](https://www.gutenberg.org/ebooks/77734/) - Gustave Le Bon
-* [Color problems](https://www.gutenberg.org/ebooks/77736/) - Emily Noyes Vanderpoel
-* [The progress meatless cook book](https://www.gutenberg.org/ebooks/77733/) - Carlotta M. Lake
-* [Halveksittu mies](https://www.gutenberg.org/ebooks/77740/) - Lauri Haarla
-* [Crab, shrimp, and lobster lore](https://www.gutenberg.org/ebooks/77735/) - William Barry Lord
-* [The rat trap](https://www.gutenberg.org/ebooks/77737/) - William Le Queux
-* [A treatise concerning the properties and effects of coffee](https://www.gutenberg.org/ebooks/77741/) - Benjamin Moseley
-* [Viaszfigurák](https://www.gutenberg.org/ebooks/77739/) - Cécile Tormay
-
-January 20
-
-* [Through Siberia](https://www.gutenberg.org/ebooks/77742/) - Henry Lansdell
-* [Songs of the unblind Cupid](https://www.gutenberg.org/ebooks/77744/) - J. Wm. Lloyd
-* [Drie Harten](https://www.gutenberg.org/ebooks/77745/) - Jack London
-* [The Oxford book of Portuguese verse](https://www.gutenberg.org/ebooks/77746/) - Aubrey F. G. Bell
-* [Duval's artistic anatomy](https://www.gutenberg.org/ebooks/77743/) - Mathias Duval and Andrew Melville Paterson
-* [A daughter of Heth](https://www.gutenberg.org/ebooks/77747/) - William Black
-
-January 21
-
-* [Contes tendres](https://www.gutenberg.org/ebooks/77748/) - André Theuriet
-* [A brief bibliography of books in English, Spanish and Portuguese, relating to the republics commonly called Latin American, with comments](https://www.gutenberg.org/ebooks/77738/) - Peter H. Goldsmith
-
-January 22
-
-* [Megállt az óra](https://www.gutenberg.org/ebooks/77751/) - Cécile Tormay
-* [Doubly false](https://www.gutenberg.org/ebooks/77750/) - Ann S. Stephens
-* [Bibliography of the Bacon-Shakespeare controversy](https://www.gutenberg.org/ebooks/77752/) - W. H. Wyman
-* [West of Fifth](https://www.gutenberg.org/ebooks/77749/) - Catharine Brody
-
-January 23
-
-* [Lysistrata](https://www.gutenberg.org/ebooks/77760/) - Laurence Housman and Aristophanes
-* [A jó tündér](https://www.gutenberg.org/ebooks/77758/) - Ferenc Molnár
-* [The population problem](https://www.gutenberg.org/ebooks/77753/) - A. M. Carr-Saunders
-* [El espejo de la muerte](https://www.gutenberg.org/ebooks/77759/) - Miguel de Unamuno
-* [Lefty o' the training camp](https://www.gutenberg.org/ebooks/77754/) - Burt L. Standish
-* [Bookbinding self taught](https://www.gutenberg.org/ebooks/77757/) - Ben Davidson and E. Haldeman-Julius
-* [The magnificent profession](https://www.gutenberg.org/ebooks/77756/) - Theodore L. Thomas
-* [The wandering Jew](https://www.gutenberg.org/ebooks/77755/) - Moncure Daniel Conway
-
-January 24
-
-* [A bit of rough road](https://www.gutenberg.org/ebooks/77761/) - Amy Le Feuvre
-* [The Christmas child](https://www.gutenberg.org/ebooks/77767/) - Nora Archibald Smith
-* [The wild heart](https://www.gutenberg.org/ebooks/77766/) - Emma-Lindsay Squier
-* [Monsieur D'Or](https://www.gutenberg.org/ebooks/77765/) - John Louis Haney
-* [Tom Gillies](https://www.gutenberg.org/ebooks/77762/) - Mrs. George Gladstone
-* [Soap bubbles](https://www.gutenberg.org/ebooks/77764/) - Max Simon Nordau
-* [Lignum-vitae](https://www.gutenberg.org/ebooks/77763/) - Samuel J. Record
-
-January 25
-
-* [By the deep sea](https://www.gutenberg.org/ebooks/77774/) - Edward Step
-* [Marshal of Sundown](https://www.gutenberg.org/ebooks/77768/) - Jackson Gregory
-* [La fugitive](https://www.gutenberg.org/ebooks/77770/) - Rabindranath Tagore
-* [Kansojen historia 4](https://www.gutenberg.org/ebooks/77778/) - Carl Gustaf Grimberg
-* [Münchhausen unter den Ziegen](https://www.gutenberg.org/ebooks/77772/) - Karl Leberecht Immermann
-* [Freedom of speech](https://www.gutenberg.org/ebooks/77769/) - Jr. Zechariah Chafee
-* [Abafi](https://www.gutenberg.org/ebooks/77780/) - báró Miklós Jósika
-* [Of the making of a book](https://www.gutenberg.org/ebooks/77776/) - 
-* [The Stoics, Epicureans and Sceptics](https://www.gutenberg.org/ebooks/77777/) - Eduard Zeller
-* [Sworn to silence](https://www.gutenberg.org/ebooks/77775/) - Mrs. Alex. McVeigh Miller
-* [Lord Lister No. 0041: Een weddenschap zonder winner](https://www.gutenberg.org/ebooks/77779/) - Kurt Matull and Theo von Blankensee
-* [Haamulinna](https://www.gutenberg.org/ebooks/77773/) - Eino Railo
-* [Ukrainian literature](https://www.gutenberg.org/ebooks/77771/) - Clarence Augustus Manning
-
-January 26
-
-* [Ruhtinattaria](https://www.gutenberg.org/ebooks/77786/) - Eduard von Keyserling
-* [Vainon ajoilta](https://www.gutenberg.org/ebooks/77787/) - Hilja Tamminen
-* [The eyes of Max Carrados](https://www.gutenberg.org/ebooks/77788/) - Ernest Bramah
-* [Aussterbende Tiere](https://www.gutenberg.org/ebooks/77785/) - Kurt Floericke
-* [The peyote cult](https://www.gutenberg.org/ebooks/77791/) - Weston La Barre
-* [Blunders in behaviour corrected](https://www.gutenberg.org/ebooks/77781/) - Observer of men and things
-* [Conversation](https://www.gutenberg.org/ebooks/77793/) - J. Frank Davis
-* [Islam and the Divine comedy](https://www.gutenberg.org/ebooks/77789/) - Miguel Asín Palacios
-* [Mylord et Mylady](https://www.gutenberg.org/ebooks/77790/) - Brada
-* [The gateway to China](https://www.gutenberg.org/ebooks/77783/) - Mary Ninde Gamewell
-* [The story of the Pennsylvania Germans](https://www.gutenberg.org/ebooks/77784/) - William Beidelman
-* [Black magic](https://www.gutenberg.org/ebooks/77782/) - Marjorie Bowen
-* [The story of the universe. Volume 2 (of 4)](https://www.gutenberg.org/ebooks/77792/) - Esther Singleton
-
-January 27
-
-* [Theodosia Ernest](https://www.gutenberg.org/ebooks/77796/) - A. C. Dayton
-* [Ambulancing on the French front](https://www.gutenberg.org/ebooks/77797/) - Edward R. Coyle
-* [A picture of Stirling](https://www.gutenberg.org/ebooks/77794/) - Robert Chambers
-* [The voyage of the Norman D.](https://www.gutenberg.org/ebooks/77795/) - Barbara Newhall Follett
-
-January 28
-
-* [Willie and Lucy at the sea-side](https://www.gutenberg.org/ebooks/77801/) - Agnes Giberne
-* [Old House of Fear](https://www.gutenberg.org/ebooks/77800/) - Russell Kirk
-* [No enemy](https://www.gutenberg.org/ebooks/77802/) - Ford Madox Ford
-* [The mission-box](https://www.gutenberg.org/ebooks/77799/) - Lucy Ellen Guernsey
-* [Secrets of Crewe House](https://www.gutenberg.org/ebooks/77798/) - Campbell Stuart
-* [Matabele land and the Victoria Falls](https://www.gutenberg.org/ebooks/77803/) - Frank Oates and C. G. Oates
-* [The man who married the moon, and other Pueblo Indian folk-stories](https://www.gutenberg.org/ebooks/77804/) - Charles Fletcher Lummis
-
-January 29
-
-* [The coast guardsman](https://www.gutenberg.org/ebooks/77810/) - W. E. Carlton
-* [The mainsprings of Russia](https://www.gutenberg.org/ebooks/77805/) - Maurice Baring
-* [Master tales of mystery, Volume 1 (of 3)](https://www.gutenberg.org/ebooks/77811/) - Various and Francis J. Reynolds
-* [All God's chillun got wings, and Welded](https://www.gutenberg.org/ebooks/77808/) - Eugene O'Neill
-* [The Oriental tale in England in the eighteenth century](https://www.gutenberg.org/ebooks/77806/) - Martha Pike Conant
-* [Verses](https://www.gutenberg.org/ebooks/77809/) - Christina Georgina Rossetti
-* [Gods of the lightning; Outside looking in](https://www.gutenberg.org/ebooks/77807/) - Maxwell Anderson et al.
-* [Hunting dinosaurs in the bad lands of the Red Deer River, Alberta, Canada](https://www.gutenberg.org/ebooks/77814/) - Charles H. Sternberg
-* [Enon rahat](https://www.gutenberg.org/ebooks/77813/) - Théodore Barrière
-* [Master tales of mystery, Volume 2 (of 3)](https://www.gutenberg.org/ebooks/77812/) - Various and Francis J. Reynolds
-
-January 30
-
-* [The book of Enoch the Prophet](https://www.gutenberg.org/ebooks/77815/) - 
-* [Bully McGrane](https://www.gutenberg.org/ebooks/77816/) - Ernest Haycox
-* [Escape and fantasy](https://www.gutenberg.org/ebooks/77817/) - G. Rostrevor Hamilton
-* [Select letters of Christopher Columbus](https://www.gutenberg.org/ebooks/77820/) - Christopher Columbus
-* [Theory and practice of the confessional](https://www.gutenberg.org/ebooks/77819/) - Caspar E. Schieler and Herman J. Heuser
-* [L'absence](https://www.gutenberg.org/ebooks/77818/) - Henri Ardel
-
-January 31
-
-* [Kettusen komppanian Lapinmatka](https://www.gutenberg.org/ebooks/77824/) - Arvi Järventaus
-* [Advis pour dresser une bibliothèque](https://www.gutenberg.org/ebooks/77822/) - Gabriel Naudé
-* [The man who found Christmas](https://www.gutenberg.org/ebooks/77821/) - Walter Prichard Eaton
-* [The red brain](https://www.gutenberg.org/ebooks/77823/) - Donald Wandrei
+## Happy 100th Anniversary! of “The Blue Castle”, a novel by L. M. Montgomery
+
+Almost all editions of The Blue Castle lack dust jackets, and the true first edition does not have any illustration at all on the front boards. It was added after Montgomery had commented, “Not so pretty. A plain cover.” We have added the beautiful castle illustration to the cover of the ebook in tribute to her.
+
+<https://www.gutenberg.org/ebooks/67979>
+
+## Finances
+
+January was an very good month for user donations to Project Gutenberg. Thank you to everyone who contributed. Those donations brought our fiscal year (July-June) deficit down to about $10,000, with a clear path to break-even by June.
+
+## New Releases for February 2026 
+
+February 1
+
+* [Belchamber](https://www.gutenberg.org/ebooks/77826/) - Howard Overing Sturgis
+* [Portuguese bibliography](https://www.gutenberg.org/ebooks/77831/) - Aubrey F. G. Bell
+* [Natural history, lore and legend](https://www.gutenberg.org/ebooks/77830/) - F. Edward Hulme
+* [There's not a bathing suit in Russia & other bare facts](https://www.gutenberg.org/ebooks/77828/) - Will Rogers
+* [Apró bűnök](https://www.gutenberg.org/ebooks/77825/) - Cécile Tormay
+* [Plain Jane and pretty Betty](https://www.gutenberg.org/ebooks/77832/) - May Hollis Barton
+* [Poems from Punch, 1909-1920](https://www.gutenberg.org/ebooks/77833/) - 
+* [Screen acting](https://www.gutenberg.org/ebooks/77829/) - Mae Marsh
+* [The story of the universe. Volume 3 (of 4)](https://www.gutenberg.org/ebooks/77827/) - Esther Singleton
+
+February 2
+
+* [White buildings](https://www.gutenberg.org/ebooks/77837/) - Hart Crane
+* [Microbe hunters](https://www.gutenberg.org/ebooks/77842/) - Paul De Kruif
+* [The mystery road](https://www.gutenberg.org/ebooks/77836/) - E. Phillips Oppenheim
+* [Primitive art](https://www.gutenberg.org/ebooks/77834/) - Franz Boas
+* [The Countess Fanny](https://www.gutenberg.org/ebooks/77839/) - Marjorie Bowen
+* [A cowboy detective](https://www.gutenberg.org/ebooks/77835/) - Charles A. Siringo
+* [An essay on hasheesh](https://www.gutenberg.org/ebooks/77838/) - Victor Robinson
+* [Collected poems of Clarence Edwin Flynn, second series](https://www.gutenberg.org/ebooks/77843/) - Clarence Edwin Flynn
+* [Vers le cœur de l'Amérique](https://www.gutenberg.org/ebooks/77841/) - Charles Wagner
+* [The seals and whales of the British seas](https://www.gutenberg.org/ebooks/77840/) - Thomas Southwell
+
+February 3
+
+* [Über die spezielle und die allgemeine Relativitätstheorie](https://www.gutenberg.org/ebooks/77850/) - Albert Einstein and Karl Scheel
+* [Chronicles of a pioneer school from 1792 to 1833](https://www.gutenberg.org/ebooks/77854/) - Elizabeth C. Barney Buel
+* [Country rambles in England](https://www.gutenberg.org/ebooks/77852/) - J. L. Knapp
+* [Haut-Sénégal-Niger (Soudan français), Tome 1 (de 3): le pays, les peuples, les langues](https://www.gutenberg.org/ebooks/77844/) - Maurice Delafosse
+* [Moussorgsky](https://www.gutenberg.org/ebooks/77855/) - M. Montagu-Nathan
+* [Nourmahal, an Oriental romance. Vol. 1 of 3](https://www.gutenberg.org/ebooks/77851/) - Michael J. Quin
+* [Onnellinen mies](https://www.gutenberg.org/ebooks/77849/) - Poul Levin
+* [Michelangelo élete](https://www.gutenberg.org/ebooks/77857/) - Romain Rolland
+* [Tim](https://www.gutenberg.org/ebooks/77847/) - Howard Overing Sturgis
+* [Haut-Sénégal-Niger (Soudan français), Tome 2 (de 3): l'histoire](https://www.gutenberg.org/ebooks/77845/) - Maurice Delafosse
+* [The war of Antichrist with the Church and Christian civilization](https://www.gutenberg.org/ebooks/77856/) - George F. Dillon
+* [Haut-Sénégal-Niger (Soudan français), Tome 3 (de 3): les civilisations](https://www.gutenberg.org/ebooks/77846/) - Maurice Delafosse
+* [Defending his flag](https://www.gutenberg.org/ebooks/77848/) - Edward Stratemeyer
+
+February 4
+
+* [The starry skies](https://www.gutenberg.org/ebooks/77859/) - Agnes Giberne
+* [The Yangtze Valley and beyond](https://www.gutenberg.org/ebooks/77853/) - Isabella L. Bird
+* [The curse of the painted cliffs](https://www.gutenberg.org/ebooks/77862/) - W. C. Tuttle
+* [Old Rough the miser](https://www.gutenberg.org/ebooks/77858/) - Lily F. Wesselhoeft
+* [Technique of modern tactics](https://www.gutenberg.org/ebooks/77863/) - P. S. Bond and Michael Joseph McDonough
+* [The story of a Hessian](https://www.gutenberg.org/ebooks/77860/) - Lucy Ellen Guernsey
+* [Maud Marian, artist](https://www.gutenberg.org/ebooks/77861/) - Eglanton Thorne
+
+February 5
+
+* [The psychology of Jung](https://www.gutenberg.org/ebooks/77864/) - James Oppenheim and E. Haldeman-Julius
+* [Through the sun in an airship](https://www.gutenberg.org/ebooks/77867/) - John Mastin
+* [Tour en fer de 300 mètres de hauteur](https://www.gutenberg.org/ebooks/77865/) - Gustave Eiffel et al.
+* [Loup-Garou](https://www.gutenberg.org/ebooks/77868/) - Wallace West
+* [Eau de morgue](https://www.gutenberg.org/ebooks/77869/) - Arthur T. Harris
+* [Memorials of old Nottinghamshire](https://www.gutenberg.org/ebooks/77866/) - Everard L. Guilford and P. H. Ditchfield
+* [Talkies](https://www.gutenberg.org/ebooks/77870/) - Eddie Cantor
+
+February 6
+
+* [Journey to a woman](https://www.gutenberg.org/ebooks/77871/) - Ann Bannon
+* [Mexico in den ereignißvollen Jahren 1832 und 1833](https://www.gutenberg.org/ebooks/77872/) - Carl Christian Becher
+* [The marriage of Susan](https://www.gutenberg.org/ebooks/77875/) - Helen Reimensnyder Martin
+* [Arany mesekönyv](https://www.gutenberg.org/ebooks/77874/) - Elek Benedek
+* [The mystery at Lilac Inn](https://www.gutenberg.org/ebooks/77873/) - Carolyn Keene
+
+February 7
+
+* [The Druid Path](https://www.gutenberg.org/ebooks/77880/) - Marah Ellis Ryan
+* [Life of George Washington, volume 4 of 5](https://www.gutenberg.org/ebooks/77882/) - Washington Irving
+* [History of the Woman's Temperance Crusade](https://www.gutenberg.org/ebooks/77878/) - Annie Wittenmyer
+* [Petit manuel de la femme supérieure](https://www.gutenberg.org/ebooks/77876/) - Gerard de Beauregard
+* [Old Mexico and her lost provinces](https://www.gutenberg.org/ebooks/77881/) - William Henry Bishop
+* [The barge of haunted lives](https://www.gutenberg.org/ebooks/77879/) - J. Aubrey Tyson
+* [Is sex necessary?](https://www.gutenberg.org/ebooks/77883/) - James Thurber and E. B. White
+* [Hota-Leenan poika](https://www.gutenberg.org/ebooks/77877/) - Pentti Haanpää
+
+February 8
+
+* [Prophezeiungen](https://www.gutenberg.org/ebooks/77888/) - Max Kemmerich
+* [An historical account of all the voyages round the world, performed by English navigators, vol. 1 of 4](https://www.gutenberg.org/ebooks/77886/) - David Henry
+* [The autobiography of a seaman (volume 2 of 2)](https://www.gutenberg.org/ebooks/77890/) - Earl of Thomas Cochrane Dundonald
+* [Het beloofde land](https://www.gutenberg.org/ebooks/77885/) - Ina Boudier-Bakker
+* [Im Kampf um die Ideale, die Geschichte eines Suchenden](https://www.gutenberg.org/ebooks/77887/) - Georg Heinrich Bonne
+* [Gesammelte Schriften von Marie von Ebner-Eschenbach (1/10)](https://www.gutenberg.org/ebooks/77889/) - Marie von Ebner-Eschenbach
+* [Handbuch der Germanischen Mythologie](https://www.gutenberg.org/ebooks/77891/) - Wolfgang Golther
+* [The Pacific Coast scenic tour](https://www.gutenberg.org/ebooks/77884/) - Henry T. Finck
+
+February 9
+
+* [The conquest of happiness](https://www.gutenberg.org/ebooks/77894/) - Bertrand Russell
+* [Lo Rector de Vallfogona](https://www.gutenberg.org/ebooks/77898/) - Frederic Soler i Hubert
+* [Vile bodies](https://www.gutenberg.org/ebooks/77900/) - Evelyn Waugh
+* [Opinions sur le roman](https://www.gutenberg.org/ebooks/77899/) - René Boylesve
+* [Hot Music](https://www.gutenberg.org/ebooks/77893/) - Vic Whitman
+* [Masquerades](https://www.gutenberg.org/ebooks/77896/) - Shane Leslie
+* [Red oleanders](https://www.gutenberg.org/ebooks/77892/) - Rabindranath Tagore
+* [The hermit of Turkey Hollow](https://www.gutenberg.org/ebooks/77895/) - Arthur Cheney Train
+* [Bettina's best desserts](https://www.gutenberg.org/ebooks/77897/) - Louise Bennett Weaver and Helen Cowles LeCron
+* [Puck in pasture](https://www.gutenberg.org/ebooks/77901/) - E. MacKinstry
+
+February 10
+
+* [Deutsche Märchen gesammelt durch die Brüder Grimm](https://www.gutenberg.org/ebooks/77905/) - Jacob Grimm et al.
+* [In the day's work](https://www.gutenberg.org/ebooks/77910/) - Daniel Berkeley Updike
+* [L'hôte inconnu](https://www.gutenberg.org/ebooks/77908/) - Maurice Maeterlinck
+* [Meidän Jeremias](https://www.gutenberg.org/ebooks/77909/) - Alpo Noponen
+* [Manhood](https://www.gutenberg.org/ebooks/77903/) - Clement Wood and E. Haldeman-Julius
+* ["Moo-oo-oo-oo!"](https://www.gutenberg.org/ebooks/77902/) - Laurence Donovan
+* [Pagine di storia letteraria](https://www.gutenberg.org/ebooks/77906/) - Giosuè Carducci and Giuseppe Lipparini
+* [Les voyageurs français dans l'Orient européen](https://www.gutenberg.org/ebooks/77907/) - Nicolae Iorga
+* [Théâtre](https://www.gutenberg.org/ebooks/77904/) - Honoré de Balzac
+
+February 11
+
+* [Campaign diary of a French officer](https://www.gutenberg.org/ebooks/77912/) - Lieutenant René Nicolas
+* [The story of the universe. Volume 4 (of 4)](https://www.gutenberg.org/ebooks/77914/) - Esther Singleton
+* [Hermann ja Dorothea](https://www.gutenberg.org/ebooks/77913/) - Johann Wolfgang von Goethe
+* [Wolf Pass](https://www.gutenberg.org/ebooks/77911/) - William Byron Mowery
+* [Adelbert and Bastel](https://www.gutenberg.org/ebooks/77915/) - Franz Hoffmann
+* [Dora's mistake](https://www.gutenberg.org/ebooks/77916/) - A. L. O. E.
+
+February 12
+
+* [Life in Asiatic Turkey](https://www.gutenberg.org/ebooks/77918/) - E. J. Davis
+* [Sinbad](https://www.gutenberg.org/ebooks/77919/) - C. Kay-Scott
+* [The romance of Captain Duffy](https://www.gutenberg.org/ebooks/77920/) - H. De Vere Stacpoole
+* [The secrets of stage conjuring](https://www.gutenberg.org/ebooks/77917/) - Jean-Eugène Robert-Houdin
+
+February 13
+
+* [Hypnotism made plain](https://www.gutenberg.org/ebooks/77928/) - Maynard Shipley and E. Haldeman-Julius
+* [Very good, Jeeves](https://www.gutenberg.org/ebooks/77923/) - P. G. Wodehouse
+* [Knickerbocker's history of New York, vol. 1 (of 2)](https://www.gutenberg.org/ebooks/77921/) - Washington Irving
+* [Miss Lulu Bett](https://www.gutenberg.org/ebooks/77922/) - Zona Gale
+* [The sleeping beauty](https://www.gutenberg.org/ebooks/77929/) - Theodora Du Bois
+* [Mop Fair](https://www.gutenberg.org/ebooks/77930/) - Arthur M. Binstead
+* [Booklet making](https://www.gutenberg.org/ebooks/77925/) - Henry Turner Bailey
+* [Salmagundi](https://www.gutenberg.org/ebooks/77926/) - William Irving et al.
+* [The secret of the old clock](https://www.gutenberg.org/ebooks/77924/) - Carolyn Keene
+* [Tuuli käy heidän ylitseen](https://www.gutenberg.org/ebooks/77927/) - Pentti Haanpää
+
+February 14
+
+* [Aux jardins enchantés de Cornouaille](https://www.gutenberg.org/ebooks/77936/) - François Ménez
+* [Aventures de Jérôme Bardini](https://www.gutenberg.org/ebooks/77932/) - Jean Giraudoux
+* [The moors and the fens, volume 1 (of 3)](https://www.gutenberg.org/ebooks/77931/) - Mrs. J. H. Riddell
+* [Kolmen Töräpään tarina](https://www.gutenberg.org/ebooks/77934/) - Pentti Haanpää
+* [The book of Enoch](https://www.gutenberg.org/ebooks/77935/) - 
+* [Dikter](https://www.gutenberg.org/ebooks/77933/) - Edith Södergran
+
+February 15
+
+* [All were monsters](https://www.gutenberg.org/ebooks/77940/) - Manly Wade Wellman
+* [The laugh](https://www.gutenberg.org/ebooks/77941/) - Robert Abernathy
+* [The haunts of men](https://www.gutenberg.org/ebooks/77948/) - Robert W. Chambers
+* [Hans de Klokkeluider](https://www.gutenberg.org/ebooks/77942/) - Johan Fabricius
+* [The stone wall](https://www.gutenberg.org/ebooks/77938/) - Mary Casal
+* [Septemberlyran](https://www.gutenberg.org/ebooks/77949/) - Edith Södergran
+* [Flight from New Mu](https://www.gutenberg.org/ebooks/77947/) - Joe Archibald
+* [The friar of Wittenberg](https://www.gutenberg.org/ebooks/77944/) - William Stearns Davis
+* [Snow-flakes](https://www.gutenberg.org/ebooks/77946/) - Israel P. Warren
+* [Two-way trail](https://www.gutenberg.org/ebooks/77939/) - Clay Perry
+* [Pennsylvania wild cats](https://www.gutenberg.org/ebooks/77943/) - Henry W. Shoemaker
+* [Children of the old masters (Italian school)](https://www.gutenberg.org/ebooks/77937/) - Alice Meynell
+* [Juudas](https://www.gutenberg.org/ebooks/77945/) - Lauri Haarla
+
+February 16
+
+* [What they said about the Fourth Armored Division](https://www.gutenberg.org/ebooks/77963/) - 4th United States. Army. Armored Division
+* [Journal de la société de 1789 - Nº I](https://www.gutenberg.org/ebooks/77952/) - marquis de Jean-Antoine-Nicolas de Caritat Condorcet and Philippe-Antoine Grouvelle
+* [The red heart of Russia](https://www.gutenberg.org/ebooks/77955/) - Bessie Beatty
+* [Kaksi lupausta](https://www.gutenberg.org/ebooks/77960/) - Kaarle Halme
+* [The last Punic war, Vol. 1 (of 2)](https://www.gutenberg.org/ebooks/77953/) - Alexander Meyrick Broadley
+* [The dragon](https://www.gutenberg.org/ebooks/77957/) - M. P. Shiel
+* [Turkey and the Armenian atrocities](https://www.gutenberg.org/ebooks/77958/) - Edwin Munsell Bliss
+* [Rosenaltaret](https://www.gutenberg.org/ebooks/77965/) - Edith Södergran
+* [A pixy in petticoats](https://www.gutenberg.org/ebooks/77956/) - John Trevena
+* [Lord Lister No. 0336: Een avontuur in Alaska](https://www.gutenberg.org/ebooks/77964/) - Kurt Matull et al.
+* [The true story of Humpty Dumpty](https://www.gutenberg.org/ebooks/77961/) - Anna Alice Chapin
+* [The land of forgotten men](https://www.gutenberg.org/ebooks/77968/) - Edison Marshall
+* [The memoirs of Philip de Commines, Lord of Argenton, Volume 1 (of 2)](https://www.gutenberg.org/ebooks/77950/) - Philippe de Commynes and Sir Andrew R. Scoble
+* [Els fills](https://www.gutenberg.org/ebooks/77962/) - J. Puig I.
+* [Spooky Hollow](https://www.gutenberg.org/ebooks/77966/) - Carolyn Wells
+* [The memoirs of Philip de Commines, Lord of Argenton, Volume 2 (of 2)](https://www.gutenberg.org/ebooks/77951/) - Philippe de Commynes and Sir Andrew R. Scoble
+* [The gold of Ophir](https://www.gutenberg.org/ebooks/77959/) - D. Howard Gwinn
+* [Le trois-mâts fantôme](https://www.gutenberg.org/ebooks/77967/) - Frédéric Causse
+* [The last Punic war, Vol. 2 (of 2)](https://www.gutenberg.org/ebooks/77954/) - Alexander Meyrick Broadley
+
+February 17
+
+* [How to save money](https://www.gutenberg.org/ebooks/77970/) - J. George Frederick and E. Haldeman-Julius
+* [Les dieux de la tribu](https://www.gutenberg.org/ebooks/77973/) - Émile Zavie
+* [Gesänge zu der Oper Der Bergsturz bey Goldau](https://www.gutenberg.org/ebooks/77971/) - 
+* [Kaiuolani](https://www.gutenberg.org/ebooks/77969/) - I. William Adams
+* [Brokiga iakttagelser](https://www.gutenberg.org/ebooks/77972/) - Edith Södergran
+
+February 18
+
+* [A journal of travels into the Arkansa Territory](https://www.gutenberg.org/ebooks/77978/) - Thomas Nuttall and Reuben Gold Thwaites
+* [Modern educators and their ideals](https://www.gutenberg.org/ebooks/77974/) - Tadasu Misawa
+* [Handbook of fictitious names](https://www.gutenberg.org/ebooks/77977/) - Olphar Hamst
+* [Schattenbilder](https://www.gutenberg.org/ebooks/77975/) - Herbert Eulenberg
+* [The valley of ghosts](https://www.gutenberg.org/ebooks/77976/) - Edgar Wallace
+
+February 19
+
+* [The secret woman](https://www.gutenberg.org/ebooks/77979/) - Eden Phillpotts
+* [The war trail of Big Bear](https://www.gutenberg.org/ebooks/77982/) - William Bleasdell Cameron
+
+February 20
+
+* [What's life worth?](https://www.gutenberg.org/ebooks/77981/) - Clay Perry
+* [Bossuet](https://www.gutenberg.org/ebooks/77983/) - Emile Baumann
+* [Violet Osborne, Volume 3 (of 3)](https://www.gutenberg.org/ebooks/77992/) - Lady Emily Ponsonby
+* [Violet Osborne, Volume 2 (of 3)](https://www.gutenberg.org/ebooks/77991/) - Lady Emily Ponsonby
+* [Der laufende Berg](https://www.gutenberg.org/ebooks/77988/) - Ludwig Ganghofer
+* [The tarpon](https://www.gutenberg.org/ebooks/77986/) - F. Gray Griswold
+* [The Gostak and the Doshes](https://www.gutenberg.org/ebooks/77989/) - Miles J. Breuer
+* [Landet som icke är](https://www.gutenberg.org/ebooks/77987/) - Edith Södergran
+* [La Tour Eiffel](https://www.gutenberg.org/ebooks/77985/) - Ernest Lefèvre and Gustave Eiffel
+* [Harry's newspaper](https://www.gutenberg.org/ebooks/77984/) - Stephen Angus Douglas Cox
+* [Framtidens skugga](https://www.gutenberg.org/ebooks/77980/) - Edith Södergran
+* [Violet Osborne, Volume 1 (of 3)](https://www.gutenberg.org/ebooks/77990/) - Lady Emily Ponsonby
+
+February 21
+
+* [Homes made and marred](https://www.gutenberg.org/ebooks/77998/) - Lucy Ellen Guernsey
+* [Mon curé chez les pauvres](https://www.gutenberg.org/ebooks/77994/) - Clément Vautel
+* [The ladies' hand-book of millinery and dressmaking](https://www.gutenberg.org/ebooks/78002/) - Anonymous
+* [Dans l'Inde (de Ceylan au Népal)](https://www.gutenberg.org/ebooks/77993/) - Désirée Sylvain-Lévi
+* [My brother's friend](https://www.gutenberg.org/ebooks/77999/) - Eglanton Thorne
+* [Plutarch's essays and miscellanies (Vol. 5 of 5)](https://www.gutenberg.org/ebooks/78000/) - Plutarch and William Watson Goodwin
+* [Heittääpi suolavettä - ynnä muutakin](https://www.gutenberg.org/ebooks/77996/) - Sulo-Weikko Pekkola
+* [Der Dechant von Gottesbüren](https://www.gutenberg.org/ebooks/78001/) - Jakob Schaffner
+* [Uncle Tweazy and his quizzical neighbours, vol. 1 of 3](https://www.gutenberg.org/ebooks/77997/) - &c. &c. Mystic cottager Montrose Author of the Observant pedestrian
+
+February 22
+
+* [The Green Dolphin](https://www.gutenberg.org/ebooks/78005/) - Sara Ware Bassett
+* [The unknown seven](https://www.gutenberg.org/ebooks/78010/) - Herman Landon
+* ["Hauska tutustua!"](https://www.gutenberg.org/ebooks/78008/) - Tatu Pekkarinen
+* [An historical account of all the voyages round the world, performed by English navigators, vol. 2 of 4](https://www.gutenberg.org/ebooks/78004/) - David Henry
+* [Justice is a woman](https://www.gutenberg.org/ebooks/78006/) - Helen Haberman
+* [A guide to the history of physical education](https://www.gutenberg.org/ebooks/78009/) - Fred Eugene Leonard and R. Tait McKenzie
+* [Kertomuksia III](https://www.gutenberg.org/ebooks/77995/) - Josefina Wettergrund
+* [Vanhaa viinaa uudessa leilissä](https://www.gutenberg.org/ebooks/78007/) - Tatu Valkonen
+* [The captive singer](https://www.gutenberg.org/ebooks/78003/) - Marie Bjelke Petersen
+
+February 23
+
+* [Khartoum, and the Blue and White Niles, Vol. 1 (of 2)](https://www.gutenberg.org/ebooks/78014/) - George Melly
+* [Herman Melville](https://www.gutenberg.org/ebooks/78016/) - Lewis Mumford
+* [Præraphaelite diaries and letters](https://www.gutenberg.org/ebooks/78022/) - William Michael Rossetti et al.
+* [Khartoum, and the Blue and White Niles, Vol. 2 (of 2)](https://www.gutenberg.org/ebooks/78015/) - George Melly
+* [The Swiss family Robinson](https://www.gutenberg.org/ebooks/78017/) - Johann David Wyss
+* [The cruise of the Nona](https://www.gutenberg.org/ebooks/78020/) - Hilaire Belloc
+* [L'imposture](https://www.gutenberg.org/ebooks/78021/) - Georges Bernanos
+* [Three sevens](https://www.gutenberg.org/ebooks/78011/) - Perley Poore Sheehan
+* [The woman of Andros](https://www.gutenberg.org/ebooks/78024/) - Thornton Wilder
+* [Success](https://www.gutenberg.org/ebooks/78012/) - Una L. Silberrad
+* [Ash-Wednesday](https://www.gutenberg.org/ebooks/78023/) - T. S. Eliot
+* [Arrian on coursing](https://www.gutenberg.org/ebooks/78013/) - Arrian
+* [Karavaani ja muita juttuja](https://www.gutenberg.org/ebooks/78018/) - Pentti Haanpää
+* [An historical account of all the voyages round the world, performed by English navigators, vol. 3 of 4](https://www.gutenberg.org/ebooks/78019/) - David Henry
+
+February 24
+
+* [Skizzen einer Fußreise durch Oesterreich, Steiermark, Kärnthen, Salzburg, Berchtesgaden, Tirol und Baiern nach Wien,](https://www.gutenberg.org/ebooks/78026/) - Josef Kyselak
+* [The silent Baltic](https://www.gutenberg.org/ebooks/78033/) - Marcus Knox
+* [Main currents in American thought](https://www.gutenberg.org/ebooks/78025/) - Vernon Louis Parrington
+* [The dangerous game](https://www.gutenberg.org/ebooks/78029/) - William Le Queux
+* [The loot of the Lazy A](https://www.gutenberg.org/ebooks/78028/) - W. C. Tuttle
+* [Kloster Himmelpforte](https://www.gutenberg.org/ebooks/78030/) - Robert Falke
+* [Les enchantements de la forêt](https://www.gutenberg.org/ebooks/78027/) - André Theuriet
+* [How they loved him, Vol. 1 (of 3)](https://www.gutenberg.org/ebooks/78031/) - Florence Marryat
+* [Twelve years in the army](https://www.gutenberg.org/ebooks/78032/) - John G. Gollan
+
+February 25
+
+* [The Old Lady flies](https://www.gutenberg.org/ebooks/78035/) - Raoul Whitfield
+* [In a lifeboat](https://www.gutenberg.org/ebooks/78034/) - Jeffery Farnol
+* [Ihmisvihaaja](https://www.gutenberg.org/ebooks/78042/) - Molière
+* [En pays lointain](https://www.gutenberg.org/ebooks/78041/) - Jack London
+* [Boston](https://www.gutenberg.org/ebooks/78039/) - Upton Sinclair
+* [Quand le rideau s'est baissé](https://www.gutenberg.org/ebooks/78036/) - Pierre Mille
+* [Sodoma](https://www.gutenberg.org/ebooks/78038/) - contessa Lilian Priuli-Bon
+* [Kate Mulhall](https://www.gutenberg.org/ebooks/78040/) - Ezra Meeker
+* [Les trente-six vues de la Tour Eiffel](https://www.gutenberg.org/ebooks/78037/) - 
+
+February 26
+
+* [The dogaressas of Venice (the wives of the doges)](https://www.gutenberg.org/ebooks/78047/) - Edgcumbe Staley
+* [Bushy](https://www.gutenberg.org/ebooks/78043/) - Cynthia May Westover Alden
+* [Principia mathematica, vol. 1 (of 3)](https://www.gutenberg.org/ebooks/78050/) - Alfred North Whitehead and Bertrand Russell
+* [The happiness of Hazelbrook](https://www.gutenberg.org/ebooks/78045/) - Charlotte Grace O'Brien
+* [Sandhills sketches](https://www.gutenberg.org/ebooks/78048/) - Williams Haynes
+* [Sointula](https://www.gutenberg.org/ebooks/78049/) - Arvid Järnefelt
+* [Claribel](https://www.gutenberg.org/ebooks/78044/) - Lucy Ellen Guernsey
+* [Borrowed feathers](https://www.gutenberg.org/ebooks/78051/) - Ruth Lamb
+* [Joan and Co.](https://www.gutenberg.org/ebooks/78046/) - Frederick Orin Bartlett
+
+February 27
+
+* [Household words, No. 26, September 21, 1850](https://www.gutenberg.org/ebooks/78061/) - Charles Dickens
+* [Mallonga biografio de Henry Fawcett la blinda ĉefpoŝtestro de Anglujo](https://www.gutenberg.org/ebooks/78054/) - Winifred Holt
+* [The vidiot](https://www.gutenberg.org/ebooks/78057/) - Ib Jørgen Melchior
+* [The white rain came](https://www.gutenberg.org/ebooks/78055/) - Jr. Merwin Sam
+* [The flower and the leaf](https://www.gutenberg.org/ebooks/78062/) - Anonymous
+* [Lintukoto](https://www.gutenberg.org/ebooks/78058/) - Joel Lehtonen
+* [The anatomy of revolution](https://www.gutenberg.org/ebooks/78065/) - Crane Brinton
+* [Lucifer](https://www.gutenberg.org/ebooks/78064/) - Maurice Magre
+* [Field Artillery Training. 1914](https://www.gutenberg.org/ebooks/78053/) - GB War Office
+* [A young man's story](https://www.gutenberg.org/ebooks/78060/) - Sarah Doudney
+* [L'homme tout nu](https://www.gutenberg.org/ebooks/78059/) - Catulle Mendès
+* [Andanzas y visiones españolas](https://www.gutenberg.org/ebooks/78052/) - Miguel de Unamuno
+* [Le jeune Européen](https://www.gutenberg.org/ebooks/78063/) - Pierre Drieu La Rochelle
+* [Urwald](https://www.gutenberg.org/ebooks/78056/) - Raoul Heinrich Francé
+
+February 28
+
+* [Kaksi morsianta](https://www.gutenberg.org/ebooks/78071/) - Kaarlo Hemmo
+* [Los miserables - Tomo II](https://www.gutenberg.org/ebooks/78068/) - Victor Hugo
+* [Joe Strong and his wings of steel](https://www.gutenberg.org/ebooks/78067/) - Vance Barnum
+* [Preview](https://www.gutenberg.org/ebooks/78072/) - Frank Belknap Long
+* [Deux générations](https://www.gutenberg.org/ebooks/78069/) - graf Leo Tolstoy
+* [The winner and new...](https://www.gutenberg.org/ebooks/78073/) - Ib Jørgen Melchior
+* [How to write Little Blue Books](https://www.gutenberg.org/ebooks/78066/) - Lloyd E. Smith and E. Haldeman-Julius
+* [Velisurmaaja](https://www.gutenberg.org/ebooks/78070/) - Lauri Haarla
+
+## Top 10 eBooks downloaded for February 2026
+
+* Frankenstein; or, the modern prometheus by Mary Wollstonecraft Shelley <https://www.gutenberg.org/ebooks/84>
+* Moby Dick; Or, The Whale by Herman Melville <https://www.gutenberg.org/ebooks/2701>
+* Wuthering Heights by Emily Brontë <https://www.gutenberg.org/ebooks/768>
+* Pride and Prejudice by Jane Austen <https://www.gutenberg.org/ebooks/1342>
+* Romeo and Juliet by William Shakespeare <https://www.gutenberg.org/ebooks/1513>
+* The City of God, Volume I by Saint Augustine <https://www.gutenberg.org/ebooks/45304>
+* The Complete Works of William Shakespeare <https://www.gutenberg.org/ebooks/100>
+* A Room with a View by E. M. Forster <https://www.gutenberg.org/ebooks/2641>
+* Alice’s Adventures in Wonderland by Lewis Carroll <https://www.gutenberg.org/ebooks/11>
+* The strange case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson <https://www.gutenberg.org/ebooks/43>
 
 ## Links
 
 * Support Project Gutenberg: <https://www.gutenberg.org/donate/>
-* Distributed Proofreaders: <https://pgdp.net>
+* Volunteer with Distributed Proofreaders: <https://pgdp.net>
 * Project Gutenberg Self Publishing Portal: <https://self.gutenberg.org>
 
-### Social Media Feeds
+## Social Media
 
 * Facebook: <https://facebook.com/project.gutenberg>  
-New eBooks: <https://facebook.com/gutenberg.new>
+   New eBooks: <https://facebook.com/gutenberg.new>
 * Mastodon: <https://mastodon.social/@gutenberg_org>  
-New eBooks: <https://mastodon.social/@gutenberg_new>
+   New eBooks: <https://mastodon.social/@gutenberg_new>
 * Bluesky: <https://bsky.app/profile/gutenberg.org>  
-New eBooks: <https://bsky.app/profile/new.gutenberg.org>
+   New eBooks: <https://bsky.app/profile/new.gutenberg.org>
 * Reddit: <https://reddit.com/r/projectgutenberg>
 
-If you use social media, please feel invited to respond with upvotes or comments or questions. Your shares and reposts help spread awareness of Project Gutenberg’s library.
+If you use social media, please feel invited to respond with upvotes or
+comments or questions. Your shares and reposts help spread awareness of Project Gutenberg’s library.
 
-### Newsletter Subscription tool
+## Newsletter Subscription
 
-* PG Mailing List (subscribe or unsubscribe here): <https://lists.pglaf.org/mailman3/lists/gmonthly.lists.pglaf.org/>
-
+* PG Mailing List (subscribe or unsubscribe here):
+   <https://lists.pglaf.org/mailman3/lists/gmonthly.lists.pglaf.org/>
