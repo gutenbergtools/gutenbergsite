@@ -11,6 +11,9 @@
 $cli = php_sapi_name () == "cli";
 if (!$cli) exit ();
 
+// only report errors and warnings
+error_reporting(E_ERROR | E_WARNING | E_PARSE);
+
 include_once ("pgcat.phh");
 
 $lang_thres = 50;
@@ -37,7 +40,7 @@ function _navbar ($what, $dir) {
 
 function _navbarrecent ($what, $dir) {
   global $spans;
-  $nav .= "  <p>$what:\n";
+  $nav = "  <p>$what:\n";
   foreach ($spans as $href => $caption) {
     $nav .= "    <a href=\"/$dir/last$href\">$caption</a>&nbsp;\n";
   }
@@ -113,17 +116,21 @@ function pagefooterfile ($file) {
   if ($hd) {
     fwrite ($hd, $output);
     fclose ($hd);
+  } else {
+    error_log("Unable to open file $file for writing.");
   }
 
   $hd = gzopen ("$file.gzip", "w9");
   if ($hd) {
     gzwrite ($hd, $output);
     gzclose ($hd);
+  } else {
+    error_log("Unable to open file $file.gzip for writing.");
   }
 }
 
 function LoadTitles () {
-  global $db, $authors;
+  global $db, $authors, $config;
 
   foreach ($authors as $fk_authors => $dummy) {
     $authors[$fk_authors]['titles'] = array ();
@@ -305,6 +312,8 @@ if ($db->FirstRow ()) {
 if ($hd = fopen ("$config->documentroot/$dir/navbar.html", "w")) {
   fputs ($hd, navbar ());
   fclose ($hd);
+} else {
+  error_log("Unable to open file $config->documentroot/$dir/navbar.html for writing.");
 }
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -625,6 +634,8 @@ EOF
   fputs ($hd, $rssbuffer);
   fputs ($hd, "  </channel>\n</rss>\n");
   fclose ($hd);
+} else {
+  error_log("Unable to open file $config->documentroot/$dir_feeds/today.rss for writing.");
 }
 
 ?>
