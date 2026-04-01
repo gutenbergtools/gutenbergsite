@@ -4,7 +4,7 @@ title: Newsletter | Project Gutenberg
 permalink: /newsletter/april.html
 ---
 
-# **Project Gutenberg News  -- April 2026**
+# **Project Gutenberg News — April 2026**
 
 ___-Enjoy these eBooks. Share them. Celebrate them.-___
 
@@ -94,7 +94,30 @@ The month’s eBooks are listed here (the list was getting too long for the news
 
 \<[https://gutenberg.org/newsletter/202603.html](https://gutenberg.org/newsletter/202603.html)\> 
 
-A selection of this month’s notable titles:
+A selection of this month’s notable and interesting titles:
+
+* [The mysterious Mr. Quin](https://www.gutenberg.org/ebooks/78084/) - Agatha Christie
+* [1066 and all that](https://www.gutenberg.org/ebooks/78124/) - Walter Carruthers Sellar and Robert Julian Yeatman
+* [Peter Pan](https://www.gutenberg.org/ebooks/78131/) - J. M. Barrie
+* [Handbook of nature-study for teachers and parents](https://www.gutenberg.org/ebooks/78142/) - Anna Botsford Comstock
+* [Art and the human spirit](https://www.gutenberg.org/ebooks/78154/) - Edward Howard Griggs
+* [Strong poison](https://www.gutenberg.org/ebooks/78157/) - Dorothy L. Sayers
+* [Murder at the vicarage](https://www.gutenberg.org/ebooks/78220/) - Agatha Christie
+* [Many inventions](https://www.gutenberg.org/ebooks/78240/) - Rudyard Kipling
+* [The age of the Earth](https://www.gutenberg.org/ebooks/78241/) - Arthur Holmes
+* [The Mudfog papers, etc.](https://www.gutenberg.org/ebooks/78245/) - Charles Dickens
+* [Wild volatile-oil plants and their economic importance](https://www.gutenberg.org/ebooks/78246/) - Frank Rabak
+* [Principia mathematica, vol. 2 (of 3)](https://www.gutenberg.org/ebooks/78255/) - Alfred North Whitehead and Bertrand Russell
+* [A brief outline of the history of libraries](https://www.gutenberg.org/ebooks/78256/) - Justus Lipsius
+* [A city milk and cream contest as a practical method of improving the milk supply](https://www.gutenberg.org/ebooks/78261/) - Clarence Bronson Lane and Ivan C. Weld
+* [Slang and its analogues past and present, volume 1 [of 7]](https://www.gutenberg.org/ebooks/78263/) - John Stephen Farmer and William Ernest Henley
+* [It's time something happened](https://www.gutenberg.org/ebooks/78266/) - Arthur Doyle
+* [Psychopathology and politics](https://www.gutenberg.org/ebooks/78273/) - Harold D. Lasswell
+* [Under the big top](https://www.gutenberg.org/ebooks/78288/) - Courtney Ryley Cooper
+* [Ukrainian folk songs](https://www.gutenberg.org/ebooks/78295/) - Humphrey Kowalsky
+* [Two hundred recipes for making salads, with thirty recipes for dressings and sauces](https://www.gutenberg.org/ebooks/78314/) - Olive M. Hulse
+* [Collected poems of Robert Frost](https://www.gutenberg.org/ebooks/78327/) - Robert Frost
+
 
 ## Links
 
