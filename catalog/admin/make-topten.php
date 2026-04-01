@@ -184,6 +184,9 @@ foreach ($langs as $l) {
     $s = <<< EOF
 <h1>Frequently Viewed or Downloaded</h1>
 
+<details>
+<summary style="cursor: pointer">Click here to see download statistics</summary>
+
 <p>Calculated from the number of times each eBook gets
 downloaded. (Multiple downloads from the same Internet
 address on the same day count as one download. Addresses
@@ -200,6 +203,7 @@ robots and are not counted.)</p>
 <p>Visualizations and graphs are available as
 <a href="/about/pretty-pictures.html">pretty pictures</a>.</p>
 
+</details>
 EOF;
 
     fputs ($hd, $s);
