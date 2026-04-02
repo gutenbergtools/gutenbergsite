@@ -8,7 +8,7 @@ permalink: /newsletter/april.html
 
 ___-Enjoy these eBooks. Share them. Celebrate them.-___
 
-**Contents**
+## Contents
 
 * Math at Project Gutenberg  
 * 300th Anniversary of “Shakespeare Restored”   
@@ -121,28 +121,28 @@ A selection of this month’s notable and interesting titles:
 
 ## Links
 
-\* Support Project Gutenberg: \<[https://gutenberg.org/donate/](https://gutenberg.org/donate/)\>  
-\* Distributed Proofreaders: \<[https://pgdp.net](https://pgdp.net)\>  
-\* Project Gutenberg Self Publishing Portal: \<[https://self.gutenberg.org](https://self.gutenberg.org)\>  
-\* Registered, operational mirrors: \<[https://gutenberg.org/MIRRORS.ALL](https://gutenberg.org/MIRRORS.ALL)\>
+* Support Project Gutenberg: \<[https://gutenberg.org/donate/](https://gutenberg.org/donate/)\>  
+* Distributed Proofreaders: \<[https://pgdp.net](https://pgdp.net)\>  
+* Project Gutenberg Self Publishing Portal: \<[https://self.gutenberg.org](https://self.gutenberg.org)\>  
+* Registered, operational mirrors: \<[https://gutenberg.org/MIRRORS.ALL](https://gutenberg.org/MIRRORS.ALL)\>
 
 ## Social Media
 
-\* Facebook: \<[https://facebook.com/project.gutenberg](https://facebook.com/project.gutenberg)\>    
-   New eBooks: \<[https://facebook.com/gutenberg.new](https://facebook.com/gutenberg.new)\>
+*  Facebook: \<[https://facebook.com/project.gutenberg](https://facebook.com/project.gutenberg)\>    
+*    New eBooks: \<[https://facebook.com/gutenberg.new](https://facebook.com/gutenberg.new)\>
 
-\* Mastodon: \<[https://mastodon.social/@gutenberg\_org](https://mastodon.social/@gutenberg_org)\>    
-   New eBooks: \<[https://mastodon.social/@gutenberg\_new](https://mastodon.social/@gutenberg_new)\>
+* Mastodon: \<[https://mastodon.social/@gutenberg\_org](https://mastodon.social/@gutenberg_org)\>    
+*    New eBooks: \<[https://mastodon.social/@gutenberg\_new](https://mastodon.social/@gutenberg_new)\>
 
-\* Bluesky: \<[https://bsky.app/profile/gutenberg.org](https://bsky.app/profile/gutenberg.org)\>    
-   New eBooks: \<[https://bsky.app/profile/new.gutenberg.org](https://bsky.app/profile/new.gutenberg.org)\>
+* Bluesky: \<[https://bsky.app/profile/gutenberg.org](https://bsky.app/profile/gutenberg.org)\>    
+*    New eBooks: \<[https://bsky.app/profile/new.gutenberg.org](https://bsky.app/profile/new.gutenberg.org)\>
 
-\* Reddit: \<[https://reddit.com/r/projectgutenberg](https://reddit.com/r/projectgutenberg)\>
+* Reddit: \<[https://reddit.com/r/projectgutenberg](https://reddit.com/r/projectgutenberg)\>
 
 If you use social media, please feel invited to respond with upvotes, comments or questions. Your shares and reposts help spread awareness of Project Gutenberg’s library.
 
 ## Newsletter Subscription
 
-\* PG Mailing List (subscribe or unsubscribe here):  
-   https://lists.pglaf.org/mailman3/lists/gmonthly.lists.pglaf.org/
+*  PG Mailing List (subscribe or unsubscribe here):
+   [https://lists.pglaf.org/mailman3/lists/gmonthly.lists.pglaf.org/](https://lists.pglaf.org/mailman3/lists/gmonthly.lists.pglaf.org/)
 
