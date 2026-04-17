@@ -887,6 +887,8 @@ test_index for latest covers from gutenberg1*/
 
 .readmore {
   cursor: pointer;
+  text-decoration: underline;
+  color: #003366;
 }
 
 /* Hide the 'Show Less' label by default */
@@ -3203,16 +3205,22 @@ h1 .icon {
   color: #003366;
 }
 
-/* When checkbox is checked, show the text and the 'Show Less' label */
-#toggle:checked ~ .toggle-content {
+/* When checkbox is checked, show the toggle text and the 'Show Less' label */
+/* new selectors */
+#toggle:checked ~ .toggle-content, #toggle:checked ~ label span.showless {
   display: inline;
 }
-
+/* old selector */
 #toggle:checked ~ .showless {
   display: inline;
 }
 
 /* When checkbox is checked, hide 'Read More' */
+/* new selectors */
+#toggle:checked ~ label span.readmore,  #toggle:checked ~ label span.readmoredots{
+  display: none;
+}
+/* old selector */
 #toggle:checked ~ .readmore {
   display: none;
 }
