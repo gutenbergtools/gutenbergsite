@@ -138,7 +138,7 @@ Use a Reading App:
 3. Open the file — tap your browser's "Open in" prompt or download list, or find the file in the Files app.
 4. Pick a reading app — directly from the prompt, or via the Share button.
 
-Free reading apps include Apple Books (often pre-installed), Kindle, Neat Reader, PocketBook, and Bluefire Reader.
+Free reading apps include Books (mac, iPhone, iPad), Kindle, Neat Reader, PocketBook, and Bluefire Reader.
 
 ## Android
 
