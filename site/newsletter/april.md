@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Newsletter | Project Gutenberg
-permalink: /newsletter/index.html
+permalink: /newsletter/april.html
 ---
 
 # **Project Gutenberg News — April 2026**
