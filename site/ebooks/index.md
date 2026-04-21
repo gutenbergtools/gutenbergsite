@@ -545,7 +545,7 @@ permalink: /ebooks/index.html
           </select>
         </div>
         <div class="form-group">
-          <input type="submit" id="submit" name="submit_search" value="Search">
+          <input type="submit" id="submit" aria-label="Search" name="submit_search" value="Search" >
         </div>
       </form>
       
