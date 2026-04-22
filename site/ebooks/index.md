@@ -569,14 +569,14 @@ permalink: /ebooks/index.html
         <input type="hidden" name="k9" value="#D51920">
         <input type="hidden" name="kt" value="h">
         <input type="text" name="q" maxlength="255" placeholder="Use DuckDuckGo">
-        <input type="submit" value="Duckduckgo Search" aria-label="Duckduckgo Search">
+        <input type="submit" value="Duckduckgo Search" title="Duckduckgo Search">
       </form>
       <form method="get" action="https://www.google.com/search">
         <img src="/pics/google_logo.png" class="google-logo-img" alt="Google logo">
         <input type="text" name="q" size="31" maxlength="255" value="" placeholder="Use Google">
         <input type="hidden" name="domains" value="gutenberg.org">
         <input type="hidden" name="sitesearch" value="gutenberg.org">
-        <input type="submit" name="btnG" value="Google Search" aria-label="Google Search">
+        <input type="submit" name="btnG" value="Google Search" title="Google Search">
       </form>
     </div>
   </div>
