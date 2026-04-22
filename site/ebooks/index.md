@@ -67,13 +67,13 @@ permalink: /ebooks/index.html
   <!-- Tab 1 - Advanced Search -->
   <div id="advanced-search" class="tabcontent">
     <!-- Modal Trigger and Modal -->
-    <input type="checkbox" id="info-toggle" class="info-checkbox">
-    <label for="info-toggle" class="info-icon-label" title="More Information">i</label>
+    <input type="checkbox" id="info-toggle" aria-label="toggle infobox" class="info-checkbox">
+    <label id="more-info-button" for="info-toggle" class="info-icon-label" title="More Information" aria-label="More Information">i</label>
 
     <div class="info-modal-overlay">
-      <label for="info-toggle" class="overlay-clickable"></label>
+      
       <div class="info-modal">
-        <label for="info-toggle" class="info-modal-close" title="Close">&times;</label>
+        <label for="info-toggle" class="info-modal-close" title="Close" aria-label="Close Information">&times;</label>
         <div class="modal-content">
           <h2>Information</h2>
           <p> - Advanced Search is case insensitive. </p>
@@ -545,7 +545,7 @@ permalink: /ebooks/index.html
           </select>
         </div>
         <div class="form-group">
-          <input type="submit" id="submit" name="submit_search" value="Search">
+          <input type="submit" id="submit" aria-label="Search" name="submit_search" value="Search" >
         </div>
       </form>
       
