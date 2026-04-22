@@ -15,12 +15,15 @@ permalink: /help/reading_options.html
 }
 details { margin-top: 1.2em; }
 ol + details { margin-top: 2em; }
-details summary { cursor: pointer; font-size: 1.3em; }
+details summary { cursor: pointer; font-size: inherit; }
 p + details.inline { margin-top: 0; }
 details.inline summary { list-style: none; font-size: inherit; }
 details.inline summary::-webkit-details-marker { display: none; }
 details.inline summary .toggle { text-decoration: underline; color: inherit; }
 details.inline[open] > ol, details.inline[open] > ul, details.inline[open] > p { margin-top: 0.8em; }
+.alternatives { margin-top: 1.5em; }
+.alternatives > details { margin-top: 0.2em; }
+.alternatives > details[open] { margin-bottom: 0.8em; }
 </style>
 
 Reading Options & Kindle
@@ -31,7 +34,12 @@ Project Gutenberg offers over 75,000 entirely free ebooks. These are the ways in
 <div class="contents" style="margin-top: 1.5em;">
 <ol>
  <li><a href="#read-online">Read Online</a></li>
- <li><a href="#kindle">Kindle</a></li>
+ <li><a href="#kindle">Kindle</a>
+  <ol class="inner_1">
+   <li><a href="#newer-kindles">Newer Kindles</a></li>
+   <li><a href="#older-kindles-pre-2013">Older Kindles (pre-2013)</a></li>
+  </ol>
+ </li>
  <li><a href="#kobo">Kobo</a></li>
  <li><a href="#nook">Nook</a></li>
  <li><a href="#more-e-readers">More E-readers</a></li>
@@ -59,7 +67,9 @@ Works on any device with a web browser. Most browsers also offer a Reader Mode (
 
 # Kindle
 
-**Amazon's Send-to-Kindle service is the recommended way.** It's also the easiest. All you have to do is upload an EPUB3 file and the service takes care of the rest.
+## Newer Kindles
+
+**Amazon's Send-to-Kindle service is the easiest way.**
 
 1. Download the **EPUB3** file
 2. Go to your Amazon account's Send-to-Kindle page.
@@ -69,28 +79,19 @@ Works on any device with a web browser. Most browsers also offer a Reader Mode (
    - Elsewhere → amazon.[your country]/sendtokindle
 3. Upload and wait
 
-<details>
-<summary><strong>Email to Kindle</strong></summary>
-<p>Every Kindle has its own email address. You can email files directly to it.
-</p>
-<ol>
-<li>On Amazon: open Menu → Manage Your Content and Devices → Devices tab → select your Kindle and find its email address</li>
-<li>On the same page: go to the Preferences tab → scroll down to "Approved Personal Document E-mail List" → add your own email address, so the Kindle can receive emails from you</li>
-<li>Email the <strong>EPUB3</strong> file as an attachment to your Kindle's address</li>
-</ol>
-<p>This works for all but very old Kindles that can't receive files wirelessly.</p>
-</details>
+<div class="alternatives">
+<strong>Alternatives:</strong>
+<details class="inline"><summary><span class="toggle">Email to Kindle</span></summary><p>Every Kindle has its own email address. You can email files directly to it.</p><ol><li>On Amazon: open Menu → Manage Your Content and Devices → Devices tab → select your Kindle and find its email address</li><li>On the same page: go to the Preferences tab → scroll down to "Approved Personal Document E-mail List" → add your own email address, so the Kindle can receive emails from you</li><li>Email the <strong>EPUB3</strong> file as an attachment to your Kindle's address</li></ol></details>
+<details class="inline"><summary><span class="toggle">USB Transfer</span></summary><p>Works with the <strong>Kindle/MOBI</strong> format. See the "Older Kindles" section below for the steps.</p></details>
+</div>
 
-<details>
-<summary><strong>USB Transfer — older Kindles</strong></summary>
-<p>You can also transfer books by plugging your Kindle into your computer. This requires the <strong>Kindle/MOBI</strong> format (not EPUB).</p>
-<ol>
-<li>On the book's page use the <strong>"Kindle"</strong> or <strong>"older Kindles"</strong> download option to get the file</li>
-<li>Connect your Kindle to your computer via USB</li>
-<li>Copy the file to the "documents" folder on your Kindle</li>
-</ol>
-<p><strong>Mac users:</strong> 2024+ Kindles use MTP and won't appear in Finder. Use Amazon's <a href="https://www.amazon.com/sendtokindle" target="_blank">Send-to-Kindle</a> Mac app (has a built-in USB File Manager) or a tool like <a href="https://openmtp.ganeshrvel.com" target="_blank">OpenMTP</a>.</p>
-</details>
+## Older Kindles (pre-2013)
+
+Pre-2013 Kindles should use USB transfer with the **Kindle/MOBI** format (not EPUB):
+
+1. On the book's page, use the **"Kindle"** or **"older Kindles"** download option
+2. Connect your Kindle to your computer via USB
+3. Copy the file to the "documents" folder on your Kindle
 
 # Kobo
 
