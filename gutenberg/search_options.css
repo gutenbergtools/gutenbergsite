@@ -462,6 +462,11 @@
   display: flex; /* Use flex to center the modal */
 }
 
+/* hide default label when checkbox is checked */
+.info-checkbox:checked ~ #more-info-button {
+  display: none;
+}
+
 /* Reset text alignment for paragraphs inside the modal within the advanced search tab */
 #advanced-search .info-modal p {
   text-align: left;
