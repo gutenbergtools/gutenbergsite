@@ -67,13 +67,13 @@ permalink: /ebooks/index.html
   <!-- Tab 1 - Advanced Search -->
   <div id="advanced-search" class="tabcontent">
     <!-- Modal Trigger and Modal -->
-    <input type="checkbox" id="info-toggle" aria-label="toggle infobox" class="info-checkbox">
+    <input type="checkbox" id="info-toggle" aria-labelledby="more-info-button close-info-button" class="info-checkbox">
     <label id="more-info-button" for="info-toggle" class="info-icon-label" title="More Information" aria-label="More Information">i</label>
 
     <div class="info-modal-overlay">
       
       <div class="info-modal">
-        <label for="info-toggle" class="info-modal-close" title="Close" aria-label="Close Information">&times;</label>
+        <label id="close-info-button" for="info-toggle" class="info-modal-close" title="Close" aria-label="Close Information">&times;</label>
         <div class="modal-content">
           <h2>Information</h2>
           <p> - Advanced Search is case insensitive. </p>
