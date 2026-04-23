@@ -29,7 +29,7 @@ details.inline[open] > ol, details.inline[open] > ul, details.inline[open] > p {
 Reading Options & Kindle
 =====================================
 
-Project Gutenberg offers over 75,000 entirely free ebooks. These are the ways in which you can read and enjoy them.
+Project Gutenberg offers 75,000+ free ebooks. Here's how you can read and enjoy them.
 
 <div class="contents" style="margin-top: 1.5em;">
 <ol>
@@ -40,9 +40,7 @@ Project Gutenberg offers over 75,000 entirely free ebooks. These are the ways in
    <li><a href="#older-kindles-pre-2013">Older Kindles (pre-2013)</a></li>
   </ol>
  </li>
- <li><a href="#kobo">Kobo</a></li>
- <li><a href="#nook">Nook</a></li>
- <li><a href="#more-e-readers">More E-readers</a></li>
+ <li><a href="#kobo-nook-etc">Kobo, Nook etc.</a></li>
  <li><a href="#phone-or-tablet">Phone or Tablet</a>
   <ol class="inner_1">
    <li><a href="#iphone--ipad">iPhone / iPad</a></li>
@@ -51,7 +49,7 @@ Project Gutenberg offers over 75,000 entirely free ebooks. These are the ways in
  </li>
  <li><a href="#computer">Computer</a></li>
  <li><a href="#plain-text">Plain Text</a></li>
- <li><a href="#still-need-help">Still need help?</a></li>
+ <li><a href="#need-more-help">Need more help?</a></li>
 </ol>
 </div>
 
@@ -93,7 +91,9 @@ Pre-2013 Kindles should use USB transfer with the **Kindle/MOBI** format (not EP
 2. Connect your Kindle to your computer via USB
 3. Copy the file to the "documents" folder on your Kindle
 
-# Kobo
+# Kobo, Nook etc.
+
+## Kobo
 
 Kobo makes it easy: plug it into your computer, and it shows up as a USB drive you can drag books onto.
 
@@ -111,7 +111,7 @@ Kobo makes it easy: plug it into your computer, and it shows up as a USB drive y
 </ol>
 </details>
 
-# Nook
+## Nook
 
 Nook works much the same way as Kobo — plug it in and it appears as a drive on your computer.
 
@@ -122,7 +122,7 @@ Nook works much the same way as Kobo — plug it in and it appears as a drive on
 
 **Older Nooks** (Simple Touch, original GlowLight): use the **EPUB** file instead.
 
-# More E-readers
+## Other E-readers
 
 Using a PocketBook, Boox, or another e-reader? Just download the **EPUB3** file — most modern e-readers support it.
 
@@ -174,6 +174,6 @@ These are just a few options — there are many other EPUB reading apps availabl
 
 Every one of our ebooks is also available as a **plain text (.txt) file** which means you can display it on any device that can open and display such a text file.  You won't get formatting or images, but it's the simplest and most robust option of all.
 
-# Still need help?
+# Need more help?
 
 Everyone's setup is a little different. If you're unsure how to start reading or are running into trouble, a chat with an AI assistant can help if you describe your situation to it, e.g. [Claude](https://claude.ai){:target="_blank"}, [ChatGPT](https://chat.openai.com){:target="_blank"}, [Gemini](https://gemini.google.com){:target="_blank"}, or [Okara](https://okara.ai){:target="_blank"}.
