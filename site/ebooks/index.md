@@ -67,13 +67,13 @@ permalink: /ebooks/index.html
   <!-- Tab 1 - Advanced Search -->
   <div id="advanced-search" class="tabcontent">
     <!-- Modal Trigger and Modal -->
-    <input type="checkbox" id="info-toggle" class="info-checkbox">
-    <label for="info-toggle" class="info-icon-label" title="More Information">i</label>
+    <input type="checkbox" id="info-toggle" aria-labelledby="more-info-button close-info-button" class="info-checkbox">
+    <label id="more-info-button" for="info-toggle" class="info-icon-label" title="More Information" aria-label="More Information">i</label>
 
     <div class="info-modal-overlay">
-      <label for="info-toggle" class="overlay-clickable"></label>
+      
       <div class="info-modal">
-        <label for="info-toggle" class="info-modal-close" title="Close">&times;</label>
+        <label id="close-info-button" for="info-toggle" class="info-modal-close" title="Close" aria-label="Close Information">&times;</label>
         <div class="modal-content">
           <h2>Information</h2>
           <p> - Advanced Search is case insensitive. </p>
@@ -545,7 +545,7 @@ permalink: /ebooks/index.html
           </select>
         </div>
         <div class="form-group">
-          <input type="submit" id="submit" name="submit_search" value="Search">
+          <input type="submit" id="submit" aria-label="Search" name="submit_search" value="Search" >
         </div>
       </form>
       
@@ -568,15 +568,15 @@ permalink: /ebooks/index.html
         <input type="hidden" name="k8" value="#444444">
         <input type="hidden" name="k9" value="#D51920">
         <input type="hidden" name="kt" value="h">
-        <input type="text" name="q" maxlength="255" placeholder="Use DuckDuckGo">
-        <input type="submit" value="Duckduckgo Search">
+        <input type="text" name="q" maxlength="255" placeholder="Use DuckDuckGo" title="Enter search text">
+        <input type="submit" value="Duckduckgo Search" title="Duckduckgo Search">
       </form>
       <form method="get" action="https://www.google.com/search">
         <img src="/pics/google_logo.png" class="google-logo-img" alt="Google logo">
-        <input type="text" name="q" size="31" maxlength="255" value="" placeholder="Use Google">
+        <input type="text" name="q" size="31" maxlength="255" value="" placeholder="Use Google" title="Enter search text">
         <input type="hidden" name="domains" value="gutenberg.org">
         <input type="hidden" name="sitesearch" value="gutenberg.org">
-        <input type="submit" name="btnG" value="Google Search">
+        <input type="submit" name="btnG" value="Google Search" title="Google Search">
       </form>
     </div>
   </div>

@@ -6,7 +6,9 @@ permalink: /ebooks/bookshelf/
 
 Reading Lists
 ==================================================
-Reading Lists are relatively small selections that have been hand-curated by individual volunteers. <br> <br> For the more common, large categories you may find in physical bookstores check out <a href="/ebooks/categories"> Main Categories. </a>
+Reading Lists are small selections hand-curated by our volunteers. For broader, more common categories, see <a href="/ebooks/categories"> Main Categories. </a>
+
+
 
 
 <h2> Collections </h2>
