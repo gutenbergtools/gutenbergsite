@@ -1,3 +1,9 @@
+---
+layout: default
+title: Project Gutenberg Accessibility Conformance Report - Website
+permalink: /a11y/pg-vpat-website.html
+---
+
 # **Project Gutenberg Accessibility Conformance Report**
 
 ## *WCAG Edition(Based on VPAT® Version 2.5Rev)*
@@ -28,9 +34,7 @@ This report covers the degree of conformance for the following accessibility sta
 
 | Standard/Guideline | Included In Report |
 | :---- | :---: |
-| [Web Content Accessibility Guidelines 2.0](http://www.w3.org/TR/2008/REC-WCAG20-20081211) | Level A (Yes / No) Level AA (Yes / No) Level AAA (Yes / No) |
-| [Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21) | Level A (Yes / No) Level AA (Yes / No) Level AAA (Yes / No) |
-| [Web Content Accessibility Guidelines 2.2](https://www.w3.org/TR/WCAG22/) | Level A (Yes / No) Level AA (Yes / No) Level AAA (Yes / No) |
+| [Web Content Accessibility Guidelines 2.2](https://www.w3.org/TR/WCAG22/) | Level A (Yes) Level AA (Yes) Level AAA (No)  |
 
 ## **Terms**
 
