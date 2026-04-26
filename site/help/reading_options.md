@@ -176,4 +176,4 @@ Every one of our ebooks is also available as a **plain text (.txt) file** which 
 
 # Need more help?
 
-Everyone's setup is a little different. If you're unsure how to start reading or are running into trouble, a chat with an AI assistant can help if you describe your situation to it, e.g. [Claude](https://claude.ai){:target="_blank"}, [ChatGPT](https://chat.openai.com){:target="_blank"}, [Gemini](https://gemini.google.com){:target="_blank"}, or [Okara](https://okara.ai){:target="_blank"}.
+Everyone's setup is a little different. If you're unsure how to start reading or are running into trouble, a chat with an AI assistant can help if you describe your situation to it, e.g. [Claude](https://claude.ai){:target="_blank"}, [ChatGPT](https://chat.openai.com){:target="_blank"}, or [Gemini](https://gemini.google.com){:target="_blank"}.
