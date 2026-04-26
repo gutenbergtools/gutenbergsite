@@ -22,7 +22,7 @@ We will maintain four separate VPATs covering:
 
 ## The Project Gutenberg Website
 
-The website aims to comply with WCAG 2.2 AA. Here's the [VPAT](pg-vpat-website.html) It's very likely that much can be improved, and we welcome suggestions on how to do that. It's relatively simple, and hardly uses any javascript, which makes testing a lot easier. We'd especially welcome comments about issues on mobile devices and on assistive technology - it's impossible to test everything. Our accessibility contact is in the website footer.
+The website aims to comply with WCAG 2.2 AA. Here's the [website VPAT](pg-vpat-website.html) It's very likely that much can be improved, and we welcome suggestions on how to do that. It's relatively simple, and hardly uses any javascript, which makes testing a lot easier. We'd especially welcome comments about issues on mobile devices and on assistive technology - it's impossible to test everything. Our accessibility contact is in the website footer.
 
 
 ## Plain Text Files
@@ -35,7 +35,7 @@ The website aims to comply with WCAG 2.2 AA. Here's the [VPAT](pg-vpat-website.h
 
 ## EPUB3 files
 
-... coming soon.
+In a collection of over 75,000 books produced by hundreds of different volunteers, many books will succeed in AAA criteria, while some will fail for A criteria. Here's the [EPUB3 VPAT](pg-vpat-epub3.html) While Project Gutenberg endeavors to update its entire collection to modern accessibility standards, it is not realistic to expect 100% compliance for the foreseeable future. Many books are compliant today; others are more problematic. In addition, EPUB3 files can be read on many different reading systems, including systems that have deficient support for EPUB3 or for current accessibility standards.
 
 ## Ongoing Accessibility Projects
 
