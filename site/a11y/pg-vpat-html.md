@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Project Gutenberg Accessibility Conformance Report - Website
-permalink: /a11y/pg-vpat-website.html
+title: Project Gutenberg Accessibility Conformance Report - HTML files
+permalink: /a11y/pg-vpat-html.html
 ---
 
 # **Project Gutenberg Accessibility Conformance Report**
