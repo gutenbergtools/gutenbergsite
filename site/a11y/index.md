@@ -27,11 +27,11 @@ The website aims to comply with WCAG 2.2 AA. Here's the [website VPAT](pg-vpat-w
 
 ## Plain Text Files
 
-... coming soon.
+In some sense, plain text files are always accessible; but the lack of capability means that some texts cannot be made fully accessible. Here's the [plain text VPAT](pg-vpat-plain-text.html) there are a small number of books that use layout expressively (poetry sometimes) and more that format tables visually. These can’t be made accessible, but the website also provides the same books in accessible HTML and EPUB3.
 
 ## HTML files
 
-... coming soon.
+The HTML files include accessibility metadata and are derived from source HTML3, XHTML4, and HTML(5) files uploaded by volunteers over the course of over 25 years. Here's the [HTML VPAT](pg-vpat-html.html) Many books will succeed in AAA criteria, while some will fail for A criteria. While Project Gutenberg endeavors to update its entire collection to modern accessibility standards, it is not realistic to expect 100% compliance in the foreseeable future. Many books are compliant today; others are more problematic.
 
 ## EPUB3 files
 
