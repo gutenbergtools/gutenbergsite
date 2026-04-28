@@ -32,8 +32,8 @@ Contents
 </div>
 
 ## Partners
-- [Distributed Proofreaders](http://www.pgdp.net). DP allows people to share in the tasks of proofreading, verifying and formatting eBooks for Project Gutenberg.
-- [iBiblio](http://www.ibiblio.org/index.html), the public's library. IBiblio is our main eBook distribution site, holds our Web pages, and offers a variety of supporting services.
+- [Distributed Proofreaders](https://www.pgdp.net/). DP allows people to share in the tasks of proofreading, verifying and formatting eBooks for Project Gutenberg.
+- [ibiblio](https://www.ibiblio.org/), the public's library. ibiblio is our main eBook distribution site, holds our Web pages, and offers a variety of supporting services.
 
 ## Sister Projects
 
