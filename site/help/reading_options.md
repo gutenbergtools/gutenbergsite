@@ -13,29 +13,34 @@ permalink: /help/reading_options.html
 @media (max-width: 750px) {
   .page_content h2 { text-align: left; }
 }
+details { margin-top: 1.2em; }
+ol + details { margin-top: 2em; }
+details summary { cursor: pointer; font-size: inherit; }
+p + details.inline { margin-top: 0; }
+details.inline summary { list-style: none; font-size: inherit; }
+details.inline summary::-webkit-details-marker { display: none; }
+details.inline summary .toggle { text-decoration: underline; color: inherit; }
+details.inline[open] > ol, details.inline[open] > ul, details.inline[open] > p { margin-top: 0.8em; }
+.alternatives { margin-top: 1.5em; }
+.alternatives > details { margin-top: 0.2em; }
+.alternatives > details[open] { margin-bottom: 0.8em; }
 </style>
 
 Reading Options & Kindle
 =====================================
 
-Project Gutenberg offers over 75,000 entirely free ebooks. These are the ways in which you can read and enjoy them.
+Project Gutenberg offers 75,000+ free ebooks. Here's how you can read and enjoy them.
 
 <div class="contents" style="margin-top: 1.5em;">
 <ol>
  <li><a href="#read-online">Read Online</a></li>
  <li><a href="#kindle">Kindle</a>
   <ol class="inner_1">
-   <li><a href="#option-a-send-to-kindle-via-web-easiest">Option A: Send to Kindle via Web (easiest)</a></li>
-   <li><a href="#option-b-send-to-kindle-via-email">Option B: Send to Kindle via Email</a></li>
-   <li><a href="#option-c-usb-transfer">Option C: USB Transfer</a></li>
+   <li><a href="#newer-kindles">Newer Kindles</a></li>
+   <li><a href="#older-kindles-pre-2013">Older Kindles (pre-2013)</a></li>
   </ol>
  </li>
- <li><a href="#more-e-readers">More E-readers</a>
-  <ol class="inner_1">
-   <li><a href="#kobo">Kobo</a></li>
-   <li><a href="#nook">Nook</a></li>
-  </ol>
- </li>
+ <li><a href="#kobo-nook-etc">Kobo, Nook etc.</a></li>
  <li><a href="#phone-or-tablet">Phone or Tablet</a>
   <ol class="inner_1">
    <li><a href="#iphone--ipad">iPhone / iPad</a></li>
@@ -44,106 +49,119 @@ Project Gutenberg offers over 75,000 entirely free ebooks. These are the ways in
  </li>
  <li><a href="#computer">Computer</a></li>
  <li><a href="#plain-text">Plain Text</a></li>
- <li><a href="#ai-help">AI Help</a></li>
+ <li><a href="#need-more-help">Need more help?</a></li>
 </ol>
 </div>
 
 # Read Online
 
-Every Project Gutenberg ebook has its own dedicated webpage. That means you can just go to the website of any book you like and start reading right away. On any device - smartphone, tablet or PC.
+This is the simplest way to read — no downloads, no apps, no format decisions. Every Project Gutenberg ebook has a "Read now!" button that opens the book right in your browser.
 
 1. Go to [gutenberg.org](https://www.gutenberg.org)
 2. Find a book you like
 3. Click "Read now!"
 
-All you need is a functional web browser like Chrome, Safari or Firefox.
+Works on any device with a web browser. Most browsers also offer a Reader Mode (Safari Reader, Firefox Reader View, etc.) for adjustable font size and a cleaner layout.
 
 # Kindle
 
-## Option A: Send to Kindle via Web (easiest)
+## Newer Kindles
 
-Amazon provides a website that you can use to upload files to your Kindle.
+**Amazon's Send-to-Kindle service is the easiest way.**
 
-1. Download the **EPUB3** file from Project Gutenberg
-2. Go to Amazon's "Send to Kindle" page and upload the file.
-    - In the US the page is [amazon.com/sendtokindle](https://www.amazon.com/sendtokindle){:target="_blank"}. Outside the US use your country's domain
-    (e.g. amazon.co.uk, amazon.fr) or google for "send to kindle" + your country
-3. The book will appear on your Kindle shortly
+1. Download the **EPUB3** file
+2. Go to your Amazon account's Send-to-Kindle page.
+   - US → [amazon.com/sendtokindle](https://www.amazon.com/sendtokindle){:target="_blank"}
+   - UK → [amazon.co.uk/sendtokindle](https://www.amazon.co.uk/sendtokindle){:target="_blank"}
+   - Germany → [amazon.de/sendtokindle](https://www.amazon.de/sendtokindle){:target="_blank"}
+   - Elsewhere → amazon.[your country]/sendtokindle
+3. Upload and wait
 
-**Note:** The "Send to Kindle" page also has additional sending options in its sidebar that you can explore.
+<div class="alternatives">
+<strong>Alternatives:</strong>
+<details class="inline"><summary><span class="toggle">Email to Kindle</span></summary><p>Every Kindle has its own email address. You can email files directly to it.</p><ol><li>On Amazon: open Menu → Manage Your Content and Devices → Devices tab → select your Kindle and find its email address</li><li>On the same page: go to the Preferences tab → scroll down to "Approved Personal Document E-mail List" → add your own email address, so the Kindle can receive emails from you</li><li>Email the <strong>EPUB3</strong> file as an attachment to your Kindle's address</li></ol></details>
+<details class="inline"><summary><span class="toggle">USB Transfer</span></summary><p>Works with the <strong>Kindle/MOBI</strong> format. See the "Older Kindles" section below for the steps.</p></details>
+</div>
 
-## Option B: Send to Kindle via Email
+## Older Kindles (pre-2013)
 
-Each Kindle has its own email address to which you can send files.
+Pre-2013 Kindles should use USB transfer with the **Kindle/MOBI** format (not EPUB):
 
-1. Download the **EPUB3** file from Project Gutenberg
-2. Find your Kindle's email address:
-   - On Amazon's website: Open Menu → Manage Your Content and Devices → Devices tab (small) → select Kindle and see info
-3. Add your email address as an approved sender:
-   - On Amazon's website: Open Menu → Manage Your Content and Devices → Preferences tab (small) → scroll down to "Approved Personal Document E-mail List" section and add your email address
-4. Email EPUB3 file as an attachment to your Kindle
-5. The book will appear on your Kindle shortly
-
-
-**Note:** These methods work except for very old Kindles that can't receive files wirelessly.
-
-## Option C: USB Transfer
-
-You can also plug your Kindle into your computer and copy files directly to it. Modern Kindles (updated since late 2022) support **EPUB** files directly—just copy the EPUB to the Kindle's "documents" folder. For older Kindles, download the **Kindle/MOBI** format from our download page instead.
-
-1. Download the **EPUB** file from Project Gutenberg (or **Kindle/MOBI** if your device is older)
+1. On the book's page, use the **"Kindle"** or **"older Kindles"** download option
 2. Connect your Kindle to your computer via USB
-3. Copy the ebook file over to the "documents" folder of your Kindle
+3. Copy the file to the "documents" folder on your Kindle
 
-**Mac users:** Newer Kindles (2024+) won't appear in Finder. There are work-arounds, but it may be easier to just go with Option A or B above instead.
-
-# More E-readers
-
-Most e-readers use EPUB3 as their standard format. So all you need to do is download the EPUB3 and transfer it to your device. If your e-reader is on the old side, or you're trying to use Adobe Digital Editions you may have better luck with the EPUB file.
+# Kobo, Nook etc.
 
 ## Kobo
 
-Kobo makes things easy. When you plug it into your computer, it shows up as a USB drive. Then you just drag and drop your book onto it.
+Kobo makes it easy: plug it into your computer, and it shows up as a USB drive you can drag books onto.
 
 1. Download the **EPUB3** file
 2. Connect your Kobo to your computer via USB
 3. Tap "Connect" on your Kobo's screen
 4. Drag the file into the Kobo drive that appears
 
+<details class="inline">
+<summary>Forma, Sage, Elipsa, Elipsa 2E, and Libra Colour also support <span class="toggle">Dropbox (no cable needed)</span>.</summary>
+<ol>
+<li>On your Kobo, go to Settings &gt; Dropbox and link your account</li>
+<li>Save the <strong>EPUB3</strong> file to your Dropbox</li>
+<li>On your Kobo, tap the Dropbox icon to sync — the book will appear in your library</li>
+</ol>
+</details>
+
 ## Nook
 
-Nook works much the same way as Kobo—plug it in and it appears as a drive on your computer.
+Nook works much the same way as Kobo — plug it in and it appears as a drive on your computer.
 
-1. Download the **EPUB** file on your computer
+1. Download the **EPUB3** file on your computer
 2. Connect your Nook via USB
 3. Tap "Connect" on your Nook's screen
 4. Copy the file to the "My Files" folder on the Nook drive
 
-# Phone or Tablet
+**Older Nooks** (Simple Touch, original GlowLight): use the **EPUB** file instead.
 
-You can either read our ebooks [directly in your browser](#read-online) or download the EPUB file and open it in a reading app of your choice.
+## Other E-readers
+
+Using a PocketBook, Boox, or another e-reader? Just download the **EPUB3** file — most modern e-readers support it.
+
+# Phone or Tablet
 
 ## iPhone / iPad
 
-Apple Books comes pre-installed on every iPhone and iPad, and it can handle EPUB files. So you're good to go right out of the box.
+Easiest: [read online](#read-online) in your browser.
 
-1. Download the **EPUB3** file from Safari
-2. When prompted, choose "Open in Books"—or save to Files first and open from there
+Use a Reading App:
 
-If you prefer a different reading app (Kobo, Libby, etc.), that works too. Just use the Share menu to open the file in your preferred app.
+1. Install an EPUB reading app.
+2. Download the **EPUB3** file.
+3. Open the file — tap your browser's "Open in" prompt or download list, or find the file in the Files app.
+4. Pick a reading app — directly from the prompt, or via the Share button.
+
+Free reading apps include Books (mac, iPhone, iPad), Kindle, Neat Reader, PocketBook, and Bluefire Reader.
 
 ## Android
 
-Getting started on Android is straightforward:
+Easiest: [read online](#read-online) in your browser.
 
-1. Download the **EPUB3** file
-2. Tap the downloaded file and choose which app to open it with
+Use a Reading App:
 
-There are plenty of free reading apps to choose from: ReadEra, Moon+ Reader, Kobo, and Google Play Books (note: Play Books requires uploading the file to your Google library rather than opening it directly).
+1. Install an EPUB reading app.
+2. Download the **EPUB3** file.
+3. Open the file — if there's a download notification, tap it. Or find and tap it in your Files/Downloads app.
+4. Pick your reader app if Android asks.
+
+Free reading apps include Kindle, ReadEra, and Moon+ Reader.
+
+<details class="inline">
+<summary>Google Play Books is often preinstalled but <span class="toggle">works differently</span>.</summary>
+<p>Unlike most reading apps, Play Books won't open a local EPUB directly. Instead, upload the file to your Google Play Books library at <a href="https://play.google.com/books" target="_blank">play.google.com/books</a> (or via the Upload option inside the Android app), then read it from your library.</p>
+</details>
 
 # Computer
 
-As mentioned, the easiest option is to open the website of a particular ebook [directly in your browser](#read-online) and start reading right away (use "Read now!" button). But if you'd rather read offline, you can download the EPUB3 files and use a desktop reading app of your choice:
+Easiest: [read online](#read-online) in your browser. To read offline, download the **EPUB3** file and open it in a desktop reading app:
 
 - **Calibre** (Windows/Mac/Linux) — The Swiss army knife of ebook software. Manages your library, converts between formats, and syncs to devices.
 - **Thorium Reader** (Windows/Mac/Linux) — A clean, open-source EPUB3 reader.
@@ -154,8 +172,8 @@ These are just a few options — there are many other EPUB reading apps availabl
 
 # Plain Text
 
-Every one of our ebooks is also available as a **plain text (.txt) file** which means you can display it on any device that can open and display such a text file.  You won't get formatting or images, but this is the simplest option of all.
+Every one of our ebooks is also available as a **plain text (.txt) file** which means you can display it on any device that can open and display such a text file.  You won't get formatting or images, but it's the simplest and most robust option of all.
 
-# AI Help
+# Need more help?
 
-Everyone's setup is a little different and unfortunately we can't cover every possible case here. If you're still unsure how to start reading or you're running into trouble, a chat with a trusted AI assistant can often help if you describe your particular situation to that assistant, e.g. [Claude](https://claude.ai){:target="_blank"}, [ChatGPT](https://chat.openai.com){:target="_blank"}, [Gemini](https://gemini.google.com){:target="_blank"}, or [Okara](https://okara.ai){:target="_blank"}.
+Everyone's setup is a little different. If you're unsure how to start reading or are running into trouble, a chat with an AI assistant can help if you describe your situation to it, e.g. [Claude](https://claude.ai){:target="_blank"}, [ChatGPT](https://chat.openai.com){:target="_blank"}, or [Gemini](https://gemini.google.com){:target="_blank"}.
