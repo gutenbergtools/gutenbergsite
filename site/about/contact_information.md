@@ -48,7 +48,7 @@ The best way to get in touch is by email.
 
 5. eric (at) pglaf.org
 
-Contact the Executive Director of the Project Gutenberg Literary Archive Foundation, Eric Hellman. If you don't get a response within a few days, please first check your spam filters & similar for a response. Resend your message, if no response is received within a few days.
+    Contact the Executive Director of the Project Gutenberg Literary Archive Foundation, Eric Hellman. If you don't get a response within a few days, please first check your spam filters & similar for a response. Resend your message, if no response is received within a few days.
 
 ## Postal Mail
 If you need to send printed mail, please consider instead scanning and emailing to the appropriate address above. But if you really need to send something physical, send to this address:
