@@ -81,7 +81,7 @@ Send a check or money order (any currency) to:
 
 The bank we utilize, Wells Fargo, does not charge any fees for our bank account. They do charge a fee for processing non-US funds. This fee is difficult to know in advance, but usually seems to be five dollars or slightly more for checks of at least $USD 100 in value. The exchange rate to US funds is at market value.
 
-Any donation of $100 or over will receive a written "thank you" via postal mail, unless you do not provide a return address.
+Any donation of $100 or over will receive a written "thank you" via postal mail, unless you do not provide a return address. Significant donors may be included on our [Legacy Donor page](legacy.html).
 
 <br>
 ## <span id="#additional-detail-on-how-to-donate"></span>Taxes, Privacy & Additional Details
