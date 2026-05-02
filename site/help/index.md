@@ -11,12 +11,14 @@ Here are pages that give background about Project Gutenberg, including how new i
 
  <div class="bookshelves ">
       <h2>A</h2><ul>
+       <li><a href="/a11y/">Accessibility</a></li>
        <li><a href="/attic/">Attic: Outdated or partially outdated items</a></li>
        <li><a href="/about">About Project Gutenberg</a> (main page)</li>
       </ul><h2>C</h2><ul>
        <li><a href="/policy/collection_development.html">Collection development policy</a></li>
        <li><a href="/help/copyright.html">Copyright How-To</a></li>
       </ul><h2>D</h2><ul>
+       <li><a href="/donate/">Donating to Project Gutenberg</a></li>
        <li><a href="/help/bibliographic_record.html">Download Formats and Bibliographic Record</a></li>
       </ul><h2>E</h2><ul>
        <li><a href="/help/errata.html">Errata, fixes and bug reports</a></li>
@@ -25,9 +27,11 @@ Here are pages that give background about Project Gutenberg, including how new i
        <li><a href="/help/faq.html">FAQs: Frequently asked questions</a></li>
       </ul><h2>L</h2><ul>
        <li><a href="/policy/linking.html">Linking to Project Gutenberg</a></li>
+       <li><a href="/donate/legacy.html">Legacy Donors</a></li>
       </ul><h2>M</h2><ul>
        <li><a href="/help/mirroring.html">Mirroring how-to</a></li>
       </ul><h2>N</h2><ul>
+       <li><a href="/newsletter/">Newsletter</a></li>
        <li><a href="/help/no_sweat_copyright.html">"No Sweat of the Brow Copyright" how-to</a></li>
       </ul><h2>O</h2><ul>
        <li><a href="/ebooks/offline_catalogs.html">Offline catalogs</a>, including metadata and eBook listings.</li>
