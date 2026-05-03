@@ -30,7 +30,7 @@ Title II of the Americans With Disabilities Act requires that government funded 
 
 Since Project Gutenberg does not receive any government funding, we didn’t think this deadline would apply to us, but there are schools and libraries that link to our books for instruction, course lists, and user enjoyment. Several of them have asked us for accessibility reports to help them comply with the law. In response, this month we posted reports in the VPAT format. VPAT stands for “Voluntary Product Accessibility Template” and the reportsavailable on our new [accessibility page](https://www.gutenberg.org/a11y/). 
 
-Just two weeks before the July 24 deadline, our web hosts at the University of North Carolina asked us to assume that the ADA rules applied to us as well. They’ve been wonderful and invaluable hosts, so we were very happy to be able to agree\!
+Just two weeks before the April 24 deadline, our web hosts at the University of North Carolina asked us to assume that the ADA rules applied to us as well. They’ve been wonderful and invaluable hosts, so we were very happy to be able to agree\!
 
 ## 300th anniversary of 3rd edition Newton’s *Principia*
 
