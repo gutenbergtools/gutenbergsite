@@ -4,119 +4,95 @@ title: Newsletter | Project Gutenberg
 permalink: /newsletter/index.html
 ---
 
-# **Project Gutenberg News — April 2026**
+# **Project Gutenberg News — May 2026**
 
 ___-Enjoy these eBooks. Share them. Celebrate them.-___
 
 ## Contents
 
-* Math at Project Gutenberg  
-* 300th Anniversary of “Shakespeare Restored”   
-* 100th Anniversary of Harper Lee  
-* 504 Gateway Timeouts  
-* New Releases at Gutenberg.org \- March 2026  
+* Planning for the Long Term  
+* Accessibility Requirements  
+* 300th anniversary of 3rd edition Newton’s Principia   
+* New Releases at Gutenberg.org — April 2026  
 * Links
 
-## Math at Project Gutenberg 
+## Planning for the Long Term
 
-Project Gutenberg has long had an interest in mathematics, perhaps because of its timelessness. This interest has been expressed in many ways, though perhaps some of them were misguided in retrospect. For example we published “texts” consisting of digits of π. To be fair, commercial publishers produced *printed* volumes of π\! At that time, there wasn’t even a good way to represent the character for “π” on the internet\!
+The basic mission of Project Gutenberg has always been to *preserve* and *distribute* – free of charge – literary works. Over the years, the number of works has grown in an amazing way, and has focused on using the Internet to *distribute* books unrestricted by US copyright laws for free. All along, that work has been made possible by volunteers and by donations by many, many users.
 
-\<[https://www.gutenberg.org/ebooks/50](https://www.gutenberg.org/ebooks/50)\>
+As the collection has grown, the complexity of our software and systems has increased along with those donations, and we no longer depend solely on volunteer labor. We now employ a small but mighty staff who maintain the plumbing that facilitates the work of our many volunteers. 
 
-Our books used little images of math equations, which was the best that could be done at the time but didn’t scale. Later we started to distribute texts composed using **TeX** (pronounced “teck”), the typesetting program created by mathematician Donald E. Knuth; these are currently the only books for which we publish as PDF files.
+The *preserve* part of our mission requires a plan for long term finances of the organization. But having the sort of reserves that could assure our long term existence has seemed out of reach. That is now changing. Thanks to a bequest from a long time reader, we have started a modest endowment. We hope that other folks might be interested in joining us to build that endowment into a significant source of funds for our operating expenses. So we've started [a list of "Legacy Donors"](https://www.gutenberg.org/donate/legacy.html).
 
-Today, the state of the art has advanced so that we can correctly represent mathematics using MathML. It’s been a lot of work to update our processes and our source files, while at the same time not leaving behind users of older devices. This work is far from finished, but we’re very proud of the progress and we wanted to give you a taste of what we’re doing.
+## Accessibility Requirements 
 
-The set of books entitled “Principia Mathematica” written by Alfred North Whitehead and Bertrand Russell has been chosen to test the workflow of such books and to demonstrate updated accessibility features (WCAG) as well. Principia Mathematica, the landmark work in formal logic, was first published in three volumes in 1910, 1912 and 1913\. Written as a defense of logicism (the view that mathematics is reducible to logic), the book was instrumental in developing modern mathematical logic. An interesting review of the unique and thrilling (from our point of view\!) author’s notation is discussed at the Stanford Encyclopedia of Philosophy:
+Title II of the Americans With Disabilities Act requires that government funded institutions in the US must adapt their websites and electronic resources to meet accessibility standards. These requirements are to be phased in. Apr 24, 2026 was the deadline for providers to report on the accessibility of their resources, and, to have a plan for fixing things that needed fixing. On April 20, the Justice Department announced a one year push-back of that deadline.
 
-\<[https://plato.stanford.edu/entries/pm-notation/](https://plato.stanford.edu/entries/pm-notation/)\>
+Since Project Gutenberg does not receive any government funding, we didn’t think this deadline would apply to us, but there are schools and libraries that link to our books for instruction, course lists, and user enjoyment. Several of them have asked us for accessibility reports to help them comply with the law. In response, this month we posted reports in the VPAT format. VPAT stands for “Voluntary Product Accessibility Template” and the reportsavailable on our new [accessibility page](https://www.gutenberg.org/a11y/). 
 
-In accordance with the principles set out above, Principia Mathematica (Vol. 1 of 3\) and Principia Mathematica (Vol. 2 of 3\) are already posted at PG.
+Just two weeks before the April 24 deadline, our web hosts at the University of North Carolina asked us to assume that the ADA rules applied to us as well. They’ve been wonderful and invaluable hosts, so we were very happy to be able to agree\!
 
-\<[https://www.gutenberg.org/ebooks/78050](https://www.gutenberg.org/ebooks/78050)\>    
-\<[https://www.gutenberg.org/ebooks/78255](https://www.gutenberg.org/ebooks/78255)\>
+## 300th anniversary of 3rd edition Newton’s *Principia*
 
-More titles, already published by PG, such as “The Foundations of Geometry” by David Hilbert, “Calculus Made Easy” by Silvanus P. Thompson, among others, need to be updated, generating corresponding HTML and EPUB versions[. On](http://well.On) the other hand, new titles are coming up: “Curiosa Mathematica” (Vols 1 & 2\) by Charles L. Dodgson (*aka* Lewis Carroll) and “A simplified presentation of Einstein's unified field equations” by Tullio Levi-Civita.
+In 1726 Isaac Newton published the third edition of his landmark work *Philosophiæ Naturalis Principia Mathematica* (or *The Mathematical Principles of Natural Philosophy*, known simply as *The Principia)*. But how did it spread?
 
-Development is underway as improved books require improved software, tools like m2svg and ebookmaker. m2svg is a command-line tool to process text files which include LaTex math formulae. It converts formulae into a representation of the math in three different ways: svg images, inline svg, or MathML. Ebookmaker is the tool used for format conversion at Project Gutenberg.
+By the 1730s, thanks in particular to Voltaire and scholars such as Pierre Louis Moreau de Maupertuis interest in Newton was growing. A key figure in this Enlightenment activity was Émilie du Châtelet.
 
-\<[https://github.com/DistributedProofreaders/ppmath](https://github.com/DistributedProofreaders/ppmath)\>    
-\<[https://github.com/gutenbergtools/ebookmaker](https://github.com/gutenbergtools/ebookmaker)\>
+\<[https://www.gutenberg.org/ebooks/author/56975](https://www.gutenberg.org/ebooks/author/56975)\> 
 
-With all of the planned enhancements, we hope that more of these pragmatic books will become available in the public domain and published by Project Gutenberg. These books are invaluable resources for scholars and students.
+Châtelet made *Principia* truly accessible at a time when Newton’s theories were still sparking debate in France between followers of René Descartes (Cartesians) and Newtonians. From the translation and interpretations provided by Châtelet, along with direct tutoring, Voltaire produced “*Elémens de la philosophie de Neuton: Mis à la portée de tout le monde*” (1733) which brought Newtonian theories to the Francosphere.
 
-## Happy 300th birthday to Shakespeare Restored\! 
+\<[https://www.gutenberg.org/ebooks/50340](https://www.gutenberg.org/ebooks/50340)\>
 
-April 5, 1726 was the publication in London of Lewis Theobald’s “Shakespeare Restored, or A Specimen of the Many Errors As Well Committed as Unamended by Mr Pope in his Late Edition of this Poet; Designed Not only to correct the said Edition, but to restore the True Reading of Shakespeare in all the Editions ever yet published.”
+\<[https://essentiels.bnf.fr/fr/image/0ce1fc5f-2e2c-46c3-9914-1c6f1dadb17a-elemens-la-philosophie-neuton-mis-la-portee-tout-monde-1](https://essentiels.bnf.fr/fr/image/0ce1fc5f-2e2c-46c3-9914-1c6f1dadb17a-elemens-la-philosophie-neuton-mis-la-portee-tout-monde-1)\>
 
-\<[https://en.wikipedia.org/wiki/Lewis\_Theobald](https://en.wikipedia.org/wiki/Lewis_Theobald)\>
+Émilie du Châtelet sought to serve as a bridge between leading scientists and the educated public. Her mastery of Latin and her understanding of physics enabled her to make these ideas accessible.
 
-In this book, Theobald attacked Pope's Shakespeare edition for smoothing verse and missing textual errors. When Pope issued a revised edition in 1728, he quietly adopted most of Theobald's corrections while publicly claiming to have taken only about twenty-five words — and accused Theobald of withholding information\! Preface to the Works of Shakespeare (1734) by Lewis Theobald is available at PG:
+Châtelet’s work was far more than a translation. Châtelet’s work added extensive mathematical commentary and clarified Newton's geometric proofs through calculus-based methods. She added explanations and personal insights, thereby making an original and modern contribution to the dissemination and understanding of Newtonian theories in France and beyond.
 
-\<[https://www.gutenberg.org/ebooks/16346](https://www.gutenberg.org/ebooks/16346)\>
+During the last five years of her life, Émilie du Châtelet devoted all her energy to this major work, even going so far as to deposit the final compiled manuscript at the Royal Library the day before her death in 1756\.
 
-## Happy 100th birthday to Harper Lee\!
+\<[https://journals.openedition.org/bibnum/722](https://journals.openedition.org/bibnum/722)\>
 
-April 28, 1926 saw the birth of Harper Lee, best known as the author of *To Kill a Mockingbird*. Awarded the Pulitzer Prize in 1961, Lee achieved literary notoriety with a single book, then proceeded to publish sparingly. Her additional works, though few, have been the subject of considerable attention and worthwhile debate.
+For additional reading in this matter we recommend the following:
 
-*To Kill a Mockingbird* is not on Project Gutenberg. It’s locked away until 2056 under US copyright  law. The estate of Harper Lee, who died in 2016, sued many local theaters to shut down their productions of a licensed theatrical version. Atticus Finch might have something to say about that\! Meanwhile, generations of students have read the novel in classrooms, unaware that their well-thumbed, hand-me-down paperbacks are restricted by copyright law.
+Les Institutions de physique de Madame Du Châtelet ou d'un traité de paix entre Descartes, Leibniz et Newton. By Robert Locqueneux:
 
-\<[https://www.arl.org/blog/to-kill-a-mass-market-paperback-and-access-to-knowledge/](https://www.arl.org/blog/to-kill-a-mass-market-paperback-and-access-to-knowledge/)\>
+\<[https://www.persee.fr/doc/rnord\_0035-2624\_1995\_num\_77\_312\_5053](https://www.persee.fr/doc/rnord_0035-2624_1995_num_77_312_5053)\>
 
-Happily, Project Gutenberg offers a broad range of works that are *referenced* in Lee’s novel, texts that illuminate its intellectual backdrop and cultural milieu. From legal treatises to adventure tales, these public domain volumes are a click or tap away, ready to enrich the reader’s understanding without so much as a licensing fee or a user account. 
+Newton’s Principia, by Linda Cantoni  
+“There goes the man that writt a book that neither he nor any body else understands.”
 
-* *Blackstone’s Commentaries* by Sir William Blackstone \- \<[https://www.gutenberg.org/ebooks/30802](https://www.gutenberg.org/ebooks/30802)\>  
-* *Bulfinch’s Mythology* by Thomas Bulfinch \- \<[https://www.gutenberg.org/ebooks/4928](https://www.gutenberg.org/ebooks/4928)\>  
-* The Declaration of Independence by Thomas Jefferson \- \<[https://www.gutenberg.org/ebooks/16780](https://www.gutenberg.org/ebooks/16780)\>  
-* *Ivanhoe* by Sir Walter Scott \- \<[https://www.gutenberg.org/ebooks/82](https://www.gutenberg.org/ebooks/82)\>  
-* *The Pickwick Papers* by Charles Dickens \- \<[https://www.gutenberg.org/ebooks/580](https://www.gutenberg.org/ebooks/580)\>  
-* *The Rover Boys* series by Edward Stratemeyer \- \<[https://www.gutenberg.org/ebooks/author/1626](https://www.gutenberg.org/ebooks/author/1626)\>  
-* *Tarzan* series by Edgar Rice Burroughs \- \<[https://www.gutenberg.org/ebooks/search/?query=Tarzan](https://www.gutenberg.org/ebooks/search/?query=Tarzan)\>  
-* *Tom Swift* series by Edward Stratemeyer \- \<[https://www.gutenberg.org/ebooks/search/?query=Tom+swift](https://www.gutenberg.org/ebooks/search/?query=Tom+swift)\>
+\<[https://blog.pgdp.net/2025/08/01/newtons-principia/](https://blog.pgdp.net/2025/08/01/newtons-principia/)\>
 
-One tantalizing gap remains:
+## New Releases at Gutenberg.org \- April 2026 
 
-* *The Gray Ghost* by Robert F. Schulkers \- \<[https://www.gutenberg.org/ebooks/search/?query=seckatary+hawkins](https://www.gutenberg.org/ebooks/search/?query=seckatary+hawkins)\>
-
-*The Gray Ghost* is a favorite of Scout and Jem. Although a copyrighted version of this story was published by the University Press of Kentucky in 2016, we don’t have a digitized version of the original 1921 or 1926 texts, which would be in the Public Domain and available to Project Gutenberg.
-
-## 504 Gateway Timeouts
-
-Thanks to the amazing support we receive from the folks at ibiblio, the Project Gutenberg website is able to deliver a truly enormous amount of content \- these days it’s not unusual to deliver 4 million ebooks in a single day. Unfortunately, a lot of that goes to abusive scraping bots run on behalf of *hundreds* of AI companies. Despite a number of measures in place to slow these bots (so far without needing to force users to fill out captchas) occasionally the system is overwhelmed. When that happens, you may encounter a “504 Gateway Timeout” page when trying to use Project Gutenberg. Please be aware that we’re doing our best to deal with this problem. *Here’s a secret*: often, you can try our not-ready-for-prime-time server by replacing “www” in our domain name with “dev”. And, *not a secret*: you can download the text from ALL of our books (10 gigabytes) with a single click from our “feeds” directory: 
-
-\<[https://www.gutenberg.org/cache/epub/feeds/](https://www.gutenberg.org/cache/epub/feeds/)\>
-
-## New Releases at Gutenberg.org \- March 2026 
-
-In the last month PGLAF added another **258** new public domain eBooks to the PG catalog. Of these **183** were added by PGDP.  Thank you to all the volunteers who have helped to make these new titles freely available to the world.  
+In the last month PGLAF added another **244** new public domain eBooks to the PG catalog. Of these **143** were added by PGDP.  Thank you to all the volunteers who have helped to make these new titles freely available to the world.  
 
 The month’s eBooks are listed here (the list was getting too long for the newsletter\!):
 
-\<[https://gutenberg.org/newsletter/202603.html](https://gutenberg.org/newsletter/202603.html)\> 
+\<[https://gutenberg.org/newsletter/202604.html](https://gutenberg.org/newsletter/202604.html)\> 
 
 A selection of this month’s notable and interesting titles:
 
-* [The mysterious Mr. Quin](https://www.gutenberg.org/ebooks/78084/) - Agatha Christie
-* [1066 and all that](https://www.gutenberg.org/ebooks/78124/) - Walter Carruthers Sellar and Robert Julian Yeatman
-* [Peter Pan](https://www.gutenberg.org/ebooks/78131/) - J. M. Barrie
-* [Handbook of nature-study for teachers and parents](https://www.gutenberg.org/ebooks/78142/) - Anna Botsford Comstock
-* [Art and the human spirit](https://www.gutenberg.org/ebooks/78154/) - Edward Howard Griggs
-* [Strong poison](https://www.gutenberg.org/ebooks/78157/) - Dorothy L. Sayers
-* [Murder at the vicarage](https://www.gutenberg.org/ebooks/78220/) - Agatha Christie
-* [Many inventions](https://www.gutenberg.org/ebooks/78240/) - Rudyard Kipling
-* [The age of the Earth](https://www.gutenberg.org/ebooks/78241/) - Arthur Holmes
-* [The Mudfog papers, etc.](https://www.gutenberg.org/ebooks/78245/) - Charles Dickens
-* [Wild volatile-oil plants and their economic importance](https://www.gutenberg.org/ebooks/78246/) - Frank Rabak
-* [Principia mathematica, vol. 2 (of 3)](https://www.gutenberg.org/ebooks/78255/) - Alfred North Whitehead and Bertrand Russell
-* [A brief outline of the history of libraries](https://www.gutenberg.org/ebooks/78256/) - Justus Lipsius
-* [A city milk and cream contest as a practical method of improving the milk supply](https://www.gutenberg.org/ebooks/78261/) - Clarence Bronson Lane and Ivan C. Weld
-* [Slang and its analogues past and present, volume 1 [of 7]](https://www.gutenberg.org/ebooks/78263/) - John Stephen Farmer and William Ernest Henley
-* [It's time something happened](https://www.gutenberg.org/ebooks/78266/) - Arthur Doyle
-* [Psychopathology and politics](https://www.gutenberg.org/ebooks/78273/) - Harold D. Lasswell
-* [Under the big top](https://www.gutenberg.org/ebooks/78288/) - Courtney Ryley Cooper
-* [Ukrainian folk songs](https://www.gutenberg.org/ebooks/78295/) - Humphrey Kowalsky
-* [Two hundred recipes for making salads, with thirty recipes for dressings and sauces](https://www.gutenberg.org/ebooks/78314/) - Olive M. Hulse
-* [Collected poems of Robert Frost](https://www.gutenberg.org/ebooks/78327/) - Robert Frost
+* [The great sea-serpent](https://www.gutenberg.org/ebooks/78334/) - A. C. Oudemans
+* [The limerick up to date book](https://www.gutenberg.org/ebooks/78335/) - Ethel Watts Mumford Grant
+* [Partners in crime](https://www.gutenberg.org/ebooks/78342/) - Agatha Christie
+* [Essay on comets](https://www.gutenberg.org/ebooks/78362/) - David Milne-Home
+* [The knitting teacher's assistant](https://www.gutenberg.org/ebooks/78371/) - Elvina Mary Corbould
+* [Knots](https://www.gutenberg.org/ebooks/78376/) - Arthur F. Aldridge
+* [The platypus](https://www.gutenberg.org/ebooks/78386/) - Harry Burrell
+* [A secret agent in Port Arthur](https://www.gutenberg.org/ebooks/78388/) - Wirt Gerrare
+* [The tortoiseshell cat](https://www.gutenberg.org/ebooks/78428/) - Naomi Royde-Smith
+* [Murder in Paris](https://www.gutenberg.org/ebooks/78435/) - Alice Campbell
+* [The foray of Queen Meave, and other legends of Ireland's heroic age](https://www.gutenberg.org/ebooks/78491/) - Aubrey De Vere
+* [The fairy caravan](https://www.gutenberg.org/ebooks/78504/) - Beatrix Potter
+* [Sex at choice](https://www.gutenberg.org/ebooks/78509/) - Mrs. Monteith Erskine
+* [The new gas from radium](https://www.gutenberg.org/ebooks/78513/) - Ernest Rutherford and Harriet Brooks
+* [Homo-sexual life](https://www.gutenberg.org/ebooks/78514/) - William J. Fielding and E. Haldeman-Julius
+* [Samhain, Issue 1, October 1901](https://www.gutenberg.org/ebooks/78522/) - W. B. Yeats
+* [Caruso's method of voice production](https://www.gutenberg.org/ebooks/78546/) - P. Mario Marafioti
+* [Believe it or not! [1929]](https://www.gutenberg.org/ebooks/78557/) - Robert L. Ripley
 
 
 ## Links
