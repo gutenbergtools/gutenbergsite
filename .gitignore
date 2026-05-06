@@ -8,16 +8,16 @@ _config_local.yml
 .jekyll-cache/
 .jekyll-metadata
 vendor
+.php-cs-fixer.cache
 
 # generated files
 _includes/latest_covers.html
 _includes/random_covers.html
 _includes/popular_covers.html
 
-
-
 # Misc
 to_delete
 BACKUP
 .aider*
 .DS_Store
+

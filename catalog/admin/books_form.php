@@ -1,15 +1,15 @@
 <?php
 
 set_include_path(get_include_path() . PATH_SEPARATOR . "/public/vhost/g/gutenberg/dev/private/lib/php");
-include_once ("pgcat.phh");
+include_once("pgcat.phh");
 
-authenticate ();
+authenticate();
 
-pageheader ("Books");
+pageheader("Books");
 
-echo ("<h2>Search a book</h2>\n");
+echo("<h2>Search a book</h2>\n");
 
-form_open ("books_list");
+form_open("books_list");
 ?>
 
 <table class="dialog" cellspacing=\"2\" cellpadding=\"4\" width=\"100%\">
@@ -38,10 +38,9 @@ form_open ("books_list");
 </tr>
 </table>
 
-<?php 
-form_close ();
+<?php
+form_close();
 
-echo ("<h2><a href=\"book?mode=add\">Add a book</a></h2>\n");
+echo("<h2><a href=\"book?mode=add\">Add a book</a></h2>\n");
 
-pagefooter (); 
-?>
+pagefooter();

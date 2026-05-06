@@ -1,25 +1,25 @@
 <?php
 
 set_include_path(get_include_path() . PATH_SEPARATOR . "/public/vhost/g/gutenberg/dev/private/lib/php");
-include_once ("pgcat.phh");
+include_once("pgcat.phh");
 
-authenticate ();
+authenticate();
 
-pageheader ($caption = "IP Activity Monitor");
+pageheader($caption = "IP Activity Monitor");
 
-p ("My IP: {$_SERVER['REMOTE_ADDR']}");
-p ("Collecting data ...");
-flush ();
+p("My IP: {$_SERVER['REMOTE_ADDR']}");
+p("Collecting data ...");
+flush();
 
 
 for ($i = 0; $i < 60; $i++) {
-  $ip = mmcache_get ("pglastip");
-  $ips[$ip]++;
-  sleep (1);
+    $ip = mmcache_get("pglastip");
+    $ips[$ip]++;
+    sleep(1);
 }
 
 foreach ($ips as $ip => $cnt) {
-  p ("$ip => $cnt");
+    p("$ip => $cnt");
 }
 
 /*
@@ -105,9 +105,9 @@ flush ();
 // Recent
 
 $db->exec ("
-select date, ip, hits, restricted from robots.hit_totals 
+select date, ip, hits, restricted from robots.hit_totals
 union
-select current_date, ip, count (ip), sum (restricted) from robots.hits 
+select current_date, ip, count (ip), sum (restricted) from robots.hits
 group by ip having count (ip) > 1000
 order by date desc, ip;
 ");
@@ -123,6 +123,4 @@ $table->PrintTable ($db, "Recently Active Robots");
 flush ();
 */
 
-pagefooter ();
-
-?>
+pagefooter();

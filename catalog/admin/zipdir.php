@@ -1,27 +1,27 @@
 <?php
 
 set_include_path(get_include_path() . PATH_SEPARATOR . "/public/vhost/g/gutenberg/dev/private/lib/php");
-include_once ("pgcat.phh");
+include_once("pgcat.phh");
 
-authenticate ();
+authenticate();
 
-pageheader ("Zip File Directory");
+pageheader("Zip File Directory");
 
-getstr ("file");
+getstr("file");
 
 $root = "/public/ftp/pub/docs/books/gutenberg/";
-$file = realpath ("$root$file");
+$file = realpath("$root$file");
 
-if (!preg_match ("|^$root|", $file) || (!$hd = fopen ($file, "r"))) {
-  // serve only files below root
-  p ("I see no such file here");
-  exit;
+if (!preg_match("|^$root|", $file) || (!$hd = fopen($file, "r"))) {
+    // serve only files below root
+    p("I see no such file here");
+    exit;
 }
 
-fclose ($hd);
+fclose($hd);
 
-$file = escapeshellarg ($file);
-echo ("<pre>\n" . shell_exec ("./unzip -lv $file") . "\n</pre>\n");
+$file = escapeshellarg($file);
+echo("<pre>\n" . shell_exec("./unzip -lv $file") . "\n</pre>\n");
 
 /*
 class ZipdirTable extends ListTable {
@@ -54,6 +54,4 @@ $table->toprows = $array;
 $table->PrintTable (null, "Zip Directory");
 */
 
-pagefooter ();
-
-?>
+pagefooter();
