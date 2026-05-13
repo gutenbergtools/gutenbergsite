@@ -45,7 +45,7 @@ Accessibility work is never done.
 
 The AltPoet Project aims to address the inconsistent use of alt-text in the Gutenberg corpus. In 2024 we took a census of the images in our books and found that our collection has more than 400,000 images without the appropriate “alt-text” needed to make the books more accessible.
 
-Currently at [https://altpoet.ebookfoundation.org/](altpoet.ebookfoundation.org), Altpoet is a tool that allows volunteers ("alt-poets") to view images and alt-text in context, create new alt-text, edit alt-text created by AI services, and identify images that are decorative in nature, and thus need appropriate mark-up.
+Currently at [altpoet.ebookfoundation.org](https://altpoet.ebookfoundation.org), Altpoet is a tool that allows volunteers ("alt-poets") to view images and alt-text in context, create new alt-text, edit alt-text created by AI services, and identify images that are decorative in nature, and thus need appropriate mark-up.
 
 
 Creating alt text requires some training and a different set of skills from the proofreading and HTML formatting work that Distributed Proofreaders and Project Gutenberg have done so well at. I’m hoping that people who care about accessibility and have a knack for describing things will try out AltPoet. It's currently close to being completed, but it's ready to try out so we can refine the user interface.
