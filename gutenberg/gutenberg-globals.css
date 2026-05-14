@@ -939,7 +939,7 @@ test_index for latest covers from gutenberg1*/
   color: #003366;
   line-height: 1.35;
   white-space: normal;
-  overflow-wrap: anywhere;
+  overflow-wrap: break-word;
 }
 
 .bibrec_page .similar-books-tag:hover,
@@ -3179,16 +3179,33 @@ h1 .icon {
 }
 
 #social > ul {
+  margin: 0;
   padding: 0;
   list-style: none outside none;
-}
-
-#social > ul > li {
-  display: inline-block;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
 }
 
 #qr {
-  margin-top: 2em;
+  margin-top: 0.4em;
+}
+
+#qr .qr-details > summary {
+  cursor: pointer;
+  font-size: 16px;
+  color: #003366;
+  list-style: none;
+  user-select: none;
+  text-decoration: underline;
+}
+
+#qr .qr-details > summary::-webkit-details-marker {
+  display: none;
+}
+
+#qr .qr-details[open] > summary {
+  margin-bottom: 0.6em;
 }
 
 @media screen and (max-width: 768px) {
@@ -3271,11 +3288,6 @@ h1 .icon {
 #reading_help_hint a {
   text-decoration: underline;
   color: #003366;
-}
-
-
-.bibrec_page .download-section {
-  container-type: inline-size;
 }
 
 @media (max-width: 960px) {
@@ -3587,6 +3599,7 @@ top: 14px;
 
 .bibrec_page #social {
   margin-top: 0.5em;
+  margin-left: -3px;
 }
 
 /* ----- Summary typography ----- */
@@ -3606,7 +3619,7 @@ top: 14px;
 /* ----- Read Online Now! button ----- */
 
 .bibrec_page .read-online-wrapper {
-  margin: 1.0em 0 3em;
+  margin: 1.5em 0 2.5em;
 }
 
 @media (max-width: 768px) {
@@ -3739,9 +3752,10 @@ top: 14px;
 .bibrec_page .featured-format-tips {
   display: flex;
   flex-direction: column;
-  gap: 6px;
-  margin-top: 16px;
-  font-size: 16px;
+  gap: 10px;
+  margin-top: 20px;
+  font-size: 17px;
+  line-height: 1.4;
   color: #444;
 }
 
@@ -3762,7 +3776,7 @@ top: 14px;
     flex-wrap: wrap;
   }
   .bibrec_page .featured-format-tips {
-    font-size: 15px;
+    font-size: 16px;
   }
 }
 
@@ -3805,7 +3819,7 @@ top: 14px;
 
 .bibrec_page .other-formats-summary {
   cursor: pointer;
-  font-size: 20px;
+  font-size: 21px;
   font-weight: bold;
   color: #333;
   user-select: none;
@@ -3869,7 +3883,7 @@ top: 14px;
 
 @media (max-width: 768px) {
   .bibrec_page .other-formats-summary {
-    font-size: 18px;
+    font-size: 20px;
   }
   .bibrec_page .other-format-link {
     font-size: 16px;
