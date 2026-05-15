@@ -899,15 +899,55 @@ test_index for latest covers from gutenberg1*/
   color: #003366;
 }
 
-/* Increase font size for similar books links */
-.similar-books-link {
-  font-size: 1.1em;
-  font-weight: 500;
-  transition: font-size 0.2s ease;
+/* ----- Similar Books / Bookshelf links ----- */
+
+.bibrec_page #more_stuff {
+  margin-top: 2.5rem;
+  max-width: 800px;
 }
 
-.similar-books-link:hover {
-  font-size: 1.15em;
+@media (max-width: 768px) {
+  .bibrec_page #more_stuff {
+    max-width: 100%;
+  }
+}
+
+.bibrec_page .similar-books-tags {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 10px 12px;
+  margin-top: 1rem;
+}
+
+@media (max-width: 768px) {
+  .bibrec_page .similar-books-tags {
+    justify-content: center;
+  }
+}
+
+.bibrec_page .similar-books-tag:link,
+.bibrec_page .similar-books-tag:visited {
+  display: inline-block;
+  max-width: 100%;
+  padding: 10px 16px;
+  background: #f4f4f4;
+  border: 1px solid #d0d0d0;
+  border-radius: 6px;
+  font-size: 1.05em;
+  text-decoration: none;
+  color: #003366;
+  line-height: 1.35;
+  white-space: normal;
+  overflow-wrap: break-word;
+}
+
+.bibrec_page .similar-books-tag:hover,
+.bibrec_page .similar-books-tag:focus {
+  background: #e6e6e6;
+  border-color: #b8b8b8;
+  text-decoration: none;
+  color: #003366;
 }
 
 
@@ -935,7 +975,7 @@ test_index for latest covers from gutenberg1*/
   padding-right: 5vw;
 }
 
-@media screen and (max-width: 1025px) {
+@media screen and (max-width: 1024px) {
   .bibrec_page div .page_content {
     margin-top: 30px;
   }
@@ -3118,10 +3158,6 @@ h1 .icon {
   width: 200px;
 }
 
-#cover img {
-  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.7);
-}
-
 #no-cover {
   width: 200px;
   height: 300px;
@@ -3143,16 +3179,33 @@ h1 .icon {
 }
 
 #social > ul {
+  margin: 0;
   padding: 0;
   list-style: none outside none;
-}
-
-#social > ul > li {
-  display: inline-block;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
 }
 
 #qr {
-  margin-top: 2em;
+  margin-top: 0.4em;
+}
+
+#qr .qr-details > summary {
+  cursor: pointer;
+  font-size: 16px;
+  color: #003366;
+  list-style: none;
+  user-select: none;
+  text-decoration: underline;
+}
+
+#qr .qr-details > summary::-webkit-details-marker {
+  display: none;
+}
+
+#qr .qr-details[open] > summary {
+  margin-bottom: 0.6em;
 }
 
 @media screen and (max-width: 768px) {
@@ -3172,7 +3225,7 @@ h1 .icon {
 @media (max-width: 768px) {
 
   #tabs-wrapper {
-    margin: 50px 0 0 0;
+    margin: 20px 0 0 0;
   }
 
   #tabs {
@@ -3207,7 +3260,8 @@ h1 .icon {
 
 /* When checkbox is checked, show the toggle text and the 'Show Less' label */
 /* new selectors */
-#toggle:checked ~ .toggle-content, #toggle:checked ~ label span.showless {
+.bibrec_page #toggle:checked ~ .toggle-content,
+.bibrec_page #toggle:checked ~ label span.showless {
   display: inline;
 }
 /* old selector */
@@ -3217,7 +3271,8 @@ h1 .icon {
 
 /* When checkbox is checked, hide 'Read More' */
 /* new selectors */
-#toggle:checked ~ label span.readmore,  #toggle:checked ~ label span.readmoredots{
+.bibrec_page #toggle:checked ~ label span.readmore,
+.bibrec_page #toggle:checked ~ label span.readmoredots {
   display: none;
 }
 /* old selector */
@@ -3235,38 +3290,29 @@ h1 .icon {
   color: #003366;
 }
 
-@media (max-width: 750px) {
-  #reading_help_hint {
-    text-align: center;
+@media (max-width: 960px) {
+  .bibrec_page #reading_help_hint .reading-help-extra {
+    display: none;
   }
 }
 
 /* Custom styles for tables and headers */
-#download_options_table,
 #about_book_table {
   background-color: white;
   border-collapse: collapse;
   border: none;
 }
 
-#download_options_table {
-  margin-top: 0px;
-}
-
-#download_options_table th,
-#download_options_table td,
 #about_book_table th,
 #about_book_table td {
   border-color: #d6d3d1;
   padding: 8px 6px;
 }
 
-#download_options_table th,
 #about_book_table th {
   background-color: #e7e5e4;
 }
 
-#download_options_table td,
 #about_book_table td {
   background-color: #fafafa;
 }
@@ -3285,6 +3331,7 @@ h1 .icon {
 @media screen and (max-width: 768px) {
   #book_title {
     font-size: 1.5rem;
+    text-align: center;
   }
 }
 
@@ -3537,3 +3584,373 @@ top: 14px;
     background: #f0f0f0;
   }
 }
+
+/* ==========================================================================
+   Bibrec page redesign (2026) — rules scoped under .bibrec_page
+   ========================================================================== */
+
+/* ----- Cover image ----- */
+
+.bibrec_page #cover img {
+  border: 1px solid #d6d3d1;
+}
+
+/* ----- Cover / social spacing ----- */
+
+.bibrec_page #social {
+  margin-top: 0.5em;
+  margin-left: -3px;
+}
+
+/* ----- Summary typography ----- */
+
+.bibrec_page .summary-text-container {
+  font-size: 18px;
+  line-height: 1.5;
+  max-width: max(800px, 80%);
+}
+
+@media (max-width: 768px) {
+  .bibrec_page .summary-text-container {
+    max-width: 100%;
+  }
+}
+
+/* ----- Read Online Now! button ----- */
+
+.bibrec_page .read-online-wrapper {
+  margin: 1.5em 0 2.5em;
+}
+
+@media (max-width: 768px) {
+  .bibrec_page .read-online-wrapper {
+    text-align: center;
+  }
+}
+
+.bibrec_page a.read-online-button:link,
+.bibrec_page a.read-online-button:visited {
+  display: inline-block;
+  padding: 10px clamp(12px, 8vw, 55px);
+  background-color: #c7dde3;
+  color: #3e444d;
+  font-weight: bold;
+  font-size: 17px;
+  letter-spacing: 0.3px;
+  text-decoration: none;
+  border: none;
+  border-radius: 3px;
+  transition: background-color 0.2s ease;
+}
+
+.bibrec_page a.read-online-button:hover,
+.bibrec_page a.read-online-button:focus {
+  background-color: #b3d2da;
+  color: black;
+  text-decoration: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .bibrec_page .read-online-button,
+  .bibrec_page .featured-format-row,
+  .bibrec_page .featured-format-actions a,
+  .bibrec_page .other-format-actions a {
+    transition: none;
+  }
+}
+
+/* ----- Featured EPUB3 card ----- */
+
+.bibrec_page .featured-format {
+  margin: 0 0 1.2em;
+}
+
+.bibrec_page .featured-format-row {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  background: #eaf3ea;
+  border-radius: 4px;
+  border-left: 3px solid #28a745;
+  transition: background-color 0.2s ease;
+}
+
+.bibrec_page .featured-format-row:hover {
+  background: #d9ead9;
+}
+
+.bibrec_page a.featured-format-link:link,
+.bibrec_page a.featured-format-link:visited {
+  /* basis at max-content so the row wraps the cloud icons to a new line
+     rather than letting the link shrink and break "Recommended" text */
+  flex: 1 1 max-content;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 12px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.bibrec_page a.featured-format-link:hover,
+.bibrec_page a.featured-format-link:focus {
+  background: transparent;
+}
+
+.bibrec_page a.featured-format-link:hover .featured-format-name,
+.bibrec_page a.featured-format-link:focus .featured-format-name {
+  text-decoration: underline;
+}
+
+.bibrec_page .featured-format-name {
+  font-size: 18px;
+  font-weight: 600;
+  text-decoration: underline;
+  color: #1a1a1a;
+}
+
+.bibrec_page .featured-format-recommended {
+  font-size: 14px;
+  font-weight: 600;
+  color: #2d5f2e;
+  text-decoration: none;
+}
+
+.bibrec_page .featured-format-recommended .recommended-bang {
+  display: none;
+}
+
+@media (max-width: 540px) {
+  .bibrec_page .featured-format-recommended .recommended-extra {
+    display: none;
+  }
+  .bibrec_page .featured-format-recommended .recommended-bang {
+    display: inline;
+  }
+}
+
+.bibrec_page .featured-format-actions {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  padding: 10px 12px;
+  background: #eaf3ea;
+  border-radius: 0 4px 4px 0;
+}
+
+.bibrec_page .featured-format-actions a {
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
+}
+
+.bibrec_page .featured-format-actions a:hover {
+  opacity: 1;
+  background: transparent;
+}
+
+.bibrec_page .featured-format-tips {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+  font-size: 17px;
+  line-height: 1.4;
+  color: #444;
+}
+
+.bibrec_page .featured-format-tips strong {
+  color: #333;
+}
+
+.bibrec_page .featured-format-tips a {
+  text-decoration: underline;
+}
+
+.bibrec_page .full-reading-guide-link {
+  color: #003366;
+}
+
+@media (max-width: 768px) {
+  .bibrec_page .featured-format-link {
+    flex-wrap: wrap;
+  }
+  .bibrec_page .featured-format-tips {
+    font-size: 16px;
+  }
+}
+
+/* ----- Outer download card ----- */
+
+.bibrec_page .download-section {
+  margin: 0.8em 0 1.2em;
+  padding: 24px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  max-width: 800px;
+}
+
+.bibrec_page .download-section #download_options_header {
+  margin-top: 0;
+  margin-bottom: 0.2em;
+}
+
+.bibrec_page .download-section #reading_help_hint {
+  margin-top: 0;
+  margin-bottom: 0.2em;
+  color: #666;
+  font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  .bibrec_page .download-section {
+    padding: 16px;
+    max-width: 100%;
+  }
+  .bibrec_page #download_options_header,
+  .bibrec_page #reading_help_hint {
+    text-align: center;
+  }
+}
+
+
+/* ----- Other formats disclosure ----- */
+
+.bibrec_page .other-formats-summary {
+  cursor: pointer;
+  font-size: 21px;
+  font-weight: bold;
+  color: #333;
+  user-select: none;
+}
+
+.bibrec_page .other-formats-list {
+  margin-top: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.bibrec_page .other-format-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 8px 12px;
+  background: #f8f8f8;
+  border-radius: 4px;
+  border-left: 3px solid #ccc;
+}
+
+.bibrec_page .other-format-info {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.bibrec_page .other-format-link {
+  font-size: 17px;
+  color: #003366;
+}
+
+.bibrec_page .other-format-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.bibrec_page .other-format-actions a {
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
+}
+
+.bibrec_page .other-format-actions a:hover {
+  opacity: 1;
+}
+
+@media (max-width: 475px) {
+  .bibrec_page .other-format-actions {
+    flex-basis: 100%;
+  }
+}
+
+.bibrec_page .other-formats-more {
+  margin-top: 4px;
+  margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .bibrec_page .other-formats-summary {
+    font-size: 20px;
+  }
+  .bibrec_page .other-format-link {
+    font-size: 16px;
+  }
+}
+
+/* Flat format list (no-EPUB3 case): a touch more breathing room from
+   the heading, since there's no intro paragraph between them. */
+.bibrec_page .download-section > .other-formats-list--flat {
+  margin-top: 16px;
+}
+
+/* ----- About this E-Book table ----- */
+
+.bibrec_page #about_book_table {
+  width: 56em;
+  max-width: 100%;
+  border: none;
+  margin-top: 1.25em;
+}
+
+.bibrec_page #about_book_table col.narrow {
+  width: 10em;
+}
+
+.bibrec_page #about_book_table th,
+.bibrec_page #about_book_table td {
+  background-color: white;
+  border-color: #e8e8e8;
+  padding: 0.65em 0.75em;
+  overflow-wrap: break-word;
+}
+
+/* Labels never wrap; values do (variability-aware departure from reference). */
+.bibrec_page #about_book_table th {
+  white-space: nowrap;
+}
+
+/* Strip the perimeter — only internal grid lines remain. */
+.bibrec_page #about_book_table tr:first-child th,
+.bibrec_page #about_book_table tr:first-child td {
+  border-top: none;
+}
+
+.bibrec_page #about_book_table tr:last-child th,
+.bibrec_page #about_book_table tr:last-child td {
+  border-bottom: none;
+}
+
+.bibrec_page #about_book_table th:first-child {
+  border-left: none;
+}
+
+.bibrec_page #about_book_table td:last-child {
+  border-right: none;
+}
+
+@media (max-width: 768px) {
+  .bibrec_page #about_book_table {
+    width: 100%;
+  }
+  .bibrec_page #about_book_table th,
+  .bibrec_page #about_book_table td {
+    padding: 0.4em 0.5em;
+  }
+  .bibrec_page #about_book_table th {
+    white-space: normal;
+  }
+}
+
