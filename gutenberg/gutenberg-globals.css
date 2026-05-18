@@ -3589,6 +3589,26 @@ top: 14px;
    Bibrec page redesign (2026) — rules scoped under .bibrec_page
    ========================================================================== */
 
+/* ----- iPad-Chrome horizontal-overflow guard -----
+   iPad Chrome auto-scales text on pages whose viewport meta tag isn't fully
+   mobile-optimized, which pushes em-based widths (e.g. #about_book_table's
+   56em) past viewport and tips the page into horizontal scroll. The first
+   rule stops the scaling; the next two are belt-and-braces caps so any
+   future overflow is contained without affecting other pages. */
+
+.bibrec_page {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body.bibrec_page {
+  overflow-x: clip;
+}
+
+.bibrec_page .container {
+  min-width: 0;
+}
+
 /* ----- Cover image ----- */
 
 .bibrec_page #cover img {
@@ -3941,8 +3961,9 @@ top: 14px;
   border-right: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .bibrec_page #about_book_table {
+    table-layout: fixed;
     width: 100%;
   }
   .bibrec_page #about_book_table th,
