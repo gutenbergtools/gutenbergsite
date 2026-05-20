@@ -15,8 +15,6 @@ class ListBooksTable extends ListTable {
   function __construct () {
     $this->AddColumn ("<a href=\"book?mode=edit&fk_books=#fk_books#\">Edit</a>",
 		      "<a href=\"book?mode=add\">Add</a>", "left", "1%");
-    $this->AddColumn ("<a href=\"book?mode=delete&fk_books=#fk_books#\">Delete</a>",
-		      "", "left", "1%");
     $this->AddSimpleColumn ("fk_books", "Nr.", "right", "1%");
     $this->AddSimpleColumn ("author", "Author");
     $this->AddSimpleColumn ("title",  "Title");
