@@ -1,17 +1,15 @@
 <?php
 
 set_include_path(get_include_path() . PATH_SEPARATOR . "/public/vhost/g/gutenberg/dev/private/lib/php");
-include ("pgcat.phh");
-authenticate ();
+include("pgcat.phh");
+authenticate();
 
-header ("Content-Type: text/plain");
+header("Content-Type: text/plain");
 
-echo ("vmstat\n\n");
+echo("vmstat\n\n");
 
-system ('vmstat -s', $retval);
+system('vmstat -s', $retval);
 
-echo ("ps\n\n");
+echo("ps\n\n");
 
-system ('ps -e -H -o pid,ppid,stime,tty,rss,vsz,pmem,args', $retval);
-
-?>
+system('ps -e -H -o pid,ppid,stime,tty,rss,vsz,pmem,args', $retval);

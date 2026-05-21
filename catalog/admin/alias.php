@@ -1,66 +1,64 @@
 <?php
 
 set_include_path(get_include_path() . PATH_SEPARATOR . "/public/vhost/g/gutenberg/dev/private/lib/php");
-include_once ("pgcat.phh");
-include_once ("sqlform.phh");
+include_once("pgcat.phh");
+include_once("sqlform.phh");
 
-authenticate ();
+authenticate();
 
-$db = $config->db ();
-$db->logger = new logger ();
+$db = $config->db();
+$db->logger = new logger();
 
-getstr ("mode");
-getint ("fk_aliases");
-getint ("fk_authors");
+getstr("mode");
+getint("fk_aliases");
+getint("fk_authors");
 
-$caption = ucfirst ($mode);
+$caption = ucfirst($mode);
 
-$f = new SQLForm ();
+$f = new SQLForm();
 
-if (ismode ("add")) {
-  $f->SQLInject ("fk_authors", "fk_authors", SQLINT);
+if (ismode("add")) {
+    $f->SQLInject("fk_authors", "fk_authors", SQLINT);
 }
-$f->Text      ("alias", "alias", "Alias", SQLCHAR, 80, 240, true);
+$f->Text("alias", "alias", "Alias", SQLCHAR, 80, 240, true);
 
-$f->KeySelect ("alias_heading",  "alias_heading", "Heading",    SQLINT,  10,   2, false);
-$f->last->PushOptions ($titles_heading);
-$f->last->ToolTip  ("Should this alias generate a user-visible heading?");
+$f->KeySelect("alias_heading", "alias_heading", "Heading", SQLINT, 10, 2, false);
+$f->last->PushOptions($titles_heading);
+$f->last->ToolTip("Should this alias generate a user-visible heading?");
 
-$f->LoadData ("select * from aliases where pk = $fk_aliases");
+$f->LoadData("select * from aliases where pk = $fk_aliases");
 
-$f->Hidden ("fk_aliases");
-$f->Hidden ("fk_authors");
+$f->Hidden("fk_aliases");
+$f->Hidden("fk_authors");
 
-if (ismode ("delete")) {
-  $f->SubCaption ("You are about to delete this alias. " .
-                  "Press the '$caption' button to continue or " . 
-		  "hit the back button on your browser to dismiss.");
-}
-
-if (isupdatemode ("add")) {
-  if ($f->Check ()) {
-    $sql = $f->mkInsert ($db->GetFormatter ());
-    $retcode = $db->Exec ("insert into aliases " . $sql);
-  }
-}
-if (isupdatemode ("edit")) {
-  if ($f->Check ()) {
-    $sql = $f->mkUpdate ($db->GetFormatter ());
-    $retcode = $db->Exec ("update aliases set " . $sql . "where pk = $fk_aliases");
-  }
-}
-if (isupdatemode ("delete")) {
-  $retcode = $db->Exec ("delete from aliases where pk = $fk_aliases");
+if (ismode("delete")) {
+    $f->SubCaption("You are about to delete this alias. " .
+                    "Press the '$caption' button to continue or " .
+            "hit the back button on your browser to dismiss.");
 }
 
-if (isupdate ()) {
-  $msg = confirmation_msg ($retcode, $mode, "alias");
-  header ("Location: author?mode=edit&fk_authors=$fk_authors&$msg");
-  return;
+if (isupdatemode("add")) {
+    if ($f->Check()) {
+        $sql = $f->mkInsert($db->GetFormatter());
+        $retcode = $db->Exec("insert into aliases " . $sql);
+    }
+}
+if (isupdatemode("edit")) {
+    if ($f->Check()) {
+        $sql = $f->mkUpdate($db->GetFormatter());
+        $retcode = $db->Exec("update aliases set " . $sql . "where pk = $fk_aliases");
+    }
+}
+if (isupdatemode("delete")) {
+    $retcode = $db->Exec("delete from aliases where pk = $fk_aliases");
 }
 
-pageheader ("$caption Author Alias");
-$f->Output ($caption, $caption);
-pagefooter ();
+if (isupdate()) {
+    $msg = confirmation_msg($retcode, $mode, "alias");
+    header("Location: author?mode=edit&fk_authors=$fk_authors&$msg");
+    return;
+}
 
-?>
+pageheader("$caption Author Alias");
+$f->Output($caption, $caption);
+pagefooter();

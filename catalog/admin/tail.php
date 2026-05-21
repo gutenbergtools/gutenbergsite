@@ -3,15 +3,13 @@
 ob_start("ob_gzhandler");
 
 set_include_path(get_include_path() . PATH_SEPARATOR . "/public/vhost/g/gutenberg/dev/private/lib/php");
-include ("pgcat.phh");
-authenticate ();
+include("pgcat.phh");
+authenticate();
 
-getstr ("file");
+getstr("file");
 
-header ("Content-Type: text/plain");
+header("Content-Type: text/plain");
 
-echo ("Tail: $file\n\n");
+echo("Tail: $file\n\n");
 
-system ('tail -n 200 ' . escapeshellarg ($file), $retval);
-
-?>
+system('tail -n 200 ' . escapeshellarg($file), $retval);

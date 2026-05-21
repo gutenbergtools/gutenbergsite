@@ -1,47 +1,55 @@
 <?php
 
 set_include_path(get_include_path() . PATH_SEPARATOR . "/public/vhost/g/gutenberg/dev/private/lib/php");
-include_once ("pgcat.phh");
+include_once("pgcat.phh");
 
-authenticate ();
+authenticate();
 
-getstr ("filter");
-pageheader ($caption = "Subjects $filter");
+getstr("filter");
+pageheader($caption = "Subjects $filter");
 
-class ListSubjectsTable extends ListTable {
-  function __construct () {
-    global $filter;
-    $prefix = "<a href=\"subject?filter=$filter&mode";
-    $this->AddColumn ("$prefix=edit&fk_subjects=#pk#\">Edit</a>",
-		      "$prefix=add\">Add</a>", "left", "1%");
-    $this->AddColumn ("$prefix=delete&fk_subjects=#pk#\">Delete</a>",
-		      "", "left", "1%");
-    $this->AddSimpleColumn ("subject", "Subject");
-    $this->AddSimpleColumn("pk", "Internal #");
-  }
+class ListSubjectsTable extends ListTable
+{
+    public function __construct()
+    {
+        global $filter;
+        $prefix = "<a href=\"subject?filter=$filter&mode";
+        $this->AddColumn(
+            "$prefix=edit&fk_subjects=#pk#\">Edit</a>",
+            "$prefix=add\">Add</a>",
+            "left",
+            "1%"
+        );
+        $this->AddColumn(
+            "$prefix=delete&fk_subjects=#pk#\">Delete</a>",
+            "",
+            "left",
+            "1%"
+        );
+        $this->AddSimpleColumn("subject", "Subject");
+        $this->AddSimpleColumn("pk", "Internal #");
+    }
 }
 
-$db = $config->db ();
+$db = $config->db();
 
-echo ("
+echo("
 <p>Please enter the first few characters of the subject (at least one).
 Search is case-sensitive.
 Use * as wildcard. (eg. *Fiction)
 To see everything just enter *.</p>
 ");
 
-form_open ();
-echo ("  <input type=\"text\" name=\"filter\" value=\"$filter\"/>\n");
-form_submit ("Search");
-form_close ();
+form_open();
+echo("  <input type=\"text\" name=\"filter\" value=\"$filter\"/>\n");
+form_submit("Search");
+form_close();
 
 if ($filter != "") {
-  $filt = preg_replace ('/\*/', '%', $filter);
-  $db->exec ("select * from subjects where subject like '$filt%' order by subject;");
-  $table = new ListSubjectsTable ();
-  $table->PrintTable ($db, $caption);
+    $filt = preg_replace('/\*/', '%', $filter);
+    $db->exec("select * from subjects where subject like '$filt%' order by subject;");
+    $table = new ListSubjectsTable();
+    $table->PrintTable($db, $caption);
 }
 
-pagefooter ();
-
-?>
+pagefooter();

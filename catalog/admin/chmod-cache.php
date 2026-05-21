@@ -1,6 +1,6 @@
 <?php
-echo ('<p>start ...</p>');
-flush ();
+echo('<p>start ...</p>');
+flush();
 
 /*
 for ($i = 0; $i < 31000; $i++) {
@@ -9,11 +9,9 @@ for ($i = 0; $i < 31000; $i++) {
     echo ("<p>$i</p>");
     flush ();
   }
-} 
+}
 */
 
-echo (`chmod -R 777 /public/vhost/g/gutenberg/html/cache/wiki/*`);
+echo(`chmod -R 777 /public/vhost/g/gutenberg/html/cache/wiki/*`);
 
-echo ('<p>done</p>');
-
-?>
+echo('<p>done</p>');
