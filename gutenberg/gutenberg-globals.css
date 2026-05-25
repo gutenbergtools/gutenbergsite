@@ -3194,7 +3194,7 @@ h1 .icon {
 #qr .qr-details > summary {
   cursor: pointer;
   font-size: 16px;
-  color: #003366;
+  color: #3e444d;
   list-style: none;
   user-select: none;
   text-decoration: underline;
@@ -3674,7 +3674,8 @@ body.bibrec_page {
   .bibrec_page .read-online-button,
   .bibrec_page .featured-format-row,
   .bibrec_page .featured-format-actions a,
-  .bibrec_page .other-format-actions a {
+  .bibrec_page .other-format-actions a,
+  .bibrec_page .other-formats-summary::before {
     transition: none;
   }
 }
@@ -3841,8 +3842,41 @@ body.bibrec_page {
   cursor: pointer;
   font-size: 21px;
   font-weight: bold;
-  color: #333;
+  color: #3e444d;
+  text-decoration: underline;
   user-select: none;
+  list-style: none;
+}
+
+.bibrec_page .other-formats-summary::-webkit-details-marker {
+  display: none;
+}
+
+.bibrec_page .other-formats-summary::before {
+  content: '';
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-top: 7px solid transparent;
+  border-bottom: 7px solid transparent;
+  border-left: 9px solid #427E94;
+  margin-right: 10px;
+  vertical-align: middle;
+  transition: transform 0.15s ease;
+}
+
+.bibrec_page details[open] > .other-formats-summary::before {
+  transform: rotate(90deg);
+}
+
+.bibrec_page .other-formats-summary:hover,
+.bibrec_page .other-formats-summary:focus {
+  color: #1a1a1a;
+}
+
+.bibrec_page .other-formats-summary:hover::before,
+.bibrec_page .other-formats-summary:focus::before {
+  border-left-color: #2f6478;
 }
 
 .bibrec_page .other-formats-list {
@@ -3907,6 +3941,12 @@ body.bibrec_page {
   }
   .bibrec_page .other-format-link {
     font-size: 16px;
+  }
+}
+
+@media (max-width: 400px) {
+  .bibrec_page .other-formats-summary {
+    font-size: 17px;
   }
 }
 
