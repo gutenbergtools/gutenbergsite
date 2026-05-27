@@ -11,15 +11,15 @@ Mirroring How-To
 
 <div class="contents">
 <ol>
-<li><a href="#Connectivity">Connectivity</a></li>
-<li><a href="#Collections_and_Metadata">Collections and Metadata</a></li>
-<li><a href="#Software">Software</a></li>
-<li><a href="#Using_rsync">Using rsync</a>
+<li><a href="#connectivity">Connectivity</a></li>
+<li><a href="#collections-and-metadata">Collections and Metadata</a></li>
+<li><a href="#software">Software</a></li>
+<li><a href="#using-rsync">Using rsync</a>
 <ol class="inner_1">
-<li><a href="#Refreshing_the_Mirror">Refreshing the Mirror</a></li>
+<li><a href="#refreshing-the-mirror">Refreshing the Mirror</a></li>
 </ol>
 </li>
-<li><a href="#Getting_Your_Mirror_Listed">Getting Your Mirror Listed</a></li>
+<li><a href="#getting-your-mirror-listed">Getting Your Mirror Listed</a></li>
 </ol>
 </div>
 
