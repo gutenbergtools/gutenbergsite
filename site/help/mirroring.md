@@ -31,7 +31,7 @@ We offer two distinct collections:
 - the "main" collection consists of our manually curated HTML and plain text files, their zip archives, and audio files
 - the "generated" collection includes EPUB and MOBI (a.k.a., Kindle) files, generated HTML, and more automatically generated files
 
-Information about each collection size is available in the [metadata.json](//www.gutenberg.org/dirs/metadata.json) file at the base of the main collection. There are around 6 million files, over 60 languages, and dozens of different file formats. If creating a private mirror, you may opt to mirror only the zip files or to leave out the audio files, or other variations. The rsync "--exclude" option may be used for this.
+Information about each collection size is available in the [metadata.json](//www.gutenberg.org/dirs/metadata.json) file at the base of the main collection. There are around 6 million files, over 60 languages, and dozens of different file formats. If creating a private mirror, you may opt to mirror only the zip files or to leave out the audio files, or other variations. The rsync `--exclude` option may be used for this.
 
 The main collection changes daily, as new items are added or updated. The generated content may be regenerated in big batches resulting traffic spikes when refreshing the mirror.
 
