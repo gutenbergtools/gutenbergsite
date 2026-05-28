@@ -3840,7 +3840,7 @@ body.bibrec_page {
 
 .bibrec_page .other-formats-summary {
   cursor: pointer;
-  font-size: 21px;
+  font-size: 1.3125em;
   font-weight: bold;
   color: #3e444d;
   text-decoration: underline;
@@ -3857,10 +3857,10 @@ body.bibrec_page {
   display: inline-block;
   width: 0;
   height: 0;
-  border-top: 7px solid transparent;
-  border-bottom: 7px solid transparent;
-  border-left: 9px solid #427E94;
-  margin-right: 10px;
+  border-top: 0.333em solid transparent;
+  border-bottom: 0.333em solid transparent;
+  border-left: 0.429em solid #427E94;
+  margin-right: 0.476em;
   vertical-align: middle;
   transition: transform 0.15s ease;
 }
@@ -3906,7 +3906,7 @@ body.bibrec_page {
 }
 
 .bibrec_page .other-format-link {
-  font-size: 17px;
+  font-size: 1.0625em;
   color: #003366;
 }
 
@@ -3937,16 +3937,16 @@ body.bibrec_page {
 
 @media (max-width: 768px) {
   .bibrec_page .other-formats-summary {
-    font-size: 20px;
+    font-size: 1.25em;
   }
   .bibrec_page .other-format-link {
-    font-size: 16px;
+    font-size: 1em;
   }
 }
 
 @media (max-width: 400px) {
   .bibrec_page .other-formats-summary {
-    font-size: 17px;
+    font-size: 1.0625em;
   }
 }
 
