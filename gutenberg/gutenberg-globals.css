@@ -3625,7 +3625,7 @@ body.bibrec_page {
 /* ----- Summary typography ----- */
 
 .bibrec_page .summary-text-container {
-  font-size: 18px;
+  font-size: 1.125em;
   line-height: 1.5;
   max-width: max(800px, 80%);
 }
@@ -3655,7 +3655,7 @@ body.bibrec_page {
   background-color: #c7dde3;
   color: #3e444d;
   font-weight: bold;
-  font-size: 17px;
+  font-size: 1.0625em;
   letter-spacing: 0.3px;
   text-decoration: none;
   border: none;
@@ -3725,14 +3725,14 @@ body.bibrec_page {
 }
 
 .bibrec_page .featured-format-name {
-  font-size: 18px;
+  font-size: 1.125em;
   font-weight: 600;
   text-decoration: underline;
   color: #1a1a1a;
 }
 
 .bibrec_page .featured-format-recommended {
-  font-size: 14px;
+  font-size: 0.875em;
   font-weight: 600;
   color: #2d5f2e;
   text-decoration: none;
@@ -3775,7 +3775,7 @@ body.bibrec_page {
   flex-direction: column;
   gap: 10px;
   margin-top: 20px;
-  font-size: 17px;
+  font-size: 1.0625em;
   line-height: 1.4;
   color: #444;
 }
@@ -3797,7 +3797,7 @@ body.bibrec_page {
     flex-wrap: wrap;
   }
   .bibrec_page .featured-format-tips {
-    font-size: 16px;
+    font-size: 1em;
   }
 }
 
@@ -3821,7 +3821,7 @@ body.bibrec_page {
   margin-top: 0;
   margin-bottom: 0.2em;
   color: #666;
-  font-size: 16px;
+  font-size: 1em;
 }
 
 @media (max-width: 768px) {
