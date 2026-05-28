@@ -3193,7 +3193,7 @@ h1 .icon {
 
 #qr .qr-details > summary {
   cursor: pointer;
-  font-size: 16px;
+  font-size: 1em;
   color: #003366;
   list-style: none;
   user-select: none;
