@@ -1939,7 +1939,7 @@ test_index for latest covers from gutenberg1*/
 }
 
 .full-text-search form input[type="submit"]:hover {
-    border-color: #888;
+    border-color: #555;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Match advanced search button hover */
 }
 
