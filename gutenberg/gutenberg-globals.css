@@ -3915,6 +3915,12 @@ body.bibrec_page {
   gap: 8px;
 }
 
+.bibrec_page .other-format-size,
+.bibrec_page .featured-format-size {
+  font-size: 0.90625em;
+  color: #888;
+}
+
 .bibrec_page .other-format-actions a {
   opacity: 0.7;
   transition: opacity 0.2s ease;
@@ -3924,7 +3930,9 @@ body.bibrec_page {
   opacity: 1;
 }
 
-@media (max-width: 475px) {
+/* Force the icons + size onto their own line in the awkward width bands where
+   the longest format title would otherwise wrap inconsistently across rows. */
+@media (min-width: 769px) and (max-width: 825px), (max-width: 512px) {
   .bibrec_page .other-format-actions {
     flex-basis: 100%;
   }
