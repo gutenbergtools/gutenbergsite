@@ -1939,7 +1939,7 @@ test_index for latest covers from gutenberg1*/
 }
 
 .full-text-search form input[type="submit"]:hover {
-    border-color: #888;
+    border-color: #555;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Match advanced search button hover */
 }
 
@@ -3788,10 +3788,6 @@ body.bibrec_page {
   text-decoration: underline;
 }
 
-.bibrec_page .full-reading-guide-link {
-  color: #003366;
-}
-
 @media (max-width: 768px) {
   .bibrec_page .featured-format-link {
     flex-wrap: wrap;
@@ -3906,13 +3902,19 @@ body.bibrec_page {
 }
 
 .bibrec_page .other-format-link {
-  font-size: 1.0625em;
+  font-size: 1em;
   color: #003366;
 }
 
 .bibrec_page .other-format-actions {
   display: flex;
   gap: 8px;
+}
+
+.bibrec_page .other-format-size,
+.bibrec_page .featured-format-size {
+  font-size: 0.90625em;
+  color: #888;
 }
 
 .bibrec_page .other-format-actions a {
@@ -3924,7 +3926,9 @@ body.bibrec_page {
   opacity: 1;
 }
 
-@media (max-width: 475px) {
+/* Force the icons + size onto their own line in the awkward width bands where
+   the longest format title would otherwise wrap inconsistently across rows. */
+@media (min-width: 769px) and (max-width: 825px), (max-width: 512px) {
   .bibrec_page .other-format-actions {
     flex-basis: 100%;
   }
