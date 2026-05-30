@@ -3788,10 +3788,6 @@ body.bibrec_page {
   text-decoration: underline;
 }
 
-.bibrec_page .full-reading-guide-link {
-  color: #003366;
-}
-
 @media (max-width: 768px) {
   .bibrec_page .featured-format-link {
     flex-wrap: wrap;
