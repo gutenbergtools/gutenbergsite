@@ -88,7 +88,7 @@ Also on June 15, the metadata files du-sk, ls-R, and related files will no longe
 
 ## New Releases at Gutenberg.org \- May 2026 
 
-In the last month PGLAF added another **\#\#** new public domain eBooks to the PG catalog. Of these **\#\#** were added by PGDP.  Thank you to all the volunteers who have helped to make these new titles freely available to the world.  
+In the last month PGLAF added another **211* new public domain eBooks to the PG catalog. Of these **112** were added by PGDP.  Thank you to all the volunteers who have helped to make these new titles freely available to the world.  
 
 The month’s eBooks are listed here (the list was getting too long for the newsletter\!):
 
