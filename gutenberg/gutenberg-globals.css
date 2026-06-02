@@ -1939,7 +1939,7 @@ test_index for latest covers from gutenberg1*/
 }
 
 .full-text-search form input[type="submit"]:hover {
-    border-color: #888;
+    border-color: #555;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Match advanced search button hover */
 }
 
@@ -3193,7 +3193,7 @@ h1 .icon {
 
 #qr .qr-details > summary {
   cursor: pointer;
-  font-size: 16px;
+  font-size: 1em;
   color: #003366;
   list-style: none;
   user-select: none;
@@ -3625,7 +3625,7 @@ body.bibrec_page {
 /* ----- Summary typography ----- */
 
 .bibrec_page .summary-text-container {
-  font-size: 18px;
+  font-size: 1.125em;
   line-height: 1.5;
   max-width: max(800px, 80%);
 }
@@ -3655,7 +3655,7 @@ body.bibrec_page {
   background-color: #c7dde3;
   color: #3e444d;
   font-weight: bold;
-  font-size: 17px;
+  font-size: 1.0625em;
   letter-spacing: 0.3px;
   text-decoration: none;
   border: none;
@@ -3674,7 +3674,8 @@ body.bibrec_page {
   .bibrec_page .read-online-button,
   .bibrec_page .featured-format-row,
   .bibrec_page .featured-format-actions a,
-  .bibrec_page .other-format-actions a {
+  .bibrec_page .other-format-actions a,
+  .bibrec_page .other-formats-summary::before {
     transition: none;
   }
 }
@@ -3724,14 +3725,14 @@ body.bibrec_page {
 }
 
 .bibrec_page .featured-format-name {
-  font-size: 18px;
+  font-size: 1.125em;
   font-weight: 600;
   text-decoration: underline;
   color: #1a1a1a;
 }
 
 .bibrec_page .featured-format-recommended {
-  font-size: 14px;
+  font-size: 0.875em;
   font-weight: 600;
   color: #2d5f2e;
   text-decoration: none;
@@ -3774,7 +3775,7 @@ body.bibrec_page {
   flex-direction: column;
   gap: 10px;
   margin-top: 20px;
-  font-size: 17px;
+  font-size: 1.0625em;
   line-height: 1.4;
   color: #444;
 }
@@ -3787,16 +3788,12 @@ body.bibrec_page {
   text-decoration: underline;
 }
 
-.bibrec_page .full-reading-guide-link {
-  color: #003366;
-}
-
 @media (max-width: 768px) {
   .bibrec_page .featured-format-link {
     flex-wrap: wrap;
   }
   .bibrec_page .featured-format-tips {
-    font-size: 16px;
+    font-size: 1em;
   }
 }
 
@@ -3820,7 +3817,7 @@ body.bibrec_page {
   margin-top: 0;
   margin-bottom: 0.2em;
   color: #666;
-  font-size: 16px;
+  font-size: 1em;
 }
 
 @media (max-width: 768px) {
@@ -3839,10 +3836,43 @@ body.bibrec_page {
 
 .bibrec_page .other-formats-summary {
   cursor: pointer;
-  font-size: 21px;
+  font-size: 1.3125em;
   font-weight: bold;
-  color: #333;
+  color: #3e444d;
+  text-decoration: underline;
   user-select: none;
+  list-style: none;
+}
+
+.bibrec_page .other-formats-summary::-webkit-details-marker {
+  display: none;
+}
+
+.bibrec_page .other-formats-summary::before {
+  content: '';
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-top: 0.333em solid transparent;
+  border-bottom: 0.333em solid transparent;
+  border-left: 0.429em solid #427E94;
+  margin-right: 0.476em;
+  vertical-align: middle;
+  transition: transform 0.15s ease;
+}
+
+.bibrec_page details[open] > .other-formats-summary::before {
+  transform: rotate(90deg);
+}
+
+.bibrec_page .other-formats-summary:hover,
+.bibrec_page .other-formats-summary:focus {
+  color: #1a1a1a;
+}
+
+.bibrec_page .other-formats-summary:hover::before,
+.bibrec_page .other-formats-summary:focus::before {
+  border-left-color: #2f6478;
 }
 
 .bibrec_page .other-formats-list {
@@ -3872,13 +3902,19 @@ body.bibrec_page {
 }
 
 .bibrec_page .other-format-link {
-  font-size: 17px;
+  font-size: 1em;
   color: #003366;
 }
 
 .bibrec_page .other-format-actions {
   display: flex;
   gap: 8px;
+}
+
+.bibrec_page .other-format-size,
+.bibrec_page .featured-format-size {
+  font-size: 0.90625em;
+  color: #888;
 }
 
 .bibrec_page .other-format-actions a {
@@ -3890,7 +3926,9 @@ body.bibrec_page {
   opacity: 1;
 }
 
-@media (max-width: 475px) {
+/* Force the icons + size onto their own line in the awkward width bands where
+   the longest format title would otherwise wrap inconsistently across rows. */
+@media (min-width: 769px) and (max-width: 825px), (max-width: 512px) {
   .bibrec_page .other-format-actions {
     flex-basis: 100%;
   }
@@ -3903,10 +3941,16 @@ body.bibrec_page {
 
 @media (max-width: 768px) {
   .bibrec_page .other-formats-summary {
-    font-size: 20px;
+    font-size: 1.25em;
   }
   .bibrec_page .other-format-link {
-    font-size: 16px;
+    font-size: 1em;
+  }
+}
+
+@media (max-width: 400px) {
+  .bibrec_page .other-formats-summary {
+    font-size: 1.0625em;
   }
 }
 

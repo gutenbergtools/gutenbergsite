@@ -3,33 +3,32 @@
 // delete fileinfos of removed files
 
 set_include_path(get_include_path() . PATH_SEPARATOR . "/public/vhost/g/gutenberg/dev/private/lib/php");
-include_once ("pgcat.phh");
+include_once("pgcat.phh");
 
-$cli = php_sapi_name () == "cli";
+$cli = php_sapi_name() == "cli";
 if (!$cli) {
-  exit ();
+    exit();
 }
 
-include_once ("sqlform.phh");
+include_once("sqlform.phh");
 
-$db = $config->db ();
+$db = $config->db();
 
-set_time_limit (0);
+set_time_limit(0);
 
 $cnt = 0;
-$db->Exec ("select filename from files where diskstatus = 5 order by filename");
-if ($db->FirstRow ()) {
-  do {
-    $filename = $db->Get ("filename", SQLCHAR);
-    $infofile = "$config->privateroot/fileinfo/$filename.info";
-    echo ("unlinking $infofile\n");
-    if (unlink ($infofile))
-       $cnt++;
-  } while ($db->NextRow ());
+$db->Exec("select filename from files where diskstatus = 5 order by filename");
+if ($db->FirstRow()) {
+    do {
+        $filename = $db->Get("filename", SQLCHAR);
+        $infofile = "$config->privateroot/fileinfo/$filename.info";
+        echo("unlinking $infofile\n");
+        if (unlink($infofile)) {
+            $cnt++;
+        }
+    } while ($db->NextRow());
 }
 
-echo ("unlinked $cnt files.\n");
+echo("unlinked $cnt files.\n");
 
-echo ("Done.\n");
-
-?>
+echo("Done.\n");

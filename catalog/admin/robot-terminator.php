@@ -1,19 +1,21 @@
 <?php
 
-$cli = php_sapi_name () == "cli";
-if (!$cli) exit ();
+$cli = php_sapi_name() == "cli";
+if (!$cli) {
+    exit();
+}
 
 set_include_path(get_include_path() . PATH_SEPARATOR . "/public/vhost/g/gutenberg/dev/private/lib/php");
-include ("pgcat.phh");
+include("pgcat.phh");
 
-$db = $config->db ();
-$db->exec ("update robots.blocks set expires = null where expires <= timestamp 'now'");
-$db->exec ("delete from robots.ips where lastseen < (timestamp 'now' - interval '1 days');");
-$db->exec ("vacuum robots.ips;");
+$db = $config->db();
+$db->exec("update robots.blocks set expires = null where expires <= timestamp 'now'");
+$db->exec("delete from robots.ips where lastseen < (timestamp 'now' - interval '1 days');");
+$db->exec("vacuum robots.ips;");
 
-$db2 = $config->db ();
+$db2 = $config->db();
 
-$db2->exec ("select robots.ips.*, robots.blocks.expires > timestamp 'now' as blocked from robots.ips 
+$db2->exec("select robots.ips.*, robots.blocks.expires > timestamp 'now' as blocked from robots.ips 
 left join robots.blocks on robots.ips.ip = robots.blocks.ip
 
 where 
@@ -31,26 +33,26 @@ where
 ");
 
 
-if ($db2->FirstRow ()) {
-  $r = new robots ();
-  do {
-    $ip = $db2->get ("ip", SQLCHAR);
-    $r->block ($ip);
-    $host = $r->host ($ip);
+if ($db2->FirstRow()) {
+    $r = new robots();
+    do {
+        $ip = $db2->get("ip", SQLCHAR);
+        $r->block($ip);
+        $host = $r->host($ip);
 
-    $to      = $config->email_webmaster;
-    $subject = 'Blocked IP address';
-    $message = "Robot $host ($ip) blocked.";
-    $headers = "From: robot-terminator@gutenberg.org\r\n" .
-      "Reply-To: $config->email_webmaster\r\n";
-    
-    // echo "$message\n";
+        $to = $config->email_webmaster;
+        $subject = 'Blocked IP address';
+        $message = "Robot $host ($ip) blocked.";
+        $headers = "From: robot-terminator@gutenberg.org\r\n" .
+          "Reply-To: $config->email_webmaster\r\n";
 
-    if (!mail ($to, $subject, $message, $headers)) {
-      echo ("could not send email\n");
-    }
+        // echo "$message\n";
 
-  } while ($db2->NextRow ());
+        if (!mail($to, $subject, $message, $headers)) {
+            echo("could not send email\n");
+        }
+
+    } while ($db2->NextRow());
 }
 
 
@@ -63,12 +65,12 @@ $s .= `grep -i '^Deny From [0-9]' $config->documentroot/.htaccess`;
 
 $s .= "\n# temporary bans\n\n";
 
-$db->exec ("select * from robots.blocks where expires > timestamp 'now' order by ip");
-if ($db->FirstRow ()) {
-  do {
-    $ip = $db->get ("ip", SQLCHAR);
-    $s .= "Deny From $ip\n";
-  } while ($db->NextRow ());
+$db->exec("select * from robots.blocks where expires > timestamp 'now' order by ip");
+if ($db->FirstRow()) {
+    do {
+        $ip = $db->get("ip", SQLCHAR);
+        $s .= "Deny From $ip\n";
+    } while ($db->NextRow());
 }
 
 $s .= "\n# end of file\n";
@@ -77,12 +79,10 @@ $s .= "\n# end of file\n";
 
 $file = "$config->documentroot/catalog/.htaccess";
 
-$fp = fopen ($file, "w");
+$fp = fopen($file, "w");
 if ($fp) {
-  fwrite ($fp, $s);
-  fclose ($fp);
+    fwrite($fp, $s);
+    fclose($fp);
 } else {
-  echo ("Cannot write to $file\n");
+    echo("Cannot write to $file\n");
 }
-
-?>

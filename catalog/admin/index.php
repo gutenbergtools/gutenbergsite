@@ -1,11 +1,11 @@
 <?php
 
 set_include_path(get_include_path() . PATH_SEPARATOR . "/public/vhost/g/gutenberg/dev/private/lib/php");
-include_once ("pgcat.phh");
+include_once("pgcat.phh");
 
-authenticate ();
+authenticate();
 
-pageheader ("Administration Index");
+pageheader("Administration Index");
 ?>
 
 <h2>Read This First</h2>
@@ -134,6 +134,5 @@ already entered.</p>
 <p>Manage mirrors.</p>
 
 
-<?php 
-pagefooter (); 
-?>
+<?php
+pagefooter();
