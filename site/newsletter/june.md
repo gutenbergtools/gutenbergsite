@@ -4,7 +4,7 @@ title: Newsletter | Project Gutenberg
 permalink: /newsletter/june.html
 ---
 
-# **Project Gutenberg News - June 2026 **
+# — Project Gutenberg News - June 2026 —
 
 —*Enjoy these eBooks. Share them. Celebrate them*.—
 
