@@ -13,7 +13,7 @@ permalink: /
 <!-- Latest Books -->
 <div class="library">
   <div class="box_shadow">
-    <p><span class="more_recent">Newest Releases</span> <a href="/ebooks/search/?sort_order=release_date" id="more_recent" title="find more recent releases">find more</a></p>
+    <p><span class="label">Newest Releases</span> <a href="/ebooks/search/?sort_order=release_date" id="more_recent" title="find more recent releases">find more</a></p>
     <div class="lib latest no-select">
     {% include latest_covers.html %}
    </div>
