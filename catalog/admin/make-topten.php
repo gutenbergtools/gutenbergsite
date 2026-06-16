@@ -22,12 +22,15 @@ if ($docroot) {
 
 function mk_header($title)
 {
-    global $config;
-    return "<?php
-  include (\"pgbrowse.phh\");
-  \$config->page_encoding = \"UTF-8\";
-  pageheader (\"$title\");
-?>\n\n";
+    $safeTitle = htmlspecialchars($title, ENT_QUOTES, 'UTF-8');
+    return "<!doctype html>\n"
+            . "<html lang=\"en\">\n"
+            . "<head>\n"
+            . "  <meta charset=\"UTF-8\">\n"
+            . "  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n"
+            . "  <title>$safeTitle</title>\n"
+            . "</head>\n"
+            . "<body>\n\n";
 }
 
 $dir = "browse";
@@ -178,7 +181,7 @@ foreach ($langs as $l) {
         $langwhere = "fk_langs = '$lang' AND ";
     }
 
-    if ($hd = fopen($file = "$config->documentroot/$dir_scores/top$filesuffix.php", "w")) {
+    if ($hd = fopen($file = "$config->documentroot/$dir_scores/top$filesuffix.html", "w")) {
         echo("writing $file ... downloads ...\n");
 
         $d1 = downloads("$langwhere date >= current_date - interval '1 days'");
@@ -273,7 +276,7 @@ foreach ($langs as $l) {
 
         fputs($hd, $links);
 
-        fputs($hd, "<?php pagefooter (); ?>\n");
+        fputs($hd, "</body>\n</html>\n");
         fclose($hd);
 
         echo(" done.\n");
