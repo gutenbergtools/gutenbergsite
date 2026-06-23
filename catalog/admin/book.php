@@ -190,22 +190,17 @@ $db->logger = new logger();
 $f = new SQLForm();
 getint("fk_books");
 
-if (ismode("delete")) {
-    $f->SubCaption("You are about to delete this book.");
-    $f->SubCaption("Press the '$caption' button to continue or hit " .
-            "the back button on your browser to dismiss.");
-} else {
-    $f->Text("pk", "pk", "EText Nr.", SQLINT, 20, 5, true);
-    $f->ToolTip("Enter the ebook number.");
-    $f->Text("release_date", "release_date", "Release Date", SQLCHAR, 20, 20, false);
-    $f->ToolTip("Enter the official release date.");
-    $f->CheckBox("copyrighted", "copyrighted", "Copyrighted", SQLINT);
-    $f->ToolTip("Check if book is copyrighted.");
-    $f->CheckBox("updatemode", "updatemode", "Manual Update", SQLINT);
-    $f->ToolTip("Check if book is manually updated.");
+$f->Text("pk", "pk", "EText Nr.", SQLINT, 20, 5, true);
+$f->ToolTip("Enter the ebook number.");
+$f->Text("release_date", "release_date", "Release Date", SQLCHAR, 20, 20, false);
+$f->ToolTip("Enter the official release date.");
+$f->CheckBox("copyrighted", "copyrighted", "Copyrighted", SQLINT);
+$f->ToolTip("Check if book is copyrighted.");
+$f->CheckBox("updatemode", "updatemode", "Manual Update", SQLINT);
+$f->ToolTip("Check if book is manually updated.");
 
-    $f->LoadData("select * from books where pk = $fk_books");
-}
+$f->LoadData("select * from books where pk = $fk_books");
+
 $f->Hidden("fk_books");
 
 if (isupdatemode("add")) {
@@ -227,22 +222,6 @@ if (isupdatemode("edit")) {
         } else {
             error_msg("Could not modify book !");
         }
-    }
-}
-if (isupdatemode("delete")) {
-    $db->exec("delete from files               where fk_books = $fk_books");
-    $db->exec("delete from attributes          where fk_books = $fk_books");
-    $db->exec("delete from reviews.reviews     where fk_books = $fk_books");
-    $db->Exec("delete from mn_books_authors    where fk_books = $fk_books");
-    $db->Exec("delete from mn_books_langs      where fk_books = $fk_books");
-    $db->Exec("delete from mn_books_loccs      where fk_books = $fk_books");
-    $db->Exec("delete from mn_books_subjects   where fk_books = $fk_books");
-    $db->Exec("delete from mn_books_categories where fk_books = $fk_books");
-    $db->Exec("delete from tweets              where fk_books = $fk_books");
-    if ($db->Exec("delete from books where pk = $fk_books")) {
-        msg("Book deleted !");
-    } else {
-        error_msg("Could not delete book !");
     }
 }
 
