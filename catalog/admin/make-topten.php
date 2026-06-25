@@ -181,11 +181,7 @@ foreach ($langs as $l) {
 
     fputs ($hd, mk_header ("Top $titlesuffix"));
 
-    $s = <<< EOF
-<h1>Frequently Viewed or Downloaded</h1>
-EOF;
-
-    fputs ($hd, $s);
+    fputs ($hd, "<h1>Frequently Viewed or Downloaded</h1>\n\n");
 
     $links = "  <style>
     #books-downloads-nav { display: inline-block; overflow: auto; border: solid 1px #eee; padding: 1em; background: #fafafa;}
