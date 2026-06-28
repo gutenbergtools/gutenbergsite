@@ -3524,7 +3524,7 @@ top: 14px;
 
 /* ---------- Hero ---------- */
 .pgx-hero { margin: 28px 0 16px; }
-.pgx #slogan { margin: 0 0 18px; padding-bottom: 0; font-size: clamp(2.6rem, 4.6vw, 3.1rem); font-weight: 400; line-height: 1.1; letter-spacing: -0.01em; }
+.pgx #slogan { margin: 0 0 18px; padding-bottom: 0; font-size: clamp(2.5rem, 4.6vw, 2.7rem); font-weight: 400; line-height: 1.1; letter-spacing: -0.01em; }
 .pgx .pgx-mission {
   margin: 0 0 32px;
   max-width: 60em;
