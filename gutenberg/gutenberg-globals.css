@@ -3583,13 +3583,13 @@ top: 14px;
 .pgx .category-grid a:visited { color: #1f2428; background: #fafbfc; border-color: #e3e7ea; }
 .pgx .category-grid a:hover { color: #1f2428; background: #eef1f3; border-color: #e3e7ea; transform: translateY(-3px); box-shadow: 0 6px 14px rgba(0,0,0,0.08); }
 
-/* strip the old boxy card chrome around shelves */
+/* shelf card — subtle teal tint (lighter than the .top-header #7ebed0) wrapping header + rail */
 .pgx .library { margin: 0; }
 .pgx .library .box_shadow {
-  background: transparent;
+  background: #eef6f9;
   border: none;
-  border-radius: 0;
-  padding: 0;
+  border-radius: 12px;
+  padding: 22px 24px;
   margin: 0;
   box-shadow: none;
 }
@@ -3636,7 +3636,7 @@ top: 14px;
 .pgx.homepage a.pgx-shelf-more:hover { color: var(--pgx-teal); background: #eef1f3; text-decoration: none; }
 .pgx.homepage a.pgx-shelf-more:hover span { opacity: 1; transform: translateX(2px); }
 
-/* the scrolling track — visible thin scrollbar (no JS arrows) */
+/* the scrolling track (tint comes from the .box_shadow card above) */
 .pgx-rail { position: relative; }
 /* right-edge fade: persistent "scroll for more" cue (no JS, all browsers) */
 .pgx-rail::after {
@@ -3644,13 +3644,13 @@ top: 14px;
   position: absolute;
   top: 0; right: 0; bottom: 8px;
   width: 36px;
-  background: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,0.8));
+  background: linear-gradient(to right, rgba(238,246,249,0), rgba(238,246,249,0.9));
   pointer-events: none;
   z-index: 4;
 }
 .pgx .lib.latest {
   gap: 0; /* overrides base .lib.latest gap:28px; spacing via margin fallback below */
-  padding: 18px 4px 18px 14px;
+  padding: 14px 0;
   scroll-snap-type: x proximity;
   scroll-behavior: smooth;
 }
