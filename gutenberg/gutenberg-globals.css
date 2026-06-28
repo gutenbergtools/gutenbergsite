@@ -3567,7 +3567,7 @@ top: 14px;
 
 /* ---------- Shelf flow ---------- */
 .pgx-flow { display: flex; flex-direction: column; }
-.pgx-flow-popular { margin-top: 48px; margin-bottom: 62px; }
+.pgx-flow-newest { margin-top: 48px; margin-bottom: 62px; }
 
 .pgx .category-grid { margin-top: 36px; margin-bottom: 62px; gap: 30px; }
 .pgx .category-grid a { font-size: 1.2rem; padding: 19px 24px; flex-basis: 330px; white-space: nowrap; }
@@ -3916,7 +3916,7 @@ top: 14px;
 
 @media (max-width: 600px) {
   .pgx #slogan { font-size: clamp(2.5rem, 7.5vw, 2.6rem); }
-  .pgx-flow-popular { margin-top: 44px; margin-bottom: 44px; }
+  .pgx-flow-newest { margin-top: 44px; margin-bottom: 44px; }
   .pgx-card { padding: 28px 22px; }
 }
 

@@ -8,7 +8,7 @@ permalink: /
 
 <!-- ============ Hero ============ -->
 <section class="pgx-hero">
-  <h1 id="slogan">75,000+ free eBooks</h1>
+  <h1 id="slogan">A library of 75,000+ free eBooks</h1>
 
   <p class="pgx-mission">Choose among free eBooks to download or read online. You will find the world's great literature here. Thousands of Project Gutenberg volunteers have digitized and proofread these books for you.</p>
 
@@ -22,18 +22,18 @@ permalink: /
 <!-- ============ Shelves + categories ============ -->
 <div class="pgx-flow">
 
-  <div class="pgx-flow-popular">
+  <div class="pgx-flow-newest">
     <div class="library">
       <div class="box_shadow">
         <div class="pgx-shelf-head">
           <div class="pgx-shelf-titles">
-            <span class="pgx-shelf-title">Most Popular</span>
+            <span class="pgx-shelf-title">New Releases</span>
           </div>
-          <a class="pgx-shelf-more" href="/ebooks/search/?sort_order=downloads" id="more_popular" title="Find more popular books">Browse all <span aria-hidden="true">&rarr;</span></a>
+          <a class="pgx-shelf-more" href="/ebooks/search/?sort_order=release_date" id="more_recent" title="find more recent releases">Browse all <span aria-hidden="true">&rarr;</span></a>
         </div>
         <div class="pgx-rail">
           <div class="lib latest no-select">
-          {% include popular_covers.html %}
+          {% include latest_covers.html %}
           </div>
         </div>
       </div>
@@ -60,18 +60,18 @@ permalink: /
     </div>
   </div>
 
-  <div class="pgx-flow-newest">
+  <div class="pgx-flow-popular">
     <div class="library">
       <div class="box_shadow">
         <div class="pgx-shelf-head">
           <div class="pgx-shelf-titles">
-            <span class="pgx-shelf-title">New Releases</span>
+            <span class="pgx-shelf-title">Most Popular</span>
           </div>
-          <a class="pgx-shelf-more" href="/ebooks/search/?sort_order=release_date" id="more_recent" title="find more recent releases">Browse all <span aria-hidden="true">&rarr;</span></a>
+          <a class="pgx-shelf-more" href="/ebooks/search/?sort_order=downloads" id="more_popular" title="Find more popular books">Browse all <span aria-hidden="true">&rarr;</span></a>
         </div>
         <div class="pgx-rail">
           <div class="lib latest no-select">
-          {% include latest_covers.html %}
+          {% include popular_covers.html %}
           </div>
         </div>
       </div>
