@@ -134,12 +134,12 @@ Easiest: [read online](#read-online) in your browser.
 
 Use a Reading App:
 
-1. Install an EPUB reading app.
-2. Download the **EPUB3** file.
-3. Open the file — tap your browser's "Open in" prompt or download list, or find the file in the Files app.
+1. Apple's "Books" App is pre-installed. Other EPUB reading apps are available in the App Store.
+2. Download the **EPUB3** file. It will be saved in the "Files" App.
+3. Open the file from the Files app.
 4. Pick a reading app — directly from the prompt, or via the Share button.
 
-Free reading apps include Books (mac, iPhone, iPad), Kindle, Neat Reader, PocketBook, and Bluefire Reader.
+EPUB reading apps for iPad/iPhone include Books (mac, iPhone, iPad), Kindle, Neat Reader and PocketBook Reader.
 
 ## Android
 
@@ -168,7 +168,7 @@ Easiest: [read online](#read-online) in your browser. To read offline, download 
 - **Apple Books** (Mac) — Built into macOS. Clean and simple.
 - **Sumatra PDF** (Windows) — Lightweight and fast. Handles EPUB despite the name.
 
-These are just a few options — there are many other EPUB reading apps available, for example [Koodo Reader](https://github.com/koodo-reader/koodo-reader){:target="_blank"}, [FBReader](https://fbreader.org/){:target="_blank"}, and [Adobe Digital Editions](https://www.adobe.com/solutions/ebook/digital-editions.html){:target="_blank"} etc.
+These are just a few options — there are many other EPUB reading apps available, for example [Koodo Reader](https://github.com/koodo-reader/koodo-reader){:target="_blank"}, [FBReader](https://fbreader.org/){:target="_blank"}. We do not recommend [Adobe Digital Editions](https://www.adobe.com/solutions/ebook/digital-editions.html){:target="_blank"}.
 
 # Plain Text
 

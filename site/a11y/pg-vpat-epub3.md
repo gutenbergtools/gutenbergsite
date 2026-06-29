@@ -26,7 +26,7 @@ Project Gutenberg is a not-for-profit organization driven by volunteers. We welc
 
 ## **Evaluation Methods Used:** 
 
-The EPUB3 files on the Project Gutenberg website are generated using  open source software called Ebookmaker, which is [available for download on Github](https://github.com/gutenbergtools/ebookmaker/).  The EPUB3 files include accessibility metadata and are converted from HTML files also available on the Gutenberg website, and share accessibility attributes and deficits from those files. ACE by Daisy is used to ensure that the conversion process produces suitable files based on the HTML files.
+The EPUB3 files on the Project Gutenberg website are generated using  open source software called Ebookmaker, which is [available for download on Github](https://github.com/gutenbergtools/ebookmaker/).  The EPUB3 files include accessibility metadata and are converted from HTML files also available on the Gutenberg website, and share accessibility attributes and deficits from those files. ACE by Daisy is used to ensure that the conversion process produces suitable files based on the HTML files. WCAG success criteria for EPUB3 are evaluated considering the guidance in [Understanding EPUB Accessibility 1.2](https://w3c.github.io/epub-specs/epub34/a11y-understand/).
 
 ## **Applicable Standards/Guidelines**
 
