@@ -24,8 +24,6 @@ $config->page_encoding = "UTF-8";
 
 function mk_header($title)
 {
-    include_once("pg.phh");
-
     $menu = <<<'MENU'
 <header>
     <input type="radio" name="toggle" id="search-toggle" style="display: none" >
