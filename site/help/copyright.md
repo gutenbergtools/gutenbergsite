@@ -111,6 +111,8 @@ Rule 6 copyright research is only accepted from known volunteers with demonstrat
 #### Preamble
 Project Gutenberg's "Rule 6" from the Copyright How-To provides a mechanism for demonstrating that items no longer have copyright restriction, due to non-renewal of copyright. Rule 6 may only be used for items first published in the US between 95 years ago and December 31, 1963.
 
+Works that are submitted for Rule 6 clearance that are eligible for Project Gutenberg's "Rule 1" will be evaluated for Rule 1 clearance instead of Rule 6. Works that will become eligible for Rule 1 within the next year will not be evaluated for Rule 6 clearance; such works will be evaluated for Rule 1 clearance for the next year.
+
 Based on review of the US Library of Congress' historical renewal records, Project Gutenberg has estimated that over 85% of all registered books and monographs are never renewed. The procedures described here are intended to identify whether a particular item is among those that were not renewed.
 
 These procedures are to enact a good faith effort by Project Gutenberg to establish safe harbor categories of works which clearly are not restricted by copyright due to non-renewal, and whose non-renewal status may be determined unambiguously. These determinations enable PG to move forward and use its resources wisely in its efforts to build its library collection. 
