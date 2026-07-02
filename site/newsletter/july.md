@@ -89,9 +89,6 @@ The month’s eBooks are listed here (the list was getting too long for the news
 
 \<[https://www.gutenberg.org/newsletter/202606.html](https://www.gutenberg.org/newsletter/202606.html)\>  
 
-# A selection of this month’s notable and interesting titles:
-
-\<[https://gutenberg.org/newsletter/202606.html](https://gutenberg.org/newsletter/202606.html)\>  
 
 ## A selection of this month’s notable and interesting titles:
 
