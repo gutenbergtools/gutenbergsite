@@ -1,7 +1,7 @@
 ---
 layout: default
 title: July Newsletter | Project Gutenberg
-permalink: /newsletter/index.html
+permalink: /newsletter/july.html
 ---
 
 # — Project Gutenberg News - July 2026 —
