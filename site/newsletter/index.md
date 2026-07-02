@@ -1,108 +1,123 @@
 ---
 layout: default
-title: Newsletter | Project Gutenberg
+title: July Newsletter | Project Gutenberg
 permalink: /newsletter/index.html
 ---
 
-# — Project Gutenberg News - June 2026 —
+# — Project Gutenberg News - July 2026 —
 
-—*Enjoy these eBooks. Share them. Celebrate them*.—
+— *Enjoy these eBooks. Share them. Celebrate them*. —
 
 ## Contents
 
-* American Library Association celebrates 150 years  
-* Bloomsday  
-* Herman Melville’s Home  
-* Service Changes  
-* New Releases at Gutenberg.org — May 2026  
+* Happy 55th Birthday, Project Gutenberg\!
+* PG at ALA Annual Meeting
+* 100th Anniversary of The Hungry Tiger of Oz
+* 100th Anniversary of The Muder of Roger Ackroyd
+* Do we still need 2 kinds of MOBI?
+* New Releases at Gutenberg.org — June 2026
 * Links
 
-## American Library Association celebrates 150 years
+## Happy 55th Birthday, Project Gutenberg\!
 
-As stated in their blog, the American Library Association (ALA), founded in 1876, “has championed access to information, defended free speech and upheld the power of libraries to transform lives and strengthen democracy.” 
+Project Gutenberg marks its date of birth as July 4th, 1971\. On that day Michael E. Hart got an account on a computer connected to arpa-net and decided to type into it the Declaration of Independence of the United States of America. He messaged some friends about it, and the rest is history, or so the story goes. We record e-text \#1 as having a “posted” date of December 1, 1971\. (And happy 250th, USA.)
 
-Their anniversary blog has entries covering their long history such as National Library Week, Books on Wheels, the Wellesley Half-Dozen, ALA’s historic support of small and rural libraries, and much more. (They even mention Project Gutenberg\!)
+\<[https://www.gutenberg.org/ebooks/1](https://www.gutenberg.org/ebooks/1)\>
 
-You can read their story in the Anniversary Issue of American Libraries Magazine:  
-\<[https://americanlibrariesmagazine.org/magazine/issues/may-2026/](https://americanlibrariesmagazine.org/magazine/issues/may-2026/)\>
+## PG at ALA Annual Meeting
 
-Cooperation with libraries and the library world has become more and more important to Project Gutenberg. Libraries have done a great job presenting free-to-the-reader ebook content in easy to use apps, but it costs them a lot of money. Read what a librarian in North Dakota has to say about the situation:
+Report from the Executive Director: 
 
-Library ebooks tell unfair story:    
-\<[https://www.minotdailynews.com/opinion/local-columnists/2026/04/library-ebooks-tell-unfair-story/](https://www.minotdailynews.com/opinion/local-columnists/2026/04/library-ebooks-tell-unfair-story/)\>
+This past weekend, I attended the American Library Association (ALA) Annual Meeting in Chicago. I’m pretty sure it was the first time in 56 years that Project Gutenberg has been represented at ALA. When I mentioned that in one session, the room broke out in spontaneous applause\!
 
-Project Gutenberg Executive Director Eric Hellman will be attending ALA’s Annual Meeting and Anniversary Celebration in Chicago, June 25-29. If you’d like to meet up with him, send him an email (eric@pglaf.org), he’d love to meet our library-world fans\!
+So many times I would mention PG and folks would tell me how much they used Project Gutenberg, and how much they appreciated the work we do. I would tell them it wasn’t me; it was all the volunteers and the supporters that made it work. If you’re reading this, you’re one of those people\!
 
-## Bloomsday
+At the ebook sessions, there was much discussion about ebook pricing and ownership models. I had it easy: our pricing model is free, and our ownership model is that the books we preserve and distribute belong to all of us. I went to sessions where I learned how libraries were approaching accessibility issues  and in another session I learned about conditions in prison libraries, where somehow we serve many readers.
 
-James Joyce sets the action of his novel *Ulysses* (published in 1922\) on 16 June 1904, the day in his real life when he first walks to the Dublin suburb of Ringsend with his future wife Nora Barnacle (a chambermaid he first met on June 10).
+I met with many people to explore how PG books can integrate with and support the systems that deliver ebooks to libraries. This will be an important direction for us in the coming year\!
 
-\<[https://www.gutenberg.org/ebooks/4300](https://www.gutenberg.org/ebooks/4300)\>
+— Eric Hellman, Executive Director, Project Gutenberg 
 
-On 16 June 1954, a group of Dublin writers — including the already-drunk Brian O'Nolan (Flann O'Brien), poet Patrick Kavanagh, and critic Anthony Cronin — celebrated the first **Bloomsday** (Lá Bloom in Irish) by touring Dublin in horse-drawn cabs, retracing Leopold Bloom's route from *Ulysses*.
+## 100th Anniversary of The Hungry Tiger of Oz
 
-Bloomsday and *Ulysses* has inspired numerous cultural references. In film, Mel Brooks named Gene Wilder's character “Leo Bloom” in *The Producers*; and Richard Linklater set *Before Sunrise* on 16 June and wove *Ulysses* into *Slacker*. The animated series *The Simpsons* also referenced it in a Dublin episode. In music, Kate Bush drew from Molly Bloom's soliloquy; U2's "Breathe" fictionalises the date; the Minutemen named a song "June 16th;" and Fontaines D.C. recorded "Bloomsday" in 2022\. 
+As the twentieth book in the Oz series, the 1926 novel The Hungry Tiger of Oz represents the sixth story penned by Ruth Plumly Thompson. The book, which contains illustrations by John R. Neill, precedes the 1927 release, The Gnome King of Oz.
 
-The First Bloomsday Celebration…    
-\<[https://web.archive.org/web/20160304053716/http://members.ozemail.com.au/\~maelduin/firstbloom.html](https://web.archive.org/web/20160304053716/http://members.ozemail.com.au/~maelduin/firstbloom.html)\> 
+The book elevated the Hungry Tiger from L. Frank Baum’s background comic relief into a central protagonist, deeply exploring his moral dilemma and setting a precedent for giving side characters their own adventures.
 
-…excepted from *Flann O'Brien: an illustrated biography* by Peter Costello and Peter Van de Kamp    
-\<[https://search.worldcat.org/title/Flann-O'Brien-:-an-illustrated-biography/oclc/17231270](https://search.worldcat.org/title/Flann-O'Brien-:-an-illustrated-biography/oclc/17231270)\>
+Written by Ruth Plumly Thompson, the novel highlights the structural shift from Baum’s style. Thompson introduced fast-paced, pun-heavy, and episodic quest narratives, though critics note her female characters (like Princess Ozma and Betsy Bobbin) lacked the fierce independence of Baum's original leads.
 
-Wikipedia’s page    
-\<[https://en.wikipedia.org/wiki/Bloomsday](https://en.wikipedia.org/wiki/Bloomsday)\>
+The book permanently relaxed the rules of Oz's geography by allowing characters to easily cross the "Deadly Desert," a barrier previously established as insurmountable.
 
-National Gallery of Ireland    
-\<[https://www.nationalgallery.ie/explore-and-learn/bloomsday](https://www.nationalgallery.ie/explore-and-learn/bloomsday)\>
+Publisher Reilly & Lee used an inventive marketing campaign by distributing real-world promotional materials disguised as *The Ozmapolitan*, the fictional Emerald City newspaper.
 
-James Joyce Centre    
-\<[https://jamesjoyce.ie/](https://jamesjoyce.ie/)\>
+More information:
 
-## Herman Melville’s Home 
+\<[https://en.wikipedia.org/wiki/The\_Hungry\_Tiger\_of\_Oz](https://en.wikipedia.org/wiki/The_Hungry_Tiger_of_Oz)\>
 
-Notes from Linda Cantoni
+\<[https://newwwoz.blogspot.com/2010/09/hungry-tiger-of-oz.html\#:\~:text=Hey...,reader%20is%20a%20little%20irritated](https://newwwoz.blogspot.com/2010/09/hungry-tiger-of-oz.html#:~:text=Hey...,reader%20is%20a%20little%20irritated).\>
 
-In 1850, in a modest farmhouse in the Berkshire hills of western Massachusetts, a young man sat down to write what he believed would be his masterpiece. He called it *The Whale*, and he based it on his experiences on a whaling ship several years earlier. His study window looked out across a field at a humpbacked mountain called Greylock. In winter it looked very much like a white sperm whale, “one grand hooded phantom, like a snow hill in the air.”
+\<[https://gutenberg.org/ebooks/70152](https://gutenberg.org/ebooks/70152)\>
 
-The young man was Herman Melville; the masterpiece was *Moby Dick*; and it was a dismal failure, both with critics and the public. Everything he wrote afterward also failed. He left the farmhouse in 1863 and settled in New York City, where he took a dead-end job as a customs inspector, writing poetry and short pieces on the side. In 1890, the New York Times said of Herman Melville, “There are more people to-day who believe Herman Melville dead than there are those who know he is living.” He died in 1891, a forgotten man.
+## 100th Anniversary of The Murder of Roger Ackroyd
 
-But a revival of interest in his work in the 1920s brought him the recognition he deserved. Today, that little farmhouse in the Berkshires, Herman Melville's Arrowhead, is a thriving museum and cultural center run by the Berkshire County Historical Society, hosting fascinating events: tours, lectures, author talks, stage performances, nature walks, and more. Among these events are writing workshops, during which participants have the opportunity to write in Melville's own study, looking out at Mount Greylock from the very same window as he did. It is truly a thrill to feel his creative energy filling that room.
+Agatha Christie’s mystery novel *The Murder of Roger Ackroyd*—her third featuring detective Hercule Poirot—was initially serialized as *Who Killed Ackroyd?* in the *London Evening News* from July to September 1925\.
 
-The historical society also runs a virtual book club that frequently features books by or about Melville and his literary contemporaries, such as Nathaniel Hawthorne, Oliver Wendell Holmes, Sr., and others. Project Gutenberg's library has many works by Herman Melville, including his novels, short stories, and poetry, and the club always recommends Project Gutenberg as an important and much-appreciated resource for classic works of American literature.
+In her 1977 autobiography, Christie credited her brother-in-law, James Watts, with the "remarkably original thought" of making a Dr. Watson-style character the criminal. In March 1924, Lord Louis Mountbatten also sent her a letter with a similar premise. While Christie acknowledged his input, she developed her own plot line, drawing additional inspiration from the unsolved death of Charles Bravo, whom she believed was killed by Dr. James Manby Gully.
 
-Billy Budd    
-\<[https://blog.pgdp.net/2025/09/01/billy-budd/](https://blog.pgdp.net/2025/09/01/billy-budd/)\>
+Since its publication, the novel has been adapted numerous times across various media, including theater, film, radio, television, and graphic novels. 
 
-Berkshire County Historical Society    
-\<[https://berkshirehistory.org](https://berkshirehistory.org)\>
+More information:  
+\<[https://en.wikipedia.org/wiki/The\_Murder\_of\_Roger\_Ackroyd](https://en.wikipedia.org/wiki/The_Murder_of_Roger_Ackroyd)\>
 
-Project Gutenberg Books by Melville, Herman  \<[https://www.gutenberg.org/ebooks/author/9](https://www.gutenberg.org/ebooks/author/9)\>
+\<[https://www.gutenberg.org/ebooks/69087](https://www.gutenberg.org/ebooks/69087)\>
 
-## Service Changes
+## Do we still need 2 kinds of MOBI?
 
-On Monday, June 15, we will be making some modifications to the official Project Gutenberg mirrors. We will be sunsetting the rsync mirror at aleph.pglaf.org (use gutenberg.pglaf.org instead), the gopher server hosted at gopher.pglaf.org, and the FTP server at gutenberg.pglaf.org. Other rsync and FTP mirrors are still available:
+Project Gutenberg currently produces 7 flavors of most of our ebooks: HTML, EPUB3, EPUB2, EPUB2 (no images), MOBI (“Kindle”), MOBI (“Older Kindles”), Zipped HTML, and Plain Text (Unicode). We’re planning to add PDF and KEPUB (for Kobo) later this year.
 
-\<[https://www.gutenberg.org/MIRRORS.ALL](https://www.gutenberg.org/MIRRORS.ALL)\>
+MOBI (Mobipocket, labelled as “older Kindles” on our download pages) is the format that was required for Kindle ebook readers when the Kindle was introduced in 2007\. It was a proprietary format that had been acquired by Amazon. A couple of years later, Amazon launched an advanced version of MOBI and called it KF8 (it’s the download file we label as “Kindle”); the version with digital rights management was called AZW3. The publishing industry developed a non-proprietary ebook format \- EPUB, which Amazon would accept and convert to MOBI for Kindle users.
 
-Also on June 15, the metadata files du-sk, ls-R, and related files will no longer be generated and available as we have improved our mirror metadata and introduced a metadata.json file with more structured data, and related bzip2-compressed CSV files for automated processing.
+Today, the only way to load third party ebooks onto a newly purchased Kindle or Kindle App is to use the “Send-to-Kindle” service which accepts EPUB3 files and loads them into your Kindle Library. We know that MOBI files are being used less and less, but we want to continue to support our readers who still use their old Kindles\! So we’d love to hear from you about whether you still use MOBI files. Here’s a 2-question survey form you can use to tell us your opinion:
 
-## New Releases at Gutenberg.org \- May 2026 
+\<[https://forms.gle/nU4cREmuxdHAHEQc6](https://forms.gle/nU4cREmuxdHAHEQc6)\>
 
-In the last month PGLAF added another *211* new public domain eBooks to the PG catalog. Of these *112* were added by PGDP.  Thank you to all the volunteers who have helped to make these new titles freely available to the world.  
+## New Releases at Gutenberg.org \- June 2026 
+
+In the last month PGLAF added another **194** new public domain eBooks to the PG catalog. Of these **117** were added by Distributed Proofreaders.  Thank you to all the volunteers who have helped to make these new titles freely available to the world.  
 
 The month’s eBooks are listed here (the list was getting too long for the newsletter\!):
 
-\<[https://gutenberg.org/newsletter/202605.html](https://gutenberg.org/newsletter/202605.html)\>  
+\<[https://www.gutenberg.org/newsletter/202606.html](https://www.gutenberg.org/newsletter/202606.html)\>  
+
 
 ## A selection of this month’s notable and interesting titles:
 
-* [Poison mysteries in history, romance and crime](https://www.gutenberg.org/ebooks/78589/) - C. J. S. Thompson
-* [The Yellow Knight of Oz](https://www.gutenberg.org/ebooks/78637/) - Ruth Plumly Thompson
-* [The humor of "Bill" Nye](https://www.gutenberg.org/ebooks/78694/) - Bill Nye et al.
-* [Cakes and ale](https://www.gutenberg.org/ebooks/78723/) - W. Somerset Maugham
-* [The watchers](https://www.gutenberg.org/ebooks/78738/) - George H. Smith
-* [Four plays](https://www.gutenberg.org/ebooks/78748/) - A. A. Milne
-* [Silly asses](https://www.gutenberg.org/ebooks/78751/) - Isaac Asimov
+* [Louisa May Alcott, the children's friend](https://www.gutenberg.org/ebooks/78818/) - Ednah Dow Cheney
+* [Het communistisch manifest](https://www.gutenberg.org/ebooks/78853/) - Karl Marx and Friedrich Engels
+* [Boot making and mending](https://www.gutenberg.org/ebooks/78854/) - Paul N. Hasluck
+* [Clendenen's detective manual](https://www.gutenberg.org/ebooks/78873/) - Rufus Howard Clendenen
+* [An island garden](https://www.gutenberg.org/ebooks/78885/) - Celia Thaxter
+* [Observations on the geology, zoology and botany of Hudson's Strait and Bay, made in 1885](https://www.gutenberg.org/ebooks/78889/) - Robert Bell
+* [The flying buccaneer](https://www.gutenberg.org/ebooks/78892/) - Jack Binns
+* [Silver .41](https://www.gutenberg.org/ebooks/78893/) - W. C. Tuttle
+* [Model yachts and model yacht sailing](https://www.gutenberg.org/ebooks/78905/) - James E. Walton
+* [How to conquer stupidity](https://www.gutenberg.org/ebooks/78906/) - Leo Markun and E. Haldeman-Julius
+* [The decline of the West, Volume 2](https://www.gutenberg.org/ebooks/78914/) - Oswald Spengler
+* [The rise and fall of the mustache, and other "Hawk-eyetems"](https://www.gutenberg.org/ebooks/78913/) - Robert J. Burdette
+* [Sacred symbols in art](https://www.gutenberg.org/ebooks/78921/) - Elisabeth Goldsmith
+* [In camp and kitchen](https://www.gutenberg.org/ebooks/78919/) - Lucy H. Yates
+* [Adventures of a donkey](https://www.gutenberg.org/ebooks/78917/) - comtesse de Sophie Ségur and Md. Emmittsburg a graduate of St. Joseph's P. S.
+* [The pioneer women of the West](https://www.gutenberg.org/ebooks/78929/) - E. F. Ellet
+* [The eighteen nineties](https://www.gutenberg.org/ebooks/78936/) - Holbrook Jackson
+* [Over the Falls](https://www.gutenberg.org/ebooks/78938/) - Annie Edson Taylor
+* [The history of civilisation in Scotland, Vol 1 (of 4)](https://www.gutenberg.org/ebooks/78937/) - John Mackintosh
+* [Flower legends for children](https://www.gutenberg.org/ebooks/78952/) - Hilda Murray
+* [Alias Whispering White](https://www.gutenberg.org/ebooks/78961/) - W. C. Tuttle
+* [For the parson of Paradise](https://www.gutenberg.org/ebooks/78960/) - W. C. Tuttle
+* [The Bible, should it be in the school room?](https://www.gutenberg.org/ebooks/78962/) - Franklin Steiner and E. Haldeman-Julius
+* [The children's kraft shop](https://www.gutenberg.org/ebooks/78973/) - Adelia B. Beard
+* [Figure piping](https://www.gutenberg.org/ebooks/78972/) - M.C.A. F. Russell
+* [Stories of the Persian wars](https://www.gutenberg.org/ebooks/78980/) - Herodotus
 
 ## Links
 
