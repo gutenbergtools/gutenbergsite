@@ -8,7 +8,7 @@ permalink: /
 
 <!-- ============ Hero ============ -->
 <section class="pgx-hero">
-  <h1 id="slogan">A library of 75,000+ free eBooks</h1>
+  <h1 id="slogan">A library of {% include book_count.html %} free eBooks</h1>
 
   <p class="pgx-mission">Choose among free eBooks to download or read online. You will find the world's great literature here. Thousands of Project Gutenberg volunteers have digitized and proofread these books for you.</p>
 
