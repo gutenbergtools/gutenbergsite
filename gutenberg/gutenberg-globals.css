@@ -3571,7 +3571,7 @@ top: 14px;
 /* inset Categories to align with the carousels' .box_shadow 24px padding */
 .pgx .pgx-flow-cats { padding: 0 24px; }
 
-.pgx .category-grid { margin-top: 36px; margin-bottom: 62px; gap: 30px; }
+.pgx .category-grid { margin-top: 6px; margin-bottom: 62px; gap: 30px; }
 .pgx .category-grid a { font-size: 1.2rem; padding: 19px 24px; flex-basis: 330px; white-space: nowrap; }
 .pgx .category-grid a:before { content: none; }
 /* one column below 676px — never a 2-column squeeze */
@@ -3755,7 +3755,7 @@ top: 14px;
 }
 
 /* ---------- Outro: lead statement + explore ---------- */
-.pgx-cards { margin: 14px 0 36px; }
+.pgx-cards { margin: 6px 0 36px; }
 .pgx-lead-text {
   margin: 0;
   line-height: 1.72;
@@ -3790,17 +3790,18 @@ top: 14px;
 .pgx.homepage .pgx-lead-note { margin: auto 0 0; padding-top: 8px; font-size: clamp(1.08rem, 1.3vw, 1.22rem); color: #6a7075; }
 
 /* Row 1: lead block on its own row, centered and wider */
-.pgx-lead-wide { max-width: 880px; margin: 0 auto 22px; align-items: center; text-align: center; background: transparent; }
+.pgx-lead-wide { max-width: 720px; margin: 0 auto 22px; align-items: center; text-align: center; background: transparent; }
 .pgx-lead-wide .pgx-lead-text {
-  margin: 26px 0;
-  max-width: 800px;
+  margin: 24px 0 4px;
+  max-width: 680px;
   text-align: center;
   text-wrap: balance;
-  font-size: clamp(1.24rem, 1.55vw, 1.42rem);
-  line-height: 1.6;
-  letter-spacing: -0.002em;
+  color: #2b3037;
+  font-size: 1.35rem;
+  line-height: 1.7;
+  letter-spacing: 0.002em;
 }
-.pgx-lead-wide .pgx-lead-links { justify-content: center; }
+.pgx-lead-wide .pgx-lead-links { justify-content: center; margin-top: 12px; }
 .pgx.homepage .pgx-lead-wide .pgx-lead-note { margin: 20px 0 0; }
 .pgx.homepage .pgx-lead-note a { color: var(--pgx-teal-dark); text-decoration: underline; text-underline-offset: 2px; }
 .pgx.homepage .pgx-lead-note a:hover { color: var(--pgx-teal); }
@@ -3919,7 +3920,14 @@ top: 14px;
 @media (max-width: 600px) {
   .pgx #slogan { font-size: clamp(2.5rem, 7.5vw, 2.6rem); }
   .pgx-flow-newest { margin-top: 44px; margin-bottom: 44px; }
+  /* a little more breathing room above Categories on mobile */
+  .pgx .pgx-flow-cats { margin-top: 16px; }
   .pgx-card { padding: 28px 22px; }
+  /* left-align the lead statement, buttons and note on narrow screens — easier to read than centered */
+  .pgx-lead-wide { align-items: stretch; text-align: left; }
+  .pgx-lead-wide .pgx-lead-text { text-align: left; text-wrap: pretty; }
+  .pgx-lead-wide .pgx-lead-links { justify-content: flex-start; }
+  .pgx.homepage .pgx-lead-wide .pgx-lead-note { text-align: left; }
 }
 
 /* below 410px shrink the slogan with the viewport so it stays on one line */

@@ -10,7 +10,7 @@ permalink: /
 <section class="pgx-hero">
   <h1 id="slogan">A library of {% include book_count.html %} free eBooks</h1>
 
-  <p class="pgx-mission">Choose among free eBooks to download or read online. Here you will find the world's great literature, whose U.S. copyright has expired. Thousands of Project Gutenberg volunteers have digitized and proofread these books for you.</p>
+  <p class="pgx-mission">Choose among free eBooks to download or read online. You will find the world's great literature here with a focus on older works whose U.S. copyright has expired. Thousands of volunteers have digitized and proofread these books for you.</p>
 
   <ul class="pgx-trust">
     <li>100% free</li>
