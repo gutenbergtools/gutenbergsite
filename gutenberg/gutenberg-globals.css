@@ -3930,6 +3930,24 @@ top: 14px;
   .pgx.homepage .pgx-lead-wide .pgx-lead-note { text-align: left; }
 }
 
+/* trust badges as one inline dot-separated line on narrow screens — font scales
+   with the viewport so the three stay on a single line at the largest size that fits */
+@media (max-width: 635px) {
+  .pgx-trust {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    gap: 0;
+    margin-top: 6px;
+    color: #5b6166;
+    font-weight: 700;
+    font-size: clamp(0.8rem, 4vw, 1.45rem);
+  }
+  .pgx-trust > li:not(:last-child) { margin-right: 0; }
+  .pgx-trust li { padding: 0; background: none; border: none; white-space: nowrap; }
+  .pgx-trust li::before { content: "\00B7"; color: #9aa0a5; font-weight: 700; margin: 0 7px; font-size: 1em; }
+  .pgx-trust li:first-child::before { content: none; }
+}
+
 /* below 410px shrink the slogan with the viewport so it stays on one line */
 @media (max-width: 410px) {
   .pgx #slogan { font-size: 9.2vw; }
