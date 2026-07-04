@@ -6,9 +6,9 @@ permalink: /
 
 <div class="homepage homepage__body">
 
-<h1 id="slogan"> Project Gutenberg is a library of over 75,000 free eBooks </h1>
+<h1 id="slogan"> Project Gutenberg is a library of {% include ebook_count.html %} free eBooks.</h1>
 
-<p id="sub-slogan"> Choose among free epub and Kindle eBooks, download them or read them online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for you to enjoy. </p>
+<p id="sub-slogan"> Choose among free eBooks to download or read online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and proofread the eBooks, for you to enjoy. </p>
 
 <!-- Latest Books -->
 <div class="library">
@@ -37,7 +37,7 @@ permalink: /
     <ul>
       <li>✓ <strong>100% Free</strong> - No fees, no registration, completely free</li>
       <li>✓ <strong>No Apps Required</strong> - only regular Web browsers or eBook readers needed</li>
-      <li>✓ <strong>50+ Years</strong> - Pioneering free eBooks <a href="/about/background/50years.html" title="history, 1971-2021">since 1971</a></li>
+      <li>✓ <strong>55+ Years</strong> - Pioneering free eBooks <a href="/about/background/50years.html" title="history, 1971-2021">since 1971</a></li>
       <li>✓ <strong>Volunteer-based</strong> - hundreds of volunteers have contributed over the years</li>
       <li>✓ <a href="/newsletter/february.html">Read about our late CEO</a>, <strong>Dr. Greg Newby</strong>. </li>
       <li class="small-text">Consider a small donation to help us digitize more books: <a href="/donate"> donate </a></li>
