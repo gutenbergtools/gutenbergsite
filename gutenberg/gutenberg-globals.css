@@ -3780,7 +3780,12 @@ top: 14px;
   border-radius: 16px;
   padding: 32px 30px 30px;
 }
-.pgx-cards-row--outro { grid-template-columns: 1.05fr 1fr; gap: 38px; }
+.pgx-cards-row--outro { grid-template-columns: 1.15fr 1fr 1fr; gap: 28px; max-width: 1320px; margin: 0 auto; }
+.pgx-news-intro { margin: 22px 0 20px; font-size: 0.98rem; line-height: 1.5; color: #5b6166; text-align: center; }
+.pgx-news-form { display: flex; flex-direction: column; gap: 12px; }
+.pgx-news-input { padding: 12px 14px; border: 1px solid #d3d8dc; border-radius: 10px; font-size: 1rem; background: #fff; }
+.pgx-news-input:focus { outline: none; border-color: var(--pgx-teal-dark); }
+.pgx.homepage .pgx-news-btn { width: 100%; justify-content: center; }
 .pgx-cards-row--outro .pgx-card { padding-top: 16px; }
 .pgx-card--lead { justify-content: flex-start; align-self: start; }
 .pgx-card--lead .pgx-lead-text {
@@ -3790,10 +3795,10 @@ top: 14px;
 .pgx.homepage .pgx-lead-note { margin: auto 0 0; padding-top: 8px; font-size: clamp(1.08rem, 1.3vw, 1.22rem); color: #6a7075; }
 
 /* Row 1: lead block on its own row, centered and wider */
-.pgx-lead-wide { max-width: 720px; margin: 0 auto 22px; align-items: center; text-align: center; background: transparent; }
+.pgx-lead-wide { max-width: 820px; margin: 0 auto 6px; align-items: center; text-align: center; background: transparent; }
 .pgx-lead-wide .pgx-lead-text {
   margin: 24px 0 4px;
-  max-width: 680px;
+  max-width: 780px;
   text-align: center;
   text-wrap: balance;
   color: #2b3037;
