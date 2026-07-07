@@ -10,7 +10,7 @@ permalink: /
 <section class="pgx-hero">
   <h1 id="slogan">A library of {% include book_count.html %} free eBooks</h1>
 
-  <p class="pgx-mission">Choose among free eBooks to download or read online. You will find great literature here with a focus on older works whose U.S. copyright has expired. Thousands of Project Gutenberg volunteers have digitized these books for you to enjoy. </p>
+  <p class="pgx-mission">Choose free eBooks to download or read online. You will find great literature here with a focus on older works whose U.S. copyright is expired. Thousands of Project Gutenberg volunteers have digitized these books for you. </p>
 
   <ul class="pgx-trust">
     <li>100% free</li>
@@ -172,6 +172,13 @@ permalink: /
       </div>
     </div>
 
+    <div class="pgx-card pgx-card--newsletter">
+      <h2 class="pgx-social-title">Newsletter</h2>
+      <p class="pgx-news-intro">Get our monthly newsletter with updates, project news and new releases. Unsubscribe any time.</p>
+      <a class="pgx-btn pgx-btn-secondary pgx-news-btn" href="https://lists.pglaf.org/mailman3/lists/gmonthly.lists.pglaf.org/">Subscribe</a>
+      <p class="pgx-social-feed">You can also <a href="https://lists.pglaf.org/archives/list/gmonthly@lists.pglaf.org/latest">browse our archive</a> to read earlier issues.</p>
+    </div>
+
     <div class="pgx-card pgx-card--social">
       <h2 class="pgx-social-title">Follow Us</h2>
       <div class="pgx-social-icons">
@@ -192,16 +199,6 @@ permalink: /
         <a href="https://www.facebook.com/gutenberg.new">Facebook</a>,
         <a href="https://mastodon.social/@gutenberg_new" rel="me">Mastodon</a>, or
         <a href="https://bsky.app/profile/new.gutenberg.org" rel="me">Bluesky</a>.</p>
-    </div>
-
-    <div class="pgx-card pgx-card--newsletter">
-      <h2 class="pgx-social-title">Newsletter</h2>
-      <p class="pgx-news-intro">A short monthly email: new releases, milestones, and ways to help. No spam, unsubscribe anytime.</p>
-      <form class="pgx-news-form" action="/newsletter/subscribe" method="post">
-        <input class="pgx-news-input" type="email" name="email" placeholder="you@example.com" aria-label="Email address" required>
-        <button class="pgx-btn pgx-btn-secondary pgx-news-btn" type="submit">Subscribe</button>
-      </form>
-      <p class="pgx-social-feed">Prefer to browse first? See <a href="/newsletter/">past issues</a>.</p>
     </div>
 
   </div>

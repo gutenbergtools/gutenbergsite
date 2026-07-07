@@ -3562,7 +3562,7 @@ top: 14px;
 .pgx.homepage .pgx-btn-primary:hover { background-color: var(--pgx-teal); color: #ffffff; opacity: 0.9; }
 .pgx.homepage .pgx-btn-secondary { background-color: #ffffff; border: 2px solid var(--pgx-teal); color: var(--pgx-teal-dark); }
 .pgx.homepage .pgx-btn-secondary:hover { background-color: var(--pgx-card); opacity: 0.9; }
-.pgx.homepage .pgx-btn-donate { background-color: var(--pgx-card); }
+.pgx.homepage .pgx-btn-donate { background-color: #eaf3f6; }
 .pgx-lead-links .pgx-btn { min-width: 150px; justify-content: center; }
 
 /* ---------- Shelf flow ---------- */
@@ -3780,12 +3780,12 @@ top: 14px;
   border-radius: 16px;
   padding: 32px 30px 30px;
 }
-.pgx-cards-row--outro { grid-template-columns: 1.15fr 1fr 1fr; gap: 28px; max-width: 1320px; margin: 0 auto; }
+.pgx-cards-row--outro { grid-template-columns: 1.15fr 1fr 1fr; gap: 28px; max-width: 1320px; margin: 12px auto 0; }
 .pgx-news-intro { margin: 22px 0 20px; font-size: 0.98rem; line-height: 1.5; color: #5b6166; text-align: center; }
 .pgx-news-form { display: flex; flex-direction: column; gap: 12px; }
 .pgx-news-input { padding: 12px 14px; border: 1px solid #d3d8dc; border-radius: 10px; font-size: 1rem; background: #fff; }
 .pgx-news-input:focus { outline: none; border-color: var(--pgx-teal-dark); }
-.pgx.homepage .pgx-news-btn { width: 100%; justify-content: center; }
+.pgx.homepage .pgx-news-btn { align-self: center; justify-content: center; min-width: 150px; background-color: #eaf3f6; }
 .pgx-cards-row--outro .pgx-card { padding-top: 16px; }
 .pgx-card--lead { justify-content: flex-start; align-self: start; }
 .pgx-card--lead .pgx-lead-text {
@@ -3802,7 +3802,7 @@ top: 14px;
   text-align: center;
   text-wrap: balance;
   color: #2b3037;
-  font-size: 1.35rem;
+  font-size: clamp(1.3rem, 1.85vw, 1.5rem);
   line-height: 1.7;
   letter-spacing: 0.002em;
 }
@@ -3817,7 +3817,6 @@ top: 14px;
   /* let cards shrink below their content so nothing overflows the viewport */
   .pgx-cards-row .pgx-card,
   .pgx-cards-row--outro .pgx-card { min-width: 0; }
-  .pgx.homepage .pgx-ic { min-width: 0; }
 }
 
 /* ---------- Accordion (CSS-only via checkbox) ---------- */
@@ -3867,13 +3866,14 @@ top: 14px;
 /* ---------- Follow card ---------- */
 .pgx-card--social { text-align: center; align-items: center; justify-content: flex-start; }
 .pgx.homepage .pgx-social-title { font-size: 1.35rem; font-weight: 600; letter-spacing: -0.018em; color: #1f2428; line-height: 1.05; text-align: center; margin: 22px 0 28px; }
-.pgx-social-icons { display: flex; flex-direction: column; align-items: stretch; }
+.pgx-social-icons { display: flex; flex-direction: column; align-items: center; width: 100%; }
 .pgx.homepage .pgx-ic {
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 14px;
-  min-width: 340px;
+  width: 100%;
+  max-width: 340px;
   min-height: 64px;
   padding: 7px 18px;
   background: #fafbfc;
@@ -3904,6 +3904,7 @@ top: 14px;
 .pgx-ic--mast .pgx-ic-glyph { background-color: #6364FF; }
 .pgx-ic--bsky .pgx-ic-glyph { background-color: #1185FE; }
 .pgx-social-feed { margin: 26px 0 0; font-size: 0.98rem; color: #5b6166; }
+.pgx-card--newsletter .pgx-social-feed { text-align: center; }
 .pgx.homepage .pgx-social-feed a { color: var(--pgx-teal-dark); text-decoration: underline; text-underline-offset: 2px; }
 
 /* ---------- Flex-gap fallback (Safari/iOS <14.1, Chrome <84 ignore flex gap) ---------- */
