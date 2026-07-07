@@ -6,7 +6,7 @@ permalink: /
 
 <div class="homepage homepage__body">
 
-<h1 id="slogan"> Project Gutenberg is a library of {% include ebook_count.html %} free eBooks.</h1>
+<h1 id="slogan"> Project Gutenberg is a library of {% include ebook_count %} free eBooks.</h1>
 
 <p id="sub-slogan"> Choose among free eBooks to download or read online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and proofread the eBooks, for you to enjoy. </p>
 
