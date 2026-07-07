@@ -3904,6 +3904,9 @@ top: 14px;
 .pgx-ic--mast .pgx-ic-glyph { background-color: #6364FF; }
 .pgx-ic--bsky .pgx-ic-glyph { background-color: #1185FE; }
 .pgx-social-feed { margin: 26px 0 0; font-size: 0.98rem; color: #5b6166; }
+.pgx-card--newsletter { padding-left: 44px; padding-right: 44px; }
+.pgx.homepage .pgx-card--newsletter .pgx-social-title { margin-bottom: 9px; }
+.pgx-card--newsletter .pgx-news-intro { margin-top: 9px; }
 .pgx-card--newsletter .pgx-social-feed { text-align: center; }
 .pgx.homepage .pgx-social-feed a { color: var(--pgx-teal-dark); text-decoration: underline; text-underline-offset: 2px; }
 
