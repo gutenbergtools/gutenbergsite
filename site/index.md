@@ -10,7 +10,7 @@ permalink: /
 <section class="pgx-hero">
   <h1 id="slogan">A library of {% include book_count.html %} free eBooks</h1>
 
-  <p class="pgx-mission">Choose free eBooks to download or read online. You will find great literature here with a focus on older works whose U.S. copyright is expired. Thousands of Project Gutenberg volunteers have digitized these books for you. </p>
+  <p class="pgx-mission">Choose free eBooks to download or read online. You will find great literature here with a focus on older works whose U.S. copyright has expired. Thousands of Project Gutenberg volunteers have digitized these books for you. </p>
 
   <ul class="pgx-trust">
     <li>100% free</li>
@@ -132,25 +132,6 @@ permalink: /
         </div>
 
         <div class="pgx-acc-item">
-          <input type="checkbox" id="pgx-acc-audio" class="pgx-acc-toggle">
-          <label class="pgx-acc-head" for="pgx-acc-audio">
-            <span class="pgx-acc-title">Audio Books</span>
-            <span class="pgx-acc-icon" aria-hidden="true"></span>
-          </label>
-          <div class="pgx-acc-inner">
-            <div class="pgx-acc-content">
-              <p>Audio books are a great way to enjoy literature. We recommend the following sources. All of them are digitizations of Project Gutenberg texts. They are freely available and in the public domain in the US.</p>
-              <ul>
-                <li><a href="/browse/categories/1">Project Gutenberg’s 662 titles read by people</a></li>
-                <li><a href="https://librivox.org">Human-read audio books from LibriVox</a>, a volunteer community that produces high-quality performances.</li>
-                <li><a href="https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html">The Project Gutenberg Open Audiobook Collection</a>. Almost 5,000 computer-generated titles via a collaboration with Microsoft and MIT.</li>
-                <li><a href="/browse/categories/2">Project Gutenberg’s audio books from 2003</a>, computer-generated and listenable, but lower quality.</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
-        <div class="pgx-acc-item">
           <input type="checkbox" id="pgx-acc-special" class="pgx-acc-toggle">
           <label class="pgx-acc-head" for="pgx-acc-special">
             <span class="pgx-acc-title">Special Areas</span>
@@ -164,6 +145,25 @@ permalink: /
                 <li><a href="/about/partners_affiliates.html">Partners and affiliates</a>.</li>
                 <li><a href="/policy/permission.html">Permissions, copyright, licensing, and trademark information</a>.</li>
                 <li>What does <a href="/about/background/free_ebook.html">free eBook</a> (No Cost or Freedom?) mean?</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="pgx-acc-item">
+          <input type="checkbox" id="pgx-acc-audio" class="pgx-acc-toggle">
+          <label class="pgx-acc-head" for="pgx-acc-audio">
+            <span class="pgx-acc-title">Audio Books</span>
+            <span class="pgx-acc-icon" aria-hidden="true"></span>
+          </label>
+          <div class="pgx-acc-inner">
+            <div class="pgx-acc-content">
+              <p>Audio books are a great way to enjoy literature. We recommend the following sources. All of them are digitizations of Project Gutenberg texts. They are freely available and in the public domain in the US.</p>
+              <ul>
+                <li><a href="/browse/categories/1">Project Gutenberg’s 662 titles read by people</a></li>
+                <li><a href="https://librivox.org">Human-read audio books from LibriVox</a>, a volunteer community that produces high-quality performances.</li>
+                <li><a href="https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html">The Project Gutenberg Open Audiobook Collection</a>. Almost 5,000 computer-generated titles via a collaboration with Microsoft and MIT.</li>
+                <li><a href="/browse/categories/2">Project Gutenberg’s audio books from 2003</a>, computer-generated and listenable, but lower quality.</li>
               </ul>
             </div>
           </div>
