@@ -3780,7 +3780,7 @@ top: 14px;
   border-radius: 16px;
   padding: 32px 30px 30px;
 }
-.pgx-cards-row--outro { grid-template-columns: 1fr 1fr 1fr; gap: 28px; max-width: 1320px; margin: 12px auto 0; }
+.pgx-cards-row--outro { grid-template-columns: 1fr 1fr 1fr; gap: 28px; max-width: 1380px; margin: 12px auto 0; }
 .pgx-news-intro { margin: 22px 0 20px; font-size: 0.98rem; line-height: 1.5; color: #5b6166; text-align: center; }
 .pgx-news-form { display: flex; flex-direction: column; gap: 12px; }
 .pgx-news-input { padding: 12px 14px; border: 1px solid #d3d8dc; border-radius: 10px; font-size: 1rem; background: #fff; }
