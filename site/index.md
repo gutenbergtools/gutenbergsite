@@ -56,16 +56,6 @@ permalink: /
  </div>
 </div>
 
-<!-- Random Selection -->
-<div class="library">
-  <div class="box_shadow">
-    <p><span class="label">Random</span> <a href="/ebooks/search/?sort_order=random" id="more_random" title="Find more random books">find more</a></p>
-    <div class="lib latest no-select">
-    {% include random_covers.html %}
-   </div>
- </div>
-</div>
-
 <div class="category-grid">
   <a href="/ebooks/categories.html#history" data-emoji="🏛️">History</a>
   <a href="/ebooks/categories.html#literature" data-emoji="📜">Literature</a>
