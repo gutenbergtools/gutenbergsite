@@ -3952,9 +3952,11 @@ top: 14px;
   .pgx-trust li:first-child::before { content: none; }
 }
 
-/* below 410px shrink the slogan with the viewport so it stays on one line */
+/* below 410px shrink the slogan with the viewport so it stays on one line;
+   scale the sub-slogan in step so their proportion stays fixed */
 @media (max-width: 410px) {
   .pgx #slogan { font-size: 9.2vw; }
+  .pgx .pgx-mission { font-size: 4.8vw; }
 }
 
 
