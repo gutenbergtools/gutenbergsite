@@ -3531,6 +3531,7 @@ top: 14px;
   font-size: clamp(1.3rem, 1.85vw, 1.5rem);
   line-height: 1.55;
   color: #2c3338;
+  text-wrap: pretty; /* avoid a lone word on the last line */
 }
 .pgx .pgx-mission strong { color: var(--pgx-teal-dark); font-weight: 600; }
 .pgx-trust {
