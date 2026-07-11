@@ -3780,7 +3780,7 @@ top: 14px;
   border-radius: 16px;
   padding: 32px 30px 30px;
 }
-.pgx-cards-row--outro { grid-template-columns: 1fr 1fr 1fr; gap: 28px; max-width: 1380px; margin: 12px auto 0; }
+.pgx-cards-row--outro { grid-template-columns: 1fr 1fr 1fr; gap: 28px; max-width: 1380px; margin: 30px auto 0; }
 .pgx-news-intro { margin: 22px 0 20px; font-size: 0.98rem; line-height: 1.5; color: #5b6166; text-align: center; }
 .pgx-news-form { display: flex; flex-direction: column; gap: 12px; }
 .pgx-news-input { padding: 12px 14px; border: 1px solid #d3d8dc; border-radius: 10px; font-size: 1rem; background: #fff; }
@@ -3797,7 +3797,7 @@ top: 14px;
 /* Row 1: lead block on its own row, centered and wider */
 .pgx-lead-wide { max-width: 820px; margin: 0 auto 6px; align-items: center; text-align: center; background: transparent; }
 .pgx-lead-wide .pgx-lead-text {
-  margin: 24px 0 4px;
+  margin: 12px 0 4px;
   max-width: 780px;
   text-align: center;
   text-wrap: balance;
@@ -3883,28 +3883,23 @@ top: 14px;
   transition: transform 0.18s ease, background 0.18s ease, box-shadow 0.18s ease;
 }
 .pgx.homepage .pgx-ic:hover { transform: translateY(-3px); background: #eef1f3; box-shadow: 0 6px 14px rgba(0,0,0,0.08); }
-/* label centered in button; icon hangs just to its left */
+/* icon + label as a left-aligned row so icons and initial letters line up across buttons */
 .pgx-ic-glyph {
-  position: absolute;
-  right: 100%;
-  top: 50%;
-  transform: translateY(-50%);
-  margin-right: 14px;
-  width: 44px;
-  height: 44px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   display: grid;
   place-items: center;
   color: #ffffff;
   flex-shrink: 0;
 }
-.pgx-ic-glyph svg { width: 26px; height: 26px; fill: currentColor; display: block; }
-.pgx-ic-name { position: relative; font-size: 1.08rem; font-weight: 600; letter-spacing: -0.01em; color: #1f2428; }
+.pgx-ic-glyph svg { width: 23px; height: 23px; fill: currentColor; display: block; }
+.pgx-ic-name { display: inline-flex; align-items: center; gap: 14px; width: 140px; white-space: nowrap; font-size: 1.08rem; font-weight: 600; letter-spacing: -0.01em; color: #1f2428; }
 .pgx-ic--fb .pgx-ic-glyph { background-color: #1877F2; }
 .pgx-ic--mast .pgx-ic-glyph { background-color: #6364FF; }
 .pgx-ic--bsky .pgx-ic-glyph { background-color: #1185FE; }
 .pgx-social-feed { margin: 26px 0 0; font-size: 0.98rem; color: #5b6166; }
-.pgx-card--newsletter { padding-left: 44px; padding-right: 44px; }
+.pgx-card--newsletter { padding-left: 68px; padding-right: 68px; }
 .pgx.homepage .pgx-card--newsletter .pgx-social-title { margin-bottom: 9px; }
 .pgx-card--newsletter .pgx-news-intro { margin-top: 9px; }
 .pgx-card--newsletter .pgx-social-feed { text-align: center; }

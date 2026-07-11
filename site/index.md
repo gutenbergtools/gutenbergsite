@@ -89,7 +89,7 @@ permalink: /
       <a class="pgx-btn pgx-btn-secondary" href="/about/">Learn more</a>
       <a class="pgx-btn pgx-btn-secondary pgx-btn-donate" href="/donate/">Donate</a>
     </div>
-    <p class="pgx-lead-note"><a href="/newsletter/february.html">Read about our late CEO</a>, <strong>Dr. Greg Newby</strong>.</p>
+    <p class="pgx-lead-note"><a href="/newsletter/february.html">Read about our late CEO</a>, <strong>Dr. Greg Newby</strong></p>
   </div>
 
   <div class="pgx-cards-row pgx-cards-row--outro">
