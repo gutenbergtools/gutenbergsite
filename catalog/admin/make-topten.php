@@ -20,14 +20,34 @@ if ($docroot) {
     $config->documentroot = $docroot;
 }
 
+// output progress messages to STDERR or php_errors
+function progress($message)
+{
+    if (defined('STDERR')) {
+        fwrite(STDERR, $message);
+        return;
+    }
+
+    error_log(rtrim($message, "\r\n"));
+}
+
 function mk_header($title)
 {
     global $config;
-    return "<?php
-  include (\"pgbrowse.phh\");
-  \$config->page_encoding = \"UTF-8\";
-  pageheader (\"$title\");
-?>\n\n";
+
+    $config->page_encoding = "UTF-8";
+    pageheader($title);
+    // pageheader() does ob_start()
+    return ob_get_clean() . "\n\n";
+}
+
+function mk_footer()
+{
+    global $page;
+
+    ob_start();
+    $page->footer();
+    return ob_get_clean() . "\n";
 }
 
 $dir = "browse";
@@ -128,7 +148,7 @@ ORDER BY downloads DESC LIMIT $num");
 /////////////////////////////////////////////////////////////////////////////////////
 // start main
 
-echo("creating temp table ...");
+progress("creating temp table ...");
 
 $db2->exec("CREATE TEMP TABLE dl AS 
 SELECT scores.book_downloads.fk_books, scores.book_downloads.date, 
@@ -137,7 +157,7 @@ FROM scores.book_downloads, mn_books_langs
 WHERE scores.book_downloads.fk_books = mn_books_langs.fk_books 
 AND scores.book_downloads.fk_books NOT IN ($disqualifiedbooks)");
 
-echo(" done.\n");
+progress(" done.\n");
 
 $langs = [];
 
@@ -152,7 +172,7 @@ if ($db2->FirstRow()) {
     } while ($db2->NextRow());
 }
 
-echo(" done.\n");
+progress(" done.\n");
 
 $db2->exec("select max (date) as latest, min (date) as earliest from scores.book_downloads");
 $latest = date("Y-m-d", $db2->get("latest", SQLDATE));
@@ -178,9 +198,7 @@ foreach ($langs as $l) {
         $langwhere = "fk_langs = '$lang' AND ";
     }
 
-    if ($hd = fopen($file = "$config->documentroot/$dir_scores/top$filesuffix.php", "w")) {
-        echo("writing $file ... downloads ...\n");
-
+    if ($hd = fopen($file = "$config->documentroot/$dir_scores/top$filesuffix.html", "w")) {
         $d1 = downloads("$langwhere date >= current_date - interval '1 days'");
         $d7 = downloads("$langwhere date >= current_date - interval '7 days'");
         $d30 = downloads("$langwhere date >= current_date - interval '30 days'");
@@ -188,6 +206,7 @@ foreach ($langs as $l) {
         fputs($hd, mk_header("Top $titlesuffix"));
 
         $s = <<< EOF
+
             <h1>Frequently Viewed or Downloaded</h1>
 
             <details>
@@ -225,14 +244,10 @@ foreach ($langs as $l) {
 
         // Yesterday
 
-        echo(" yesterday ... books ...");
-
         fputs($hd, $links);
         fputs($hd, "<h2 id=\"books-last1\">Top $num EBooks yesterday</h2>\n\n");
 
         fputs($hd, topbooks($num, "$langwhere date >= current_date - interval '1 days'"));
-
-        echo(" authors ...");
 
         fputs($hd, $links);
         fputs($hd, "<h2 id=\"authors-last1\">Top $num Authors yesterday</h2>\n\n");
@@ -241,14 +256,10 @@ foreach ($langs as $l) {
 
         // Last 7 days
 
-        echo(" last 7 days ... books ...");
-
         fputs($hd, $links);
         fputs($hd, "<h2 id=\"books-last7\">Top $num EBooks last 7 days</h2>\n\n");
 
         fputs($hd, topbooks($num, "$langwhere date >= current_date - interval '7 days'"));
-
-        echo(" authors ...");
 
         fputs($hd, $links);
         fputs($hd, "<h2 id=\"authors-last7\">Top $num Authors last 7 days</h2>\n\n");
@@ -257,14 +268,10 @@ foreach ($langs as $l) {
 
         // Last 30 days
 
-        echo(" last 30 days ... books ...");
-
         fputs($hd, $links);
         fputs($hd, "<h2 id=\"books-last30\">Top $num EBooks last 30 days</h2>\n\n");
 
         fputs($hd, topbooks($num, "$langwhere date >= current_date - interval '30 days'"));
-
-        echo(" authors ...");
 
         fputs($hd, $links);
         fputs($hd, "<h2 id=\"authors-last30\">Top $num Authors last 30 days</h2>\n\n");
@@ -273,9 +280,9 @@ foreach ($langs as $l) {
 
         fputs($hd, $links);
 
-        fputs($hd, "<?php pagefooter (); ?>\n");
+        fputs($hd, mk_footer());
         fclose($hd);
 
-        echo(" done.\n");
+        progress(" done.\n");
     }
 }
