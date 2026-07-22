@@ -20,7 +20,7 @@ if ($docroot) {
     $config->documentroot = $docroot;
 }
 
-// replaces previous echo statements
+// output progress messages to STDERR or php_errors
 function progress($message)
 {
     if (defined('STDERR')) {
