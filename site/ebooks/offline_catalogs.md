@@ -63,6 +63,8 @@ The Open Publiation Distribution System is a method Project Gutenberg makes avai
 
 To use Project Gutenberg's OPDS feed, start at [https://www.gutenberg.org/ebooks/search.opds/](https://www.gutenberg.org/ebooks/search.opds/).
 
+A JSON-based OPDS2 feed is currently available for testing. Please contact us for details and access. We expect to sunset the existing XML-based OPDS feeds in 2027.
+
 ## List of Sites Hosting Project Gutenberg EBooks
 
 The Project Gutenberg collection is available from dozens of sites offering access via http/https, ftp, rsync, and a few other methods. See our listing of [mirror sites](/dirs/MIRRORS.ALL) to choose the location, access method, or speed.  Mirrors generally do not have a friendly Web-based front end, but do have the collection.  See the [mirroring how-to](/help/mirroring.html) for details.

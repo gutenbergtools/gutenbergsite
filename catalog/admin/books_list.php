@@ -21,12 +21,6 @@ class ListBooksTable extends ListTable
             "left",
             "1%"
         );
-        $this->AddColumn(
-            "<a href=\"book?mode=delete&fk_books=#fk_books#\">Delete</a>",
-            "",
-            "left",
-            "1%"
-        );
         $this->AddSimpleColumn("fk_books", "Nr.", "right", "1%");
         $this->AddSimpleColumn("author", "Author");
         $this->AddSimpleColumn("title", "Title");
