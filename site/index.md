@@ -8,7 +8,7 @@ permalink: /
 
 <!-- ============ Hero ============ -->
 <section class="pgx-hero">
-  <h1 id="slogan">Project Gutenberg is a library of {% include ebook_count %} free eBooks.</h1>
+  <h1 id="slogan">Project Gutenberg is a library of {% include ebook_count %} free eBooks</h1>
 
   <p class="pgx-mission">Choose free eBooks to download or read online. You will find the world's great literature here with a focus on older works whose U.S. copyright has expired. Thousands of Project Gutenberg volunteers have digitized and proofread these books for you. </p>
 </section>
