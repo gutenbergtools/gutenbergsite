@@ -67,7 +67,7 @@ permalink: /
 <section class="pgx-cards">
 
   <div class="pgx-card pgx-card--lead pgx-lead-wide">
-    <p class="pgx-lead-text"><strong>Project Gutenberg is the world's oldest digital library.</strong> Michael Hart started the Project in 1971. Today it is a nonprofit sustained entirely by volunteers who digitize and proofread works of literature as they enter the public domain, keeping them free for everyone, everywhere. We charge nothing, run no ads and never will. Donations are what keep our servers running.</p>
+    <p class="pgx-lead-text"><strong>Project Gutenberg is the world's oldest digital library.</strong> It is sustained entirely by volunteers who digitize and proofread works of literature as they enter the public domain, keeping them free and accessible for everyone, everywhere. We charge nothing and run no ads. Donations are what keeps us and our servers running.</p>
     <div class="pgx-lead-links">
       <a class="pgx-btn pgx-btn-secondary" href="/about/">Learn more</a>
       <a class="pgx-btn pgx-btn-secondary pgx-btn-donate" href="/donate/">Donate</a>
