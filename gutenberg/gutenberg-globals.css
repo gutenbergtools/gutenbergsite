@@ -3957,6 +3957,10 @@ top: 14px;
   .pgx-lead-wide .pgx-lead-text { text-align: left; text-wrap: pretty; }
   .pgx-lead-wide .pgx-lead-links { justify-content: flex-start; }
   .pgx.homepage .pgx-lead-wide .pgx-lead-note { text-align: left; }
+  /* the header "all ..." link crowds the shelf title on narrow screens; drop it.
+     The rails keep their end-of-rail more card, and every category tile already
+     links to the categories page. */
+  .pgx.homepage a.pgx-shelf-more { display: none; }
 }
 
 /* below 410px shrink the slogan with the viewport so it stays on one line;
