@@ -3727,9 +3727,9 @@ top: 14px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  flex: 1 0 150px;
-  max-width: 196px;
-  padding-right: 44px; /* keeps the card clear of the .pgx-rail::after fade */
+  flex: 1 0 106px; /* identical sizing to a book card */
+  max-width: 152px;
+  margin-right: 44px; /* trailing space clears the .pgx-rail::after fade */
   text-decoration: none;
 }
 .pgx-more-card-box {
@@ -3741,9 +3741,10 @@ top: 14px;
   border: 1px dashed #b3c3c9;
   border-radius: 3px;
   background: rgba(255, 255, 255, 0.5);
-  padding: 0 14px;
+  padding: 0 12px;
   text-align: center;
-  font-size: 1rem;
+  text-wrap: balance;
+  font-size: 0.95rem;
   font-weight: 600;
   line-height: 1.35;
   color: var(--pgx-teal);
