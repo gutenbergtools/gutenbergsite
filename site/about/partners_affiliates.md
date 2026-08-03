@@ -53,7 +53,7 @@ Project Gutenberg of Australia also provides a list all of the Project Gutenberg
 [Projekt Gutenberg-DE](https://www.projekt-gutenberg.org/). German literature. This was the second site to ask Michael Hart to use the Project Gutenberg name and concept, for German-language content. Currently run by a for-profit organization (Hille + Partner GbR), PG-DE provides free eBooks via their Web site, as well as selling eBooks on CD or DVD. For more information about PG-DE, read this German [Wikipedia article](https://de.wikipedia.org/wiki/Projekt_Gutenberg-DE). PG-DE runs their own Distributed Proofreaders site for content they distribute, but claims copyright on their work. The content from the central [Distributed Proofreaders](https://www.pgdp.net) does not have such restrictions, and is intended for unlimited redistribution.
 
 ### Project Gutenberg Self Publishing Portal
-The Project Gutenberg Self Publishing Portal is available at [self.gutenberg.org](https://self.gutenberg.org). It is provided by the World Library Foundation, and was stared by some of the folks who created Project Gutenberg. It shares our mission of making eBooks free and available to everyone.
+The Project Gutenberg Self Publishing Portal is available at [self.gutenberg.org](https://self.gutenberg.org). It is provided by the World Library Foundation, and was started by some of the folks who created Project Gutenberg. It shares our mission of making eBooks free and available to everyone.
 
 ### Projekt Runeberg
 [Project Runeberg](https://runeberg.org). Nordic literature. Historically, this was the first site to ask Michael Hart to use a name similar to Project Gutenberg for a sister project.
