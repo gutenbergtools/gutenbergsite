@@ -70,7 +70,7 @@ permalink: /
     <p class="pgx-lead-text"><strong>Project Gutenberg is the world's oldest digital library.</strong> It is sustained entirely by volunteers who digitize and proofread works of literature as they enter the public domain, keeping them free and accessible for everyone, everywhere. We charge nothing and run no ads. Donations are what keeps us and our servers running.</p>
     <div class="pgx-lead-links">
       <a class="pgx-btn pgx-btn-secondary" href="/about/">Learn more</a>
-      <a class="pgx-btn pgx-btn-secondary pgx-btn-donate" href="/donate/">Donate</a>
+      <a class="pgx-btn pgx-btn-primary" href="/donate/">Donate</a>
     </div>
     <p class="pgx-lead-note"><a href="/newsletter/february.html">Read about our late CEO</a>, <strong>Dr. Greg Newby</strong></p>
   </div>
