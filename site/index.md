@@ -23,7 +23,7 @@ permalink: /
           <div class="pgx-shelf-titles">
             <span class="pgx-shelf-title">New Releases</span>
           </div>
-          <a class="pgx-shelf-more" href="/ebooks/search/?sort_order=release_date" id="more_recent" title="Browse all new releases">All releases <span aria-hidden="true">&rarr;</span></a>
+          <a class="pgx-shelf-more" href="/ebooks/search/?sort_order=release_date" id="more_recent" title="Browse all new releases">All New Releases <span aria-hidden="true">&rarr;</span></a>
         </div>
         <div class="pgx-rail">
           <div class="lib latest no-select">
@@ -61,7 +61,7 @@ permalink: /
           <div class="pgx-shelf-titles">
             <span class="pgx-shelf-title">Most Popular</span>
           </div>
-          <a class="pgx-shelf-more" href="/ebooks/search/?sort_order=downloads" id="more_popular" title="Browse all popular books">All popular <span aria-hidden="true">&rarr;</span></a>
+          <a class="pgx-shelf-more" href="/ebooks/search/?sort_order=downloads" id="more_popular" title="Browse all popular books">All Popular Books <span aria-hidden="true">&rarr;</span></a>
         </div>
         <div class="pgx-rail">
           <div class="lib latest no-select">
