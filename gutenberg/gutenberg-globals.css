@@ -3556,7 +3556,7 @@ top: 14px;
 
 /* ---------- Shelf flow ---------- */
 .pgx-flow { display: flex; flex-direction: column; }
-.pgx-flow-newest { margin-top: 48px; margin-bottom: 62px; }
+.pgx-flow-newest { margin-top: 28px; margin-bottom: 62px; }
 /* inset Categories to align with the carousels' .box_shadow 24px padding */
 .pgx .pgx-flow-cats { padding: 0 24px; }
 
@@ -3927,7 +3927,7 @@ top: 14px;
 
 @media (max-width: 600px) {
   .pgx #slogan { font-size: clamp(2.5rem, 7.5vw, 2.6rem); }
-  .pgx-flow-newest { margin-top: 44px; margin-bottom: 44px; }
+  .pgx-flow-newest { margin-top: 28px; margin-bottom: 44px; }
   /* a little more breathing room above Categories on mobile */
   .pgx .pgx-flow-cats { margin-top: 16px; }
   .pgx-card { padding: 28px 22px; }
