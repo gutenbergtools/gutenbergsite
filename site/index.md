@@ -23,11 +23,11 @@ permalink: /
           <div class="pgx-shelf-titles">
             <span class="pgx-shelf-title">New Releases</span>
           </div>
-          <a class="pgx-shelf-more" href="/ebooks/search/?sort_order=release_date" id="more_recent" title="Browse all new releases"><span class="pgx-shelf-more-full">All New Releases</span><span class="pgx-shelf-more-short">View all</span><span class="pgx-shelf-arrow" aria-hidden="true">&rarr;</span></a>
         </div>
         <div class="pgx-rail">
           <div class="lib latest no-select">
           {% include latest_covers.html %}
+          <a class="pgx-more-card" href="/ebooks/search/?sort_order=release_date" title="Browse all new releases"><span class="pgx-more-card-box" aria-hidden="true">&rarr;</span><span class="pgx-more-card-label">All New Releases</span></a>
           </div>
         </div>
       </div>
@@ -39,7 +39,6 @@ permalink: /
       <div class="pgx-shelf-titles">
         <span class="pgx-shelf-title">Categories</span>
       </div>
-      <a class="pgx-shelf-more" href="/ebooks/categories.html" title="Browse all categories"><span class="pgx-shelf-more-full">All categories</span><span class="pgx-shelf-more-short">View all</span><span class="pgx-shelf-arrow" aria-hidden="true">&rarr;</span></a>
     </div>
     <div class="category-grid">
       <a href="/ebooks/categories.html#history"><svg class="pgx-cat-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 18v-7"/><path d="M11.119 2.205a2 2 0 0 1 1.762 0l7.84 3.846A.5.5 0 0 1 20.5 7h-17a.5.5 0 0 1-.22-.949z"/><path d="M14 18v-7"/><path d="M18 18v-7"/><path d="M3 22h18"/><path d="M6 18v-7"/></svg>History</a>
@@ -61,11 +60,11 @@ permalink: /
           <div class="pgx-shelf-titles">
             <span class="pgx-shelf-title">Most Popular</span>
           </div>
-          <a class="pgx-shelf-more" href="/ebooks/search/?sort_order=downloads" id="more_popular" title="Browse all popular books"><span class="pgx-shelf-more-full">All Popular Books</span><span class="pgx-shelf-more-short">View all</span><span class="pgx-shelf-arrow" aria-hidden="true">&rarr;</span></a>
         </div>
         <div class="pgx-rail">
           <div class="lib latest no-select">
           {% include popular_covers.html %}
+          <a class="pgx-more-card" href="/ebooks/search/?sort_order=downloads" title="Browse all popular books"><span class="pgx-more-card-box" aria-hidden="true">&rarr;</span><span class="pgx-more-card-label">All Popular Books</span></a>
           </div>
         </div>
       </div>
