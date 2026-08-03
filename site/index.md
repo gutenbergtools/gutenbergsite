@@ -27,7 +27,7 @@ permalink: /
         <div class="pgx-rail">
           <div class="lib latest no-select">
           {% include latest_covers.html %}
-          <a class="pgx-more-card" href="/ebooks/search/?sort_order=release_date" title="Browse all new releases"><span class="pgx-more-card-box" aria-hidden="true">&rarr;</span><span class="pgx-more-card-label">All New Releases</span></a>
+          <a class="pgx-more-card" href="/ebooks/search/?sort_order=release_date" title="Browse all new releases"><span class="pgx-more-card-box">All New Releases</span><span class="pgx-more-card-label" aria-hidden="true">&rarr;</span></a>
           </div>
         </div>
       </div>
@@ -64,7 +64,7 @@ permalink: /
         <div class="pgx-rail">
           <div class="lib latest no-select">
           {% include popular_covers.html %}
-          <a class="pgx-more-card" href="/ebooks/search/?sort_order=downloads" title="Browse all popular books"><span class="pgx-more-card-box" aria-hidden="true">&rarr;</span><span class="pgx-more-card-label">All Popular Books</span></a>
+          <a class="pgx-more-card" href="/ebooks/search/?sort_order=downloads" title="Browse all popular books"><span class="pgx-more-card-box">All Popular Books</span><span class="pgx-more-card-label" aria-hidden="true">&rarr;</span></a>
           </div>
         </div>
       </div>
