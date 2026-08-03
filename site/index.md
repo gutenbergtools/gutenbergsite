@@ -23,12 +23,11 @@ permalink: /
           <div class="pgx-shelf-titles">
             <span class="pgx-shelf-title">New Releases</span>
           </div>
-          <a class="pgx-shelf-more" href="/ebooks/search/?sort_order=release_date" id="more_recent" title="find more recent releases">All new releases <span aria-hidden="true">&rarr;</span></a>
+          <a class="pgx-shelf-more" href="/ebooks/search/?sort_order=release_date" id="more_recent" title="Browse all new releases">All releases <span aria-hidden="true">&rarr;</span></a>
         </div>
         <div class="pgx-rail">
           <div class="lib latest no-select">
           {% include latest_covers.html %}
-          <a class="pgx-more-card" href="/ebooks/search/?sort_order=release_date" title="find more recent releases"><span class="pgx-more-card-box" aria-hidden="true">&rarr;</span><span class="pgx-more-card-label">All new releases</span></a>
           </div>
         </div>
       </div>
@@ -62,12 +61,11 @@ permalink: /
           <div class="pgx-shelf-titles">
             <span class="pgx-shelf-title">Most Popular</span>
           </div>
-          <a class="pgx-shelf-more" href="/ebooks/search/?sort_order=downloads" id="more_popular" title="Find more popular books">All popular books <span aria-hidden="true">&rarr;</span></a>
+          <a class="pgx-shelf-more" href="/ebooks/search/?sort_order=downloads" id="more_popular" title="Browse all popular books">All popular <span aria-hidden="true">&rarr;</span></a>
         </div>
         <div class="pgx-rail">
           <div class="lib latest no-select">
           {% include popular_covers.html %}
-          <a class="pgx-more-card" href="/ebooks/search/?sort_order=downloads" title="Find more popular books"><span class="pgx-more-card-box" aria-hidden="true">&rarr;</span><span class="pgx-more-card-label">All popular books</span></a>
           </div>
         </div>
       </div>

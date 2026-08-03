@@ -3743,43 +3743,6 @@ top: 14px;
   height: auto;
 }
 
-/* end-of-rail "more" card: makes the destination reachable by scrolling too */
-.pgx .lib.latest > a.pgx-more-card {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  flex-shrink: 0;
-  text-decoration: none;
-  padding-right: 44px; /* keeps the card clear of the .pgx-rail::after fade */
-}
-.pgx-more-card-box {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 106px;
-  height: 159px;
-  border: 1px dashed #b3c3c9;
-  border-radius: 3px;
-  background: rgba(255, 255, 255, 0.5);
-  font-size: 2rem;
-  line-height: 1;
-  color: var(--pgx-teal);
-  transition: transform 0.22s ease, background 0.22s ease, border-color 0.22s ease;
-}
-.pgx .lib.latest > a.pgx-more-card:hover .pgx-more-card-box {
-  transform: translateY(-6px);
-  background: #ffffff;
-  border-color: var(--pgx-teal);
-}
-.pgx-more-card-label {
-  margin-top: 11px;
-  width: 118px;
-  font-size: 0.9rem;
-  font-weight: 600;
-  line-height: 1.32;
-  color: var(--pgx-teal);
-}
-
 /* ---------- Outro: lead statement + explore ---------- */
 .pgx-cards { margin: 6px 0 36px; }
 .pgx-lead-text {
@@ -3957,10 +3920,6 @@ top: 14px;
   .pgx-lead-wide .pgx-lead-text { text-align: left; text-wrap: pretty; }
   .pgx-lead-wide .pgx-lead-links { justify-content: flex-start; }
   .pgx.homepage .pgx-lead-wide .pgx-lead-note { text-align: left; }
-  /* the header "all ..." link crowds the shelf title on narrow screens; drop it.
-     The rails keep their end-of-rail more card, and every category tile already
-     links to the categories page. */
-  .pgx.homepage a.pgx-shelf-more { display: none; }
 }
 
 /* below 410px shrink the slogan with the viewport so it stays on one line;
