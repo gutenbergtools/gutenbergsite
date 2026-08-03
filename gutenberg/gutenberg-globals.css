@@ -3726,47 +3726,39 @@ top: 14px;
 .pgx .lib.latest > a.pgx-more-card {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
   flex: 1 0 106px; /* identical sizing to a book card */
   max-width: 152px;
   margin-right: 44px; /* trailing space clears the .pgx-rail::after fade */
+  color: var(--pgx-teal);
   text-decoration: none;
 }
-.pgx-more-card-box {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
+.pgx .pgx-more-card-box {
+  display: grid;
+  place-items: center;
   aspect-ratio: 2 / 3;
+  padding: 0 12px;
   border: 1px dashed var(--pgx-teal);
   border-radius: 3px;
   background: #ffffff;
-  padding: 0 12px;
   text-align: center;
   text-wrap: balance;
   font-size: 0.95rem;
   font-weight: 600;
   line-height: 1.35;
-  color: var(--pgx-teal);
-  transition: background 0.22s ease, color 0.22s ease, border-color 0.22s ease;
+  transition: background 0.22s ease, color 0.22s ease;
 }
-.pgx .lib.latest > a.pgx-more-card:hover .pgx-more-card-box {
-  background: var(--pgx-teal);
-  border-style: solid;
-  color: #ffffff;
-}
-.pgx .lib.latest > a.pgx-more-card:hover .pgx-more-card-label {
-  transform: translateX(4px);
-}
-.pgx-more-card-label {
+.pgx .pgx-more-card-label {
   margin-top: 11px;
-  transition: transform 0.22s ease;
-  width: 100%;
   text-align: center;
   font-size: 1.5rem;
-  line-height: 1.32;
-  color: var(--pgx-teal);
+  transition: transform 0.22s ease;
 }
+.pgx .pgx-more-card:hover .pgx-more-card-box {
+  border-style: solid;
+  background: var(--pgx-teal);
+  color: #ffffff;
+}
+.pgx .pgx-more-card:hover .pgx-more-card-label { transform: translateX(4px); }
 
 /* ---------- Outro: lead statement + explore ---------- */
 .pgx-cards { margin: 6px 0 36px; }
