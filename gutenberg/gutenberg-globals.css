@@ -3619,13 +3619,15 @@ top: 14px;
   border-radius: 8px;
   transition: color 0.18s ease, background 0.18s ease;
 }
-.pgx.homepage a.pgx-shelf-more span {
+.pgx.homepage a.pgx-shelf-more .pgx-shelf-arrow {
   font-size: 1.3em;
   opacity: 0.8;
   transition: opacity 0.18s ease, transform 0.18s ease;
 }
 .pgx.homepage a.pgx-shelf-more:hover { color: var(--pgx-teal); background: #eef1f3; text-decoration: none; }
-.pgx.homepage a.pgx-shelf-more:hover span { opacity: 1; transform: translateX(2px); }
+.pgx.homepage a.pgx-shelf-more:hover .pgx-shelf-arrow { opacity: 1; transform: translateX(2px); }
+/* the short label only appears at the narrow breakpoint below */
+.pgx.homepage a.pgx-shelf-more .pgx-shelf-more-short { display: none; }
 
 /* the scrolling track (tint comes from the .box_shadow card above) */
 .pgx-rail { position: relative; }
@@ -3900,7 +3902,7 @@ top: 14px;
 .pgx-social-icons > * + * { margin-top: 14px; }
 .pgx-card--lead > * + * { margin-top: 20px; }
 .pgx .lib.latest > * + * { margin-left: 22px; }
-.pgx.homepage a.pgx-shelf-more span { margin-left: 6px; }
+.pgx.homepage a.pgx-shelf-more .pgx-shelf-arrow { margin-left: 6px; }
 .pgx .category-grid a { gap: 0; } /* override base 12px icon gap; margin below */
 .pgx .category-grid .pgx-cat-icon { margin-right: 12px; }
 /* .category-grid tile gap (30px) left as flex gap: a margin fallback would
@@ -3920,6 +3922,11 @@ top: 14px;
   .pgx-lead-wide .pgx-lead-text { text-align: left; text-wrap: pretty; }
   .pgx-lead-wide .pgx-lead-links { justify-content: flex-start; }
   .pgx.homepage .pgx-lead-wide .pgx-lead-note { text-align: left; }
+  /* narrow shelf heads: the full label crowds the title, so swap in "View all"
+     and drop the arrow */
+  .pgx.homepage a.pgx-shelf-more .pgx-shelf-more-full,
+  .pgx.homepage a.pgx-shelf-more .pgx-shelf-arrow { display: none; }
+  .pgx.homepage a.pgx-shelf-more .pgx-shelf-more-short { display: inline; }
 }
 
 /* below 410px shrink the slogan with the viewport so it stays on one line;
