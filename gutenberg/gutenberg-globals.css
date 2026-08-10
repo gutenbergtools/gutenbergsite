@@ -3502,6 +3502,42 @@ top: 14px;
 
 #sub-slogan { font-size: 18px; }
 
+/* Homepage hero: larger, lighter slogan over a wider mission statement */
+.homepage .pgx-hero { margin: 28px 0 16px; }
+
+.homepage #slogan {
+  margin: 0 0 18px;
+  padding-bottom: 0;
+  font-size: clamp(2.2rem, 4.1vw, 2.4rem);
+  font-weight: 400;
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+}
+
+.homepage #sub-slogan {
+  margin: 0 0 32px;
+  max-width: 60em;
+  font-size: clamp(1.15rem, 1.65vw, 1.3rem);
+  line-height: 1.55;
+  color: #2c3338;
+  text-wrap: pretty; /* avoid a lone word on the last line */
+}
+
+/* Below 1024px the header leaves the fixed position and sits in the flow, so
+   .page_content's 60px top margin (which exists to clear the fixed header) is
+   dead space above the slogan. :has keeps this to the homepage. */
+@media (max-width: 1024px) {
+  .page_content:has(.homepage) { margin-top: 32px; }
+  .homepage .pgx-hero { margin-top: 0; }
+}
+
+/* below 410px shrink the slogan with the viewport so it stays on one line;
+   scale the sub-slogan in step so their proportion stays fixed */
+@media (max-width: 410px) {
+  .homepage #slogan { font-size: 8.4vw; }
+  .homepage #sub-slogan { font-size: 4.4vw; }
+}
+
 
 
 
