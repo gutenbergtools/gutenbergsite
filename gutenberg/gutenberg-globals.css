@@ -3502,14 +3502,13 @@ top: 14px;
 
 #sub-slogan { font-size: 18px; }
 
-/* Homepage hero: larger, lighter slogan over a wider mission statement */
+/* Homepage hero: larger slogan over a wider mission statement */
 .homepage .pgx-hero { margin: 28px 0 16px; }
 
 .homepage #slogan {
   margin: 0 0 18px;
   padding-bottom: 0;
-  font-size: clamp(2.2rem, 4.1vw, 2.4rem);
-  font-weight: 400;
+  font-size: clamp(2rem, 3.8vw, 2.2rem);
   line-height: 1.1;
   letter-spacing: -0.01em;
 }
