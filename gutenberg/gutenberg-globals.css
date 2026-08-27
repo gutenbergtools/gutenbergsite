@@ -3514,7 +3514,7 @@ top: 14px;
 }
 
 .homepage #sub-slogan {
-  margin: 0 0 32px;
+  margin: 0 0 44px;
   max-width: 60em;
   font-size: clamp(1.15rem, 1.65vw, 1.3rem);
   line-height: 1.55;
@@ -3528,6 +3528,22 @@ top: 14px;
 @media (max-width: 1024px) {
   .page_content:has(.homepage) { margin-top: 32px; }
   .homepage .pgx-hero { margin-top: 0; }
+}
+
+/* Every row from the categories down sits the same distance below the row
+   above it. The hero-to-first-carousel gap is set by #sub-slogan's margin. */
+.homepage > * { margin-bottom: 0; }
+.homepage > * + * + * { margin-top: 64px; }
+
+/* Same distance below the last row, at every width: the sitewide rule drops
+   its bottom padding under 1024px, which would leave the footer too close. */
+.page_content:has(.homepage) { padding-bottom: 80px; margin-bottom: 0; }
+
+/* Under 768px the info-box cards stack, so what was a horizontal gutter
+   becomes a vertical row gap and has to match the one above. */
+@media (max-width: 768px) {
+  .homepage .info-box-container { gap: 64px; }
+  .homepage .info-box { margin-bottom: 0; }
 }
 
 /* below 410px shrink the slogan with the viewport so it stays on one line;
