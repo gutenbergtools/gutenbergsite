@@ -3540,6 +3540,157 @@ top: 14px;
 
 
 
+/* ====== HOMEPAGE CAROUSELS ====== */
+
+/* shelf card — subtle teal tint wrapping header + rail */
+.homepage .library .box_shadow {
+  background: #eef6f9;
+  border: none;
+  border-radius: 12px;
+  padding: 22px 24px;
+  margin: 0;
+  box-shadow: none;
+}
+
+/* shelf header: title left, "find more" pill in the card's top-right corner */
+.homepage .pgx-shelf-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 24px;
+  margin: 0 0 20px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid #e7eef1;
+}
+.homepage .pgx-shelf-head a {
+  flex-shrink: 0;
+  padding: 5px 12px;
+  border-radius: 3px;
+  background-color: #C7DDE3;
+  text-decoration: none;
+}
+.homepage .pgx-shelf-head a:hover { background-color: #7ebed0; }
+.homepage .pgx-shelf-title {
+  font-size: 1.35rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: #1f2428;
+  line-height: 1.05;
+}
+
+/* the scrolling track (tint comes from the .box_shadow card above) */
+.homepage .pgx-rail { position: relative; }
+/* right-edge fade: persistent "scroll for more" cue (no JS, all browsers) */
+.homepage .pgx-rail::after {
+  content: "";
+  position: absolute;
+  top: 0; right: 0; bottom: 8px;
+  width: 36px;
+  background: linear-gradient(to right, rgba(238,246,249,0), rgba(238,246,249,0.9));
+  pointer-events: none;
+  z-index: 4;
+}
+.homepage .lib.latest {
+  gap: 22px;
+  padding: 14px 44px 14px 0; /* right pad lets the last cover clear the .pgx-rail fade */
+  scroll-snap-type: x proximity;
+}
+.homepage .lib.latest::-webkit-scrollbar { height: 8px; }
+
+/* book card: grows to fill the rail on wide screens, never below 106px */
+.homepage .lib.latest > a {
+  position: relative;
+  flex: 1 0 106px;
+  max-width: 152px;
+  scroll-snap-align: start;
+}
+.homepage .lib.latest .cover_image {
+  width: 100%;
+  height: auto;
+}
+.homepage .lib.latest a:hover .cover_image { transform: translateY(-6px); }
+.homepage .lib.latest .cover_img {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 2 / 3;
+}
+.homepage .lib.latest .cover_img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 3px 4px 4px 3px;
+  box-shadow:
+    0 1px 2px rgba(0, 0, 0, 0.16),
+    0 14px 26px -10px rgba(20, 50, 60, 0.5);
+  transition: box-shadow 0.22s ease;
+}
+.homepage .lib.latest a:hover .cover_img img {
+  box-shadow:
+    0 2px 4px rgba(0, 0, 0, 0.18),
+    0 22px 38px -12px rgba(20, 50, 60, 0.62);
+}
+/* subtle book-spine shading on the left edge */
+.homepage .lib.latest .cover_img::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; bottom: 0;
+  width: 7px;
+  border-radius: 3px 0 0 3px;
+  background: linear-gradient(to right, rgba(0,0,0,0.22), rgba(0,0,0,0.04) 60%, transparent);
+  z-index: 2;
+  pointer-events: none;
+}
+/* read-free hover affordance */
+.homepage .lib.latest .cover_img::after {
+  content: "Read free \2192";
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%) translateY(6px);
+  background-color: rgba(33, 37, 41, 0.9);
+  color: #ffffff;
+  padding: 5px 13px;
+  border-radius: 14px;
+  font-size: 0.76rem;
+  font-weight: 600;
+  white-space: nowrap;
+  opacity: 0;
+  transition: opacity 0.18s ease, transform 0.18s ease;
+  pointer-events: none;
+  z-index: 3;
+}
+.homepage .lib.latest a:hover .cover_img::after { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+/* title + author block */
+.homepage .lib.latest .cover_title {
+  margin-top: 11px;
+  width: 100%;
+  max-width: none;
+}
+.homepage .lib.latest .cover_title h5,
+.homepage .lib.latest .cover_title .h5 {
+  width: 100%;
+  height: auto;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #14181b;
+  line-height: 1.32;
+  letter-spacing: -0.005em;
+  background-color: transparent;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.homepage .lib.latest > a:hover .cover_title h5,
+.homepage .lib.latest > a:hover .cover_title .h5 {
+  -webkit-line-clamp: none;
+  overflow: visible;
+}
+
+
+
+
 /*------------------------------------*\
   ANIMATIONS
 \*------------------------------------*/
