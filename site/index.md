@@ -97,7 +97,7 @@ permalink: /
   </div>
 
   <div class="info-box">
-    <h3> Special Areas </h3>
+    <h3> Useful Links </h3>
     <ul>
       <li><a href="/about/">About Project Gutenberg</a>.</li>
       <li><a href="/donate/">Donating to Project Gutenberg</a>.</li>
