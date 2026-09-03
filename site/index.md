@@ -6,9 +6,11 @@ permalink: /
 
 <div class="homepage homepage__body">
 
-<h1 id="slogan"> Project Gutenberg is a library of {% include ebook_count %} free eBooks.</h1>
+<section class="pgx-hero">
+  <h1 id="slogan">Project Gutenberg is a library of {% include ebook_count %} free eBooks</h1>
 
-<p id="sub-slogan"> Choose among free eBooks to download or read online. You will find the world's great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and proofread the eBooks, for you to enjoy. </p>
+  <p id="sub-slogan">Choose free eBooks to download or read online. You will find the world's great literature here with a focus on older works whose U.S. copyright has expired. Thousands of Project Gutenberg volunteers have digitized and proofread these books for you. </p>
+</section>
 
 <!-- Latest Books -->
 <div class="library">
@@ -18,6 +20,18 @@ permalink: /
     {% include latest_covers.html %}
    </div>
  </div>
+</div>
+
+<div class="category-grid">
+  <a href="/ebooks/categories.html#history" data-emoji="🏛️">History</a>
+  <a href="/ebooks/categories.html#literature" data-emoji="📜">Literature</a>
+  <a href="/ebooks/categories.html#science-technology" data-emoji="🔭">Science & Technology</a>
+  <a href="/ebooks/categories.html#social-sciences-society" data-emoji="🧑‍🤝‍🧑">Social Sciences & Society</a>
+  <a href="/ebooks/categories.html#arts-culture" data-emoji="🎨">Arts & Culture</a>
+  <a href="/ebooks/categories.html#religion-philosophy" data-emoji="☯️">Religion & Philosophy</a>
+  <a href="/ebooks/categories.html#lifestyle-hobbies" data-emoji="🎯">Lifestyle & Hobbies</a>
+  <a href="/ebooks/categories.html#health-medicine" data-emoji="🌿">Health & Medicine</a>
+  <a href="/ebooks/categories.html#education-reference" data-emoji="🎓">Education & Reference</a>
 </div>
 
 <div class="info-box-container">
@@ -54,18 +68,6 @@ permalink: /
     {% include popular_covers.html %}
    </div>
  </div>
-</div>
-
-<div class="category-grid">
-  <a href="/ebooks/categories.html#history" data-emoji="🏛️">History</a>
-  <a href="/ebooks/categories.html#literature" data-emoji="📜">Literature</a>
-  <a href="/ebooks/categories.html#science-technology" data-emoji="🔭">Science & Technology</a>
-  <a href="/ebooks/categories.html#social-sciences-society" data-emoji="🧑‍🤝‍🧑">Social Sciences & Society</a>
-  <a href="/ebooks/categories.html#arts-culture" data-emoji="🎨">Arts & Culture</a>
-  <a href="/ebooks/categories.html#religion-philosophy" data-emoji="☯️">Religion & Philosophy</a>
-  <a href="/ebooks/categories.html#lifestyle-hobbies" data-emoji="🎯">Lifestyle & Hobbies</a>
-  <a href="/ebooks/categories.html#health-medicine" data-emoji="🌿">Health & Medicine</a>
-  <a href="/ebooks/categories.html#education-reference" data-emoji="🎓">Education & Reference</a>
 </div>
 
 <div class="info-box-container">
