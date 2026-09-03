@@ -14,8 +14,8 @@ permalink: /newsletter/index.html
 
 * Usage of Project Gutenberg Offline  
 * Cover Images
-* # 100th Anniversary of The Sun Also Rises by Ernest Hemingway
-* # 100th Anniversary of Winnie-the-Pooh by A. A. Milne
+* 100th Anniversary of The Sun Also Rises by Ernest Hemingway
+* 100th Anniversary of Winnie-the-Pooh by A. A. Milne
 * New Releases at Gutenberg.org — August 2026  
 * Links
 
