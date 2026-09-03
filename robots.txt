@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /ebooks/search
 
+Sitemap: https://www.gutenberg.org/ebooks/sitemaps/
