@@ -8,3 +8,4 @@ gem "logger",  "= 1.7.0"
 gem "csv", "= 3.3.4"
 gem "base64"
 gem "psych"
+gem 'ostruct'
