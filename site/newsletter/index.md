@@ -125,7 +125,7 @@ In the last month PGLAF added another 240 new public domain eBooks to the PG cat
 
 The month’s eBooks are listed here (the list was getting too long for the newsletter\!):
 
-\<[https://gutenberg.org/newsletter/202608.md](https://gutenberg.org/newsletter/202604.md)\>  
+\<[https://gutenberg.org/newsletter/202608.md](https://gutenberg.org/newsletter/202608.md)\>  
 
 ### A selection of this month’s notable and interesting titles:
 
