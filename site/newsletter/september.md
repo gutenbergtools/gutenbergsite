@@ -1,12 +1,10 @@
 ---
 layout: default
-
 title: September Newsletter | Project Gutenberg
-permalink: /newsletter/index.html
+permalink: /newsletter/september.html
 ---
 
 # — Project Gutenberg News - September 2026 —
-
 
 — *Enjoy these eBooks. Share them. Celebrate them*. —
 

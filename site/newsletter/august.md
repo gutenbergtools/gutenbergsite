@@ -125,7 +125,7 @@ Thank you to the many of you who responded to our survey on usage of MOBI filety
 
 ## New Releases at Gutenberg.org \- July 2026 
 
-In the last month PGLAF added another **254** new public domain eBooks to the PG catalog. Of these **122** were added by Distributed Proofreaders.  Thank you to all the volunteers who have helped to make these new titles freely available to the world.  
+In the last month PGLAF added another **263** new public domain eBooks to the PG catalog. Of these **122** were added by Distributed Proofreaders.  Thank you to all the volunteers who have helped to make these new titles freely available to the world.  
 
 The month’s eBooks are listed here (the list was getting too long for the newsletter\!):
 

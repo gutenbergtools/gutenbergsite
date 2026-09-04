@@ -15,11 +15,16 @@ permalink: /
 <!-- Latest Books -->
 <div class="library">
   <div class="box_shadow">
-    <p><span class="label">Newest Releases</span> <a href="/ebooks/search/?sort_order=release_date" id="more_recent" title="find more recent releases">find more</a></p>
-    <div class="lib latest no-select">
-    {% include latest_covers.html %}
-   </div>
- </div>
+    <div class="pgx-shelf-head">
+      <span class="pgx-shelf-title">New Releases</span>
+      <a href="/ebooks/search/?sort_order=release_date" id="more_recent" title="find more recent releases">find more</a>
+    </div>
+    <div class="pgx-rail">
+      <div class="lib latest no-select">
+      {% include latest_covers.html %}
+      </div>
+    </div>
+  </div>
 </div>
 
 <div class="category-grid">
@@ -63,11 +68,16 @@ permalink: /
 <!-- Popular Selection -->
 <div class="library">
   <div class="box_shadow">
-    <p><span class="label">Most Popular</span> <a href="/ebooks/search/?sort_order=downloads" id="more_popular" title="Find more popular books">find more</a></p>
-    <div class="lib latest no-select">
-    {% include popular_covers.html %}
-   </div>
- </div>
+    <div class="pgx-shelf-head">
+      <span class="pgx-shelf-title">Most Popular</span>
+      <a href="/ebooks/search/?sort_order=downloads" id="more_popular" title="Find more popular books">find more</a>
+    </div>
+    <div class="pgx-rail">
+      <div class="lib latest no-select">
+      {% include popular_covers.html %}
+      </div>
+    </div>
+  </div>
 </div>
 
 <div class="info-box-container">
@@ -87,7 +97,7 @@ permalink: /
   </div>
 
   <div class="info-box">
-    <h3> Special Areas </h3>
+    <h3> Useful Links </h3>
     <ul>
       <li><a href="/about/">About Project Gutenberg</a>.</li>
       <li><a href="/donate/">Donating to Project Gutenberg</a>.</li>
