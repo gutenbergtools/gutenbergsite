@@ -132,7 +132,7 @@ The month’s eBooks are listed here (the list was getting too long for the news
 * [French fairy tales](https://www.gutenberg.org/ebooks/79327/) - 
 * [The geology and geography of Northern Nigeria](https://www.gutenberg.org/ebooks/79349/) - J. D. Falconer
 * [Poems](https://www.gutenberg.org/ebooks/79363/) - William Blake and Alice Meynell
-* [Ryzon baking book](https://www.gutenberg.org/ebooks/79370/) - 
+* [Ryzon baking book](https://www.gutenberg.org/ebooks/79370/) - Marion Harris Neil
 * [Pickman's model](https://www.gutenberg.org/ebooks/79401/) - H. P. Lovecraft
 * [Ten poems, 1913-1915](https://www.gutenberg.org/ebooks/79403/) - Alice Meynell
 * [The picture in the house](https://www.gutenberg.org/ebooks/79405/) - H. P. Lovecraft
