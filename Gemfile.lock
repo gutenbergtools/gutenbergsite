@@ -85,7 +85,6 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     logger (1.7.0)
     mercenary (0.4.0)
-    ostruct (0.6.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     psych (5.2.6)
@@ -167,7 +166,6 @@ DEPENDENCIES
   csv (= 3.3.4)
   jekyll (= 4.3.4)
   logger (= 1.7.0)
-  ostruct
   psych
 
 BUNDLED WITH
