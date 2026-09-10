@@ -49,7 +49,7 @@ permalink: /
   <div class="info-box">
     <h3> Useful Links </h3>
     <ul>
-      <li><a href="/about/">About Project Gutenberg</a>.</li>
+      <li>Visit <a href="https://self.gutenberg.org">self.gutenberg.org</a> for self-published eBooks at the World Library Foundation.</li>
       <li><a href="/donate/">Donating to Project Gutenberg</a>.</li>
       <li><a href="/ebooks/feeds.html">Feeds</a> of new eBooks.</li>
       <li><a href="/policy/linking.html">Linking to Project Gutenberg</a> and <a href="/policy/robot_access.html">roboting or crawling</a> the site.</li>
