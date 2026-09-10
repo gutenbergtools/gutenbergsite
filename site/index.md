@@ -47,15 +47,17 @@ permalink: /
   </div>
 
   <div class="info-box">
-    <h3> Useful Links </h3>
+    <h3> Get Help </h3>
     <ul>
-      <li><a href="/ebooks/feeds.html">Feeds</a> of new eBooks.</li>
-      <li><a href="/donate/">Donate to Project Gutenberg</a>.</li>
-      <li><a href="/policy/linking.html">Linking to Project Gutenberg</a> and <a href="/policy/robot_access.html">roboting or crawling</a> the site.</li>
-      <li><a href="/about/partners_affiliates.html">Partners and affiliates</a>.</li>
-      <li><a href="/policy/permission.html">Permissions, copyright, licensing, and trademark information</a>.</li>
-      <li><a href="https://self.gutenberg.org">Self-published eBooks</a> at the World Library Foundation.</li>
-      <li>What does <a href="/about/background/free_ebook.html">free eBook</a> (No Cost or Freedom?) mean?</li>
+      <li><a href="/help/reading_options.html">Reading Options & Kindle</a>: How to read and enjoy our ebooks. </li>
+      <li><a href="/help/faq.html">Frequently Asked Questions</a> about Project Gutenberg.</li>
+      <li><a href="/help/">Help, How-To and FAQs</a>: In depth information about many topics.</li>
+    </ul>
+    <h3> How to Help </h3>
+    <ul>
+      <li><a href="https://www.pgdp.net">Distributed Proofreaders</a> welcomes new volunteers. This is the main source of new Project Gutenberg eBooks. Getting started is easy, and just a page a day will help! </li>
+      <li><a href="/help/errata.html">Fix and improve</a> Project Gutenberg by reporting errors, bugs, typos, and suggesting changes.</li>
+      <li>Record audiobooks with our friends at <a href="https://librivox.org">LibriVox</a>.</li>
     </ul>
   </div>
 </div>
@@ -77,17 +79,15 @@ permalink: /
 
 <div class="info-box-container">
   <div class="info-box">
-    <h3> Get Help </h3>
+    <h3> Useful Links </h3>
     <ul>
-      <li><a href="/help/reading_options.html">Reading Options & Kindle</a>: How to read and enjoy our ebooks. </li>
-      <li><a href="/help/faq.html">Frequently Asked Questions</a> about Project Gutenberg.</li>
-      <li><a href="/help/">Help, How-To and FAQs</a>: In depth information about many topics.</li>
-    </ul>
-    <h3> How to Help </h3>
-    <ul>
-      <li><a href="https://www.pgdp.net">Distributed Proofreaders</a> welcomes new volunteers. This is the main source of new Project Gutenberg eBooks. Getting started is easy, and just a page a day will help! </li>
-      <li><a href="/help/errata.html">Fix and improve</a> Project Gutenberg by reporting errors, bugs, typos, and suggesting changes.</li>
-      <li>Record audiobooks with our friends at <a href="https://librivox.org">LibriVox</a>.</li>
+      <li><a href="/ebooks/feeds.html">Feeds</a> of new eBooks.</li>
+      <li><a href="/donate/">Donate to Project Gutenberg</a>.</li>
+      <li><a href="/policy/linking.html">Linking to Project Gutenberg</a> and <a href="/policy/robot_access.html">roboting or crawling</a> the site.</li>
+      <li><a href="/about/partners_affiliates.html">Partners and affiliates</a>.</li>
+      <li><a href="/policy/permission.html">Permissions, copyright, licensing, and trademark information</a>.</li>
+      <li><a href="https://self.gutenberg.org">Self-published eBooks</a> at the World Library Foundation.</li>
+      <li>What does <a href="/about/background/free_ebook.html">free eBook</a> (No Cost or Freedom?) mean?</li>
     </ul>
   </div>
 
