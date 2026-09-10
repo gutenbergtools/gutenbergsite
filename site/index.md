@@ -81,8 +81,8 @@ permalink: /
   <div class="info-box">
     <h3> Useful Links </h3>
     <ul>
-      <li><a href="/ebooks/feeds.html">Feeds</a> of new eBooks.</li>
       <li><a href="/donate/">Donate to Project Gutenberg</a>.</li>
+      <li><a href="/ebooks/feeds.html">Feeds</a> of new eBooks.</li>
       <li><a href="/policy/linking.html">Linking to Project Gutenberg</a> and <a href="/policy/robot_access.html">roboting or crawling</a> the site.</li>
       <li><a href="/about/partners_affiliates.html">Partners and affiliates</a>.</li>
       <li><a href="/policy/permission.html">Permissions, copyright, licensing, and trademark information</a>.</li>
