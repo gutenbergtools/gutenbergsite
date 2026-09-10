@@ -27,17 +27,7 @@ permalink: /
   </div>
 </div>
 
-<div class="category-grid">
-  <a href="/ebooks/categories.html#history" data-emoji="🏛️">History</a>
-  <a href="/ebooks/categories.html#literature" data-emoji="📜">Literature</a>
-  <a href="/ebooks/categories.html#science-technology" data-emoji="🔭">Science & Technology</a>
-  <a href="/ebooks/categories.html#social-sciences-society" data-emoji="🧑‍🤝‍🧑">Social Sciences & Society</a>
-  <a href="/ebooks/categories.html#arts-culture" data-emoji="🎨">Arts & Culture</a>
-  <a href="/ebooks/categories.html#religion-philosophy" data-emoji="☯️">Religion & Philosophy</a>
-  <a href="/ebooks/categories.html#lifestyle-hobbies" data-emoji="🎯">Lifestyle & Hobbies</a>
-  <a href="/ebooks/categories.html#health-medicine" data-emoji="🌿">Health & Medicine</a>
-  <a href="/ebooks/categories.html#education-reference" data-emoji="🎓">Education & Reference</a>
-</div>
+{% include category_grid.html %}
 
 <div class="info-box-container">
   <div class="info-box">

@@ -3707,6 +3707,50 @@ top: 14px;
 
 
 
+
+/* ====== HOMEPAGE: CATEGORY GRID ====== */
+/* Larger, calmer tiles with Lucide line icons (see _includes/category_grid.html)
+   in place of the emoji pseudo-element the base rules draw. */
+
+.homepage .category-grid a:before { content: none; }
+
+.homepage .category-grid a {
+  flex-basis: 330px;
+  padding: 19px 24px;
+  font-size: 1.2rem;
+}
+
+.homepage .category-grid a,
+.homepage .category-grid a:link,
+.homepage .category-grid a:visited {
+  background: #fafbfc;
+  border-color: #e3e7ea;
+  color: #1f2428;
+}
+
+.homepage .category-grid a:hover {
+  background: #eef1f3;
+  border-color: #e3e7ea;
+  color: #1f2428;
+  transform: translateY(-3px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.08);
+}
+
+.homepage .pgx-cat-icon {
+  width: 1.6rem;
+  height: 1.6rem;
+  flex-shrink: 0;
+  color: #5ba0b5;
+  transition: transform 0.3s ease;
+}
+
+.homepage .category-grid a:hover .pgx-cat-icon { transform: scale(1.1); }
+
+/* One column below this, rather than a squeezed two-column row. */
+@media (max-width: 676px) {
+  .homepage .category-grid a { flex-basis: 100%; max-width: 400px; }
+}
+
 /*------------------------------------*\
   ANIMATIONS
 \*------------------------------------*/
