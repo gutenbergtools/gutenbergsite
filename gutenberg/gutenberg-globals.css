@@ -3751,6 +3751,109 @@ top: 14px;
   .homepage .category-grid a { flex-basis: 100%; max-width: 400px; }
 }
 
+/* ====== HOMEPAGE: FOLLOW / SOCIAL CARDS ====== */
+/* Replaces the old grey social card: two tinted cards echoing the carousel
+   shelves, with links that read as buttons instead of bare icons. */
+
+.homepage .pgx-connect {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 30px;
+}
+
+.homepage .pgx-connect__group {
+  padding: 32px 34px 36px;
+  border-radius: 12px;
+  background-color: #eef6f9;
+}
+
+.homepage .pgx-connect h3 {
+  margin: 0 0 26px;
+  font-size: 1.35rem;
+  letter-spacing: -0.02em;
+  color: #1f2428;
+}
+
+.homepage .pgx-social {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* Equal-width buttons sharing the card's width; they can never be squeezed
+   below their own label, since a flex item's min-width is its content. */
+.homepage .pgx-social li { flex: 1 1 150px; margin: 0; }
+
+.homepage .pgx-social a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 16px 20px;
+  border: 1px solid #d5e4ea;
+  border-radius: 999px;
+  background-color: #fff;
+  /* overridden per platform below; the fallback keeps hover sane if a link
+     is ever added without an is-* class */
+  --brand-color: #427E94;
+  color: #212529;
+  font-size: 1.05rem;
+  font-weight: 600;
+  white-space: nowrap;
+  text-decoration: none;
+  transition: transform 0.15s ease,
+              box-shadow 0.15s ease,
+              border-color 0.15s ease,
+              color 0.15s ease;
+}
+
+.homepage .pgx-social a:hover,
+.homepage .pgx-social a:focus-visible {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  border-color: var(--brand-color);
+  color: var(--brand-color);
+}
+
+.homepage .pgx-social img {
+  width: 26px;
+  height: 24px;
+  object-fit: contain;
+}
+
+.homepage .pgx-social .is-facebook { --brand-color: #1877F2; }
+.homepage .pgx-social .is-mastodon { --brand-color: #6364FF; }
+.homepage .pgx-social .is-bluesky  { --brand-color: #0285FF; }
+
+/* Two cards side by side only while each is wide enough for all three
+   buttons in one row; below that the cards stack full width, which keeps the
+   row of three intact instead of breaking it into a 2 + 1 orphan. */
+@media (max-width: 1340px) {
+  .homepage .pgx-connect { grid-template-columns: 1fr; }
+}
+
+/* A full-width card is wider than three buttons need, so cap them. */
+@media (max-width: 1340px) and (min-width: 701px) {
+  .homepage .pgx-social li { max-width: 300px; }
+}
+
+/* Narrower than this a row of three no longer fits, and a 2 + 1 wrap looks
+   like an accident, so the buttons become a full-width vertical stack. */
+@media (max-width: 700px) {
+  .homepage .pgx-social { flex-direction: column; }
+  .homepage .pgx-social li { flex: 0 0 auto; }
+}
+
+/* On phones the buttons are the only touch targets in the card, so let them
+   run the full width instead of capping them. */
+@media (max-width: 480px) {
+  .homepage .pgx-connect__group { padding: 24px 20px 26px; }
+}
+
+
 /*------------------------------------*\
   ANIMATIONS
 \*------------------------------------*/

@@ -104,44 +104,23 @@ permalink: /
   </div>
 </div>
 
-<div class="info-box-container">
-  <div class="info-box">
-    <h3>Audio Books</h3>
-    <p> Audio books are a great way to enjoy literature. We recommend the following sources. All of them are digitizations of Project Gutenberg texts. They are freely available and in the public domain in the US. </p>
-    <ul>
-      <li> - <a href="/browse/categories/1">Project Gutenberg’s 662 titles read by people</a> </li>
-      <li> - <a href="https://librivox.org">Human-read audio books from LibriVox</a>. LibriVox is a volunteer community that produces high-quality performances. </li>
-      <li> - <a href="https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html">The Project Gutenberg Open Audiobook Collection</a>. Almost 5,000 computer-generated titles from 2023 via a Project Gutenberg collaboration with Microsoft and MIT. </li>
-      <li> - <a href="/browse/categories/2">Project Gutenberg’s audio books from 2003</a>. They are computer-generated and listenable but relatively low quality compared to today’s technology. </li>
+<section class="pgx-connect">
+  <div class="pgx-connect__group">
+    <h3>Main Social Media</h3>
+    <ul class="pgx-social">
+      <li><a class="is-facebook" href="https://www.facebook.com/project.gutenberg"><img src="/gutenberg/f_icon.png" alt="">Facebook</a></li>
+      <li><a class="is-mastodon" href="https://mastodon.social/@gutenberg_org" rel="me"><img src="/gutenberg/m_icon.png" alt="">Mastodon</a></li>
+      <li><a class="is-bluesky" href="https://bsky.app/profile/gutenberg.org" rel="me"><img src="/gutenberg/b_icon.png" alt="">Bluesky</a></li>
     </ul>
   </div>
- 
-  <div class="info-box">
-    <h3>Our Social Media</h3>
-    <ul class="icon-list">
-      <li><a href="https://www.facebook.com/project.gutenberg">
-        <img src="/gutenberg/f_icon.png" alt="Facebook icon" >
-      </a></li>
-      <li><a href="https://mastodon.social/@gutenberg_org" rel="me">
-        <img src="/gutenberg/m_icon.png" alt="Mastodon icon" >
-      </a></li>
-      <li><a href="https://bsky.app/profile/gutenberg.org" rel="me">
-        <img src="/gutenberg/b_icon.png" alt="Bluesky icon" >
-      </a></li>
-    </ul>
-    <h3>News Feeds of new eBooks</h3>
-    <ul class="icon-list">
-      <li><a href="https://www.facebook.com/gutenberg.new">
-        <img src="/gutenberg/f_news_icon.png" alt="Facebook news feed icon" >
-      </a></li>
-      <li><a href="https://mastodon.social/@gutenberg_new" rel="me">
-        <img src="/gutenberg/m_news_icon.png" alt="Mastodon icon" >
-      </a></li>
-      <li><a href="https://bsky.app/profile/new.gutenberg.org" rel="me">
-        <img src="/gutenberg/b_news_icon.png" alt="Bluesky icon" >
-      </a></li>
+  <div class="pgx-connect__group">
+    <h3>New Releases</h3>
+    <ul class="pgx-social">
+      <li><a class="is-facebook" href="https://www.facebook.com/gutenberg.new"><img src="/gutenberg/f_icon.png" alt="">Facebook</a></li>
+      <li><a class="is-mastodon" href="https://mastodon.social/@gutenberg_new" rel="me"><img src="/gutenberg/m_icon.png" alt="">Mastodon</a></li>
+      <li><a class="is-bluesky" href="https://bsky.app/profile/new.gutenberg.org" rel="me"><img src="/gutenberg/b_icon.png" alt="">Bluesky</a></li>
     </ul>
   </div>
-</div>
+</section>
 
 </div>
