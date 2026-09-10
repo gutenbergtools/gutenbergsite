@@ -31,17 +31,6 @@ permalink: /
 
 <div class="info-box-container">
   <div class="info-box">
-    <h3>Find Free eBooks</h3>
-    <ul>
-      <li><a href="/browse/scores/top">Frequently Downloaded</a>: Top 100, or ranked <a href="/ebooks/search/?sort_order=downloads">by popularity</a>.</li>
-      <li><a href="/ebooks/categories">Main Categories</a>. The ones you'd find in any large bookstore.</li>
-      <li><a href="/ebooks/bookshelf/">Reading Lists</a>. Hand-curated by volunteers.</li>
-      <li><a href="/ebooks/">Search Options</a>. By author, title, subject, language, type, popularity, and more.</li>
-      <li>Visit <a href="https://self.gutenberg.org">self.gutenberg.org</a> for self-published eBooks at the World Library Foundation.</li>
-    </ul>
-  </div>
-
-  <div class="info-box">
     <h3>Project Gutenberg</h3>
     <ul>
       <li>✓ <strong>100% Free</strong> - No fees, no registration, completely free</li>
@@ -51,6 +40,19 @@ permalink: /
       <li>✓ <a href="/newsletter/february.html">Read about our late CEO</a>, <strong>Dr. Greg Newby</strong>. </li>
       <li class="small-text">Consider a small donation to help us digitize more books: <a href="/donate"> donate </a></li>
       
+    </ul>
+  </div>
+
+  <div class="info-box">
+    <h3> Useful Links </h3>
+    <ul>
+      <li><a href="/about/">About Project Gutenberg</a>.</li>
+      <li><a href="/donate/">Donating to Project Gutenberg</a>.</li>
+      <li><a href="/ebooks/feeds.html">Feeds</a> of new eBooks.</li>
+      <li><a href="/policy/linking.html">Linking to Project Gutenberg</a> and <a href="/policy/robot_access.html">roboting or crawling</a> the site.</li>
+      <li><a href="/about/partners_affiliates.html">Partners and affiliates</a>.</li>
+      <li><a href="/policy/permission.html">Permissions, copyright, licensing, and trademark information</a>.</li>
+      <li>What does <a href="/about/background/free_ebook.html">free eBook</a> (No Cost or Freedom?) mean?</li>
     </ul>
   </div>
 </div>
@@ -87,15 +89,17 @@ permalink: /
   </div>
 
   <div class="info-box">
-    <h3> Useful Links </h3>
+    <h3> Monthly Newsletter </h3>
     <ul>
-      <li><a href="/about/">About Project Gutenberg</a>.</li>
-      <li><a href="/donate/">Donating to Project Gutenberg</a>.</li>
-      <li><a href="/ebooks/feeds.html">Feeds</a> of new eBooks.</li>
-      <li><a href="/policy/linking.html">Linking to Project Gutenberg</a> and <a href="/policy/robot_access.html">roboting or crawling</a> the site.</li>
-      <li><a href="/about/partners_affiliates.html">Partners and affiliates</a>.</li>
-      <li><a href="/policy/permission.html">Permissions, copyright, licensing, and trademark information</a>.</li>
-      <li>What does <a href="/about/background/free_ebook.html">free eBook</a> (No Cost or Freedom?) mean?</li>
+      <li>We send out one email at the beginning of each month.</li>
+      <li>Every eBook we released that month, plus some editorial content.</li>
+      <li><a href="https://lists.pglaf.org/mailman3/lists/gmonthly.lists.pglaf.org/">Subscribe and unsubscribe</a> whenever you like.</li>
+    </ul>
+    <h3> Audio Books </h3>
+    <ul>
+      <li><a href="https://librivox.org">LibriVox</a> produces high-quality human-read recordings of Project Gutenberg texts.</li>
+      <li><a href="/browse/categories/1">662 of our own titles</a> are read by people.</li>
+      <li>The <a href="https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html">Open Audiobook Collection</a> adds almost 5,000 computer-generated titles.</li>
     </ul>
   </div>
 </div>
