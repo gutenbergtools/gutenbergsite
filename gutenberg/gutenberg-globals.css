@@ -3751,6 +3751,47 @@ top: 14px;
   .homepage .category-grid a { flex-basis: 100%; max-width: 400px; }
 }
 
+/* ====== HOMEPAGE: DONATION LINE ====== */
+/* The ask becomes the card's footer: a hairline, one calm line and a button,
+   sized to fit the slack the taller "Useful Links" card leaves beside it. */
+
+.homepage .pgx-donate {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 14px 0 0;
+  padding-top: 14px;
+  border-top: 1px solid #e3e7ea;
+  color: #495057;
+}
+
+.homepage .pgx-donate__btn,
+.homepage .pgx-donate__btn:link,
+.homepage .pgx-donate__btn:visited {
+  display: inline-flex;
+  flex-shrink: 0;
+  align-items: center;
+  gap: 9px;
+  padding: 13px 38px;
+  border-radius: 6px;
+  /* same fill and hover as the carousels' "find more" pills */
+  background: #c7dde3;
+  color: #1f2428;
+  font-size: 1.2rem;
+  text-decoration: none;
+  transition: background 0.2s ease;
+}
+
+.homepage .pgx-donate__btn:hover { background: #7ebed0; }
+
+.homepage .pgx-donate__icon {
+  width: 1.2rem;
+  height: 1.2rem;
+  color: #b04a4d;
+}
+
 /* ====== HOMEPAGE: FOLLOW / SOCIAL CARDS ====== */
 /* Replaces the old grey social card: two tinted cards echoing the carousel
    shelves, with links that read as buttons instead of bare icons. */
