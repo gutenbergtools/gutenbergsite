@@ -3774,11 +3774,11 @@ top: 14px;
   align-items: center;
   gap: 9px;
   padding: 9px 28px;
-  /* same fill, border and hover as the Donate button in the header */
-  border: 2px solid #427E94;
+  /* the header's Donate button, lightened: its colour as a tint and an outline */
+  border: 2px solid #9cc4d2;
   border-radius: 4px;
-  background: #427E94;
-  color: #fff;
+  background: #dcecf2;
+  color: #23576b;
   font-size: 1.05rem;
   font-weight: bold;
   text-decoration: none;
@@ -3790,7 +3790,7 @@ top: 14px;
 .homepage .pgx-donate__icon {
   width: 1.05rem;
   height: 1.05rem;
-  color: #fff;
+  color: #23576b;
 }
 
 /* ====== HOMEPAGE: FOLLOW / SOCIAL CARDS ====== */
