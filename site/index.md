@@ -109,7 +109,7 @@ permalink: /
 
 <section class="pgx-connect">
   <div class="pgx-connect__group">
-    <h3>Main Social Media</h3>
+    <h3>Our Social Media</h3>
     <ul class="pgx-social">
       <li><a class="is-facebook" href="https://www.facebook.com/project.gutenberg"><img src="/gutenberg/f_icon.png" alt="">Facebook</a></li>
       <li><a class="is-mastodon" href="https://mastodon.social/@gutenberg_org" rel="me"><img src="/gutenberg/m_icon.png" alt="">Mastodon</a></li>
@@ -117,7 +117,7 @@ permalink: /
     </ul>
   </div>
   <div class="pgx-connect__group">
-    <h3>New Releases</h3>
+    <h3>New Release Feeds</h3>
     <ul class="pgx-social">
       <li><a class="is-facebook" href="https://www.facebook.com/gutenberg.new"><img src="/gutenberg/f_icon.png" alt="">Facebook</a></li>
       <li><a class="is-mastodon" href="https://mastodon.social/@gutenberg_new" rel="me"><img src="/gutenberg/m_icon.png" alt="">Mastodon</a></li>
