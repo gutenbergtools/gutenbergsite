@@ -3707,6 +3707,206 @@ top: 14px;
 
 
 
+
+/* ====== HOMEPAGE: CATEGORY GRID ====== */
+/* Larger, calmer tiles with Lucide line icons (see _includes/category_grid.html)
+   in place of the emoji pseudo-element the base rules draw. */
+
+.homepage .category-grid a:before { content: none; }
+
+.homepage .category-grid a {
+  flex-basis: 330px;
+  padding: 19px 24px;
+  font-size: 1.2rem;
+}
+
+.homepage .category-grid a,
+.homepage .category-grid a:link,
+.homepage .category-grid a:visited {
+  background: #fafbfc;
+  border-color: #e3e7ea;
+  color: #1f2428;
+}
+
+.homepage .category-grid a:hover {
+  background: #eef1f3;
+  border-color: #e3e7ea;
+  color: #1f2428;
+  transform: translateY(-3px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.08);
+}
+
+.homepage .pgx-cat-icon {
+  width: 1.6rem;
+  height: 1.6rem;
+  flex-shrink: 0;
+  color: #5ba0b5;
+  transition: transform 0.3s ease;
+}
+
+.homepage .category-grid a:hover .pgx-cat-icon { transform: scale(1.1); }
+
+/* One column below this, rather than a squeezed two-column row. */
+@media (max-width: 676px) {
+  .homepage .category-grid a { flex-basis: 100%; max-width: 400px; }
+}
+
+/* ====== HOMEPAGE: DONATION LINE ====== */
+/* The ask becomes the card's footer: a hairline, one calm line and a button,
+   sized to fit the slack the taller "Useful Links" card leaves beside it. */
+
+.homepage .pgx-donate {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 18px;
+  margin: 14px 0 0;
+  padding-top: 14px;
+  border-top: 1px solid #e3e7ea;
+  color: #495057;
+}
+
+.homepage .pgx-donate__btn,
+.homepage .pgx-donate__btn:link,
+.homepage .pgx-donate__btn:visited {
+  display: inline-flex;
+  flex-shrink: 0;
+  align-items: center;
+  gap: 9px;
+  padding: 9px 28px;
+  /* the header's Donate button, lightened: its colour as a tint and an outline */
+  border: 2px solid #9cc4d2;
+  border-radius: 4px;
+  background: #dcecf2;
+  color: #23576b;
+  font-size: 1.05rem;
+  font-weight: bold;
+  text-decoration: none;
+  transition: opacity 0.2s ease;
+}
+
+.homepage .pgx-donate__btn:hover { opacity: 0.9; }
+
+.homepage .pgx-donate__icon {
+  width: 1.05rem;
+  height: 1.05rem;
+  color: #23576b;
+}
+
+/* ====== HOMEPAGE: FOLLOW / SOCIAL CARDS ====== */
+/* Replaces the old grey social card: two tinted cards echoing the carousel
+   shelves, with links that read as buttons instead of bare icons. */
+
+.homepage .pgx-connect {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 30px;
+}
+
+.homepage .pgx-connect__group {
+  padding: 32px 34px 36px;
+  border-radius: 12px;
+  background-color: #eef6f9;
+}
+
+.homepage .pgx-connect h3 {
+  margin: 0 0 26px;
+  font-size: 1.35rem;
+  letter-spacing: -0.02em;
+  color: #1f2428;
+}
+
+.homepage .pgx-social {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* Equal-width buttons sharing the card's width; they can never be squeezed
+   below their own label, since a flex item's min-width is its content. */
+.homepage .pgx-social li { flex: 1 1 150px; margin: 0; }
+
+.homepage .pgx-social a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 16px 20px;
+  border: 1px solid #d5e4ea;
+  border-radius: 999px;
+  background-color: #fff;
+  /* overridden per platform below; the fallback keeps hover sane if a link
+     is ever added without an is-* class */
+  --brand-color: #427E94;
+  color: #212529;
+  font-size: 1.05rem;
+  font-weight: 600;
+  white-space: nowrap;
+  text-decoration: none;
+  transition: transform 0.15s ease,
+              box-shadow 0.15s ease,
+              border-color 0.15s ease,
+              color 0.15s ease;
+}
+
+.homepage .pgx-social a:hover,
+.homepage .pgx-social a:focus-visible {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  border-color: var(--brand-color);
+  color: var(--brand-color);
+}
+
+.homepage .pgx-social img {
+  width: 26px;
+  height: 24px;
+  object-fit: contain;
+}
+
+/* The news variants carry a "News" label below the glyph, so they need more
+   height for the glyph itself to match the plain icons. */
+.homepage .pgx-social--news img {
+  width: 30px;
+  height: 34px;
+}
+
+/* Trim the padding by the extra icon height so both cards keep the same
+   button height. */
+.homepage .pgx-social--news a { padding-block: 11px; }
+
+.homepage .pgx-social .is-facebook { --brand-color: #1877F2; }
+.homepage .pgx-social .is-mastodon { --brand-color: #6364FF; }
+.homepage .pgx-social .is-bluesky  { --brand-color: #0285FF; }
+
+/* Two cards side by side only while each is wide enough for all three
+   buttons in one row; below that the cards stack full width, which keeps the
+   row of three intact instead of breaking it into a 2 + 1 orphan. */
+@media (max-width: 1340px) {
+  .homepage .pgx-connect { grid-template-columns: 1fr; }
+}
+
+/* A full-width card is wider than three buttons need, so cap them. */
+@media (max-width: 1340px) and (min-width: 701px) {
+  .homepage .pgx-social li { max-width: 300px; }
+}
+
+/* Narrower than this a row of three no longer fits, and a 2 + 1 wrap looks
+   like an accident, so the buttons become a full-width vertical stack. */
+@media (max-width: 700px) {
+  .homepage .pgx-social { flex-direction: column; }
+  .homepage .pgx-social li { flex: 0 0 auto; }
+}
+
+/* On phones the buttons are the only touch targets in the card, so let them
+   run the full width instead of capping them. */
+@media (max-width: 480px) {
+  .homepage .pgx-connect__group { padding: 24px 20px 26px; }
+}
+
+
 /*------------------------------------*\
   ANIMATIONS
 \*------------------------------------*/
