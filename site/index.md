@@ -117,11 +117,11 @@ permalink: /
     </ul>
   </div>
   <div class="pgx-connect__group">
-    <h3>New Release Feeds</h3>
-    <ul class="pgx-social">
-      <li><a class="is-facebook" href="https://www.facebook.com/gutenberg.new"><img src="/gutenberg/f_icon.png" alt="">Facebook</a></li>
-      <li><a class="is-mastodon" href="https://mastodon.social/@gutenberg_new" rel="me"><img src="/gutenberg/m_icon.png" alt="">Mastodon</a></li>
-      <li><a class="is-bluesky" href="https://bsky.app/profile/new.gutenberg.org" rel="me"><img src="/gutenberg/b_icon.png" alt="">Bluesky</a></li>
+    <h3>Feeds of New Books</h3>
+    <ul class="pgx-social pgx-social--news">
+      <li><a class="is-facebook" href="https://www.facebook.com/gutenberg.new"><img src="/gutenberg/f_news_icon.png" alt="">Facebook</a></li>
+      <li><a class="is-mastodon" href="https://mastodon.social/@gutenberg_new" rel="me"><img src="/gutenberg/m_news_icon.png" alt="">Mastodon</a></li>
+      <li><a class="is-bluesky" href="https://bsky.app/profile/new.gutenberg.org" rel="me"><img src="/gutenberg/b_news_icon.png" alt="">Bluesky</a></li>
     </ul>
   </div>
 </section>

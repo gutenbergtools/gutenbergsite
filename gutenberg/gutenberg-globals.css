@@ -3865,6 +3865,17 @@ top: 14px;
   object-fit: contain;
 }
 
+/* The news variants carry a "News" label below the glyph, so they need more
+   height for the glyph itself to match the plain icons. */
+.homepage .pgx-social--news img {
+  width: 30px;
+  height: 34px;
+}
+
+/* Trim the padding by the extra icon height so both cards keep the same
+   button height. */
+.homepage .pgx-social--news a { padding-block: 11px; }
+
 .homepage .pgx-social .is-facebook { --brand-color: #1877F2; }
 .homepage .pgx-social .is-mastodon { --brand-color: #6364FF; }
 .homepage .pgx-social .is-bluesky  { --brand-color: #0285FF; }
