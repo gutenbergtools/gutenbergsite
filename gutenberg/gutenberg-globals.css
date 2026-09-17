@@ -3773,13 +3773,13 @@ top: 14px;
   flex-shrink: 0;
   align-items: center;
   gap: 9px;
-  padding: 13px 38px;
+  padding: 9px 28px;
   /* same fill, border and hover as the Donate button in the header */
   border: 2px solid #427E94;
   border-radius: 4px;
   background: #427E94;
   color: #fff;
-  font-size: 1.2rem;
+  font-size: 1.05rem;
   font-weight: bold;
   text-decoration: none;
   transition: opacity 0.2s ease;
@@ -3788,8 +3788,8 @@ top: 14px;
 .homepage .pgx-donate__btn:hover { opacity: 0.9; }
 
 .homepage .pgx-donate__icon {
-  width: 1.2rem;
-  height: 1.2rem;
+  width: 1.05rem;
+  height: 1.05rem;
   color: #fff;
 }
 
