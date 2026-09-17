@@ -3774,21 +3774,23 @@ top: 14px;
   align-items: center;
   gap: 9px;
   padding: 13px 38px;
-  border-radius: 6px;
-  /* same fill and hover as the carousels' "find more" pills */
-  background: #c7dde3;
-  color: #1f2428;
+  /* same fill, border and hover as the Donate button in the header */
+  border: 2px solid #427E94;
+  border-radius: 4px;
+  background: #427E94;
+  color: #fff;
   font-size: 1.2rem;
+  font-weight: bold;
   text-decoration: none;
-  transition: background 0.2s ease;
+  transition: opacity 0.2s ease;
 }
 
-.homepage .pgx-donate__btn:hover { background: #7ebed0; }
+.homepage .pgx-donate__btn:hover { opacity: 0.9; }
 
 .homepage .pgx-donate__icon {
   width: 1.2rem;
   height: 1.2rem;
-  color: #b04a4d;
+  color: #fff;
 }
 
 /* ====== HOMEPAGE: FOLLOW / SOCIAL CARDS ====== */
