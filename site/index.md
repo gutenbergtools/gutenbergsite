@@ -27,30 +27,9 @@ permalink: /
   </div>
 </div>
 
-<div class="category-grid">
-  <a href="/ebooks/categories.html#history" data-emoji="🏛️">History</a>
-  <a href="/ebooks/categories.html#literature" data-emoji="📜">Literature</a>
-  <a href="/ebooks/categories.html#science-technology" data-emoji="🔭">Science & Technology</a>
-  <a href="/ebooks/categories.html#social-sciences-society" data-emoji="🧑‍🤝‍🧑">Social Sciences & Society</a>
-  <a href="/ebooks/categories.html#arts-culture" data-emoji="🎨">Arts & Culture</a>
-  <a href="/ebooks/categories.html#religion-philosophy" data-emoji="☯️">Religion & Philosophy</a>
-  <a href="/ebooks/categories.html#lifestyle-hobbies" data-emoji="🎯">Lifestyle & Hobbies</a>
-  <a href="/ebooks/categories.html#health-medicine" data-emoji="🌿">Health & Medicine</a>
-  <a href="/ebooks/categories.html#education-reference" data-emoji="🎓">Education & Reference</a>
-</div>
+{% include category_grid.html %}
 
 <div class="info-box-container">
-  <div class="info-box">
-    <h3>Find Free eBooks</h3>
-    <ul>
-      <li><a href="/browse/scores/top">Frequently Downloaded</a>: Top 100, or ranked <a href="/ebooks/search/?sort_order=downloads">by popularity</a>.</li>
-      <li><a href="/ebooks/categories">Main Categories</a>. The ones you'd find in any large bookstore.</li>
-      <li><a href="/ebooks/bookshelf/">Reading Lists</a>. Hand-curated by volunteers.</li>
-      <li><a href="/ebooks/">Search Options</a>. By author, title, subject, language, type, popularity, and more.</li>
-      <li>Visit <a href="https://self.gutenberg.org">self.gutenberg.org</a> for self-published eBooks at the World Library Foundation.</li>
-    </ul>
-  </div>
-
   <div class="info-box">
     <h3>Project Gutenberg</h3>
     <ul>
@@ -59,8 +38,26 @@ permalink: /
       <li>✓ <strong>55+ Years</strong> - Pioneering free eBooks <a href="/about/background/50years.html" title="history, 1971-2021">since 1971</a></li>
       <li>✓ <strong>Volunteer-based</strong> - hundreds of volunteers have contributed over the years</li>
       <li>✓ <a href="/newsletter/february.html">Read about our late CEO</a>, <strong>Dr. Greg Newby</strong>. </li>
-      <li class="small-text">Consider a small donation to help us digitize more books: <a href="/donate"> donate </a></li>
-      
+      <!-- Heart icon: Lucide, same set and license as _includes/category_grid.html -->
+      <li class="pgx-donate">
+        <span>Your donations are what keep us going!</span>
+        <a class="pgx-donate__btn" href="/donate/"><svg class="pgx-donate__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/></svg>Donate</a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="info-box">
+    <h3> Get Help </h3>
+    <ul>
+      <li><a href="/help/reading_options.html">Reading Options & Kindle</a>: How to read and enjoy our ebooks. </li>
+      <li><a href="/help/faq.html">Frequently Asked Questions</a> about Project Gutenberg.</li>
+      <li><a href="/help/">Help, How-To and FAQs</a>: In depth information about many topics.</li>
+    </ul>
+    <h3> How to Help </h3>
+    <ul>
+      <li><a href="https://www.pgdp.net">Distributed Proofreaders</a> welcomes new volunteers. This is the main source of new Project Gutenberg eBooks. Getting started is easy, and just a page a day will help! </li>
+      <li><a href="/help/errata.html">Fix and improve</a> Project Gutenberg by reporting errors, bugs, typos, and suggesting changes.</li>
+      <li>Record audiobooks with our friends at <a href="https://librivox.org">LibriVox</a>.</li>
     </ul>
   </div>
 </div>
@@ -82,72 +79,51 @@ permalink: /
 
 <div class="info-box-container">
   <div class="info-box">
-    <h3> Get Help </h3>
-    <ul>
-      <li><a href="/help/reading_options.html">Reading Options & Kindle</a>: How to read and enjoy our ebooks. </li>
-      <li><a href="/help/faq.html">Frequently Asked Questions</a> about Project Gutenberg.</li>
-      <li><a href="/help/">Help, How-To and FAQs</a>: In depth information about many topics.</li>
-    </ul>
-    <h3> How to Help </h3>
-    <ul>
-      <li><a href="https://www.pgdp.net">Distributed Proofreaders</a> welcomes new volunteers. This is the main source of new Project Gutenberg eBooks. Getting started is easy, and just a page a day will help! </li>
-      <li><a href="/help/errata.html">Fix and improve</a> Project Gutenberg by reporting errors, bugs, typos, and suggesting changes.</li>
-      <li>Record audiobooks with our friends at <a href="https://librivox.org">LibriVox</a>.</li>
-    </ul>
-  </div>
-
-  <div class="info-box">
     <h3> Useful Links </h3>
     <ul>
-      <li><a href="/about/">About Project Gutenberg</a>.</li>
-      <li><a href="/donate/">Donating to Project Gutenberg</a>.</li>
+      <li><a href="/donate/">Donate to Project Gutenberg</a>.</li>
       <li><a href="/ebooks/feeds.html">Feeds</a> of new eBooks.</li>
       <li><a href="/policy/linking.html">Linking to Project Gutenberg</a> and <a href="/policy/robot_access.html">roboting or crawling</a> the site.</li>
       <li><a href="/about/partners_affiliates.html">Partners and affiliates</a>.</li>
       <li><a href="/policy/permission.html">Permissions, copyright, licensing, and trademark information</a>.</li>
+      <li><a href="https://self.gutenberg.org">Self-published eBooks</a> at the World Library Foundation.</li>
       <li>What does <a href="/about/background/free_ebook.html">free eBook</a> (No Cost or Freedom?) mean?</li>
+    </ul>
+  </div>
+
+  <div class="info-box">
+    <h3> Monthly Newsletter </h3>
+    <ul>
+      <li>We send out one email at the beginning of each month.</li>
+      <li>Every eBook we released that month, plus some editorial content.</li>
+      <li><a href="https://lists.pglaf.org/mailman3/lists/gmonthly.lists.pglaf.org/">Subscribe and unsubscribe</a> whenever you like.</li>
+    </ul>
+    <h3> Audio Books </h3>
+    <ul>
+      <li><a href="https://librivox.org">LibriVox</a> produces high-quality human-read recordings of Project Gutenberg texts.</li>
+      <li><a href="/browse/categories/1">662 of our own titles</a> are read by people.</li>
+      <li>The <a href="https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html">Open Audiobook Collection</a> adds almost 5,000 computer-generated titles.</li>
     </ul>
   </div>
 </div>
 
-<div class="info-box-container">
-  <div class="info-box">
-    <h3>Audio Books</h3>
-    <p> Audio books are a great way to enjoy literature. We recommend the following sources. All of them are digitizations of Project Gutenberg texts. They are freely available and in the public domain in the US. </p>
-    <ul>
-      <li> - <a href="/browse/categories/1">Project Gutenberg’s 662 titles read by people</a> </li>
-      <li> - <a href="https://librivox.org">Human-read audio books from LibriVox</a>. LibriVox is a volunteer community that produces high-quality performances. </li>
-      <li> - <a href="https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html">The Project Gutenberg Open Audiobook Collection</a>. Almost 5,000 computer-generated titles from 2023 via a Project Gutenberg collaboration with Microsoft and MIT. </li>
-      <li> - <a href="/browse/categories/2">Project Gutenberg’s audio books from 2003</a>. They are computer-generated and listenable but relatively low quality compared to today’s technology. </li>
-    </ul>
-  </div>
- 
-  <div class="info-box">
+<section class="pgx-connect">
+  <div class="pgx-connect__group">
     <h3>Our Social Media</h3>
-    <ul class="icon-list">
-      <li><a href="https://www.facebook.com/project.gutenberg">
-        <img src="/gutenberg/f_icon.png" alt="Facebook icon" >
-      </a></li>
-      <li><a href="https://mastodon.social/@gutenberg_org" rel="me">
-        <img src="/gutenberg/m_icon.png" alt="Mastodon icon" >
-      </a></li>
-      <li><a href="https://bsky.app/profile/gutenberg.org" rel="me">
-        <img src="/gutenberg/b_icon.png" alt="Bluesky icon" >
-      </a></li>
-    </ul>
-    <h3>News Feeds of new eBooks</h3>
-    <ul class="icon-list">
-      <li><a href="https://www.facebook.com/gutenberg.new">
-        <img src="/gutenberg/f_news_icon.png" alt="Facebook news feed icon" >
-      </a></li>
-      <li><a href="https://mastodon.social/@gutenberg_new" rel="me">
-        <img src="/gutenberg/m_news_icon.png" alt="Mastodon icon" >
-      </a></li>
-      <li><a href="https://bsky.app/profile/new.gutenberg.org" rel="me">
-        <img src="/gutenberg/b_news_icon.png" alt="Bluesky icon" >
-      </a></li>
+    <ul class="pgx-social">
+      <li><a class="is-facebook" href="https://www.facebook.com/project.gutenberg"><img src="/gutenberg/f_icon.png" alt="">Facebook</a></li>
+      <li><a class="is-mastodon" href="https://mastodon.social/@gutenberg_org" rel="me"><img src="/gutenberg/m_icon.png" alt="">Mastodon</a></li>
+      <li><a class="is-bluesky" href="https://bsky.app/profile/gutenberg.org" rel="me"><img src="/gutenberg/b_icon.png" alt="">Bluesky</a></li>
     </ul>
   </div>
-</div>
+  <div class="pgx-connect__group">
+    <h3>Feeds of New Books</h3>
+    <ul class="pgx-social pgx-social--news">
+      <li><a class="is-facebook" href="https://www.facebook.com/gutenberg.new"><img src="/gutenberg/f_news_icon.png" alt="">Facebook</a></li>
+      <li><a class="is-mastodon" href="https://mastodon.social/@gutenberg_new" rel="me"><img src="/gutenberg/m_news_icon.png" alt="">Mastodon</a></li>
+      <li><a class="is-bluesky" href="https://bsky.app/profile/new.gutenberg.org" rel="me"><img src="/gutenberg/b_news_icon.png" alt="">Bluesky</a></li>
+    </ul>
+  </div>
+</section>
 
 </div>
