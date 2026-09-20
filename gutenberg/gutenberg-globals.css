@@ -3687,6 +3687,7 @@ top: 14px;
 .homepage .lib.latest .cover_title .h5 {
   width: 100%;
   height: auto;
+  overflow-wrap: anywhere;
   font-size: 0.9rem;
   font-weight: 600;
   color: #14181b;
