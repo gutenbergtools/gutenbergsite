@@ -3618,6 +3618,7 @@ top: 14px;
   position: relative;
   flex: 1 0 106px;
   max-width: 152px;
+  min-width: 0;
   scroll-snap-align: start;
 }
 .homepage .lib.latest .cover_image {
