@@ -3618,6 +3618,7 @@ top: 14px;
   position: relative;
   flex: 1 0 106px;
   max-width: 152px;
+  min-width: 0;
   scroll-snap-align: start;
 }
 .homepage .lib.latest .cover_image {
@@ -3687,6 +3688,7 @@ top: 14px;
 .homepage .lib.latest .cover_title .h5 {
   width: 100%;
   height: auto;
+  overflow-wrap: anywhere;
   font-size: 0.9rem;
   font-weight: 600;
   color: #14181b;
