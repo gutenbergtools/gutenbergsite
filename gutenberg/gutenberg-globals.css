@@ -2418,7 +2418,8 @@ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
 }
 
-.info-box h3 {
+.info-box h2 {
+  text-align: left;
   color: #212529;
   margin: 0 0 15px 0;
   font-size: 1.35rem;
@@ -3811,7 +3812,8 @@ top: 14px;
   background-color: #eef6f9;
 }
 
-.homepage .pgx-connect h3 {
+.homepage .pgx-connect h2 {
+  text-align: left;
   margin: 0 0 26px;
   font-size: 1.35rem;
   letter-spacing: -0.02em;

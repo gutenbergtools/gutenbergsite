@@ -31,7 +31,7 @@ permalink: /
 
 <div class="info-box-container">
   <div class="info-box">
-    <h3>Project Gutenberg</h3>
+    <h2>Project Gutenberg</h2>
     <ul>
       <li>✓ <strong>100% Free</strong> - No fees, no registration, completely free</li>
       <li>✓ <strong>No Apps Required</strong> - only regular Web browsers or eBook readers needed</li>
@@ -47,13 +47,13 @@ permalink: /
   </div>
 
   <div class="info-box">
-    <h3> Get Help </h3>
+    <h2> Get Help </h2>
     <ul>
       <li><a href="/help/reading_options.html">Reading Options & Kindle</a>: How to read and enjoy our ebooks. </li>
       <li><a href="/help/faq.html">Frequently Asked Questions</a> about Project Gutenberg.</li>
       <li><a href="/help/">Help, How-To and FAQs</a>: In depth information about many topics.</li>
     </ul>
-    <h3> How to Help </h3>
+    <h2> How to Help </h2>
     <ul>
       <li><a href="https://www.pgdp.net">Distributed Proofreaders</a> welcomes new volunteers. This is the main source of new Project Gutenberg eBooks. Getting started is easy, and just a page a day will help! </li>
       <li><a href="/help/errata.html">Fix and improve</a> Project Gutenberg by reporting errors, bugs, typos, and suggesting changes.</li>
@@ -79,7 +79,7 @@ permalink: /
 
 <div class="info-box-container">
   <div class="info-box">
-    <h3> Useful Links </h3>
+    <h2> Useful Links </h2>
     <ul>
       <li><a href="/donate/">Donate to Project Gutenberg</a>.</li>
       <li><a href="/ebooks/feeds.html">Feeds</a> of new eBooks.</li>
@@ -92,13 +92,13 @@ permalink: /
   </div>
 
   <div class="info-box">
-    <h3> Monthly Newsletter </h3>
+    <h2> Monthly Newsletter </h2>
     <ul>
       <li>We send out one email at the beginning of each month.</li>
       <li>Every eBook we released that month, plus some editorial content.</li>
       <li><a href="https://lists.pglaf.org/mailman3/lists/gmonthly.lists.pglaf.org/">Subscribe and unsubscribe</a> whenever you like.</li>
     </ul>
-    <h3> Audio Books </h3>
+    <h2> Audio Books </h2>
     <ul>
       <li><a href="https://librivox.org">LibriVox</a> produces high-quality human-read recordings of Project Gutenberg texts.</li>
       <li><a href="/browse/categories/1">662 of our own titles</a> are read by people.</li>
@@ -109,7 +109,7 @@ permalink: /
 
 <section class="pgx-connect">
   <div class="pgx-connect__group">
-    <h3>Our Social Media</h3>
+    <h2>Our Social Media</h2>
     <ul class="pgx-social">
       <li><a class="is-facebook" href="https://www.facebook.com/project.gutenberg"><img src="/gutenberg/f_icon.png" alt="">Facebook</a></li>
       <li><a class="is-mastodon" href="https://mastodon.social/@gutenberg_org" rel="me"><img src="/gutenberg/m_icon.png" alt="">Mastodon</a></li>
@@ -117,7 +117,7 @@ permalink: /
     </ul>
   </div>
   <div class="pgx-connect__group">
-    <h3>Feeds of New Books</h3>
+    <h2>Feeds of New Books</h2>
     <ul class="pgx-social pgx-social--news">
       <li><a class="is-facebook" href="https://www.facebook.com/gutenberg.new"><img src="/gutenberg/f_news_icon.png" alt="">Facebook</a></li>
       <li><a class="is-mastodon" href="https://mastodon.social/@gutenberg_new" rel="me"><img src="/gutenberg/m_news_icon.png" alt="">Mastodon</a></li>
