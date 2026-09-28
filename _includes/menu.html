@@ -18,8 +18,8 @@
       <label
         for="search-toggle"
         class="search-icon-btn"
-        aria-label="Open Search"
       >
+        <span class="visually-hidden">Open Search</span>
         <svg
           class="search-icon"
           xmlns="http://www.w3.org/2000/svg"
@@ -34,7 +34,7 @@
           <path d="M0 0h24v24H0z" fill="none" />
         </svg>
       </label>
-      <label for="search-close" class="search-close-btn" aria-label="Close Search">X</label>
+      <label for="search-close" class="search-close-btn"><span aria-hidden="true">X</span><span class="visually-hidden">Close Search</span></label>
       <input
         type="text"
         class="search-input"
@@ -73,7 +73,7 @@
 
   <div class="lower-header" role="navigation">
     <div class="dropdown" tabindex="0">
-      <label for="about-toggle" class="dropdown-button" aria-haspopup="true">About<span aria-hidden="true" class="dropdown-icon">▼</span></label>
+      <label for="about-toggle" class="dropdown-button">About<span aria-hidden="true" class="dropdown-icon">▼</span></label>
       <div class="dropdown-content">
         <a href="/about/">About Project Gutenberg </a>
         <a href="/help/reading_options.html">Reading Options & Kindle</a>
