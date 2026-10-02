@@ -77,10 +77,6 @@ Stephen Wolfram has published an exceptionally detailed and engaging article abo
 
 ## New Releases at Gutenberg.org \- September 2026 
 
-In the last month PGLAF added another 210  new public domain eBooks to the PG catalog. Of these 134  were added by PGDP.  Thank you to all the volunteers who have helped to make these new titles freely available to the world.  
-
-## New Releases at Gutenberg.org \- September 2026 
-
 In the last month PGLAF added another 210 new public domain eBooks to the PG catalog. Of these 134 were added by PGDP.  Thank you to all the volunteers who have helped to make these new titles freely available to the world.  
 
 The month’s eBooks are listed here (the list was getting too long for the newsletter\!):
