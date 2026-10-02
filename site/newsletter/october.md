@@ -1,7 +1,7 @@
 ---
 layout: default
 title: October Newsletter | Project Gutenberg
-permalink: /newsletter/index.html
+permalink: /newsletter/october.html
 ---
 
 # — Project Gutenberg News - October 2026 —
