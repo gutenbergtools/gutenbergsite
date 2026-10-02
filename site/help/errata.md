@@ -102,4 +102,4 @@ When you are able to find the eBook's title in an online eBook such as "The Inte
 
 Any errata submissions are freely made, without obligation, and are entirely in the public domain. 
 
-If you are not sure whether your pull request was received, or need guidance on the process, email errata2026 @ pglaf.org. 
+If you are not sure whether your errata request was received, or need guidance on the process, email errata2026 @ pglaf.org. 

@@ -20,17 +20,6 @@ if ($docroot) {
     $config->documentroot = $docroot;
 }
 
-// output progress messages to STDERR or php_errors
-function progress($message)
-{
-    if (defined('STDERR')) {
-        fwrite(STDERR, $message);
-        return;
-    }
-
-    error_log(rtrim($message, "\r\n"));
-}
-
 function mk_header($title)
 {
     global $config;
@@ -148,16 +137,12 @@ ORDER BY downloads DESC LIMIT $num");
 /////////////////////////////////////////////////////////////////////////////////////
 // start main
 
-progress("creating temp table ...");
-
 $db2->exec("CREATE TEMP TABLE dl AS 
 SELECT scores.book_downloads.fk_books, scores.book_downloads.date, 
        scores.book_downloads.downloads, fk_langs
 FROM scores.book_downloads, mn_books_langs
 WHERE scores.book_downloads.fk_books = mn_books_langs.fk_books 
 AND scores.book_downloads.fk_books NOT IN ($disqualifiedbooks)");
-
-progress(" done.\n");
 
 $langs = [];
 
@@ -171,8 +156,6 @@ if ($db2->FirstRow()) {
         $langs[] = [$fk_langs, 100]; // Top 100 this language
     } while ($db2->NextRow());
 }
-
-progress(" done.\n");
 
 $db2->exec("select max (date) as latest, min (date) as earliest from scores.book_downloads");
 $latest = date("Y-m-d", $db2->get("latest", SQLDATE));
@@ -282,7 +265,5 @@ foreach ($langs as $l) {
 
         fputs($hd, mk_footer());
         fclose($hd);
-
-        progress(" done.\n");
     }
 }
