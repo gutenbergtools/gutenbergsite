@@ -94,6 +94,7 @@ permalink: /
   <div class="info-box">
     <h2> Monthly Newsletter </h2>
     <ul>
+      <li>View <a href="/newsletter/">this month's newsletter</a>.</li>
       <li>We send out one email at the beginning of each month.</li>
       <li>Every eBook we released that month, plus some editorial content.</li>
       <li><a href="https://lists.pglaf.org/mailman3/lists/gmonthly.lists.pglaf.org/">Subscribe and unsubscribe</a> whenever you like.</li>
