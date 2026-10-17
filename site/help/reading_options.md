@@ -26,7 +26,7 @@ details.inline[open] > ol, details.inline[open] > ul, details.inline[open] > p {
 .alternatives > details[open] { margin-bottom: 0.8em; }
 </style>
 
-How to Read Our eBooks
+How to Read
 =====================================
 
 Project Gutenberg offers 75,000+ free ebooks. Here's how you can read and enjoy them.
