@@ -1118,21 +1118,10 @@ test_index for latest covers from gutenberg1*/
   }
 }
 
-@media (max-width: 1080px) and (min-width: 1025px) {
+/* Shrink with the screen so the logo clears the centred nav links */
+@media (min-width: 1025px) {
   .logo-container {
-    height: 60px;
-  }
-}
-
-@media (max-width: 1175px) and (min-width: 1080px) {
-  .logo-container {
-    height: 85px;
-  }
-}
-
-@media (max-width: 1240px) and (min-width: 1175px) {
-  .logo-container {
-    height: 100px;
+    height: clamp(60px, (100vw - 950px) / 3.2, 120px);
   }
 }
 
@@ -3392,24 +3381,10 @@ h1 .icon {
   }
 }
 
-@media (max-width: 1080px) and (min-width: 1025px) {
-
+/* Shrink with the screen so the logo clears the centred nav links */
+@media (min-width: 1025px) {
   #main_logo img {
-    height: 60px;
-  }
-}
-
-@media (max-width: 1175px) and (min-width: 1080px) {
-
-  #main_logo img {
-    height: 85px;
-  }
-}
-
-@media (max-width: 1240px) and (min-width: 1175px) {
-
-  #main_logo img {
-    height: 100px;
+    height: clamp(60px, (100vw - 950px) / 3.2, 120px);
   }
 }
 
