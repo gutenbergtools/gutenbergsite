@@ -96,7 +96,7 @@ For Kindles since 2013, Send-to-Kindle is the easiest way.
 3. It appears on your Kindle in minutes
 
 <div class="alternatives">
-<details class="inline usb"><summary><span class="toggle">USB transfer</span> (older Kindles)</summary><p>Use the <strong>Kindle/MOBI</strong> format, not EPUB:</p><ol><li>On the book's page, use the <strong>"Kindles (kf8)"</strong> or <strong>"Older Kindles"</strong> download option</li><li>Connect your Kindle to your computer via USB</li><li>Copy the file to the "documents" folder on your Kindle</li></ol></details>
+<details class="inline usb"><summary><span class="toggle">USB transfer</span> (older Kindles)</summary><p>Use the <strong>Kindle/MOBI</strong> format, not EPUB:</p><ol><li>On the book's page, use the <strong>"Older Kindles"</strong> or <strong>"Kindles (kf8)"</strong> download option</li><li>Connect your Kindle to your computer via USB</li><li>Copy the file to the "documents" folder on your Kindle</li></ol></details>
 <details class="inline"><summary><span class="toggle">Email to Kindle</span></summary><p>Every Kindle has its own email address. You can email files directly to it.</p><ol><li>On Amazon: open Menu → Manage Your Content and Devices → Devices tab → select your Kindle and find its email address</li><li>On the same page: go to the Preferences tab → scroll down to "Approved Personal Document E-mail List" → add your own email address, so the Kindle can receive emails from you</li><li>Email the <strong>EPUB3</strong> file as an attachment to your Kindle's address</li></ol></details>
 </div>
 
