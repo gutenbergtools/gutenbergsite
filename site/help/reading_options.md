@@ -9,14 +9,14 @@ permalink: /help/reading_options.html
 .page_content h1 { margin-top: 2em; }
 .page_content h1:first-child { margin-top: 0; }
 .page_content h2 { margin-top: 1.4em; }
-.device-picker { display: flex; flex-wrap: wrap; gap: 12px; margin: 1em 0; }
-.page_content .device-picker a { padding: 14px 22px; border: 1px solid #9cc4d2; border-radius: 10px; background: #fafbfc; color: #1f2428; font-weight: 600; text-decoration: none; }
+.device-picker { display: flex; flex-wrap: wrap; margin: 1em 0 -12px; }
+.page_content .device-picker a { margin: 0 12px 12px 0; padding: 14px 22px; border: 1px solid #9cc4d2; border-radius: 10px; background: #fafbfc; color: #1f2428; font-weight: 600; text-decoration: none; }
 .page_content .device-picker a::after { content: "›"; margin-left: 10px; color: #5a8a9c; }
 .page_content .device-picker a:hover { background: #eef6f9; }
 .lead { font-size: 1.25em; line-height: 1.5; }
 @media (max-width: 500px) {
-  .device-picker { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
-  .page_content .device-picker a { padding: 14px 8px; text-align: center; }
+  .device-picker { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 0; }
+  .page_content .device-picker a { margin: 0; padding: 14px 8px; text-align: center; }
   .page_content .device-picker a::after { content: none; }
   .device-panel ol { margin: 0 0 0 0.5em; }
 }
@@ -38,7 +38,7 @@ details.inline[open] > ol, details.inline[open] > ul, details.inline[open] > p {
 .alternatives details[open] > summary::before { content: "▾"; }
 .alternatives > details { margin-top: 0.2em; }
 .alternatives > details[open] { margin-bottom: 0.8em; }
-.page_content .device-panel :is(p, li, details), #need-help + p { font-size: 1.125rem; line-height: 1.6; max-width: 42rem; }
+.page_content .device-panel p, .page_content .device-panel li, .page_content .device-panel details, #need-help + p { font-size: 1.125rem; line-height: 1.6; max-width: 42rem; }
 #need-help { max-width: 42rem; margin-top: 2.5em; padding-top: 1.2em; border-top: 1px solid #d5e4ea; }
 /* One device panel at a time: the one holding the link target, else Read Online.
    Browsers without :has() show all panels instead. */
