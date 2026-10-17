@@ -1347,6 +1347,13 @@ test_index for latest covers from gutenberg1*/
   }
 }
 
+/* Too narrow for a fourth link; "How to Read" stays in the About menu. */
+@media (max-width: 600px) {
+  .lower-header .main-links .link-how-to-read {
+    display: none;
+  }
+}
+
 /* Dropdown overlay */
 .dropdown-overlay {
   position: fixed;

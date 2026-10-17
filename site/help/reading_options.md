@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reading Options | Project Gutenberg
+title: How to Read Our eBooks, incl. Kindle | Project Gutenberg
 permalink: /help/reading_options.html
 ---
 
@@ -26,7 +26,7 @@ details.inline[open] > ol, details.inline[open] > ul, details.inline[open] > p {
 .alternatives > details[open] { margin-bottom: 0.8em; }
 </style>
 
-Reading Options & Kindle
+How to Read Our eBooks
 =====================================
 
 Project Gutenberg offers 75,000+ free ebooks. Here's how you can read and enjoy them.
