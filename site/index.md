@@ -37,7 +37,7 @@ permalink: /
       <li>✓ <strong>No Apps Required</strong> - only regular Web browsers or eBook readers needed</li>
       <li>✓ <strong>55+ Years</strong> - Pioneering free eBooks <a href="/about/background/50years.html" title="history, 1971-2021">since 1971</a></li>
       <li>✓ <strong>Volunteer-based</strong> - hundreds of volunteers have contributed over the years</li>
-      <li>✓ <a href="/newsletter/february.html">Read about our late CEO</a>, <strong>Dr. Greg Newby</strong>. </li>
+      <li>✓ <a href="/about/newby.html">Read about our late CEO</a>, <strong>Dr. Greg Newby</strong>. </li>
       <!-- Heart icon: Lucide, same set and license as _includes/category_grid.html -->
       <li class="pgx-donate">
         <span>Your donations are what keep us going!</span>
