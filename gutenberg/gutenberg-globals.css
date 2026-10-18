@@ -605,6 +605,13 @@ test_index for latest covers from gutenberg1*/
   border-bottom: 0px none #ffffff;
 }
 
+/* Only the first column keeps its top margin, so drop it to align the top row */
+@media only screen and (min-width: 751px) {
+  .bookshelves .book-list:first-child h2 {
+    margin-top: 0;
+  }
+}
+
 .page_content.library .lib {
   margin-bottom: 50px;
 }
