@@ -6,7 +6,7 @@ permalink: /ebooks/categories.html
 
 Main Categories
 ==================================================
-These are the categories that you may find in a real bookstore. They have been automatically assigned.
+These are the categories you may find in a real bookstore. They are assigned automatically.
 
 
 <div class="bookshelves">
