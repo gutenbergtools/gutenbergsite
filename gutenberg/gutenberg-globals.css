@@ -1103,12 +1103,14 @@ test_index for latest covers from gutenberg1*/
 /* Logo shrinks with the screen so it clears the centred nav links */
 @media (max-width: 1024px) and (min-width: 677px) {
   .logo-container {
+    height: 60px; /* Fallback for browsers that don't support clamp() */
     height: clamp(60px, (100vw - 550px) / 3.2, 120px);
   }
 }
 
-@media (min-width: 1025px) {
+@media (min-width: 1025px) and (max-width: 1333px) {
   .logo-container {
+    height: 60px; /* Fallback for browsers that don't support clamp() */
     height: clamp(60px, (100vw - 950px) / 3.2, 120px);
   }
 }
@@ -3350,12 +3352,14 @@ h1 .icon {
 
 @media (max-width: 1024px) and (min-width: 677px) {
   #main_logo img {
+    height: 60px; /* Fallback for browsers that don't support clamp() */
     height: clamp(60px, (100vw - 550px) / 3.2, 120px);
   }
 }
 
-@media (min-width: 1025px) {
+@media (min-width: 1025px) and (max-width: 1333px) {
   #main_logo img {
+    height: 60px; /* Fallback for browsers that don't support clamp() */
     height: clamp(60px, (100vw - 950px) / 3.2, 120px);
   }
 }
