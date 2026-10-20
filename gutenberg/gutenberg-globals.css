@@ -4207,6 +4207,9 @@ body.bibrec_page {
 .bibrec_page .device-tip summary {
   cursor: pointer;
   list-style: none;
+  /* Hanging indent: wrapped lines start under the first letter, not under the arrow (0.429em + 0.476em gap) */
+  padding-left: 0.905em;
+  text-indent: -0.905em;
 }
 
 .bibrec_page .device-tip summary::-webkit-details-marker {
@@ -4228,13 +4231,15 @@ body.bibrec_page {
   transform: rotate(90deg);
 }
 
-/* Open tip sits in a light panel; negative margins keep the summary text in place */
-.bibrec_page .device-tip[open] {
+/* Steps sit in a light panel below the summary, whose border lines up with the EPUB3 row's green border */
+.bibrec_page .device-tip-body {
+  margin-top: 8px;
   background: #f2f7f9;
   border-left: 3px solid #9cc4d2;
   border-radius: 0 6px 6px 0;
-  padding: 8px 10px 10px 7px;
-  margin: 0 -10px;
+  padding: 15px 10px 8px 12px; /* 12px left: fallback for browsers without calc() */
+  /* Lines start under the summary's first letter: arrow (0.429em) + gap (0.476em), minus the 3px border */
+  padding-left: calc(0.905em - 3px);
 }
 
 .bibrec_page .device-tip-action {
@@ -4247,12 +4252,17 @@ body.bibrec_page {
 
 .bibrec_page .device-tip ol,
 .bibrec_page .device-tip p {
-  margin: 8px 0 4px 1.4em;
+  margin: 8px 0 4px;
   padding: 0;
 }
 
+.bibrec_page .device-tip-body > :first-child {
+  margin-top: 0;
+}
+
+/* Numbers hang in a gutter as wide as "1. ", so they start under the summary's first letter and wrapped lines align with the text */
 .bibrec_page .device-tip ol {
-  padding-left: 1.2em;
+  padding-left: 1.15em;
 }
 
 .bibrec_page .device-tip li + li {
