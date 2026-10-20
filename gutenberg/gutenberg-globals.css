@@ -4076,8 +4076,8 @@ body.bibrec_page {
   text-decoration: none;
 }
 
-/* Phones: smaller cover and a solid full-width button, so reading starts sooner */
-@media (max-width: 600px) {
+/* Stacked layout: smaller cover and a solid full-width button, so reading starts sooner */
+@media (max-width: 768px) {
   .bibrec_page #cover {
     width: 45%;
     max-width: 200px;
