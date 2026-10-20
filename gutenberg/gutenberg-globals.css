@@ -1316,17 +1316,17 @@ test_index for latest covers from gutenberg1*/
   }
 }
 
-@media (max-width: 1024px) {
-
-  .lower-header .main-links .link-freq-downloaded,
-  .lower-header .main-links .link-main-categories {
+/* Too narrow for a fourth link; "How to Read" stays in the About menu. */
+@media (max-width: 600px) {
+  .lower-header .main-links .link-how-to-read {
     display: none;
   }
 }
 
-/* Too narrow for a fourth link; "How to Read" stays in the About menu. */
-@media (max-width: 600px) {
-  .lower-header .main-links .link-how-to-read {
+@media (max-width: 1024px) {
+
+  .lower-header .main-links .link-freq-downloaded,
+  .lower-header .main-links .link-main-categories {
     display: none;
   }
 }
