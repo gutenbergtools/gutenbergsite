@@ -4228,6 +4228,15 @@ body.bibrec_page {
   transform: rotate(90deg);
 }
 
+/* Open tip sits in a light panel; negative margins keep the summary text in place */
+.bibrec_page .device-tip[open] {
+  background: #f2f7f9;
+  border-left: 3px solid #9cc4d2;
+  border-radius: 0 6px 6px 0;
+  padding: 8px 10px 10px 7px;
+  margin: 0 -10px;
+}
+
 .bibrec_page .device-tip-action {
   text-decoration: underline;
 }
