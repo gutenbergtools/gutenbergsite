@@ -4082,7 +4082,8 @@ body.bibrec_page {
   .bibrec_page .other-format-row,
   .bibrec_page .featured-format-actions a,
   .bibrec_page .other-format-actions a,
-  .bibrec_page .other-formats-summary::before {
+  .bibrec_page .other-formats-summary::before,
+  .bibrec_page .device-tip summary::before {
     transition: none;
   }
 }
@@ -4200,6 +4201,52 @@ body.bibrec_page {
 .bibrec_page .featured-format-tips a:link,
 .bibrec_page .featured-format-tips a:visited {
   color: #3e444d;
+}
+
+/* Per-device steps, expandable in place. Triangle matches "Other formats". */
+.bibrec_page .device-tip summary {
+  cursor: pointer;
+  list-style: none;
+}
+
+.bibrec_page .device-tip summary::-webkit-details-marker {
+  display: none;
+}
+
+.bibrec_page .device-tip summary::before {
+  content: '';
+  display: inline-block;
+  border-top: 0.333em solid transparent;
+  border-bottom: 0.333em solid transparent;
+  border-left: 0.429em solid #427E94;
+  margin-right: 0.476em;
+  vertical-align: middle;
+  transition: transform 0.15s ease;
+}
+
+.bibrec_page .device-tip[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+.bibrec_page .device-tip-action {
+  text-decoration: underline;
+}
+
+.bibrec_page .device-tip summary:hover .device-tip-action {
+  color: #1a1a1a;
+}
+
+.bibrec_page .device-tip ol,
+.bibrec_page .device-tip p {
+  margin: 8px 0 4px 1.4em;
+}
+
+.bibrec_page .device-tip ol {
+  padding-left: 1.2em;
+}
+
+.bibrec_page .device-tip li + li {
+  margin-top: 4px;
 }
 
 @media (max-width: 768px) {
