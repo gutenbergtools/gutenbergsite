@@ -4064,7 +4064,7 @@ body.bibrec_page {
   font-size: 1.0625em;
   letter-spacing: 0.3px;
   text-decoration: none;
-  border: none;
+  border: 1px solid #427E94;
   border-radius: 3px;
   transition: background-color 0.2s ease;
 }
@@ -4079,7 +4079,8 @@ body.bibrec_page {
 /* Phones: smaller cover and a solid full-width button, so reading starts sooner */
 @media (max-width: 600px) {
   .bibrec_page #cover {
-    width: 130px;
+    width: 45%;
+    max-width: 200px;
   }
 
   .bibrec_page a.read-online-button:link,
