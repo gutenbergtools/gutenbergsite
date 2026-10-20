@@ -4239,6 +4239,7 @@ body.bibrec_page {
 .bibrec_page .device-tip ol,
 .bibrec_page .device-tip p {
   margin: 8px 0 4px 1.4em;
+  padding: 0;
 }
 
 .bibrec_page .device-tip ol {
