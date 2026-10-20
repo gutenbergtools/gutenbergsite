@@ -92,7 +92,7 @@ Every book has its own webpage, so you can **read it right away in your browser*
 For Kindles since 2013, Send-to-Kindle is the easiest way.
 
 1. Download the **EPUB3** file
-2. Upload it on the Amazon site your Kindle is registered with: [amazon.com/sendtokindle](https://www.amazon.com/sendtokindle){:target="_blank"} for the US, [amazon.co.uk/sendtokindle](https://www.amazon.co.uk/sendtokindle){:target="_blank"} for the UK, and so on
+2. Upload it on the Amazon site your Kindle is registered with: [amazon.com/sendtokindle](https://www.amazon.com/sendtokindle){:target="_blank"} for the US, [amazon.co.uk/sendtokindle](https://www.amazon.co.uk/sendtokindle){:target="_blank"} for the UK etc.
 3. It appears on your Kindle in minutes
 
 <div class="alternatives">
