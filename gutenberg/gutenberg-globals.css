@@ -4086,7 +4086,7 @@ body.bibrec_page {
   .bibrec_page a.read-online-button:link,
   .bibrec_page a.read-online-button:visited {
     display: block;
-    max-width: 400px;
+    max-width: 460px;
     margin: 0 auto;
     padding: 14px 12px;
     background-color: #427E94;
