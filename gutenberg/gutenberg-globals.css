@@ -4076,6 +4076,27 @@ body.bibrec_page {
   text-decoration: none;
 }
 
+/* Phones: smaller cover and a solid full-width button, so reading starts sooner */
+@media (max-width: 600px) {
+  .bibrec_page #cover {
+    width: 130px;
+  }
+
+  .bibrec_page a.read-online-button:link,
+  .bibrec_page a.read-online-button:visited {
+    display: block;
+    padding: 14px 12px;
+    background-color: #427E94;
+    color: white;
+  }
+
+  .bibrec_page a.read-online-button:hover,
+  .bibrec_page a.read-online-button:focus {
+    background-color: #356a7d;
+    color: white;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .bibrec_page .read-online-button,
   .bibrec_page .featured-format-row,
