@@ -4055,7 +4055,7 @@ body.bibrec_page {
   font-size: 1.0625em;
   letter-spacing: 0.3px;
   text-decoration: none;
-  border: none;
+  border: 1px solid #427E94;
   border-radius: 3px;
   transition: background-color 0.2s ease;
 }
@@ -4065,6 +4065,30 @@ body.bibrec_page {
   background-color: #b3d2da;
   color: black;
   text-decoration: none;
+}
+
+/* Stacked layout: smaller cover and a solid full-width button, so reading starts sooner */
+@media (max-width: 768px) {
+  .bibrec_page #cover {
+    width: 45%;
+    max-width: 200px;
+  }
+
+  .bibrec_page a.read-online-button:link,
+  .bibrec_page a.read-online-button:visited {
+    display: block;
+    max-width: 460px;
+    margin: 0 auto;
+    padding: 14px 12px;
+    background-color: #427E94;
+    color: white;
+  }
+
+  .bibrec_page a.read-online-button:hover,
+  .bibrec_page a.read-online-button:focus {
+    background-color: #356a7d;
+    color: white;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
