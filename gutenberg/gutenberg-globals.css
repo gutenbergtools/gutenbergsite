@@ -4097,7 +4097,8 @@ body.bibrec_page {
   .bibrec_page .other-format-row,
   .bibrec_page .featured-format-actions a,
   .bibrec_page .other-format-actions a,
-  .bibrec_page .other-formats-summary::before {
+  .bibrec_page .other-formats-summary::before,
+  .bibrec_page .device-tip summary::before {
     transition: none;
   }
 }
@@ -4215,6 +4216,72 @@ body.bibrec_page {
 .bibrec_page .featured-format-tips a:link,
 .bibrec_page .featured-format-tips a:visited {
   color: #3e444d;
+}
+
+/* Per-device steps, expandable in place. Triangle matches "Other formats". */
+.bibrec_page .device-tip summary {
+  cursor: pointer;
+  list-style: none;
+  /* Hanging indent: wrapped lines start under the first letter, not under the arrow (0.429em + 0.476em gap) */
+  padding-left: 0.905em;
+  text-indent: -0.905em;
+}
+
+.bibrec_page .device-tip summary::-webkit-details-marker {
+  display: none;
+}
+
+.bibrec_page .device-tip summary::before {
+  content: '';
+  display: inline-block;
+  border-top: 0.333em solid transparent;
+  border-bottom: 0.333em solid transparent;
+  border-left: 0.429em solid #427E94;
+  margin-right: 0.476em;
+  vertical-align: middle;
+  transition: transform 0.15s ease;
+}
+
+.bibrec_page .device-tip[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+/* Steps sit in a light panel below the summary, whose border lines up with the EPUB3 row's green border */
+.bibrec_page .device-tip-body {
+  margin-top: 8px;
+  background: #f2f7f9;
+  border-left: 3px solid #9cc4d2;
+  border-radius: 0 6px 6px 0;
+  padding: 15px 10px 8px 12px; /* 12px left: fallback for browsers without calc() */
+  /* Lines start under the summary's first letter: arrow (0.429em) + gap (0.476em), minus the 3px border */
+  padding-left: calc(0.905em - 3px);
+}
+
+.bibrec_page .device-tip-action {
+  text-decoration: underline;
+}
+
+.bibrec_page .device-tip summary:hover .device-tip-action {
+  color: #1a1a1a;
+}
+
+.bibrec_page .device-tip ol,
+.bibrec_page .device-tip p {
+  margin: 8px 0 4px;
+  padding: 0;
+}
+
+.bibrec_page .device-tip-body > :first-child {
+  margin-top: 0;
+}
+
+/* Numbers hang in a gutter as wide as "1. ", so they start under the summary's first letter and wrapped lines align with the text */
+.bibrec_page .device-tip ol {
+  padding-left: 1.15em;
+}
+
+.bibrec_page .device-tip li + li {
+  margin-top: 4px;
 }
 
 @media (max-width: 768px) {
