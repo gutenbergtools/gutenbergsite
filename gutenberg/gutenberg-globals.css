@@ -605,6 +605,13 @@ test_index for latest covers from gutenberg1*/
   border-bottom: 0px none #ffffff;
 }
 
+/* Only the first column keeps its top margin, so drop it to align the top row */
+@media only screen and (min-width: 751px) {
+  .bookshelves .book-list:first-child h2 {
+    margin-top: 0;
+  }
+}
+
 .page_content.library .lib {
   margin-bottom: 50px;
 }
@@ -1327,22 +1334,13 @@ test_index for latest covers from gutenberg1*/
   }
 }
 
-/* Dropdown overlay */
-.dropdown-overlay {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: transparent;
-  z-index: 0;
-  display: none;
-  cursor: default;
+/* Display dropdown when focused with keyboard (mouse clicks use #about-toggle) */
+.dropdown:focus-visible .dropdown-content {
+  left: auto;
 }
 
-/* Display dropdown when focused with keyboard */
-.dropdown:focus-within .dropdown-content {
-  display: block;
+.dropdown-content:focus-within {
+  left: auto;
 }
 
 .dropdown {
@@ -1373,13 +1371,9 @@ test_index for latest covers from gutenberg1*/
   transition: transform 0.2s ease;
 }
 
-.dropdown:hover .dropdown-icon {
-  transform: rotate(180deg);
-}
-
 .dropdown-content {
-  display: none;
   position: absolute;
+  left: -9999px; /* hidden off-screen, not display: none, so the links stay tabbable */
   background-color: white;
   min-width: 200px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
@@ -1400,17 +1394,6 @@ test_index for latest covers from gutenberg1*/
 .dropdown-content a:hover {
   background-color: #f1f1f1;
   text-decoration: underline;
-}
-
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-
-/* For touch devices, use click/tap instead of hover */
-@media (hover: none) {
-  .dropdown:hover .dropdown-content {
-    display: none;
-  }
 }
 
 .main-links {
@@ -3366,17 +3349,25 @@ h1 .icon {
 
 
 
-#about-toggle:checked ~ .dropdown-overlay {
-  display: block;
-  z-index: 900;
-}
 /* About dropdown toggle */
 #about-toggle:checked ~ .lower-header .dropdown .dropdown-content {
-  display: block;
+  left: auto;
 }
 
 #about-toggle:checked ~ .lower-header .dropdown .dropdown-icon {
   transform: rotate(180deg);
+}
+
+/* While open, the About label covers the screen, so any click closes the menu */
+#about-toggle:checked ~ .lower-header .dropdown-button::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 900;
+  cursor: default;
 }
 
 @media (max-width: 500px) {
@@ -4022,7 +4013,7 @@ body.bibrec_page {
   font-size: 1.0625em;
   letter-spacing: 0.3px;
   text-decoration: none;
-  border: none;
+  border: 1px solid #427E94;
   border-radius: 3px;
   transition: background-color 0.2s ease;
 }
@@ -4034,13 +4025,38 @@ body.bibrec_page {
   text-decoration: none;
 }
 
+/* Stacked layout: smaller cover and a solid full-width button, so reading starts sooner */
+@media (max-width: 768px) {
+  .bibrec_page #cover {
+    width: 45%;
+    max-width: 200px;
+  }
+
+  .bibrec_page a.read-online-button:link,
+  .bibrec_page a.read-online-button:visited {
+    display: block;
+    max-width: 460px;
+    margin: 0 auto;
+    padding: 14px 12px;
+    background-color: #427E94;
+    color: white;
+  }
+
+  .bibrec_page a.read-online-button:hover,
+  .bibrec_page a.read-online-button:focus {
+    background-color: #356a7d;
+    color: white;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .bibrec_page .read-online-button,
   .bibrec_page .featured-format-row,
   .bibrec_page .other-format-row,
   .bibrec_page .featured-format-actions a,
   .bibrec_page .other-format-actions a,
-  .bibrec_page .other-formats-summary::before {
+  .bibrec_page .other-formats-summary::before,
+  .bibrec_page .device-tip summary::before {
     transition: none;
   }
 }
@@ -4158,6 +4174,72 @@ body.bibrec_page {
 .bibrec_page .featured-format-tips a:link,
 .bibrec_page .featured-format-tips a:visited {
   color: #3e444d;
+}
+
+/* Per-device steps, expandable in place. Triangle matches "Other formats". */
+.bibrec_page .device-tip summary {
+  cursor: pointer;
+  list-style: none;
+  /* Hanging indent: wrapped lines start under the first letter, not under the arrow (0.429em + 0.476em gap) */
+  padding-left: 0.905em;
+  text-indent: -0.905em;
+}
+
+.bibrec_page .device-tip summary::-webkit-details-marker {
+  display: none;
+}
+
+.bibrec_page .device-tip summary::before {
+  content: '';
+  display: inline-block;
+  border-top: 0.333em solid transparent;
+  border-bottom: 0.333em solid transparent;
+  border-left: 0.429em solid #427E94;
+  margin-right: 0.476em;
+  vertical-align: middle;
+  transition: transform 0.15s ease;
+}
+
+.bibrec_page .device-tip[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+/* Steps sit in a light panel below the summary, whose border lines up with the EPUB3 row's green border */
+.bibrec_page .device-tip-body {
+  margin-top: 8px;
+  background: #f2f7f9;
+  border-left: 3px solid #9cc4d2;
+  border-radius: 0 6px 6px 0;
+  padding: 15px 10px 8px 12px; /* 12px left: fallback for browsers without calc() */
+  /* Lines start under the summary's first letter: arrow (0.429em) + gap (0.476em), minus the 3px border */
+  padding-left: calc(0.905em - 3px);
+}
+
+.bibrec_page .device-tip-action {
+  text-decoration: underline;
+}
+
+.bibrec_page .device-tip summary:hover .device-tip-action {
+  color: #1a1a1a;
+}
+
+.bibrec_page .device-tip ol,
+.bibrec_page .device-tip p {
+  margin: 8px 0 4px;
+  padding: 0;
+}
+
+.bibrec_page .device-tip-body > :first-child {
+  margin-top: 0;
+}
+
+/* Numbers hang in a gutter as wide as "1. ", so they start under the summary's first letter and wrapped lines align with the text */
+.bibrec_page .device-tip ol {
+  padding-left: 1.15em;
+}
+
+.bibrec_page .device-tip li + li {
+  margin-top: 4px;
 }
 
 @media (max-width: 768px) {
@@ -4412,3 +4494,205 @@ body.bibrec_page {
   }
 }
 
+
+/*
+* How to Read page (/help/reading_options.html).
+* Scoped to .reading-options, set via page_class in its front matter.
+*/
+.reading-options {
+  max-width: 1250px;
+}
+
+.reading-options h1 {
+  margin-top: 2em;
+}
+
+.reading-options h1:first-child {
+  margin-top: 0;
+}
+
+.reading-options h2 {
+  margin-top: 1.4em;
+}
+
+@media (max-width: 750px) {
+  .reading-options h2 {
+    text-align: left;
+  }
+}
+
+.reading-options .lead {
+  font-size: 1.25em;
+  line-height: 1.5;
+}
+
+.reading-options .device-picker {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1em 0 -12px;
+}
+
+.reading-options .device-picker a {
+  margin: 0 12px 12px 0;
+  padding: 14px 22px;
+  border: 1px solid #9cc4d2;
+  border-radius: 10px;
+  background: #fafbfc;
+  color: #1f2428;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.reading-options .device-picker a::after {
+  content: "›";
+  margin-left: 10px;
+  color: #5a8a9c;
+}
+
+.reading-options .device-picker a:hover {
+  background: #eef6f9;
+}
+
+@media (max-width: 500px) {
+  .reading-options .device-picker {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 0;
+  }
+
+  .reading-options .device-picker a {
+    margin: 0;
+    padding: 14px 8px;
+    text-align: center;
+  }
+
+  .reading-options .device-picker a::after {
+    content: none;
+  }
+
+  .reading-options .device-panel ol {
+    margin: 0 0 0 0.5em;
+  }
+}
+
+.reading-options details {
+  margin-top: 1.2em;
+}
+
+.reading-options ol + details {
+  margin-top: 2em;
+}
+
+.reading-options details summary {
+  cursor: pointer;
+  font-size: inherit;
+}
+
+.reading-options p + details.inline {
+  margin-top: 0;
+}
+
+.reading-options details.inline summary {
+  list-style: none;
+  font-size: inherit;
+}
+
+.reading-options details.inline summary::-webkit-details-marker {
+  display: none;
+}
+
+.reading-options details.inline summary .toggle {
+  text-decoration: underline;
+  color: inherit;
+}
+
+.reading-options details.inline[open] > ol,
+.reading-options details.inline[open] > ul,
+.reading-options details.inline[open] > p {
+  margin-top: 0.8em;
+}
+
+.reading-options .alternatives {
+  margin-top: 2em;
+}
+
+.reading-options .alternatives > .usb {
+  margin: 0 0 0.6em;
+}
+
+.reading-options .device-panel .alternatives summary {
+  font-size: 1.2rem;
+}
+
+.reading-options .alternatives summary::before {
+  content: "▸";
+  display: inline-block;
+  width: 1em;
+  color: #5a8a9c;
+}
+
+.reading-options .alternatives details[open] > summary::before {
+  content: "▾";
+}
+
+.reading-options .alternatives > details {
+  margin-top: 0.2em;
+}
+
+.reading-options .alternatives > details[open] {
+  margin-bottom: 0.8em;
+}
+
+.reading-options .device-panel p,
+.reading-options .device-panel li,
+.reading-options .device-panel details,
+.reading-options #need-help + p {
+  font-size: 1.125rem;
+  line-height: 1.6;
+  max-width: 42rem;
+}
+
+.reading-options #need-help {
+  max-width: 42rem;
+  margin-top: 2.5em;
+  padding-top: 1.2em;
+  border-top: 1px solid #d5e4ea;
+}
+
+/* One device panel at a time: the one holding the link target, else Read Online.
+   Browsers without :has() show all panels instead. */
+.reading-options .device-panel {
+  margin-top: 3em;
+}
+
+.reading-options .device-panel > :first-child {
+  margin-top: 0;
+}
+
+@supports selector(:has(a)) {
+  .reading-options .device-panel {
+    display: none;
+  }
+
+  /* Huge scroll margin pins the page to the top, so switching panels never jumps */
+  .reading-options .device-panel > :first-child {
+    scroll-margin-top: 9999px;
+  }
+}
+
+.reading-options .device-panel:has(:target),
+.reading-options:not(:has(.device-panel :target)) .device-panel--online {
+  display: block;
+}
+
+.reading-options:not(:has(.device-panel :target)) .device-picker a[href="#read-online"],
+.reading-options:has(.device-panel--online :target) .device-picker a[href="#read-online"],
+.reading-options:has(.device-panel--kindle :target) .device-picker a[href="#kindle"],
+.reading-options:has(.device-panel--kobo :target) .device-picker a[href="#kobo-nook-etc"],
+.reading-options:has(.device-panel--iphone :target) .device-picker a[href="#iphone--ipad"],
+.reading-options:has(.device-panel--android :target) .device-picker a[href="#android"],
+.reading-options:has(.device-panel--computer :target) .device-picker a[href="#computer"] {
+  background: #e3f0f5;
+  border-color: #2f6f86;
+}
