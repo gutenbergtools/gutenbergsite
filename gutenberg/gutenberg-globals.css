@@ -1318,17 +1318,11 @@ test_index for latest covers from gutenberg1*/
   }
 }
 
-/* Too narrow for a fourth link; "How to Read" stays in the About menu. */
-@media (max-width: 600px) {
-  .lower-header .main-links .link-how-to-read {
-    display: none;
-  }
-}
-
 @media (max-width: 1024px) {
 
   .lower-header .main-links .link-freq-downloaded,
-  .lower-header .main-links .link-main-categories {
+  .lower-header .main-links .link-main-categories,
+  .lower-header .main-links .link-advanced-search {
     display: none;
   }
 }
@@ -1496,6 +1490,12 @@ test_index for latest covers from gutenberg1*/
 
   .tertiary-header .tertiary-link {
     margin: 0 15px;
+  }
+}
+
+@media (max-width: 359px) {
+  .tertiary-header .tertiary-link {
+    margin: 0 6px;
   }
 }
 
