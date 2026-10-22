@@ -4454,3 +4454,205 @@ body.bibrec_page {
   }
 }
 
+
+/*
+* How to Read page (/help/reading_options.html).
+* Scoped to .reading-options, set via page_class in its front matter.
+*/
+.reading-options {
+  max-width: 1250px;
+}
+
+.reading-options h1 {
+  margin-top: 2em;
+}
+
+.reading-options h1:first-child {
+  margin-top: 0;
+}
+
+.reading-options h2 {
+  margin-top: 1.4em;
+}
+
+@media (max-width: 750px) {
+  .reading-options h2 {
+    text-align: left;
+  }
+}
+
+.reading-options .lead {
+  font-size: 1.25em;
+  line-height: 1.5;
+}
+
+.reading-options .device-picker {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1em 0 -12px;
+}
+
+.reading-options .device-picker a {
+  margin: 0 12px 12px 0;
+  padding: 14px 22px;
+  border: 1px solid #9cc4d2;
+  border-radius: 10px;
+  background: #fafbfc;
+  color: #1f2428;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.reading-options .device-picker a::after {
+  content: "›";
+  margin-left: 10px;
+  color: #5a8a9c;
+}
+
+.reading-options .device-picker a:hover {
+  background: #eef6f9;
+}
+
+@media (max-width: 500px) {
+  .reading-options .device-picker {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 0;
+  }
+
+  .reading-options .device-picker a {
+    margin: 0;
+    padding: 14px 8px;
+    text-align: center;
+  }
+
+  .reading-options .device-picker a::after {
+    content: none;
+  }
+
+  .reading-options .device-panel ol {
+    margin: 0 0 0 0.5em;
+  }
+}
+
+.reading-options details {
+  margin-top: 1.2em;
+}
+
+.reading-options ol + details {
+  margin-top: 2em;
+}
+
+.reading-options details summary {
+  cursor: pointer;
+  font-size: inherit;
+}
+
+.reading-options p + details.inline {
+  margin-top: 0;
+}
+
+.reading-options details.inline summary {
+  list-style: none;
+  font-size: inherit;
+}
+
+.reading-options details.inline summary::-webkit-details-marker {
+  display: none;
+}
+
+.reading-options details.inline summary .toggle {
+  text-decoration: underline;
+  color: inherit;
+}
+
+.reading-options details.inline[open] > ol,
+.reading-options details.inline[open] > ul,
+.reading-options details.inline[open] > p {
+  margin-top: 0.8em;
+}
+
+.reading-options .alternatives {
+  margin-top: 2em;
+}
+
+.reading-options .alternatives > .usb {
+  margin: 0 0 0.6em;
+}
+
+.reading-options .device-panel .alternatives summary {
+  font-size: 1.2rem;
+}
+
+.reading-options .alternatives summary::before {
+  content: "▸";
+  display: inline-block;
+  width: 1em;
+  color: #5a8a9c;
+}
+
+.reading-options .alternatives details[open] > summary::before {
+  content: "▾";
+}
+
+.reading-options .alternatives > details {
+  margin-top: 0.2em;
+}
+
+.reading-options .alternatives > details[open] {
+  margin-bottom: 0.8em;
+}
+
+.reading-options .device-panel p,
+.reading-options .device-panel li,
+.reading-options .device-panel details,
+.reading-options #need-help + p {
+  font-size: 1.125rem;
+  line-height: 1.6;
+  max-width: 42rem;
+}
+
+.reading-options #need-help {
+  max-width: 42rem;
+  margin-top: 2.5em;
+  padding-top: 1.2em;
+  border-top: 1px solid #d5e4ea;
+}
+
+/* One device panel at a time: the one holding the link target, else Read Online.
+   Browsers without :has() show all panels instead. */
+.reading-options .device-panel {
+  margin-top: 3em;
+}
+
+.reading-options .device-panel > :first-child {
+  margin-top: 0;
+}
+
+@supports selector(:has(a)) {
+  .reading-options .device-panel {
+    display: none;
+  }
+
+  /* Huge scroll margin pins the page to the top, so switching panels never jumps */
+  .reading-options .device-panel > :first-child {
+    scroll-margin-top: 9999px;
+  }
+}
+
+.reading-options .device-panel:has(:target),
+.reading-options:not(:has(.device-panel :target)) .device-panel--online {
+  display: block;
+}
+
+.reading-options:not(:has(.device-panel :target)) .device-picker a[href="#read-online"],
+.reading-options:has(.device-panel--online :target) .device-picker a[href="#read-online"],
+.reading-options:has(.device-panel--kindle :target) .device-picker a[href="#kindle"],
+.reading-options:has(.device-panel--kobo :target) .device-picker a[href="#kobo-nook-etc"],
+.reading-options:has(.device-panel--iphone :target) .device-picker a[href="#iphone--ipad"],
+.reading-options:has(.device-panel--android :target) .device-picker a[href="#android"],
+.reading-options:has(.device-panel--computer :target) .device-picker a[href="#computer"] {
+  background: #e3f0f5;
+  border-color: #2f6f86;
+}

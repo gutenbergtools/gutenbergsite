@@ -2,63 +2,8 @@
 layout: default
 title: How to Read Our eBooks, incl. Kindle | Project Gutenberg
 permalink: /help/reading_options.html
+page_class: reading-options
 ---
-
-<style>
-.page_content { max-width: 1250px; }
-.page_content h1 { margin-top: 2em; }
-.page_content h1:first-child { margin-top: 0; }
-.page_content h2 { margin-top: 1.4em; }
-.device-picker { display: flex; flex-wrap: wrap; margin: 1em 0 -12px; }
-.page_content .device-picker a { margin: 0 12px 12px 0; padding: 14px 22px; border: 1px solid #9cc4d2; border-radius: 10px; background: #fafbfc; color: #1f2428; font-weight: 600; text-decoration: none; }
-.page_content .device-picker a::after { content: "›"; margin-left: 10px; color: #5a8a9c; }
-.page_content .device-picker a:hover { background: #eef6f9; }
-.lead { font-size: 1.25em; line-height: 1.5; }
-@media (max-width: 500px) {
-  .device-picker { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 0; }
-  .page_content .device-picker a { margin: 0; padding: 14px 8px; text-align: center; }
-  .page_content .device-picker a::after { content: none; }
-  .device-panel ol { margin: 0 0 0 0.5em; }
-}
-@media (max-width: 750px) {
-  .page_content h2 { text-align: left; }
-}
-details { margin-top: 1.2em; }
-ol + details { margin-top: 2em; }
-details summary { cursor: pointer; font-size: inherit; }
-p + details.inline { margin-top: 0; }
-details.inline summary { list-style: none; font-size: inherit; }
-details.inline summary::-webkit-details-marker { display: none; }
-details.inline summary .toggle { text-decoration: underline; color: inherit; }
-details.inline[open] > ol, details.inline[open] > ul, details.inline[open] > p { margin-top: 0.8em; }
-.alternatives { margin-top: 2em; }
-.alternatives > .usb { margin: 0 0 0.6em; }
-.page_content .device-panel .alternatives summary { font-size: 1.2rem; }
-.alternatives summary::before { content: "▸"; display: inline-block; width: 1em; color: #5a8a9c; }
-.alternatives details[open] > summary::before { content: "▾"; }
-.alternatives > details { margin-top: 0.2em; }
-.alternatives > details[open] { margin-bottom: 0.8em; }
-.page_content .device-panel p, .page_content .device-panel li, .page_content .device-panel details, #need-help + p { font-size: 1.125rem; line-height: 1.6; max-width: 42rem; }
-#need-help { max-width: 42rem; margin-top: 2.5em; padding-top: 1.2em; border-top: 1px solid #d5e4ea; }
-/* One device panel at a time: the one holding the link target, else Read Online.
-   Browsers without :has() show all panels instead. */
-.device-panel { margin-top: 3em; }
-.page_content .device-panel > :first-child { margin-top: 0; }
-@supports selector(:has(a)) {
-  .device-panel { display: none; }
-  /* Huge scroll margin pins the page to the top, so switching panels never jumps */
-  .page_content .device-panel > :first-child { scroll-margin-top: 9999px; }
-}
-.device-panel:has(:target),
-.page_content:not(:has(.device-panel :target)) .device-panel--online { display: block; }
-.page_content:not(:has(.device-panel :target)) .device-picker a[href="#read-online"],
-.page_content:has(.device-panel--online :target) .device-picker a[href="#read-online"],
-.page_content:has(.device-panel--kindle :target) .device-picker a[href="#kindle"],
-.page_content:has(.device-panel--kobo :target) .device-picker a[href="#kobo-nook-etc"],
-.page_content:has(.device-panel--iphone :target) .device-picker a[href="#iphone--ipad"],
-.page_content:has(.device-panel--android :target) .device-picker a[href="#android"],
-.page_content:has(.device-panel--computer :target) .device-picker a[href="#computer"] { background: #e3f0f5; border-color: #2f6f86; }
-</style>
 
 How to Read
 =====================================
