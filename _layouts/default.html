@@ -9,7 +9,7 @@
 
    {%- include menu.html -%}
 
-   <div class="page_content" role="main"><!-- start content -->
+   <div class="page_content{% if page.page_class %} {{ page.page_class }}{% endif %}" role="main"><!-- start content -->
 
         {{ content }}
 
