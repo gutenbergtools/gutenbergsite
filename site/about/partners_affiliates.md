@@ -15,7 +15,6 @@ Contents
 <li><a href="#sister-projects">Sister Projects</a>
 <ol class="inner_1">
 <li><a href="#project-gutenberg-of-australia">Project Gutenberg of Australia</a></li>
-<li><a href="#project-gutenberg-of-canada">Project Gutenberg of Canada</a></li>
 <li><a href="#projekt-gutenberg-de">Projekt Gutenberg DE</a></li>
 <li><a href="#project-gutenberg-self-publishing-portal">Project Gutenberg Self Publishing Portal</a></li>
 <li><a href="#projekt-runeberg">Projekt Runeberg</a></li>
@@ -45,9 +44,6 @@ As a general rule the works of authors who died before 1955 are in the public do
 Of course, works which are in the public domain in Australia may remain copyrighted in other Countries, even for several decades. People may not download, or read online, such works if they are in a country where they are still under copyright. That still leaves a lot of readers out there to enjoy etexts of some of the greatest literary works of the twentieth century.
 
 Project Gutenberg of Australia also provides a list all of the Project Gutenberg etexts (from both the US and Australian Collections) which were written by Australians or which relate (although loosely) to Australia, and has an extensive    collection of books by and about the land and sea explorers who opened up the continent to white settlement.
-
-### Project Gutenberg of Canada
-[Project Gutenberg of Canada](https://www.gutenberg.ca) specializes in Canadiana literature in English and French, in the public domain in Canada. [help proofread](https://www.pgdpcanada.net/) through Distributed Proofreaders of Canada.
 
 ### Projekt Gutenberg DE
 [Projekt Gutenberg-DE](https://www.projekt-gutenberg.org/). German literature. This was the second site to ask Michael Hart to use the Project Gutenberg name and concept, for German-language content. Currently run by a for-profit organization (Hille + Partner GbR), PG-DE provides free eBooks via their Web site, as well as selling eBooks on CD or DVD. For more information about PG-DE, read this German [Wikipedia article](https://de.wikipedia.org/wiki/Projekt_Gutenberg-DE). PG-DE runs their own Distributed Proofreaders site for content they distribute, but claims copyright on their work. The content from the central [Distributed Proofreaders](https://www.pgdp.net) does not have such restrictions, and is intended for unlimited redistribution.
