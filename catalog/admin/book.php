@@ -12,8 +12,6 @@ pageheader($caption);
 
 getstr("msg");
 getstr("errormsg");
-$msg = isset($msg) ? htmlspecialchars_decode($msg, ENT_QUOTES) : $msg;
-$errormsg = isset($errormsg) ? htmlspecialchars_decode($errormsg, ENT_QUOTES) : $errormsg;
 
 if (!empty($msg)) {
     msg($msg);
