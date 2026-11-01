@@ -1,138 +1,160 @@
 ---
 layout: default
-title: October Newsletter | Project Gutenberg
+title: Novenber Newsletter | Project Gutenberg
 permalink: /newsletter/index.html
 ---
 
-# — Project Gutenberg News - October 2026 —
+# – Project Gutenberg News – November 2026 –
 
-— *Enjoy these eBooks. Share them. Celebrate them*. —
+—*Enjoy these eBooks. Share them. Celebrate them*.—
 
-## Contents
+Contents
 
-* ISBNs\!  
-* Working as a cataloger at PG  
-* PG Behind Bars  
-* Ada Lovelace Day  
-* New Releases at Gutenberg.org — September 2026  
+* We have stickers\!  
+* We have errata.  
+* Nobel Prize in Literature, a timeline  
+* The eReading Rainbow   
+* A Fan Letter  
+* New Releases at Gutenberg.org — October 2026  
+* A selection of this month’s notable and interesting titles  
 * Links
 
-## ISBNs\!
+## We have stickers\!
 
-An ISBN (International Standard Book Number) is issued to almost every published book or ebook in the world. Traditionally, ISBNs have identified things sold in stores, and they double as UPC codes with attached prices and are used to ring up your bookstore purchases. It’s not supposed to be allowed, but there are plushie toys with ISBNs\! (Try 9781579824549.)
+It’s time to start thinking about year end donations to charities. To help you in your thought process, we’re giving away free Project Gutenberg Logo stickers\! You can put one on your ebook reading device, your laptop, maybe even use one as a bumper sticker. We’ll even send you a second sticker to give to a friend. All you need to do is send us a self-addressed stamped envelope. Adding a check is optional, but appreciated, of course. If you’ve donated more than \$100 in 2026, (and we have your mailing address) you’ll get one in the mail in January with our tax-year donation acknowledgement. If your address is outside the US, we’ll figure something out, but send us the self-addressed envelope anyway.
 
-Since Project Gutenberg doesn’t sell its ebooks, ISBNs have never really been needed. But over the years, ebook cataloging and distribution systems have come to depend on ISBNs to identify books for purposes other than selling. For example, a distributor of ebooks for the reading-disabled has run into difficulties loading our ebooks into their system because they lacked ISBNs. Libraries use ISBNs to group multiple versions of a book together in their catalogs, so readers miss out on our free editions. It seemed time to make the change.
+Our mailing address is:  
+	Project Gutenberg Literary Archive Foundation  
+	41 Watchung Plaza, PMB\#516  
+	Montclair NJ 07042
 
-You can see the ISBNs right now on our web site. Over the next month they’ll get added to the ebooks themselves. Note that our ISBNs, which are 13 digits starting with the prefix  979-8-238, formally identify the HTML manifestations of our books. We don’t have separate ISBNs for the various ebook files which are all derived from the HTML versions… and the price is the same, \$0\!
+## We have errata.
 
-## Working as a cataloger at PG \- Notes by Joyce Wilson
+Do you know the difference between a “hand gallop” and a “hard gallop”? (Answer below.)
 
-Thousands of books are added to Project Gutenberg each year. The PG cataloging team works to ensure that readers can access those books by doing our best to make sure each one has an accurate and useful catalog record.
+Believe it or not, there are *occasionally* mistakes in our ebooks. But when you have 80,000 titles on offer, even if they’ve been proof-read multiple times, an error rate of 1% is still 800 problems. That’s why we have a special email address for errata submissions, [errata2026@pglaf.org](mailto:errata2026@pglaf.org) and an issue tracking system to handle the errata reports that folks like you send in. The result of this is an overworked volunteer errata team. 
 
-A brief catalog record is automatically created for each new item added to Project Gutenberg's collection. Then a member of the PG cataloging team goes over the new record, ideally within a few days.  They fix problems such as similarly named authors incorrectly linked to the work, or duplicate authors created when a record for the correct author already existed but wasn't automatically matched on. Title typos are sometimes found and fixed.
+If you’re somebody who spots things that are “wrong on the internet” and want to do something about it, please consider volunteering to join our errata team (you can use the errata mail \- it gets answered by the errata team.) But it’s not always an easy job. You might think  “hand gallop” is a misspelling, typo, or “scanno” for the term “hard gallop”, and should be reported to the errata team, but it’s not\! It’s a 3-beat canter, while the hard gallop is a 4-beat canter, much faster\! (and definitely not a “3-beat cant**o**r” which is *probably* not a thing.)
 
-Additional information is added: subject headings to help readers find books in an area of interest; content notes for collections of stories. When present, contributors such as translators and illustrators are added.
+Project Gutenberg wants its books to be faithful to an original printed edition. We don’t usually modernize spellings or language; there are other websites that do that. This makes it a bit more work to deal with errata reports, but preservation is part of our mission. 
 
-For authors and other contributors who are new to the catalog, we follow the example of the U.S. Library of Congress for the “main form” of the name where that's possible (“Twain, Mark,1835-1910” for “Samuel Clemens”.  Having one preferred source minimizes the chance of duplicate authors in our catalog.  If the Library of Congress record doesn't include life-dates for the person, we still try to find that information, since in much of the world, year of death determines public domain status.
+* Duty Calls: [https\://xkcd.com/386/](https://xkcd.com/386/)  
+* Gallop and Hand Gallop: [https\://www\.horseillustrated.com/english-horse-training-hand-gallop-gait/](https://www.horseillustrated.com/english-horse-training-hand-gallop-gait/)
 
-If you notice an error in the PG catalog, please send a correction to the cataloging team; our email address is on PG's "Contact Us" page. 
+## Nobel Prize in Literature, a timeline
 
-## PG Behind Bars
+What percentage of women have won the Nobel Prize in Literature? Only about 15.4%\! But there is hope that the prize winner gender distribution will someday better match that of readers. The 2026 Nobel Prize in Literature is being awarded to the Canadian author Anne Carson.  
 
-We get a surprising number of letters from readers in prisons:
+Swedish author Selma Lagerlöf was the first woman to win the Nobel Prize in Literature, receiving it in 1909\. Other early female laureates include Italian author Grazia Deledda (1926) and Norwegian writer Sigrid Undset (1928). After another lengthy gap of 10 years, American author Pearl S. Buck was awarded in 1938\. Gabriela Mistral became the first Latin American writer honored in 1945\. Nelly Sachs shared the prize with Shmuel Yosef Agnon in 1966\. Subsequent female laureates include Nadine Gordimer (1991), Toni Morrison (1993), Wisława Szymborska (1996), Elfriede Jelinek (2004), Doris Lessing (2007), Herta Müller (2009), Alice Munro (2013), Svetlana Alexievich (2015), Olga Tokarczuk (2018), Louise Glück (2020), Annie Ernaux (2022), and Han Kang (2024). We hope the gap will narrow and that women will be recognized in other fields as well.
 
-    “First and foremost, I want to thank you for providing the online catalog of publications on your website. As an incarcerated individual, I have utilized your database on countless occasions. To find technical information or historical data for college projects, or just to read some great original SciFi stories.
+* Facts on the Nobel Prize in Literature: [https\://www\.nobelprize.org/prizes/facts/facts-on-the-nobel-prize-in-literature/](https://www.nobelprize.org/prizes/facts/facts-on-the-nobel-prize-in-literature/)  
+* “Nobel Prizes in Literature” at PG:   
+  [https\://www\.gutenberg.org/ebooks/bookshelf/705](https://www.gutenberg.org/ebooks/bookshelf/705)  
+* Books by Grazia Deledda at PG:   
+  [https\://www\.gutenberg.org/ebooks/author/33472](https://www.gutenberg.org/ebooks/author/33472)  
+* Books by Sigrid Undset at PG:   
+  [https\://www\.gutenberg.org/ebooks/author/35742](https://www.gutenberg.org/ebooks/author/35742)  
+* Books by Pearl S. Buck at PG:   
+  [https\://www\.gutenberg.org/ebooks/author/54836](https://www.gutenberg.org/ebooks/author/54836)
 
-We also get reports from folks whose loved ones are forced to pay five cents a minute to read Project Gutenberg on prison provided tablets. That’s outrageous\! To be clear, Project Gutenberg wants its ebooks to be free *everywhere* that there are readers.
+## The eReading Rainbow 
 
-## Ada Lovelace Day
+For decades Reading Rainbow transformed US public television into a gateway for young readers. The series bridged television and the printed page. It instilled a love of literature in generations of children. Host LeVar Burton's empathetic delivery and his signature sign-off, “…you don't have to take my word for it\!", invited kids to explore books. Burton explores that impact in his memoir, "Take My Word for It", recently released. 
 
-Celebrated the second Tuesday of October, Ada Lovelace Day shines a light on women's achievements in science, technology, engineering and mathematics. It encourages women in STEM by inviting people globally to share stories of the women who inspire them.
+While the show focused on contemporary titles, thousands of classic texts sit in the public domain, and we think they could have been included in the TV series. Dozens of children's books hosted on Project Gutenberg deserved the Reading Rainbow treatment.
 
-\< [https\://en.wikipedia.org/wiki/Ada\_Lovelace\_Day](https://en.wikipedia.org/wiki/Ada_Lovelace_Day)\>
+* The Wonderful Wizard of Oz by L. Frank Baum    
+  [https\://www\.gutenberg.org/ebooks/43936](https://www.gutenberg.org/ebooks/43936)  
+* The Wind in the Willows by Kenneth Grahame [https\://www\.gutenberg.org/ebooks/289](https://www.gutenberg.org/ebooks/289)  
+* The Secret Garden by Frances Hodgson Burnett  
+  [https\://www\.gutenberg.org/ebooks/17396](https://www.gutenberg.org/ebooks/17396)
 
-First of all, who was Ada Lovelace? A British mathematician and translator as well.
+   
+Each work offers rich worlds and unexpected characters. They are world-class examples of storytelling and exploration.
 
-Ada was the only child of poet Lord Byron and reformer Anne Isabella Milbanke. Their short-lived marriage dissolved when Ada was five weeks old, leaving Ada with no future contact with her father.
+The core mission of Reading Rainbow continues with each of us: connecting kids with literature. Adults must share books with children. Reading together builds imagination, empathy and curiosity. Download a book today and read it alongside a young person\!
 
-At age eleven, a European tour sparked Ada's interest in aviation, leading her to study flight and design steam-driven flying machines. A severe illness (measles and perhaps encephalitis) subsequently confined her to bed for three years.
+## A Fan Letter
 
-After recovering, 17-year-old Ada debuted in London society. On June 5, 1833, she met 41-year-old Charles Babbage at a social gathering. Impressed by her intellect, Babbage invited Ada to view his newly built Difference Engine—a 2,000-piece mechanical calculator. (It is preserved today in London's Science Museum\!)
+    Dear Project Gutenberg team and volunteers,
+    
+    Please accept my heartfelt thanks. For more than fifty years, you have  
+    been quietly doing something wonderful: bringing tens of thousands of  
+    the world's greatest books to anyone who wants to read them,  
+    completely free.
+    
+    I think often of the thousands of volunteers who scan, type, and  
+    proofread page after page so that a reader anywhere in the world can  
+    open a classic with a single click. That is love for literature in its  
+    purest form.
+    
+    Thank you for keeping these treasures alive and within everyone's  
+    reach. You have given the world an endless library, and I am deeply  
+    grateful.
+    
+    With sincere appreciation,  
+    mrsp20
 
-Ada was mentored and encouraged by Mary Somerville (in her own right a famed science communicator and translator of works by the French scholar Pierre-Simon Laplace). Ada was soon eagerly diving into the study of Euclid.
+## New Releases at Gutenberg.org \- October 2026 
 
-At Turin in 1840, Charles Babbage presented his subsequent and unpublished Analytical Engine, earning honors from the Italian government. Luigi Menabrea, a 30-year-old army engineer, took notes of the lectures and published a paper in French in October 1842\.
-
-Upon reading Menabrea's paper, Ada Lovelace decided to translate it into English. By February 1843, she resolved to expand the translation with extensive original notes of her own. These notes detailed an algorithm for generating Bernoulli numbers, widely considered the earliest published computer program.
-
-In an 1843 letter to Ada, Babbage expressed his deep admiration for her, calling her the “Enchantress of Numbers.”
-
-Stephen Wolfram has published an exceptionally detailed and engaging article about Ada Lovelace:
-
-\< [https\://writings.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/](https://writings.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/)\>
-
-“Sketch of the Analytical Engine invented by Charles Babbage, Esq., by Luigi Federico Menabrea and translated by Countess Ada Lovelace” is available at PG:
-
-\< [https\://www\.gutenberg.org/ebooks/75107](https://www.gutenberg.org/ebooks/75107)\>
-
-## New Releases at Gutenberg.org \- September 2026 
-
-In the last month PGLAF added another 210  new public domain eBooks to the PG catalog. Of these 134  were added by PGDP.  Thank you to all the volunteers who have helped to make these new titles freely available to the world.  
-
-## New Releases at Gutenberg.org \- September 2026 
-
-In the last month PGLAF added another 210 new public domain eBooks to the PG catalog. Of these 134 were added by PGDP.  Thank you to all the volunteers who have helped to make these new titles freely available to the world.  
+In the last month PGLAF added another 191 new public domain eBooks to the PG catalog. Of these 136  were produced by PGDP.  Thank you to all the volunteers who have helped to make these new titles freely available to the world.  
 
 The month’s eBooks are listed here (the list was getting too long for the newsletter\!):
 
-\< [https\://gutenberg.org/newsletter/202609.md](https://gutenberg.org/newsletter/202609.md)\>  
+[https\://gutenberg.org/newsletter/202610.md](https://gutenberg.org/newsletter/202604.md)
 
 ### A selection of this month’s notable and interesting titles:
 
-* [The story of patriarchs and prophets](https://www.gutenberg.org/ebooks/79498/) - Ellen G. White
-* [My diaries, being a personal narrative of events 1888-1914, Part 1 (1888-1900)](https://www.gutenberg.org/ebooks/79491/) - Wilfrid Scawen Blunt
-* [Songs of a Red Cross nurse](https://www.gutenberg.org/ebooks/79500/) - Brookes More
-* [Sword play, based upon the French school of the foil](https://www.gutenberg.org/ebooks/79503/) - Scott Dudley Breckinridge and Scott D. Breckinridge
-* [Old New England houses](https://www.gutenberg.org/ebooks/79502/) - Albert G. Robinson
-* [The benefit of farting explain'd](https://www.gutenberg.org/ebooks/79520/) - Fart in hando Puff-indorst
-* [Mr. Fortune's maggot](https://www.gutenberg.org/ebooks/79534/) - Sylvia Townsend Warner
-* [Squee](https://www.gutenberg.org/ebooks/79539/) - Margaret St. Clair
-* [Traditions and stories of Scottish castles](https://www.gutenberg.org/ebooks/79538/) - A. H. Millar
-* [Trial of the major war criminals before the International Military Tribunal, Nuremburg, 14 November 1945-1 October 1946, Volume 19](https://www.gutenberg.org/ebooks/79545/) - Various
-* [The spoiled Buddha](https://www.gutenberg.org/ebooks/79608/) - Helen Waddell
-* [Mr. Mulliner speaking](https://www.gutenberg.org/ebooks/79636/) - P. G. Wodehouse
-* [I, the vampire](https://www.gutenberg.org/ebooks/79638/) - Henry Kuttner
-* [About Zionism](https://www.gutenberg.org/ebooks/79647/) - Albert Einstein
-* [The best short stories of 1916, and the yearbook of the American short story](https://www.gutenberg.org/ebooks/79656/) - Edward J. O'Brien
-* [L'homme stupide](https://www.gutenberg.org/ebooks/79657/) - Charles Richet
-* [60 years of best sellers, 1895-1955](https://www.gutenberg.org/ebooks/79660/) - Alice Payne Hackett
-* [Voyages and travels of Marco Polo](https://www.gutenberg.org/ebooks/79661/) - Marco Polo
-* [The secret of the Sahara](https://www.gutenberg.org/ebooks/79696/) - Rosita Forbes
+* [The fortune-hunters, and other stories](https://www.gutenberg.org/ebooks/79699/) - Violet Jacob
+* [Chambers's Journal of Popular Literature, Science, and Art, index for 1886](https://www.gutenberg.org/ebooks/79705/) - Robert Chambers and William Chambers
+* [The mountain man](https://www.gutenberg.org/ebooks/79704/) - Robert J. Horton
+* [The National Gallery](https://www.gutenberg.org/ebooks/79730/) - Alice Corkran
+* [The house of the Falcon](https://www.gutenberg.org/ebooks/79726/) - Harold Lamb
+* [Samhain, issue 3, October 1903](https://www.gutenberg.org/ebooks/79770/) - W. B. Yeats
+* [Secret societies and the French revolution](https://www.gutenberg.org/ebooks/79771/) - Una Pope-Hennessy
+* [Radiotechnik](https://www.gutenberg.org/ebooks/79778/) - Hanns Günther
+* [Lord of Samarcand](https://www.gutenberg.org/ebooks/79801/) - Robert E. Howard
+* [Climate, considered especially in relation to man](https://www.gutenberg.org/ebooks/79803/) - Robert DeCourcy Ward
+* [The Frightened](https://www.gutenberg.org/ebooks/79808/) - Michael Avallone
+* [Thirty years of lynching in the United States, 1889-1918](https://www.gutenberg.org/ebooks/79816/) - National Association for the Advancement of Colored People
+* [A deputy was king](https://www.gutenberg.org/ebooks/79832/) - G. B. Stern
+* [Claude Monet](https://www.gutenberg.org/ebooks/79839/) - Gustave Geffroy
+* [Young people abroad](https://www.gutenberg.org/ebooks/79840/) - Pansy
+* [The temple](https://www.gutenberg.org/ebooks/79842/) - H. P. Lovecraft
+* [Textiles; a handbook for the student and the consumer](https://www.gutenberg.org/ebooks/79838/) - Mary Schenck Woolman and Ellen Beers McGowan
+* [You can't print that!](https://www.gutenberg.org/ebooks/79845/) - George Seldes
+* [The written leaves](https://www.gutenberg.org/ebooks/79846/) - Belle Belleville
+* [Fencing foil class work illustrated](https://www.gutenberg.org/ebooks/79878/) - Ricardo Enrique Manrique
+* [Seven pillars of wisdom](https://www.gutenberg.org/ebooks/79877/) - T. E. Lawrence
+* [Gallipoli memories](https://www.gutenberg.org/ebooks/79882/) - Compton Mackenzie
 
 
 ## Links
 
-* Support Project Gutenberg: \< [https://gutenberg.org/donate/](https://gutenberg.org/donate/)\>  
-* Distributed Proofreaders: \< [https://pgdp.net](https://pgdp.net)\>  
-* Project Gutenberg Self Publishing Portal: \< [https://self.gutenberg.org](https://self.gutenberg.org)\>  
-* Registered, operational mirrors: \< [https://gutenberg.org/MIRRORS.ALL](https://gutenberg.org/MIRRORS.ALL)\>
+* Support Project Gutenberg: [https\://gutenberg.org/donate/](https://gutenberg.org/donate/)  
+* Distributed Proofreaders: [https\://pgdp.net](https://pgdp.net)  
+* Project Gutenberg Self Publishing Portal: [https\://self.gutenberg.org](https://self.gutenberg.org)  
+* Registered, operational mirrors: [https\://gutenberg.org/MIRRORS.ALL](https://gutenberg.org/MIRRORS.ALL)
 
 ## Social Media
 
-* Facebook: \< [https://facebook.com/project.gutenberg](https://facebook.com/project.gutenberg)\>    
-* New eBooks: \< [https://facebook.com/gutenberg.new](https://facebook.com/gutenberg.new)\>
+* Facebook: [https\://facebook.com/project.gutenberg](https://facebook.com/project.gutenberg)    
+* New eBooks: [https\://facebook.com/gutenberg.new](https://facebook.com/gutenberg.new)
 
-* Mastodon: \< [https://mastodon.social/@gutenberg\_org](https://mastodon.social/@gutenberg_org)\>    
-* New eBooks: \< [https://mastodon.social/@gutenberg\_new](https://mastodon.social/@gutenberg_new)\>
+* Mastodon: [https\://mastodon.social/@gutenberg\_org](https://mastodon.social/@gutenberg_org)    
+* New eBooks: [https\://mastodon.social/@gutenberg\_new](https://mastodon.social/@gutenberg_new)
 
-* Bluesky: \< [https://bsky.app/profile/gutenberg.org](https://bsky.app/profile/gutenberg.org)\>    
-* New eBooks: \< [https://bsky.app/profile/new.gutenberg.org](https://bsky.app/profile/new.gutenberg.org)\>
+* Bluesky: [https\://bsky.app/profile/gutenberg.org](https://bsky.app/profile/gutenberg.org)\>    
+* New eBooks: [https\://bsky.app/profile/new.gutenberg.org](https://bsky.app/profile/new.gutenberg.org)  
+    
+* Reddit: [https\://reddit.com/r/projectgutenberg](https://reddit.com/r/projectgutenberg)  
+* LinkedIn: [https\://www\.linkedin.com/company/60825610/](https://www.linkedin.com/company/60825610/admin/dashboard/) (new\!)
 
-* Reddit: \< [https://reddit.com/r/projectgutenberg](https://reddit.com/r/projectgutenberg)\>
 
-If you use social media, please feel invited to respond with upvotes, comments or questions. Your shares and reposts help spread awareness of Project Gutenberg’s library.
+  
+If you use social media you are invited to respond with upvotes, comments or questions. Your shares and reposts help spread awareness of Project Gutenberg’s library.
 
 ## Newsletter Subscription
 
-Project Gutenberg’s monthly newsletter mailing list (subscribe or unsubscribe here):  \< [https://lists.pglaf.org/mailman3/lists/gmonthly.lists.pglaf.org/](https://lists.pglaf.org/mailman3/lists/gmonthly.lists.pglaf.org/)\>
+Project Gutenberg’s monthly newsletter mailing list (subscribe or unsubscribe here):  [https\://lists.pglaf.org/mailman3/lists/gmonthly.lists.pglaf.org/](https://lists.pglaf.org/mailman3/lists/gmonthly.lists.pglaf.org/)
 
