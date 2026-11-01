@@ -11,12 +11,9 @@ Thank you for considering a donation to Project Gutenberg.
 
 Think of this as a contribution to later generations. These are remarkable times, and it is good to include you as part of the story.
 
-Project Gutenberg’s founder, Michael Hart, was notoriously frugal. He never wanted to be dependent on specific funding levels, and instead insisted that Project Gutenberg would continue even if it had no funds. In support of this, he went for years without reliable income.
-
 Project Gutenberg appreciates all donations. They help to operate our minimalist infrastructure, to pay our tiny staff, and most importantly to support volunteers who create new free eBooks.
 
-The design of Project Gutenberg is that everything at www.gutenberg.org will always be free and available for unlimited redistribution at no cost.
-
+The design of Project Gutenberg is that everything at www.gutenberg.org will always be free and available for unlimited redistribution at no cost.  But now it’s time to start thinking about year end donations to charities. To help you in your thought process, <strong>we’re giving away free Project Gutenberg Logo stickers!</strong> You can put one on your ebook reading device, your laptop, maybe even use one as a bumper sticker. We’ll even send you a second sticker to give to a friend. All you need to do is send us a self-addressed stamped envelope. The address is <a href="#by-check-or-money-order">below</a>. Adding a check is optional, but appreciated, of course. If you’ve donated more than $100 in 2026, (and we have your mailing address) you’ll get one in the mail in January with our tax-year donation acknowledgement. If your address is outside the US, we’ll figure something out, but send us the self-addressed envelope anyway.
 
 <br>
 ## <span id="using-paypal"></span> Option 1 - Via Paypal
