@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Novenber Newsletter | Project Gutenberg
+
+title: November Newsletter | Project Gutenberg
 permalink: /newsletter/index.html
 ---
 
@@ -128,7 +129,6 @@ The month’s eBooks are listed here (the list was getting too long for the news
 * [Seven pillars of wisdom](https://www.gutenberg.org/ebooks/79877/) - T. E. Lawrence
 * [Gallipoli memories](https://www.gutenberg.org/ebooks/79882/) - Compton Mackenzie
 
-
 ## Links
 
 * Support Project Gutenberg: [https\://gutenberg.org/donate/](https://gutenberg.org/donate/)  
@@ -150,8 +150,6 @@ The month’s eBooks are listed here (the list was getting too long for the news
 * Reddit: [https\://reddit.com/r/projectgutenberg](https://reddit.com/r/projectgutenberg)  
 * LinkedIn: [https\://www\.linkedin.com/company/60825610/](https://www.linkedin.com/company/60825610/admin/dashboard/) (new\!)
 
-
-  
 If you use social media you are invited to respond with upvotes, comments or questions. Your shares and reposts help spread awareness of Project Gutenberg’s library.
 
 ## Newsletter Subscription

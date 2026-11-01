@@ -176,4 +176,4 @@ weekly on Sundays.
 
 ## All books as plain text
 
-A zipped tar file of all .txt files, updated weekly: [xt-files.tar.zip](/cache/epub/feeds/).
+A zipped tar file of all .txt files, updated weekly: [txt-files.tar.zip](/cache/epub/feeds/).

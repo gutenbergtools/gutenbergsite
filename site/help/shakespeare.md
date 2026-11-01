@@ -87,7 +87,7 @@ domain in the U.S.
 
 **Cambridge 1863 series:** The 9-volume Cambridge Edition of *The Works of William Shakespeare*, 1863–1866.
 * See the <a href="https://en.wikipedia.org/wiki/The_Cambridge_Shakespeare">Wikipedia article</a> about this edition.
-* Volume 1 is split into introductory material (#[23401](/ebooks/23401))
+* Volume 1 is split into introductory material (#[23041](/ebooks/23041))
 and individual plays, volumes 2–8 are posted complete, and volume 9 is in production.
 
 **Other:** Miscellaneous individual plays and poems from various sources and editions, and audio books.
