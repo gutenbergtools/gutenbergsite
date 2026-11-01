@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Novenber Newsletter | Project Gutenberg
+title: November Newsletter | Project Gutenberg
 permalink: /newsletter/november.html
 ---
 
