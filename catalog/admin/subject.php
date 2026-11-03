@@ -36,7 +36,9 @@ getint("fk_subjects");
 getstr("filter");
 
 $subject_name = "";
-if ($db->Exec("select subject from subjects where pk = $fk_subjects")) {
+
+if ($fk_subjects !== null &&
+    $db->Exec("select subject from subjects where pk = $fk_subjects")) {
     //it will make life nicer if the message includes *what* subject was linked.
     $subject_name = $db->Get("subject");
 }
