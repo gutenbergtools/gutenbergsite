@@ -64,14 +64,15 @@ More detail, mostly for webmasters, is in our [linking](/policy/linking.html) do
 No permission is needed to credit Project Gutenberg as the source of something you use. This applies even for commercial use. A link to the landing page (wherebot HTML AND ebook files are presented) of a book is appreciated.
 
 ## Project Gutenberg as Publisher
-Project Gutenberg does not promise or enforce adherence to any particular source item. We typically make each eBook from a single print book, but sometimes multiple print books are used. Even with a single print book, we make many changes: spelling modernization, dehyphenation, conversion to HTML or other formats, etc. Therefore, we are the publisher of our eBooks, even if print sources were used from prior publishers.
+Project Gutenberg does not promise or enforce adherence to any particular source item. We typically make each eBook from a single print book, but sometimes multiple print books are used. Even with a single print book, we might make changes: spelling modernization (though we generally prefer the original spelling), dehyphenation, conversion to HTML or other formats, etc. Therefore, we are the publisher of our eBooks, even if print sources were used from prior publishers.
 
-Sometimes an eBook will include mention of its source, and even then, this is not intended in any way that our eBooks are identical to that source print book. 
+Sometimes an eBook will include mention of its source, and even then, this is can't be assumed that our eBooks are identical to that source print book. 
 
 ## Quotes and extracts from Project Gutenberg items
 No permission is needed to use quotes from Project Gutenberg items (in the US, this would be "fair use"). This applies for all use, including commercial use. In other words, no royalties are due for quotes even if they are used for commercial products.
 
 It is always OK to cite Project Gutenberg as the publication source (see below for how to cite), and it is also OK to not cite Project Gutenberg: your choice.
+
 ## Copyright page and trademarks from Source
 
 Sometimes an eBook will include a transcription or image of the original title page, verso (obverse) or other pages from a source print book used for the eBook. This may include a copyright statement, which will usually be before 1964 (see our ["copyright how-to"](/help/copyright.html) for details). This does not mean that item is still copyrighted. The header/footer in the eBook from Project Gutenberg will mention that such items are in the public domain in the US.
@@ -81,7 +82,7 @@ Similarly, eBooks might include images or text that are (or were) trademarks in 
 It is permitted, but not required, for our volunteer eBook producers to include front matter from print books they use.
 
 ## Citing Project Gutenberg
-You can use any standard bibliographic format to cite the eBooks you find in Project Gutenberg. We use "Urbana, Illinois" as the publication source, since that is the long-time home of our efforts. Note that the publication date is also known as the "release date", which is included in each Project Gutenberg eBook's header information. Include illustrators, translators etc., as you would for any book. You should not cite Project Gutenberg or any eBook producers as "editors" unless they actually say they are edited (this happens rarely), because these eBooks are usually transcriptions, more or less, from printed sources. Here is an example in an APA-type format.
+You can use any standard bibliographic format to cite the eBooks you find in Project Gutenberg. We use "Urbana, Illinois" as the publication source, since that is the historic home of our efforts. Note that the publication date is also known as the "release date", which is included in each Project Gutenberg eBook's header information. Include illustrators, translators etc., as you would for any book. You should not cite Project Gutenberg or any eBook producers as "editors" unless they actually say they are edited (this happens rarely), because these eBooks are usually transcriptions, more or less, from printed sources. Here is an example in an APA-type format.
 
 Carroll, Lewis. (2006). _Alice's Adventures in Wonderland_. Urbana, Illinois: Project Gutenberg. Retrieved February 21, 2016, from [www.gutenberg.org/ebooks/19033](https://www.gutenberg.org/ebooks/19033).
 
@@ -103,7 +104,7 @@ PG is entirely based in the US, and we follow the United States laws for copyrig
 Project Gutenberg claims no copyright for markup, formatting, spelling modernization, etc., and neither can you (at least in the United States). See our [No Sweat of the Brow How-To](/help/no_sweat_copyright.html)
 
 ## For copyrighted content
-There are thousands of items in the Project Gutenberg collection which are still under copyright restriction. Each copyrighted item is clearly indicated as copyrighted in the eBook's header. Unless there is an included license with the copyrighted item (such as a creative commons license), you will need to contact the copyright holder for any needed permission. Project Gutenberg cannot do this on your behalf, and does not have any ability to sublicense copyrighted works.
+There are a few thousand of items in the Project Gutenberg collection which are still under copyright restriction. Each copyrighted item is clearly indicated as copyrighted in the eBook's header. Unless there is an included license with the copyrighted item (such as a Creative Commons license), you will need to contact the copyright holder for any needed permission. Project Gutenberg cannot do this on your behalf, and does not have any ability to sublicense copyrighted works.
 
 ## Commercial use of Project Gutenberg trademark
 If you use the Project Gutenberg name, which is a registered trademark, you need to pay royalties for any commercial use (i.e., where you are trading on the Project Gutenberg trademarked name). Terms are spelled out clearly in the license included with each eBook, or read it here: [License How-To](/policy/license.html)
