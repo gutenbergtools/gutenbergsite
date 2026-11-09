@@ -14,8 +14,7 @@ include_once("sqlform.phh");
 
 class ListBooksTable extends MoreTable
 {
-    public function __construct()
-    {
+    public function __construct() {
         $this->AddColumn(
             "<a href=\"book?mode=edit&fk_books=#pk#\">#pk#</a>",
             "Etext Nr.",
@@ -35,12 +34,24 @@ $f = new SQLForm();
 getint("fk_subjects");
 getstr("filter");
 
+if (($mode === "edit" || $mode === "delete") &&
+    ($fk_subjects === null || $fk_subjects < 1)) {
+    error_msg("Invalid subject ID.");
+}
+
 $subject_name = "";
+$subject_exists = false;
 
 if ($fk_subjects !== null &&
     $db->Exec("select subject from subjects where pk = $fk_subjects")) {
     //it will make life nicer if the message includes *what* subject was linked.
-    $subject_name = $db->Get("subject");
+    $subject_exists = $db->FirstRow();
+    if ($subject_exists) {
+        $subject_name = $db->Get("subject");
+    }
+}
+if (($mode === "edit" || $mode === "delete") && !$subject_exists) {
+    error_msg("Subject not found.");
 }
 if (!$subject_name) {
     /* if getting the actual name fails for some reason, use the internal number instead;
@@ -50,14 +61,15 @@ if (!$subject_name) {
 
 if (ismode("delete")) {
     $db->Exec("select count (*) as cnt from mn_books_subjects " .
-           "where fk_subjects = $fk_subjects");
+        "where fk_subjects = $fk_subjects");
     $cnt = $db->get("cnt");
+    $safe_subject_name = htmlspecialchars($subject_name, ENT_QUOTES, "UTF-8");
     if ($cnt > 0) {
-        $f->SubCaption("Warning: There are $cnt books related to \"$subject_name\". ");
+        $f->SubCaption("Warning: There are $cnt books related to \"$safe_subject_name\". ");
     }
-    $f->SubCaption("You are about to delete \"$subject_name\".");
+    $f->SubCaption("You are about to delete \"$safe_subject_name\".");
     $f->SubCaption("Press the '$caption' button to continue or " .
-            "hit the back button on your browser to dismiss.");
+        "hit the back button on your browser to dismiss.");
 } else {
     $f->Text("subject", "subject", "Subject", SQLCHAR, 80, 240, true);
     $f->LoadData("select * from subjects where pk = $fk_subjects");
@@ -67,35 +79,57 @@ $f->Hidden("fk_subjects");
 $f->Hidden("filter");
 
 if (isupdatemode("add")) {
-    $subject_name = htmlspecialchars(urldecode($_POST["subject"]));
+    $subject_name = $_POST["subject"];
     if ($f->Check()) {
-        $sql = $f->mkInsert($db->GetFormatter());
-        if ($db->Exec("insert into subjects " . $sql)) {
-            msg("Subject  '$subject_name' added !");
-        } else {
-            error_msg("Could not add subject '$subject_name'!");
+        $formatter = $db->GetFormatter();
+        $subject_value = $formatter->f($subject_name, SQLCHAR);
+        if (!$db->Exec("select pk from subjects where subject = $subject_value")) {
+            error_msg("Could not check whether subject already exists.");
         }
-        $db->Exec("select last_value from subjects_pk_seq");
-        $fk_subjects = $db->Get("last_value");
+        if ($db->FirstRow()) {
+            error_msg("Subject '" . htmlspecialchars(htmlspecialchars($subject_name,
+                ENT_QUOTES, "UTF-8"), ENT_QUOTES, "UTF-8") . "' already exists!");
+        }
+
+        $sql = $f->mkInsert($formatter);
+        if ($db->Exec("insert into subjects " . $sql . " returning pk")) {
+            $fk_subjects = $db->Get("pk", SQLINT);
+            msg("Subject  '" . htmlspecialchars(htmlspecialchars($subject_name, ENT_QUOTES, "UTF-8"),
+                ENT_QUOTES, "UTF-8") . "' added !");
+        } else {
+            error_msg("Could not add subject '" . htmlspecialchars(htmlspecialchars($subject_name,
+                ENT_QUOTES, "UTF-8"), ENT_QUOTES, "UTF-8") . "'!");
+        }
     }
 }
+
 if (isupdatemode("edit")) {
-    $subject_name = htmlspecialchars(urldecode($_POST["subject"]));
+    $subject_name = $_POST["subject"];
     if ($f->Check()) {
         $sql = $f->mkUpdate($db->GetFormatter());
         if ($db->Exec("update subjects set " . $sql . "where pk = $fk_subjects")) {
-            msg("Subject '$subject_name' modified !");
+            msg("Subject '" . htmlspecialchars(htmlspecialchars($subject_name, ENT_QUOTES, "UTF-8"),
+                ENT_QUOTES, "UTF-8") . "' modified !");
         } else {
-            error_msg("Could not modify subject '$subject_name'!");
+            error_msg("Could not modify subject '" . htmlspecialchars(htmlspecialchars($subject_name,
+                ENT_QUOTES, "UTF-8"), ENT_QUOTES, "UTF-8") . "'!");
         }
     }
 }
+
 if (isupdatemode("delete")) {
-    $db->Exec("delete from mn_books_subjects where fk_subjects = $fk_subjects");
-    if ($db->Exec("delete from subjects where pk = $fk_subjects")) {
-        msg("Subject '$subject_name' deleted !");
+    $db->BeginTrans();
+    $links_deleted = $db->Exec("delete from mn_books_subjects where fk_subjects = $fk_subjects");
+    $subject_deleted = $links_deleted &&
+        $db->Exec("delete from subjects where pk = $fk_subjects");
+
+    if ($subject_deleted && $db->Commit()) {
+        msg("Subject '" . htmlspecialchars(htmlspecialchars($subject_name,
+            ENT_QUOTES, "UTF-8"), ENT_QUOTES, "UTF-8") . "' deleted !");
     } else {
-        error_msg("Could not delete subject '$subject_name'!");
+        $db->Rollback();
+        error_msg("Could not delete subject '" . htmlspecialchars(htmlspecialchars($subject_name,
+            ENT_QUOTES, "UTF-8"), ENT_QUOTES, "UTF-8") . "'!");
     }
 }
 
@@ -105,9 +139,10 @@ if ($fk_subjects) {
 }
 if (isupdate()) {
     if (!isupdatemode("delete")) {
+        $safe_subject_name = htmlspecialchars($subject_name, ENT_QUOTES, "UTF-8");
         echo("    <p><a href=\"subject?mode=edit&filter=$filter" .
-          "&fk_subjects=$fk_subjects\">" .
-          "Back to Subject \"$subject_name\"</a></p>\n\n");
+            "&fk_subjects=$fk_subjects\">" .
+            "Back to Subject \"$safe_subject_name\"</a></p>\n\n");
     }
 } else {
     $f->Output($caption, $caption);

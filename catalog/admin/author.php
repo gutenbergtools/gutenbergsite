@@ -17,7 +17,7 @@ if (!empty($msg)) {
     msg($msg);
 }
 if (!empty($errormsg)) {
-    error_msg($msg);
+    error_msg($errormsg);
 }
 
 include_once("sqlform.phh");
@@ -93,7 +93,8 @@ if (ismode("delete")) {
     }
     $db->Exec("select author from authors where pk = $fk_authors");
     $author = $db->get("author");
-    $f->SubCaption("You are about to delete author: $author.");
+    $safe_author = htmlspecialchars($author, ENT_QUOTES, "UTF-8");
+    $f->SubCaption("You are about to delete author: $safe_author.");
     $f->SubCaption("Press the '$caption' button to continue or " .
             "hit the back button on your browser to dismiss.");
 } else {
@@ -126,8 +127,19 @@ if (ismode("delete")) {
 $f->Hidden("fk_authors");
 
 if (isupdatemode("add")) {
+    $author_name = $_POST["author"];
     if ($f->Check()) {
-        $sql = $f->mkInsert($db->GetFormatter());
+        $formatter = $db->GetFormatter();
+        $author_value = $formatter->f($author_name, SQLCHAR);
+        if (!$db->Exec("select pk from authors where author = $author_value")) {
+            error_msg("Could not check whether author already exists.");
+        }
+        if ($db->FirstRow()) {
+            error_msg("Author '" . htmlspecialchars(htmlspecialchars($author_name,
+                ENT_QUOTES, "UTF-8"), ENT_QUOTES, "UTF-8") . "' already exists!");
+        }
+
+        $sql = $f->mkInsert($formatter);
         if ($db->Exec("insert into authors " . $sql)) {
             msg("Author added !");
         } else {
@@ -135,6 +147,7 @@ if (isupdatemode("add")) {
         }
     }
 }
+
 if (isupdatemode("edit")) {
     if ($f->Check()) {
         $sql = $f->mkUpdate($db->GetFormatter());
@@ -145,6 +158,7 @@ if (isupdatemode("edit")) {
         }
     }
 }
+
 if (isupdatemode("delete")) {
     $db->Exec("delete from aliases where fk_authors = $fk_authors");
     $db->Exec("delete from author_urls where fk_authors = $fk_authors");
@@ -169,6 +183,7 @@ if (isupdate()) {
         $db->exec("select * from authors where pk = $fk_authors");
         if ($db->FirstRow()) {
             $author_from = $db->Get("author", SQLCHAR);
+            $author_from = rawurlencode($author_from);
             p("<a href=\"authors_list?author_from=$author_from&amp;" .
      "fk_authors_from=$fk_authors\">Transfer&nbsp;Books</a>");
         }
