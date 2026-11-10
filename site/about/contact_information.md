@@ -26,6 +26,10 @@ The best way to get in touch is by email.
 
     General help. Requests for information about Project Gutenberg eBooks or the Project Gutenberg Web pages.
 
+    Although the volunteers who help respond to the help address are incredibly knowledgable, don't expect the sort of help you could receive from a reference librarian at your local library!
+
+    For licensing questions, permissions and other such inquiries, the answer is probably in our [Permission How-To](/policy/permission.html). Please don't send email without first checking the How-To.
+
 2. errata2026 (at) pglaf.org
 
     Errata within eBooks. To report an error within an eBook (such as a missing word or typo), please be sure to include the eBook number or specific filename or download link you used. Error reports are easiest to handle when they clearly indicate the context in which an error was found.
@@ -40,9 +44,7 @@ The best way to get in touch is by email.
 
 4. copyright2026 (at) pglaf.org
 
-    Project Gutenberg copyright inquiries.
-
-    For licensing questions, permissions and other such inquiries, the answer is probably in our [Permission How-To](/policy/permission.html). Please don't send email without first checking the How-To.
+    Project Gutenberg copyright inquiries. Use this address to report concerns about our determinations of Public Domain status of material that we distribute.
 
     See [cand.pglaf.org](https://cand.pglaf.org) before reporting potential misuse of copyrighted materials. Responses are typically sent within two days.
 
