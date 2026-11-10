@@ -53,8 +53,19 @@ $f->Hidden("fk_categories");
 $f->Hidden("filter");
 
 if (isupdatemode("add")) {
+    $category_name = isset($_POST["category"]) ? $_POST["category"] : "";
     if ($f->Check()) {
-        $sql = $f->mkInsert($db->GetFormatter());
+        $formatter = $db->GetFormatter();
+        $category_value = $formatter->f($category_name, SQLCHAR);
+        if (!$db->Exec("select pk from categories where category = $category_value")) {
+            error_msg("Could not check whether category already exists.");
+        }
+        if ($db->FirstRow()) {
+            error_msg("Category '" . htmlspecialchars(htmlspecialchars($category_name,
+                ENT_QUOTES, "UTF-8"), ENT_QUOTES, "UTF-8") . "' already exists!");
+        }
+
+        $sql = $f->mkInsert($formatter);
         if ($db->Exec("insert into categories " . $sql)) {
             msg("Category added !");
         } else {
@@ -63,8 +74,20 @@ if (isupdatemode("add")) {
     }
 }
 if (isupdatemode("edit")) {
+    $category_name = isset($_POST["category"]) ? $_POST["category"] : "";
     if ($f->Check()) {
-        $sql = $f->mkUpdate($db->GetFormatter());
+        $formatter = $db->GetFormatter();
+        $category_value = $formatter->f($category_name, SQLCHAR);
+        if (!$db->Exec("select pk from categories where category = $category_value " .
+            "and pk <> $fk_categories")) {
+            error_msg("Could not check whether category already exists.");
+        }
+        if ($db->FirstRow()) {
+            error_msg("Category '" . htmlspecialchars(htmlspecialchars($category_name,
+                ENT_QUOTES, "UTF-8"), ENT_QUOTES, "UTF-8") . "' already exists!");
+        }
+
+        $sql = $f->mkUpdate($formatter);
         if ($db->Exec("update categories set " . $sql . "where pk = $fk_categories")) {
             msg("Category modified !");
         } else {
@@ -73,10 +96,15 @@ if (isupdatemode("edit")) {
     }
 }
 if (isupdatemode("delete")) {
-    $db->Exec("delete from mn_books_categories where fk_categories = $fk_categories");
-    if ($db->Exec("delete from categories where pk = $fk_categories")) {
+    $db->BeginTrans();
+    $links_deleted = $db->Exec("delete from mn_books_categories where fk_categories = $fk_categories");
+    $category_deleted = $links_deleted &&
+        $db->Exec("delete from categories where pk = $fk_categories");
+
+    if ($category_deleted && $db->Commit()) {
         msg("Category deleted !");
     } else {
+        $db->Rollback();
         error_msg("Could not delete category !");
     }
 }
