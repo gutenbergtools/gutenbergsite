@@ -61,8 +61,7 @@ if (isupdatemode("add")) {
             error_msg("Could not check whether category already exists.");
         }
         if ($db->FirstRow()) {
-            error_msg("Category '" . htmlspecialchars(htmlspecialchars($category_name,
-                ENT_QUOTES, "UTF-8"), ENT_QUOTES, "UTF-8") . "' already exists!");
+            error_msg("Category '$category_name' already exists!");
         }
 
         $sql = $f->mkInsert($formatter);
@@ -83,8 +82,7 @@ if (isupdatemode("edit")) {
             error_msg("Could not check whether category already exists.");
         }
         if ($db->FirstRow()) {
-            error_msg("Category '" . htmlspecialchars(htmlspecialchars($category_name,
-                ENT_QUOTES, "UTF-8"), ENT_QUOTES, "UTF-8") . "' already exists!");
+            error_msg("Category '$category_name' already exists!");
         }
 
         $sql = $f->mkUpdate($formatter);
