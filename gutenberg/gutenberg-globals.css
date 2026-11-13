@@ -1107,39 +1107,18 @@ test_index for latest covers from gutenberg1*/
   }
 }
 
-@media (max-width: 790px) and (min-width: 677px) {
+/* Logo shrinks with the screen so it clears the centred nav links */
+@media (max-width: 1024px) and (min-width: 677px) {
   .logo-container {
-    height: 75px;
+    height: 60px; /* Fallback for browsers that don't support clamp() */
+    height: clamp(60px, (100vw - 550px) / 3.2, 120px);
   }
 }
 
-@media (max-width: 857px) and (min-width: 790px) {
+@media (min-width: 1025px) and (max-width: 1333px) {
   .logo-container {
-    height: 100px;
-  }
-}
-
-@media (max-width: 1024px) and (min-width: 857px) {
-  .logo-container {
-    height: 120px;
-  }
-}
-
-@media (max-width: 1080px) and (min-width: 1025px) {
-  .logo-container {
-    height: 60px;
-  }
-}
-
-@media (max-width: 1175px) and (min-width: 1080px) {
-  .logo-container {
-    height: 85px;
-  }
-}
-
-@media (max-width: 1240px) and (min-width: 1175px) {
-  .logo-container {
-    height: 100px;
+    height: 60px; /* Fallback for browsers that don't support clamp() */
+    height: clamp(60px, (100vw - 950px) / 3.2, 120px);
   }
 }
 
@@ -1349,7 +1328,8 @@ test_index for latest covers from gutenberg1*/
 @media (max-width: 1024px) {
 
   .lower-header .main-links .link-freq-downloaded,
-  .lower-header .main-links .link-main-categories {
+  .lower-header .main-links .link-main-categories,
+  .lower-header .main-links .link-advanced-search {
     display: none;
   }
 }
@@ -1493,6 +1473,12 @@ test_index for latest covers from gutenberg1*/
 
   .tertiary-header .tertiary-link {
     margin: 0 15px;
+  }
+}
+
+@media (max-width: 359px) {
+  .tertiary-header .tertiary-link {
+    margin: 0 6px;
   }
 }
 
@@ -3347,45 +3333,17 @@ h1 .icon {
   }
 }
 
-@media (max-width: 790px) and (min-width: 677px) {
-
+@media (max-width: 1024px) and (min-width: 677px) {
   #main_logo img {
-    height: 75px;
+    height: 60px; /* Fallback for browsers that don't support clamp() */
+    height: clamp(60px, (100vw - 550px) / 3.2, 120px);
   }
 }
 
-@media (max-width: 857px) and (min-width: 790px) {
-
+@media (min-width: 1025px) and (max-width: 1333px) {
   #main_logo img {
-    height: 100px;
-  }
-}
-
-@media (max-width: 1024px) and (min-width: 857px) {
-
-  #main_logo img {
-    height: 120px;
-  }
-}
-
-@media (max-width: 1080px) and (min-width: 1025px) {
-
-  #main_logo img {
-    height: 60px;
-  }
-}
-
-@media (max-width: 1175px) and (min-width: 1080px) {
-
-  #main_logo img {
-    height: 85px;
-  }
-}
-
-@media (max-width: 1240px) and (min-width: 1175px) {
-
-  #main_logo img {
-    height: 100px;
+    height: 60px; /* Fallback for browsers that don't support clamp() */
+    height: clamp(60px, (100vw - 950px) / 3.2, 120px);
   }
 }
 
