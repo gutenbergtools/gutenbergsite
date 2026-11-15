@@ -135,8 +135,7 @@ if (isupdatemode("add")) {
             error_msg("Could not check whether author already exists.");
         }
         if ($db->FirstRow()) {
-            error_msg("Author '" . htmlspecialchars(htmlspecialchars($author_name,
-                ENT_QUOTES, "UTF-8"), ENT_QUOTES, "UTF-8") . "' already exists!");
+            error_msg("Author '$author_name' already exists!");
         }
 
         $sql = $f->mkInsert($formatter);

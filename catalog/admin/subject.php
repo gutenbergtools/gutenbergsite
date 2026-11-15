@@ -87,18 +87,15 @@ if (isupdatemode("add")) {
             error_msg("Could not check whether subject already exists.");
         }
         if ($db->FirstRow()) {
-            error_msg("Subject '" . htmlspecialchars(htmlspecialchars($subject_name,
-                ENT_QUOTES, "UTF-8"), ENT_QUOTES, "UTF-8") . "' already exists!");
+            error_msg("Subject '$subject_name' already exists!");
         }
 
         $sql = $f->mkInsert($formatter);
         if ($db->Exec("insert into subjects " . $sql . " returning pk")) {
             $fk_subjects = $db->Get("pk", SQLINT);
-            msg("Subject  '" . htmlspecialchars(htmlspecialchars($subject_name, ENT_QUOTES, "UTF-8"),
-                ENT_QUOTES, "UTF-8") . "' added !");
+            msg("Subject  '$subject_name' added !");
         } else {
-            error_msg("Could not add subject '" . htmlspecialchars(htmlspecialchars($subject_name,
-                ENT_QUOTES, "UTF-8"), ENT_QUOTES, "UTF-8") . "'!");
+            error_msg("Could not add subject '$subject_name'!");
         }
     }
 }
@@ -108,11 +105,9 @@ if (isupdatemode("edit")) {
     if ($f->Check()) {
         $sql = $f->mkUpdate($db->GetFormatter());
         if ($db->Exec("update subjects set " . $sql . "where pk = $fk_subjects")) {
-            msg("Subject '" . htmlspecialchars(htmlspecialchars($subject_name, ENT_QUOTES, "UTF-8"),
-                ENT_QUOTES, "UTF-8") . "' modified !");
+            msg("Subject '$subject_name' modified !");
         } else {
-            error_msg("Could not modify subject '" . htmlspecialchars(htmlspecialchars($subject_name,
-                ENT_QUOTES, "UTF-8"), ENT_QUOTES, "UTF-8") . "'!");
+            error_msg("Could not modify subject '$subject_name'!");
         }
     }
 }
@@ -124,12 +119,10 @@ if (isupdatemode("delete")) {
         $db->Exec("delete from subjects where pk = $fk_subjects");
 
     if ($subject_deleted && $db->Commit()) {
-        msg("Subject '" . htmlspecialchars(htmlspecialchars($subject_name,
-            ENT_QUOTES, "UTF-8"), ENT_QUOTES, "UTF-8") . "' deleted !");
+        msg("Subject '$subject_name' deleted !");
     } else {
         $db->Rollback();
-        error_msg("Could not delete subject '" . htmlspecialchars(htmlspecialchars($subject_name,
-            ENT_QUOTES, "UTF-8"), ENT_QUOTES, "UTF-8") . "'!");
+        error_msg("Could not delete subject '$subject_name'!");
     }
 }
 
