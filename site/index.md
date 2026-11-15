@@ -7,12 +7,12 @@ permalink: /
 <div class="homepage homepage__body">
 
 <section class="pgx-hero">
-  <h1 id="slogan">Project Gutenberg is a library of {% include ebook_count %} free eBooks</h1>
+  <h1 id="slogan">Project Gutenberg is a library of <!--{% include ebook_count %}--> free eBooks</h1>
 
-  <p id="sub-slogan">Choose free eBooks to download or read online. You will find the world's great literature here with a focus on older works whose U.S. copyright has expired. Thousands of Project Gutenberg volunteers have digitized and proofread these books for you. </p>
+  <p id="sub-slogan">The Project Gutenberg team is currently rebuilding its database after an incident. While we do this work, we are using a database copy that doesn't have our most recent books.</p>
 </section>
 
-<!-- Latest Books -->
+<!-- Latest Books 
 <div class="library">
   <div class="box_shadow">
     <div class="pgx-shelf-head">
@@ -26,6 +26,7 @@ permalink: /
     </div>
   </div>
 </div>
+-->
 
 {% include category_grid.html %}
 
