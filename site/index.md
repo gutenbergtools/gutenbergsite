@@ -87,7 +87,6 @@ permalink: /
       <li><a href="/policy/linking.html">Linking to Project Gutenberg</a> and <a href="/policy/robot_access.html">roboting or crawling</a> the site.</li>
       <li><a href="/about/partners_affiliates.html">Partners and affiliates</a>.</li>
       <li><a href="/policy/permission.html">Permissions, copyright, licensing, and trademark information</a>.</li>
-      <li><a href="https://self.gutenberg.org">Self-published eBooks</a> at the World Library Foundation.</li>
       <li>What does <a href="/about/background/free_ebook.html">free eBook</a> (No Cost or Freedom?) mean?</li>
     </ul>
   </div>

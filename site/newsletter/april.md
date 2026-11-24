@@ -123,7 +123,6 @@ A selection of this month’s notable and interesting titles:
 
 * Support Project Gutenberg: \<[https://gutenberg.org/donate/](https://gutenberg.org/donate/)\>  
 * Distributed Proofreaders: \<[https://pgdp.net](https://pgdp.net)\>  
-* Project Gutenberg Self Publishing Portal: \<[https://self.gutenberg.org](https://self.gutenberg.org)\>  
 * Registered, operational mirrors: \<[https://gutenberg.org/MIRRORS.ALL](https://gutenberg.org/MIRRORS.ALL)\>
 
 ## Social Media

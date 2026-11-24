@@ -449,7 +449,6 @@ February 28
 
 * Support Project Gutenberg: <https://www.gutenberg.org/donate/>
 * Volunteer with Distributed Proofreaders: <https://pgdp.net>
-* Project Gutenberg Self Publishing Portal: <https://self.gutenberg.org>
 
 ## Social Media
 

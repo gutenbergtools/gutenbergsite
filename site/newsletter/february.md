@@ -477,7 +477,6 @@ January 31
 
 * Support Project Gutenberg: <https://www.gutenberg.org/donate/>
 * Distributed Proofreaders: <https://pgdp.net>
-* Project Gutenberg Self Publishing Portal: <https://self.gutenberg.org>
 
 ### Social Media Feeds
 

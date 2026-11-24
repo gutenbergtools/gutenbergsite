@@ -171,7 +171,6 @@ The month’s eBooks are listed here (the list was getting too long for the news
 
 * Support Project Gutenberg: \<[https://gutenberg.org/donate/](https://gutenberg.org/donate/)\>  
 * Distributed Proofreaders: \<[https://pgdp.net](https://pgdp.net)\>  
-* Project Gutenberg Self Publishing Portal: \<[https://self.gutenberg.org](https://self.gutenberg.org)\>  
 * Registered, operational mirrors: \<[https://gutenberg.org/MIRRORS.ALL](https://gutenberg.org/MIRRORS.ALL)\>
 
 ## Social Media
